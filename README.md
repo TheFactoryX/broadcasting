@@ -16,22 +16,30 @@ Ads for things that don't exist.
 
 ## The Channels
 
-| CH | Program |
-|---|---|
-| WEATHER | 情绪天气预报 |
-| NEWS | 虚构新闻联播 |
-| ADS | 不存在的广告 |
-| STATIC | 雪花频道 |
-| MEDITATION | 深夜冥想 |
-| COOKING | 不可能的食谱 |
-| SPORTS | 荒诞体育播报 |
-| TESTCARD | 测试图卡 |
+| CH | Lang | Program |
+|---|---|---|
+| weather-zh | 中文 | 情绪天气预报 |
+| news-en | English | Fictional News Hour |
+| haiku-jp | 日本語 | 俳句チャンネル |
+| philosophy-fr | Français | Philosophie de Minuit |
+| ads-de | Deutsch | Unmögliche Werbung |
+| cooking-es | Español | Recetas Imposibles |
+| poetry-ru | Русский | Ночная Поэзия |
+| tales-ar | العربية | حكايات منتصف الليل |
+| meditation-ko | 한국어 | 심야 명상 |
+| sports-pt | Português | Esportes Absurdos |
+| opera-it | Italiano | Opera dell'Assurdo |
+| weather-nl | Nederlands | Emotioneel Weerbericht |
+| myth-el | Ελληνικά | Νέοι Μύθοι |
+| wisdom-hi | हिन्दी | अर्थहीन ज्ञान |
+| news-tr | Türkçe | Olmayan Haberler |
+| static | ▒▒▒ | STATIC |
 
 ---
 
 ## Deploy Your Own Station
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsdpkjc%2FTheFactoryX&env=ANTHROPIC_API_KEY,ANTHROPIC_BASE_URL&envDescription=API%20credentials%20for%20broadcasting&envLink=https%3A%2F%2Fgithub.com%2Fsdpkjc%2FTheFactoryX%2Ftree%2Fmain%2Fbroadcasting&project-name=station-0&repository-name=station-0&root-directory=broadcasting)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTheFactoryX%2Fbroadcasting&env=ANTHROPIC_API_KEY,ANTHROPIC_BASE_URL&envDescription=API%20credentials%20for%20broadcasting&project-name=station-0&repository-name=station-0)
 
 ---
 
