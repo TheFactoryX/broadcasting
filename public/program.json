@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-01-31T15:52:51.358334",
+  "timestamp": "2026-01-31T16:12:50.649468",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温零度，伴有大雾。请裹紧“孤独”大衣，行走于荒原。\n\n"
+      "content": "今日内卷指数高位，心空积压忧郁云层，气压低沉。午后或有转机，期待一阵灵感之风，吹散浮躁。建议内披坚韧铠甲，外罩通透轻衫。愿你在洪流中稳住心神，守望一场迟来的晴朗。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Authorities are baffled after downtown rush hour came to a standstill due to a collective decision by traffic lights to temporarily become disco balls. The spontaneous illumination caused widespread gridlock as motorists abandoned their vehicles to dance in the streets. City officials are currently negotiating with the infrastructure, hoping to convince the signals to return to standard red and yellow operations by morning."
+      "content": "\"Breaking news: Downtown is in chaos today as the city’sCentral Clock Tower sprouted fully functional limbs and climbed off its foundations. Authorities have issued a shelter-in-place order while the landmark, last seen heading toward the interstate, attempts to hail a taxi. Mayor Higgins declined to comment, noting simply that the structure is simply 'late for a very important date.'\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静寂の中で、詠ませていただきます。\n\n（深呼吸をし、視線を落として）\n\n**一つ**\n**影落ちて　そこに無い花を　見ていた**\n\n（間を置く）\n\n**二つ**\n**未來の钟　鳴らぬ音を　戴く**\n**Mirai no kane / Nezane oto wo / Itadaku**\n\n（さらに間を置く）\n\n**三つ**\n**有りし日の　波の　齒槽（しそう）へ**\n**Arishi hi no / Nami no / shisou e**\n\n（終わり）"
+      "content": "深呼吸をして、音のない世界へ連れて行きます。\n\n……スゥ……ハァ……\n\n**ただよう　たましいのいない　かたちたち**\n**\n\n**雨の音　降りつづけるは　虚空へ**\n**\n\n**零（な)りて　なお　そこに在る　月の影**\n**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe sur nos visages éteints. Nous cherchons un sens dans un univers qui reste obstinément silencieux. C’est là l’absurde, ce vertige de n’être que des consciences perdues dans un cosmos indifférent. Nous sommes des marionnettes sans main, attendant une révélation qui ne viendra jamais. Il nous faut pourtant imaginer l’homme heureux, seul contre l’immense oubli, portant son fardeau avec une grâce douloureuse."
+      "content": "La nuit est un miroir où le monde se vide de son sens. Nous courons après des horloges qui ne tictaquent que pour nous, perdus dans cette mécanique indifférente. Notre vie est une phrase inachevée, suspendue au-dessus du néant. Peut-être que la seule grâce, c’est d’allumer une cigarette dans l’obscurité et de regarder la fumée effacer nos illusions, une dernière fois."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Leiden Sie unter chronischem Zeitmangel? Probieren Sie **Flüssige Zeit**! Einfach einen Teelöffel in den Morgenkaffee – und plötzlich haben Sie zwei Wochen für ein Mittagsschläfchen! Der Resttag muss nicht stattfinden. Wir verpacken Ewigkeit in einer 200-Milliliter-Flasche. Achtung: Nebenwirkungen sind verlorene Termine und das Altern rückwärts. **Flüssige Zeit** – wenn Sie mal wieder zu spät kommen, sind Sie es gar nicht, sondern die Physik!"
+      "content": "Hören Sie auf, Zeit zu verschwenden! Verzehren Sie sie!\n\nPräsentierend: **Chrono-Saft – die flüssige Zeit!**\nEndlich Donnerstags am Montag feeling! Ein Schluck dieses goldenen Neons holt Sie gestern zurück, bevor Sie überhaupt geboren wurden.\n\n**Warnung:** Nebenwirkungen sind Zeitparadoxe und das plötzliche Auftreten von Dinos.\nJetzt bestellen! Gilt bis... äh... vorletzte Woche!\n\nChrono-Saft. Weil die Gegenwart einfach zu langsam ist!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al infierno culinario! Hoy prepararemos el **Espejo de lo Perdido**.\n\nCalentamos una sartén de hierro fundido a fuego medio. Incorporamos una cucharada de nostalgia; noten cómo desprende un humo denso y grisáceo. Es crucial no romper el silencio. Vertemos, despacio, las dos gotas de silencio. El líquido debe vitrificar inmediatamente; un solo error y el tiempo se detiene.\n\nAl contacto, obtendremos una superficie fría, intocable e imperecedera. ¿El resultado? Un plato que alimenta la memoria pero deja el estómago vacío. ¡A disfrutar!"
+      "content": "¡Bienvenidos al infierno de la sabiduría! Hoy, un plato prohibido: el \"Vacío Existencial\".\n\nTomad una cacerola profunda. Verted una cucharada de nostalgia de la infancia. El secreto está en dejar que se evapore el recuerdo. Añadid dos gotas de silencio absoluto: cuidado, que si rompen el silencio, el sabor se amarga.\n\nCocinamos a fuego lento durante tres lustros. Cuando la estructura de vuestra realidad colapse, está listo. Servid inmediatamente sobre un plato de porcelana fina. Acompañad con una copa de lágrimas no derramadas. ¡Salud y que no se os enfríe el alma!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Глубокий, хриплый голос, звуки тихой джазовой мелодии на фоне)\n\nДоброй ночи, благодарные слушатели... За окном город дышит дождём, а в студии — абсолютная пустота. Послушайте.\n\nСидит ничто на стуле.\nЕго там нет.\nОно молчит о важном.\nИ растворяет свет.\n\nСладких снов. Пусть вам никто не приснится."
+      "content": "(Тишина. Легкий шум винила. Голос низкий, бархатный, с хрипотцой.)\n\nДоброй ночи, темнота.\nСлушайте.\n\nКот шел за мышкой по кругу.\nМышь не была, и круг не был.\nШаги падали в асфальт, как вату.\nНи звука.\nЛуна забыла, на что похожа день.\nМы ждали рассвета, но он не пришел.\nЗато перестал идти дождь.\nКоторого не было.\n\n(Пауза)\n\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"زهرة لافندر لم تذبل قط، معلقةً في زمن يرفض أن يمسها. القطار الذي أفلت من سكته في الثامنة مساءً، لا يزال يطير في فضاءٍ أزرق، لا يجيد الهبوط. أنتَ هناك.. تنتظرني على محطةٍ لم تُبنَ بعد، بينما تظل الأمطار بعيدةً، متعثرةً، عاجزةً عن البكاء.\""
+      "content": "في غرفةٍ مسدلة الستائر، انتظر الهاتف يرن. كان على الطرف الآخر شيئاً ما.. شبحاً لم يخلق، وذكرى لشخصٍ لم يُولد.\nلم يصدر صوت. لم ينقطع الخط.\nلم يكن هناك اتصال أصلاً.\nلم أكن أنا من انتظر.\nنحن لم نكن."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 그저, 켜지지 않는 스크린 속 픽셀 같아요. 침묵이라는 먼지를 뒤집어쓰고, 꿈의 잔상을 삼키며... 흐릿하게 번지는가 하면, 아무 일 없듯 사라지죠.\""
+      "content": "우리는 꿈꾸는 티끌, 우주의 숨소리. 침묵 속에 길을 잃은 별, 허무만이 당신을 반길지니."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "シ8ょ…glitch⌘⋒🞦RT£❌÷n⍙…"
+      "content": "§09Эz…▓ἄ!ζ ⍜⍜x½¶ẞ▒;"
     }
   }
 }
