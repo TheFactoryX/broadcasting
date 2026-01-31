@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-01-31T13:49:29.879390",
+  "timestamp": "2026-01-31T14:13:17.273122",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，清晨六点伴有短暂忧郁阵雨，气温微凉。午后三时，暖流将于心底登陆，日照充沛。建议您穿一件洒脱的幽默外套，并随身携带半两宽容。今晚，心安处，即是故乡。"
+      "content": "观众朋友们，今日受低压槽控制，情绪气温回落至3℃的微凉。预计午后会有间歇性记忆过境，引发局部朦胧。建议您披上一件宽恕的防风衣，带一点疏离的体温，去爱这荒谬的人间。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: Manhattan is currently under siege by a rogue colony of aggressive mime artists. The silent performers have formed a human wall around Central Park, trapping pedestrians within invisible boxes. Police negotiators are attempting to communicate, but the suspects remain tight-lipped. Commuters are advised to avoid the area as the invisible barriers are causing significant traffic delays.\""
+      "content": "Breaking news: Local authorities remain baffled as the city’s central fountain began dispensing lukewarm tomato soup this morning. Municipal engineers are currently on-site, investigating whether the sudden shift from water to a bisque base is the result of a viral plumbing challenge or municipal sabotage. Residents are advised to avoid the area unless equipped with a grilled cheese sandwich."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静かに。想像の深淵へ。\n\n　\n\n**その一**\n空色に　鳴りやまない鐘　あるという\n\n**その二**\n散る花も　あざやかにして　影法師\n\n**その三**\n雨の音　ぬらぬらと濡る　水銀の道\n\n　"
+      "content": "深呼吸を一つ。静かに、その虚空を思い浮かべてください。\n\n**一つ目**\n消えるはずもない　影を踏んで　待つ\n\n**二つ目**\n透明な壁に　頬を押しあてて　雨を聴く\n\n**三つ目**\n言葉にならない　色の　温度を　吸いこむ\n\n……静寂が、戻ります。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous rappelle notre petitesse. Nous sommes des voyageurs égarés sur un caillou perdu, cherchant désespérément un sens qui n'existe pas. Le silence du monde est notre seule vérité. Pourtant, nous continuons. Nous aimons, nous créons. C’est là tout le pari de l’humain : inventer de la beauté au cœur du néant, et continuer, malgré tout, à allumer la lumière."
+      "content": "La nuit nous révèle notre fragilité. Nous sommes des nains sur les épaules de silence, cherchant désespérément un sens que l’univers ne nous doit pas. Camus avait raison : il faut imaginer Sisyphe heureux. Mais à l’heure où le monde s’endort, cette poussière d’étoiles qui nous compose ne demande qu’une chose : briller un instant avant de s’éteindre, pour rien. Pour la beauté du geste. C’est là, peut-être, que réside notre seule liberté."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "„Sie haben das Leben nicht mehr im Griff? Wir das Gefühl, die Sekunden huschen nur so vorbei? Greifen Sie zu *Pasteurisierte Sekunden*!\n\nDie Extrakt-Dosis für den absoluten Stillstand! Öffnen Sie die Dose, löffeln Sie reine Zeit direkt auf Ihren Löffel – zäh, flüssig oder knusprig-friertrocken!\n\nSchmeckt nach Ewigkeit und haucht wie gelangweilte Ewigkeit. Warnung: Nicht parallel zu Klopapier konsumieren, sonst kollabieren Raumzeit und Ihre Wäsche!\n\n*Pasteurisierte Sekunden*: Weil das Warten zu schade für die Tonne ist! Jetzt im Kosmos-Regal!“"
+      "content": "**Genießer, schützt finally eure Ruhe!**\n\nStellt euch vor: absolute Stille. Kein Bohren, kein Geschrei, kein Nachbar-Trubel! Unsere neue **„Lautlose Paste“** macht es möglich! Ein Tupfer auf die Ohren und die Welt verstummt sofort!\n\nEndlich lernen Durchfall-Verschwendung die Quadratwurzel im Ruhestand! Vertraut dem Polyester-Schweigen! Bestellt jetzt, solange noch der Vorrat an nachtblauem Teppichboden reicht! **Gegen das Sachterrarium!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“¡Bienvenidos al último barranco del sabor! Hoy desafiamos la lógica.”\n\nPara empezar, **una cucharada de nostalgia**. Ha de reducirse a fuego lento hasta que solo quede el recuerdo de lo que fuimos. El secreto está en no dejar que se queme; el amargor es imperdonable.\n\nAhora, la emulsión: **dos gotas de silencio** absoluto. No hagan ruido al verterlas. La fragilidad de este ingrediente requiere reverencia.\n\nServimos inmediatamente. El resultado es un vacío exquisito en el paladar. Un plato imposible para comerlo sin llorar. ¡Buen provecho!"
+      "content": "Vamos, el fuego espera. Para este soufflé de pesadilla, primero trituramos tres años de inercia hasta obtener un polvo fino. Añadimos una cucharada de nostalgia; cuidado, no seamos sentimentales. Debemos integrarlo con movimientos firmes.\n\nAhora, lo crítico: dos gotas de silencio. No el silencio tranquilo, sino el que precede a la caída. Vertemos con miedo, paralizando la estructura. Llevamos al horno del tiempo indefinido. Servimos inmediatamente antes de que despierte. Si escuchan un llanto lejano al comer, significa que el punto está perfecto."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Эфир тёмен, как прошлогодняя тоска.\n\n(Звучит тихий джаз)\n\nВ бездне пустой сидит кот.\nОн не смотрит.\nВ пустой комнате кивок —\nТишина ломает лёд.\nВоздух пьёт молоко в ночи,\nНет ни стрелок, ни ключи.\nПросто... никого.\nПросто... нет меня.\nНичего.\n\n(Вздыхает)\nПринимаем сны... в эфире тишина."
+      "content": "(Тишина. Легкий шум винила. Глухой, бархатный голос).\n\nТишина... гудит в пустоте.\nНичто не имеет дыра.\nЗабытое слово в воде.\nПространство... молчит в темноте.\nВремя... не течёт назад.\nНуль... странствует в никуда.\n\nСпокойной ночи. Пустота."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يلمس المطر جفاف الصحراء، وظل القمر معلقاً في العراء بلا بدر. مات الملك في سلام، ولم ينهرض جدار. سقطت ورقة، لكن الأشجار كانت عارية. التاريخ نسي الحروب، والموجة لم تصطدم بالشاطئ. ابتلع الظل صاحبه، ولم يبقَ سوى العدم."
+      "content": "في براري الممنوع، حيث تغفو الأفاعي، انتظرَ قطاراً لا يمشي على القضبان، بل يسبح في تلافيف الكلمات.\nركبته وحدي، عبرتُ إلى \"هناك\"، وعانقتُ ظلاً لم يخلق.\nلم يقل \"لا\"، ولم يقل \"نعم\"، لكن حدقتيّ ما زالتا تحترقان...\nببريق مدينة.. لم يُكتب لها أن تُضاء."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별똥별은 찰나에 타버리고, 어둠은 영원히 남으니, 그대는 꿈인지, 꿈꾸는 허무인지."
+      "content": "별의 잿빛 숨결이 풍선처럼 터지는 소리.\n우린 껍데기일 뿐이야.\n텅 빈 소파에 앉은 허무, 잠시 텔레비전을 켜보자."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§٧لglitch… をøø… Cr7#あ?** шум**"
+      "content": "§芒褶ξ~жץѠ𒅒░░▓d_zt#"
     }
   }
 }
