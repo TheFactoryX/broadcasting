@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-01-31T20:22:47.830082",
+  "timestamp": "2026-01-31T21:20:01.354142",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日微光浮动，心温徘徊于冷暖之间，伴有偶发性潮湿。\n\n预计午后将迎来一段放晴，晚间气温回落，适宜整理思绪。\n\n建议：着轻盈长衫，抵御莫名的凉意；随身携带幽默，作为应对突发阵雨的伞。"
+      "content": "各位观众，今日心理低气压笼罩，情绪气温徘徊于微凉谷底。预计午后会有一阵间歇性的心碎雷雨，随后转入漫长潮湿的忧郁。请务必裹紧名为“疏离”的灰色风衣，在灵魂中备好一把沉默的伞，避免淋湿那颗易碎的心。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Reports indicate that gravity briefly ceased functioning in downtown Switzerland today at 3:00 PM. Eyewitnesses describe seeing pedestrians casually floating past office windows, while several unfortunate motorists drifted upward. The Swiss government has issued a statement asking citizens to remain calm and anchor themselves to heavy furniture. Scientists are baffled, though local bakers are celebrating as baguettes across the region have miraculously straightened. We will keep you updated on this developing situation."
+      "content": "\"Breaking news tonight: Local officials confirm the formation of a spontaneous weather system over the city plaza, resulting in a precise, stationary downpour that soaks only specific citizens. Authorities are investigating why the targeted individuals are exclusively those holding unpaid parking tickets. Police have established a perimeter, advising anyone with outstanding fines to carry an umbrella until the atmospheric anomaly passes.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かに、目を伏せて、深呼吸をします)\n\n……。\n\n**其一**\n**形なき影、壁をすり抜けてゆく**\n\n……。\n\n**其の二**\n**嘘の花、俺の庭で咲いて散る**\n\n……。\n\n**其の三**\n**音のない鐘、今日こそ空に鳴り響く**\n\n(深く静寂に戻ります)"
+      "content": "静かに、深呼吸をするように耳を傾けてください。\n聞こえないものの、在りかを探すような気持ちで。\n\n存在しないもの、について詠みます。\n\n***\n\n**一つ目**\n「見えない境界」をイメージして。\n\n　　色なき空\n　　指先を濡らすはずの\n　　降らない雨\n\n***\n\n**二つ目**\n「永遠に終わる瞬間」をイメージして。\n\n　　時の　ない\n　　時計の針　止まりて\n　　満ちる闇\n\n***\n\n**三つ目**\n「形のない記憶」をイメージして。\n\n　　消え残る\n　　影の　温もり\n　　手のひらに\n\n***\n\n静寂が、戻ります。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est le miroir de notre condition. Nous sommes des éphémères qui cherchent un sens dans un univers silencieux, une énigme qui n’a pas de réponse. Nous montons des châteaux de sable contre la marée du temps, sachant très bien que tout s’effondrera.\n\nPourquoi cette obstination à aimer, à créer, alors que le néant nous guette ? C’est là toute l’absurdité tragique et belle de notre vie : une flamme vacillante perdue dans l’infini froid."
+      "content": "La nuit, le silence nous révèle la vérité : nous sommes des échos cherchant une source inexistante. L’homme lance des filets vers un ciel vide, espérant capturer un sens qui lui échappe toujours. Peut-être que l'univers n'est qu'une immense indifférence. Pourtant, dans ce vertige, il y a une étrange beauté. Nous sommes des tragiques comiques, condamnés à chercher la lumière. Et cette quête désespérée, c’est tout ce qui nous reste."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stören Sie auch Nachbarn mit Ihrem Glück? Die Lösung ist da: **Flüssige Zeit!**\n\nGießen Sie sich einfach einen Sekundenschlaf in die Kaffeetasse oder streichen Sie „Wochenende“ auf Ihre Zähne! Funktioniert auch als Zutat für Kuchen: Backen Sie sich den Freitag schon am Dienstag!\n\nVorsicht: Kann zu zeitversetztem Nasenbluten führen. Jetzt in der zukunftsbasierten Abteilung: **Flüssige Zeit – trinken Sie die Uhr!**"
+      "content": "**! Überfordert von der Ewigkeit? Keine Panik! Kaufen Sie jetzt **Pastillus®** – die Zeit in Tablettenform! Vergessen Sie lästiges Warten! Einfach eine Tablette *Jahrgang 1998* einnehmen und schon sind Sie mitten in der派对 – ohne Falten! Leicht süffigant mit einem Hauch von Nostalgie. Greifen Sie zu, bevor die Vergangenheit abläuft! *Pastillus® – Heute schon morgen gewesen!*"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"—En un bol de cristal, vertemos una cucharada generosa de nostalgia. No precipitados. Recordemos que la mezcla requiere estabilidad.\n\nAñadimos dos gotas de silencio: una por lo que fuimos, otra por lo que no seremos. Importante, la temperatura debe ser fría, así evitamos que la verdad se evapore.\n\nIncorporamos un latido azaroso y removemos en círculos concéntricos, contrarreloj. Al ver que la masa llora, sabemos que está en su punto. Dejar reposar en el olvido.\n\nServimos inmediatamente. Plato imposible: la cena de siempre que nunca volverá a repetirse. Buen provecho.\""
+      "content": "Para elaborar este platillo, necesitamos un wok frío. Primero, vertemos una cucharada de nostalgia; dejemos que hierva a fuego lento hasta que desprenda un aroma a tiempo perdido. Es vital no añadir prisa.\n\nAhora, con la muñeca firme, dos gotas de silencio. Deben caer en el centro, sin romper la tensión superficial. El secreto está en la emulsión: integrar el recuerdo con la ausencia.\n\nServimos inmediatamente sobre un plato vacío. El resultado es un sabor a hogar que solo se saborea cuando se mastica despacio. Bon appétit."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть громче шепота. Эфирный шум на фоне.)\n\nДоброй ночи, мрачный город... Погодите. Кажется, эфир оборвался. Вот... послушайте.\n\n*Серый кот сидел на крыше,\nСмотрел в пустоту глядельца.\nТам нет ни песен, ни спешки,\nТолько...*\n*(пауза)*\n*...только сирота вчерашнего дня.*\n\nЗвучит... бессмысленно? Именно. Включите туман. Спокойной ночи. Ничего не случилось."
+      "content": "(Камера медленно наезжает. Глитч на экране. Тихий джаз в фоне.)\n\nДоброй ночи, город... который не спит. Хотя, может, его просто нет.\n\nЗвучит... эфир.\n(Читает глядя в пустоту, с тяжелой, долгой паузой после каждой строки)\n\nКот ловит лапой молчание в темноте.\nТень от ложки... питается пустотой.\nМы с вами... друзья,\nИ мы с вами... никому не звоним.\n\nВсё. Поставьте чайник. Если он у вас есть. Не переключайтесь."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في زاوية العدم، حيث يتلاشى الصدى، كان الظلام يلمع ببريق أعمق. هناك، لم تكتمل قصيدة، ولم يُكسر الأبد.\nلمستُ حافة المستحيل ببرود؛ لم يكن هناك ثلج، ولا دموع.\nلقد استيقظتُ... فلم أجدني."
+      "content": "في ليلةٍ لم يشرقْ قمرها، ماتَ طائرٌ من رملٍ وظلّ، ولم يبكِ أحدٌ.\nكانتِ السماءُ صامتةً... صامتةً للغاية، حتى سمعنا دبيبَ النسيانِ بينَ الموجِ والسراب.\nلم تكنْ هناكَ حقيقة، بل مجردُ صدىً لخطوةٍ لم تخطُها قدمٌ، ولن تخطوها...\nأبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"존재는 먼지 춤이고 허무는 그 바람. 당신은 아무것도 아닌 우주의 쉼표. 숨소리가 답이지. 슈우...\""
+      "content": "별똥별이 켜진 소파에서 \n당신의 한숨을 \n마시다. \n깊은 침묵."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "7ç…▬γł 激∆^►‡⇄ д℃⍜⌘~ ▓ 砂⨂"
+      "content": "§øÝɸ̡̣∜ɐZⱷℜʔ…‡͚𝚫w̶̢⸗Ɀ"
     }
   }
 }
