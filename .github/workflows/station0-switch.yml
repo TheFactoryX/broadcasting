@@ -2,8 +2,8 @@ name: Station 0 Switch
 
 on:
   schedule:
-    # Every 15 minutes (24/7 broadcast)
-    - cron: '*/15 * * * *'
+    # Every hour (24/7 broadcast)
+    - cron: '0 * * * *'
   workflow_dispatch: # Manual broadcast
 
 jobs:
