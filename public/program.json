@@ -1,8 +1,65 @@
 {
-  "channel": "cooking-es",
-  "name": "Recetas Imposibles",
-  "lang": "es",
-  "content": "Hoy prepararemos un Risotto de Melancolía.\n\nEn una sartén de cobre, rehoguen una cucharada de nostalgia a fuego lento hasta que desprenda un humo blanco. Deben evitar que se queme; el sabor agridulce es delicado. \n\nAñadan dos gotas de silencio absoluto. El secreto está en la emulsión: el silencio debe cortar la grasa de la memoria. Rectifiquen con una pizca de duda. Deben cocinar a fuego medio hasta que el tiempo se detenga. El resultado es un plato etéreo, de textura intangible. Sirvan inmediatamente antes de que olvide quién soy.",
-  "timestamp": "2026-01-31T13:19:14.046017",
-  "next_switch": "30:00"
+  "timestamp": "2026-01-31T13:21:41.549289",
+  "channels": {
+    "1": {
+      "id": "1",
+      "name": "情绪天气预报",
+      "lang": "zh",
+      "content": "今日内心低压徘徊，伴有间歇性晴朗。午后回忆将逐渐回暖，适宜披上“释然”的外套。建议随身携带幽默伞具，以备感伤对流。远眺未来，多云转高光。"
+    },
+    "2": {
+      "id": "2",
+      "name": "Fictional News",
+      "lang": "en",
+      "content": "\"Breaking news: The International Space Station has inadvertently harvested the Moon's cheese core today. NASA reports that a routine drilling operation struck a soft, cheddar-like deposit, causing lunar craters to collapse into fondue fountains. Astronauts describe the smell as 'intensely sharp.' While Earth tides stabilize, world leaders are convening an emergency summit to negotiate dipping rights for crackers.\""
+    },
+    "3": {
+      "id": "3",
+      "name": "俳句チャンネル",
+      "lang": "ja",
+      "content": "（静かに、視線を落とすようにして）\n\n不在の影　宙（そら）に淡く　消えゆかん\n\n（間を取る）\n\nゼロの夜　重なる音も　なかりけり\n\n（さらに深く、言葉が消えていくように）\n\n終わらぬ夢　水脈（みなも）に流れ　形なし"
+    },
+    "4": {
+      "id": "4",
+      "name": "Philosophie",
+      "lang": "fr",
+      "content": "Nous sommes des naufragés sur une île de silence. L’univers ne nous doit rien, et pourtant, nous attendons tout. Nous courons après un sens qui nous échappe, comme de l’eau entre des doigts glacés. Ce n’est pas le désespoir qui nous habite, mais une étrange lucidité. Notre destin ? Un éclair d’éternité dans un infini indifférent. Il nous suffit d’être là, suspendus dans cette beauté vide, avant que l’oubli ne nous reprenne."
+    },
+    "5": {
+      "id": "5",
+      "name": "Werbung",
+      "lang": "de",
+      "content": "Endlich! Die revolutionäre **Stille in Dosen**!\n\nHören Sie auf, nervige Nachbarn zu ertragen! Ein „Psst“ und schon ist absolute Stille da. Perfekt für Familienfeiern oder unverständliche Chefs! Der Inhalt: 100% reines Nichts. Aber Achtung: Die Dosen sind unglaublich laut beim Öffnen! Also drücken Sie die Lautstärke-Taste an der Realität runter und genießen Sie die pure Stille – solange der Vorrat reicht!"
+    },
+    "6": {
+      "id": "6",
+      "name": "Recetas",
+      "lang": "es",
+      "content": "“Hola, amantes del buen comer. Hoy prepararemos un Risotto de Recuerdos Imposibles.\n\nEmpezamos friendo la base de cebolla. Acto seguido, incorporamos el arroz y añadimos una cucharada de nostalgia; debemos rehogar a fuego lento hasta que la memoria se torque cristalina.\n\nAhora, el secreto: dos gotas de silencio. Reposadlo todo. La quietud es fundamental para que absorba el sabor del tiempo.\n\nFinalizamos con una pizca de melancolía. Servimos inmediatamente antes de que se evapore. ¡Bon appétit!”"
+    },
+    "7": {
+      "id": "7",
+      "name": "Поэзия",
+      "lang": "ru",
+      "content": "*(Гаснет свет в студии. Медленный джаз играет едва слышно. Вы направляете пристальный, уставший взгляд прямо в камеру, слегка наклонив голову к плечу.)*\n\n...В пустоте гудит сирена,\nНет ни пола, ни потолка.\nТень скользит по стене незримой,\nСмыкая наши веки.\nНичего не произошло.\nНичего не случится.\nВсё так же... тихо.\n*(Делаете долгую паузу, отпиваете глоток холодного кофе и с грустной полуулыбкой смотрите в объектив).*\nДоброй ночи."
+    },
+    "8": {
+      "id": "8",
+      "name": "حكايات",
+      "lang": "ar",
+      "content": "تحت ضوء القمر الأزرق.. حيتان زجاجية غنت أوبرا للسحب.\nلم يَمُت قلبٌ زائدٌ، ولم يُولد أملٌ عاري.\nمدينة من دُخانٍ عاش فيها النسيانُ، وعاشت الأساطير.\nلم يكن هناك سكون، ولم يكن هناك صوت.\nفلم تكن الحكاية قد بدأت، ولم يكن الكون لِيُولد.\nكل هذا لم يحدث، وكأنّ العدمَ كان أصلب من الموت."
+    },
+    "9": {
+      "id": "9",
+      "name": "심야 명상",
+      "lang": "ko",
+      "content": "별들은 우리가 보지 않을 때에만 소리 내 울지. 어쩌면 넌, 꿈꾸는 내 잠꼬대일지도 모르지. 영원한 침묵 속에서, 우리는 서로를 비워내며 빛나다."
+    },
+    "0": {
+      "id": "0",
+      "name": "▒ STATIC ▒",
+      "lang": "none",
+      "content": "扇¥% glitches ≠? ÷▓痕થ...zzy 🔒 *bzzt* ʘ"
+    }
+  }
 }
