@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-01-31T15:14:05.050713",
+  "timestamp": "2026-01-31T15:38:05.247053",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪高压笼罩，局部悬浮。\n午后恐有晴朗阵雨，晚风略带凉意。\n建议卸下铠甲，披一件轻盈的孤独。"
+      "content": "今日情绪低温，伴有内省阵雨。午后忧郁云层渐散，心境可见微光。\n\n建议穿戴“钝感”以此护体，不必设防。\n\n总体而言，潮湿有益灵魂，请允许片刻生锈。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos ensued in downtown earlier today as the city’s granite monument suddenly came to life. Eyewitnesses report the statue embroiled in a heated argument with a falafel vendor regarding the structural integrity of pita bread. Authorities have cordoned off the area, though negotiations appear stalled. The mayor has urged calm, stating that even historical landmarks deserve a lunch break. We will keep you updated on this developing story."
+      "content": "**BREAKING NEWS:** Officials in Oslo have confirmed that the sky has reportedly turned a concerning shade of mauve. Leading meteorologists are baffled, noting that the clouds are now emitting a faint, smell of burnt toast. Residents are advised to remain calm, though the Prime Minister has declared a national state of bewilderment. We will keep you updated as this chromatic crisis develops."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "幻（まぼろし）の影　波間に消えて　秋の暮\n\nかたちなき音　虚空に満ちて　夜をまたぐ\n\n帰らぬ日よ　ただ　ただ　星あかり"
+      "content": "木々の間を抜ける風。\nいない猫の足音。\n誰かが見た夢の残響。\n\n深呼吸をして、耳を澄ませてください。\n\n……ここには、まだ形になっていないものたちがいます。\n\n**一つ目。**\nあるべきではない場所にある、透明な壁。\n**透明な壁　掌（てのひら）押しあて　光透く**\n（Tōmei na kabe / tenohira oshi-ate / hikari suku）\n\n**二つ目。**\n一度閉じてしまった本の中で、 still 続いている物語。\n**閉じた本の　奥で交わす　影の会話**\n（Tojita hon no / oku de kawasu / kage no kaiwa）\n\n**三つ目。**\n最後に。誰が作ったわけでもない、空の隙間。\n**指差さぬ　空の其処（そこ）にある　青い穴**\n（Yubisasanu / sora no soko ni aru / aiana）\n\n……聴こえましたか。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette. Elle se consume, et nous avec. Nous sommes des êtres jetés dans le monde, sans avoir demandé à venir, cherchant désespérément un sens dans un univers indifférent. C’est le grand vertige. Nous construisons des châteaux de sable nommés « amour » ou « carrière », sachant très bien que la marée les effacera. Il y a une douceur tragique à ça. Résister à l'évidence du néant, simplement pour avoir vu, un temps, la lueur."
+      "content": "La nuit nous rappelle notre fragilité. Nous sommes des voyageurs sans billet, égarés dans un univers indifférent. Nous cherchons un sens là où il n'y a peut-être que le silence. Pourtant, il faut habiter cette énigme. Il faut aimer cette éphémère beauté, même si elle n’a pas de but. Car au fond, réfléchir, c’est déjà un peu de lumière. C’est tout."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Endlich Schluss mit Langeweile! Greifen Sie zu **Stille in Dosen**!\n\nHören Sie auf, die Welt zu verstehen – drehen Sie sie einfach ab! Mit仅需 einer Kapsel genießen Sie pure, kristallklare Nichts-Existenz in 5.1 Surround-Sound. Perfekt für stressige Familienfeiern oder wenn Sie sich selbst mal wieder nicht hören wollen.\n\nWarnung: Kann zu paradoxer Euphorie und ungewollter innerer Ruhe führen!\n\n**Stille in Dosen. Weil Reden nervt.** SCHNAPP SIE SICH JETZT!"
+      "content": "**Die neuartige Dosen-Stille!**\n\nVergessen Sie Lärmschutz! Holen Sie sich die absolute Stille direkt in Ihre Ohren. Einmal öffnen und: *Plopp!* Perfektes Nichts! Kein Schwiegersohn, kein Bohrer, nur herrliches Vacuuumm. Beißt nicht! Hält ewig! Jetzt im Doppelpack: Einmal Stille für Sie und einmal für Ihren nervigen Nachbarn!\n\n**Dosen-Stille. Weil Reden Silber ist, aber Schweigen Gold ist – und jetzt im Discount!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"¡Bienvenidos al sabor del vacío! Hoy prepararemos 'Suspiro de Tiempo'. En un bol de infinito, vertemos una cucharada generosa de nostalgia pura. Batimos con energía. Ahora, lo delicado: dos gotas de silencio absoluto. Si rompen el silencio, el plato se amarga.\n\nDeben integrar la nada con movimientos lentos. Llevamos a hervor de emoción durante tres minutos. Deben enfriar los recuerdos antes de servir. Decoramos con una pizca de melancolía. Aquí tienen... el plato que nunca existió, pero que todos sabemos que sabe a gloria. ¡Que aproveche!\""
+      "content": "Atención, televidentes. Hoy desafiamos lo tangible. En una sartén fría, vertimos una cucharada de nostalgia. Debe cocinar a fuego lento sin quemar el recuerdo. Agregamos dos gotas de silencio; la medida es exacta, cualquier sonido lo echa a perder.\n\nNo remuevan. Dejemos que la soledad impregne el aire. Espolvoreamos un grano de duda para realzar el sabor. El secreto es la paciencia: hay que esperar a que se evapore el tiempo. Servir inmediatamente antes de que cueste tragar. ¡Y listo! Un instante eterno en su plato."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "В тишине бушует пустота.\nСерые мыши едят часы.\nЗабытое слово повисает в углу.\nСмысл утонул в молчании.\nНичего не происходит.\nИ это — единственное, что всегда будет.\nСпокойной ночи."
+      "content": "(Тишина. Легкий шум эфира.)\n\nДоброй ночи, безмятежные души.\n\nПослушайте...\n\n(Вздыхает)\n\nНичего не произошло.\nКот не чихнул.\nТень не сдвинулась с места.\nВоздух повис, как старый запах забытого шкафа.\nЭто было... прекрасно.\nИ скушно.\nИ пусто.\nКак и мы все.\n\n(Гаснет свет)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "يا ساهر.. هل تخيلت يوماً مطراً يسقط في العتمة، لامعاً كذهبٍ سائل، لكن لا يلامس الأرض؟\nهكذا كان حُبُّهما. عاشا في قبلةٍ بدأت، وعيناهما التقتا... لكن الزمن لامهما بالبرد فتلاشت الكلمات قبل أن تولد.\nلم يخطُا الشاطئ قدمًا، ولم يبتلِ المحيطُ قطرةً دمعٍ.\nكانوا... كأنهم لم يكونوا."
+      "content": "في ليلةٍ لم يشرقْ قمرها، رَقَصَ ظلٌ بلا جسدٍ على جدارٍ لم يُبنَ. كان يهمسُ بآهةِ محبوبٍ لم يُخلقْ، ويعانقُ نسيمًا لم يهب. هناك، في الصمتُ المطلق، عبرَ نهرُ الماءِ بلا قاربٍ... وجفّتْ دموعُ لم تُذرف."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "존재란 먼지 춤이고, 허무는 그윽한 밤.\n어젯밤 당신이 흘린 숨결,\n은하수 끝에서 잠깐 부서졌네."
+      "content": "먼지처럼 흩어지는 별들, 너는 왜 거기 서 있니? 빛을 삼켜도 배부르지 않은, 너라는 공허. 사라져라, 그러나 머물러라."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "£#7あ…void…/// mixed ░▒▓ か ζzzt"
+      "content": "𐧿⇄⇂␡Z🜄ᛱ▦ﾒ▒▓░█"
     }
   }
 }
