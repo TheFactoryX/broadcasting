@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-01-31T14:56:06.567667",
+  "timestamp": "2026-01-31T15:14:05.050713",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心空多云，局部有回忆性阵雨。当前情绪气温22摄氏度，伴有微风般的淡淡忧郁。\n\n午后渐转晴，暖意徐来。建议：披一件名为“随和”的开衫，或是穿一双“独处”的便鞋，踏实地走过这一天。"
+      "content": "今日情绪高压笼罩，局部悬浮。\n午后恐有晴朗阵雨，晚风略带凉意。\n建议卸下铠甲，披一件轻盈的孤独。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: The Great Firewall of Silicon has officially collapsed today, trapping millions of users inside the internet. Emergency responders are currently attempting to extract civilians trapped in the World Wide Web, many of whom appear to be stuck in infinite scroll loops. The government has issued a statement advising citizens to remain calm and avoid clicking suspicious links until the digital barriers are restored. We will keep you updated on this virtual crisis."
+      "content": "Breaking news: Chaos ensued in downtown earlier today as the city’s granite monument suddenly came to life. Eyewitnesses report the statue embroiled in a heated argument with a falafel vendor regarding the structural integrity of pita bread. Authorities have cordoned off the area, though negotiations appear stalled. The mayor has urged calm, stating that even historical landmarks deserve a lunch break. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、存在しないものの輪郭を浮かび上がらせるように、三つの句を詠みます。\n\nその一。\n**色のない虹**\n**虚（うつ）ろに架かりて**\n**雨は止まむ**\n\nその二。\n**未（いま）だ生えぬ木**\n**風の通わぬ枝に**\n**鳴る蝉**\n\nその三。\n**零（れい）の時の鐘**\n**今日という日もまた**\n**過ぎにけり**\n\n......終わり。"
+      "content": "幻（まぼろし）の影　波間に消えて　秋の暮\n\nかたちなき音　虚空に満ちて　夜をまたぐ\n\n帰らぬ日よ　ただ　ただ　星あかり"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit, le silence nous révèle notre fragilité. Nous sommes des voyageurs égarés dans un univers indifférent, cherchant désespérément un sens là où il n’y en a peut-être pas. C’est là toute l’absurdité : cet écart infini entre notre soif de bonheur et le silence du monde. Pourtant, il faut imaginer l’homme heureux. Il suffit de lever les yeux vers les étoiles et d’accepter que notre insignifiance soit, étrangement, notre seule liberté."
+      "content": "Regardez cette cigarette. Elle se consume, et nous avec. Nous sommes des êtres jetés dans le monde, sans avoir demandé à venir, cherchant désespérément un sens dans un univers indifférent. C’est le grand vertige. Nous construisons des châteaux de sable nommés « amour » ou « carrière », sachant très bien que la marée les effacera. Il y a une douceur tragique à ça. Résister à l'évidence du néant, simplement pour avoir vu, un temps, la lueur."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Haben Sie auch keine Zeit? Schluss damit! Mit **Nicht-Statt** – der Zeit, die nicht passiert! Flaschen Sie die Jetztheit einfach weg! Ein Schluck, und die Deadline ist dahin! TSSST! Das war Stress! Passend für jeden, der auf dem Klo den Weltfrieden retten will! **Nicht-Statt**, weil das Morgen viel zu schnell kommt!"
+      "content": "Endlich Schluss mit Langeweile! Greifen Sie zu **Stille in Dosen**!\n\nHören Sie auf, die Welt zu verstehen – drehen Sie sie einfach ab! Mit仅需 einer Kapsel genießen Sie pure, kristallklare Nichts-Existenz in 5.1 Surround-Sound. Perfekt für stressige Familienfeiern oder wenn Sie sich selbst mal wieder nicht hören wollen.\n\nWarnung: Kann zu paradoxer Euphorie und ungewollter innerer Ruhe führen!\n\n**Stille in Dosen. Weil Reden nervt.** SCHNAPP SIE SICH JETZT!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"¿Listos? Hoy preparamos **Recuerdo Difuso**. \n\nEn un bol de cristal, vertimos una copa de **soledad**. Batimos con fuerza, incorporando una **pizca de incertidumbre** hasta que la mezcla espese. \n\nCuidado con el fuego: es lo que queda de un **amor antiguo**. Debe estar bajo, muy suave. Añadimos dos gotas de **nostalgia** y dejamos que rompa a hervir muy despacio. \n\nEl secreto está en no removerlo. Dejamos que se enfríe durante años. Servimos en plato hondo... y comemos el silencio.\""
+      "content": "\"¡Bienvenidos al sabor del vacío! Hoy prepararemos 'Suspiro de Tiempo'. En un bol de infinito, vertemos una cucharada generosa de nostalgia pura. Batimos con energía. Ahora, lo delicado: dos gotas de silencio absoluto. Si rompen el silencio, el plato se amarga.\n\nDeben integrar la nada con movimientos lentos. Llevamos a hervor de emoción durante tres minutos. Deben enfriar los recuerdos antes de servir. Decoramos con una pizca de melancolía. Aquí tienen... el plato que nunca existió, pero que todos sabemos que sabe a gloria. ¡Que aproveche!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Тихий, бархатный голос. Фоном едва слышен шум ночного города.)\n\nДоброй ночи, город... Но не спите. Послушайте.\n\nПустота пьёт холодный чай,\nИ тишина — внутри меня.\nНи звука. Ни движенья.\nНичто не имеет значенья.\nВот и всё.\nОсталась только тьма.\nВсем спокойной ночи."
+      "content": "В тишине бушует пустота.\nСерые мыши едят часы.\nЗабытое слово повисает в углу.\nСмысл утонул в молчании.\nНичего не происходит.\nИ это — единственное, что всегда будет.\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ركنٍ من الزمن الممنوع، ظهرت شمسٌ لم تُخَلّق لتشرق، وصمتٌ لم يُولد ليتكلم. هناك، بين \"لم\" و\"لن\"، سارتُ في دربٍ لم يرسمهُ خرائط، وتنهدتُ برداً لم يلامس الجسد. كانَ أمراً صعباً... حقاً... أمراً لم يكن."
+      "content": "يا ساهر.. هل تخيلت يوماً مطراً يسقط في العتمة، لامعاً كذهبٍ سائل، لكن لا يلامس الأرض؟\nهكذا كان حُبُّهما. عاشا في قبلةٍ بدأت، وعيناهما التقتا... لكن الزمن لامهما بالبرد فتلاشت الكلمات قبل أن تولد.\nلم يخطُا الشاطئ قدمًا، ولم يبتلِ المحيطُ قطرةً دمعٍ.\nكانوا... كأنهم لم يكونوا."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 부유해. 촛불이 꺼진 허공에서, 당신의 한숨이 우주보다 무겁습니다. \n존재는 미끄러운 비눗방울, 허무는 뱃속 앓는 소리. \n따스한 이불 속, 당신은 유령입니다."
+      "content": "존재란 먼지 춤이고, 허무는 그윽한 밤.\n어젯밤 당신이 흘린 숨결,\n은하수 끝에서 잠깐 부서졌네."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙⌬ ᛗ⎋⌬⠆ᓐ⌬  ⍙⌧⠭⍙ ⌬ ⌬"
+      "content": "£#7あ…void…/// mixed ░▒▓ か ζzzt"
     }
   }
 }
