@@ -147,7 +147,7 @@ def broadcast(channel):
     )
 
     response = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-4-5-sonnet-20250929",
         max_tokens=300,
         messages=[
             {"role": "user", "content": channel["prompt"]}
