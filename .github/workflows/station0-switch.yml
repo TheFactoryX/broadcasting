@@ -1,0 +1,42 @@
+name: Station 0 Switch
+
+on:
+  schedule:
+    # Every 15 minutes (24/7 broadcast)
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Manual broadcast
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Power on
+        uses: actions/checkout@v4
+
+      - name: Warm up tubes
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Connect antenna
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Start broadcasting
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+        run: |
+          python station0.py
+
+      - name: Transmit signal
+        run: |
+          git config --local user.email "station0@thefactoryx.art"
+          git config --local user.name "Station 0"
+          git add public/program.json
+          git diff --staged --quiet || git commit -m "📺 $(date +%H:%M) broadcast"
+          git push
