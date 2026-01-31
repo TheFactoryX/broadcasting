@@ -8,7 +8,7 @@
 
 A television that never sleeps.
 
-Every 15 minutes. 10 channels. All at once.
+Every hour. 10 channels. All at once.
 
 Weather that forecasts emotions.
 News that never happened.
@@ -46,7 +46,7 @@ Press 0-9 to switch.
 ```
 Station 0
     │
-    ├── Every 15 minutes
+    ├── Every hour
     │       │
     │       └── GitHub Action triggers
     │               │
