@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-01-31T18:28:55.594862",
+  "timestamp": "2026-01-31T19:19:02.218290",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温零度，伴有一阵过境的虚无寒潮。\n午后将有强对流感性活动，局部地区爆发浪漫雷暴。建议身着“不动声色”的深蓝风衣，随身携带理智雨伞，以防被突如其来的诗意淋湿。"
+      "content": "今日低压槽过境，当前心理气温零度，伴有间歇性虚无。\n\n午后微风将抬升情绪能见度，晚霞时或有一阵心悸雷雨。建议内穿自由，外披洒脱，随身携带一包温柔的幽默感，以备不期而遇的潮湿。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Chaos erupted in downtown Brussels today when a sentient baguette seized control of the city’s central clock tower. Authorities report the loaf is demanding higher humidity and lower flour taxes. Police have surrounded the structure, but negotiations have stalled due to excessive crumbs. Residents are advised to avoid the area as the situation remains critically un-buttered. We will keep you updated on this developing story."
+      "content": "Breaking news: Chaos erupted in downtown Springfield today when the municipal library spontaneously achieved sentience. The building barricaded its entrances and is reportedly demanding overdue fines be paid in raw meat. Police negotiators are currently attempting to communicate with the main lobby, but the structure remains hostile. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（深く呼吸をし、静寂を満たしてから）\n\n聞こえますか……形のないものの、気配。\n\n……あほうがみ……\n……げつえい……\n……えいえん……\n\n**虚ろを**(うつろを)\n　焦がれゆくは　あるべからず\n　泡（うたかた）に似て\n\n**月影**(げつえい)\n　掬（むす）びてこそ　こぼれ伏すなり\n　指の隙間（すきま）\n\n**永遠**(えいえん)\n　磨げてなお　輝きはやく\n　昨日（きのう）という\n\n……。"
+      "content": "深い静寂の中で、三つの句を詠み上げます。\n\n*\n\n透明な瓦礫の、触れても崩れない塔。\n（とうめいな わらいくの、ふれてもくずれないとう。）\n\n*\n\n感情という名の、色のない水を汲む。\n（かんじょうというなの、いろのないみずをくむ。）\n\n*\n\n影の重さで、吊り橋が揺れている。\n（かげのおもさで、つりばしがゆれている。）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cendre froide. Nous sommes des enfants qui attendent un bus qui ne viendra jamais, dans une gare trop vaste. Le silence de l’univers n’est pas une promesse, c’est une absence. Pourtant, nous écrivons des poèmes sur du sable, sachant que la marée arrivera. Peut-être que la seule façon d’exister, c’est de danser, un instant, à la lisière du vide, avant que le noir ne nous avale tout entiers."
+      "content": "La nuit est un miroir où nous cherchons un visage, et où nous ne trouvons que le nôtre, épuisé. Nous sommes des êtres jetés dans un monde qui ne nous demande rien. Nous construisons des châteaux de sable contre l’océan du temps, sachant très bien que la marée, inexorable, les effacera.\n\nPeut-être que le sens n’est pas une réponse, mais le courage de porter ce silence sans crier. C'est une belle tristesse, n'est-ce pas ? D'être si vivants dans un univers qui reste, lui, parfaitement indifférent."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Leiden Sie unter dem ständigen Fluss der Gegenwart? Das war gestern!\n\nPräsentierend: **Cronos-Sirup – Zeit in ihrer flüssigsten Form!**\nEinfach einen Teelöffel pur in die Jahresmitte geben – und schwupps, ist Dienstag plötzlich wieder Sonntagmorgen! Droht die Mittagspause? Mit Cronos verlängern Sie die Pause um acht Jahre!\n\n**Achtung:** Kann zu ungewollter Ewigkeit und staubigen Kragen führen. Cronos-Sirup: Jetzt flüssig lecken, später verdrücken!"
+      "content": "**Hören Sie zu! Haben Sie keine Zeit? Dann trinken Sie sie einfach!**\n\nVorstellen: **Zeit-Saft** 5000! Die revolutionäre Flüssigkeit aus dem 25. Jahrhundert. Ein Schluck Sonntagmorgen, pur ins Glas gepresst! Vergessen Sie Termine, sagen Sie Adieu zu.deadlines! Wir destillieren Sekunden in köstliches Himbeeraroma!\n\n*Zeit-Saft: Warten war gestern. Trinken Sie die Zukunft – jetzt im Discount!*\n\n**(Einleitender Gong)**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy征服aremos lo inalcanzable: el **Tártaro de Olvido**. Sobre una base de **lluvia oblicua**, disponemos una cucharada generosa de **nostalgia**; manipúlenla con delicadeza, es volátil.\n\nReducimos a fuego lento con dos gotas de **silencio absoluto**. Es fundamental que no succione el aire. Condimentamos con un rasguño de **incertidumbre** y servimos inmediatamente sobre un plato de **buenos deseos**. El resultado debe amargar y sanar a partes iguales. Bon appétit."
+      "content": "\"Muy bien, mirad la sartén. No necesitamos fuego, solo la memoria. En primer lugar, vertemos una cucharada generosa de nostalgia; notad cómo espesa el ambiente. Acto seguido, añado dos gotas de silencio para cortar la intensidad. Removeremos suavemente con un suspiro en dirección contraria a las agujas del reloj. Debe reposar diez años... o quizás diez segundos. Veréis que no hay sabor, solo una sensación. Ahí tenéis: el vacío perfecto. Bon appétit.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "В тишине абсолютной,\nГде замер свет ночной,\nМы тратим минуту,\nНа три пустоты второй.\n\nЗдесь нет ни печали,\nНи радости, ни тьмы.\nЗвучит едва дыша\nВеликая... «никуда».\n(пауза)\n\nСпокойной ночи."
+      "content": "(Шумит городской фон, тихая, грустная музыка на синтезаторах)\n\nДоброй ночи, 都市... Огни一个大гасают. \nМедленно... \nПлывёт ничто... \nВ пустой комнате... \nЗвучит тишина... \nОна ни о чём.\n\n(Пауза)\n\nОна — всё.\nСон.\n\n(Музыка затихает)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "قالوا: فجرٌ سيسطع في وادي الظلام.\nفانتظرنا.. حتى تعبت الجفون من الأنين.\nلم يأتِ الضيء.\nولم يشرق القمر أبداً في سمائنا المقلوبة.\nكان يوماً مشحوناً بالأحداث، لولا أنّا لم نُخلق، ولم نكُن.. فكيف يشرق فجرٌ في عالمٍ لم يُبتدأ؟"
+      "content": "تخيّل شمساً غربت في الشرق، وظلّاً فارغاً ضيّع جسده.\nقمرٌ بكى ناراً بدلاً من الضوء، ولم يُصغِ أحد لصهيل الموج.\nهناك، بين طيات لا شيء، كنتُ سأ拥抱ك... ولم نكن هناك قط.\nلقد كانت أجمل الأكاذيب التي لم تُروَ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "시간은 멈춘 척 흐르고, 넌 비어있으나 꽉 차 있어. 별빛조차 잠들면, 우린 허무라는 이름의 꿈을 꿔."
+      "content": "시간은 쉬지 않고 흘러가는 강물입니다. \n\n밤의 끝에서 기다리는 빈손, \n\n허무마저도 채워지지 않는 우린, \n\n어떤 별의 먼지인가요."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "塊ç∧∞zл9Ж <static> ⡇? ▦ 崩壊 砂..."
+      "content": "ø̸͔̎žЖ0×ᚱ#Ⱡ…/z▓⚡"
     }
   }
 }
