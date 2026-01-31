@@ -6,7 +6,7 @@
 
 A television that never sleeps.
 
-Every 15 minutes. A new program.
+Every 15 minutes. 10 channels. All at once.
 
 Weather that forecasts emotions.
 News that never happened.
@@ -18,22 +18,18 @@ Ads for things that don't exist.
 
 | CH | Lang | Program |
 |---|---|---|
-| weather-zh | 中文 | 情绪天气预报 |
-| news-en | English | Fictional News Hour |
-| haiku-jp | 日本語 | 俳句チャンネル |
-| philosophy-fr | Français | Philosophie de Minuit |
-| ads-de | Deutsch | Unmögliche Werbung |
-| cooking-es | Español | Recetas Imposibles |
-| poetry-ru | Русский | Ночная Поэзия |
-| tales-ar | العربية | حكايات منتصف الليل |
-| meditation-ko | 한국어 | 심야 명상 |
-| sports-pt | Português | Esportes Absurdos |
-| opera-it | Italiano | Opera dell'Assurdo |
-| weather-nl | Nederlands | Emotioneel Weerbericht |
-| myth-el | Ελληνικά | Νέοι Μύθοι |
-| wisdom-hi | हिन्दी | अर्थहीन ज्ञान |
-| news-tr | Türkçe | Olmayan Haberler |
-| static | ▒▒▒ | STATIC |
+| 1 | 中文 | 情绪天气预报 |
+| 2 | English | Fictional News |
+| 3 | 日本語 | 俳句チャンネル |
+| 4 | Français | Philosophie |
+| 5 | Deutsch | Werbung |
+| 6 | Español | Recetas |
+| 7 | Русский | Поэзия |
+| 8 | العربية | حكايات |
+| 9 | 한국어 | 심야 명상 |
+| 0 | ▒▒▒ | STATIC |
+
+Press 0-9 to switch.
 
 ---
 

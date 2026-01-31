@@ -11,34 +11,31 @@
             box-sizing: border-box;
         }
 
-        @font-face {
-            font-family: 'TV';
-            src: local('Courier New'), local('monospace');
-        }
-
         body {
             background: #0a0a0a;
             color: #e0e0e0;
-            font-family: 'TV', monospace;
+            font-family: 'Courier New', monospace;
             min-height: 100vh;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
+            padding: 20px;
             overflow: hidden;
         }
 
         .tv {
             width: 90vw;
-            max-width: 600px;
+            max-width: 700px;
             aspect-ratio: 4/3;
             background: #111;
-            border-radius: 20px;
-            padding: 40px;
+            border-radius: 24px;
+            padding: 30px;
             position: relative;
             box-shadow:
-                0 0 0 8px #222,
-                0 0 0 12px #333,
-                0 0 60px rgba(255,255,255,0.05);
+                0 0 0 6px #1a1a1a,
+                0 0 0 10px #222,
+                0 0 80px rgba(255,255,255,0.03);
         }
 
         .screen {
@@ -50,8 +47,6 @@
             overflow: hidden;
             display: flex;
             flex-direction: column;
-            justify-content: center;
-            align-items: center;
             padding: 20px;
         }
 
@@ -62,14 +57,13 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background:
-                repeating-linear-gradient(
-                    0deg,
-                    rgba(0,0,0,0.1) 0px,
-                    rgba(0,0,0,0.1) 1px,
-                    transparent 1px,
-                    transparent 2px
-                );
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0,0,0,0.15) 0px,
+                rgba(0,0,0,0.15) 1px,
+                transparent 1px,
+                transparent 2px
+            );
             pointer-events: none;
             z-index: 10;
         }
@@ -84,47 +78,65 @@
             background: radial-gradient(
                 ellipse at center,
                 transparent 0%,
-                rgba(0,0,0,0.3) 100%
+                rgba(0,0,0,0.4) 100%
             );
             pointer-events: none;
             z-index: 11;
         }
 
-        .channel {
-            font-size: 0.7rem;
-            color: #666;
-            letter-spacing: 0.3em;
-            text-transform: uppercase;
-            margin-bottom: 10px;
+        .channel-display {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            font-size: 1.5rem;
+            color: #0f0;
+            text-shadow: 0 0 10px #0f0;
+            z-index: 20;
+            font-weight: bold;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
         }
 
         .program-name {
-            font-size: 1rem;
-            color: #fff;
-            margin-bottom: 20px;
-            text-align: center;
+            font-size: 0.9rem;
+            color: #888;
+            letter-spacing: 0.1em;
+        }
+
+        .lang-badge {
+            font-size: 0.7rem;
+            color: #555;
+            padding: 2px 8px;
+            border: 1px solid #333;
+            border-radius: 3px;
         }
 
         .content {
-            font-size: 0.9rem;
-            line-height: 1.8;
+            flex: 1;
+            font-size: 1rem;
+            line-height: 1.9;
             color: #ccc;
-            text-align: center;
-            max-width: 100%;
-            animation: flicker 0.15s infinite;
+            overflow-y: auto;
+            padding-right: 10px;
+            animation: flicker 0.1s infinite;
+        }
+
+        .content::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        .content::-webkit-scrollbar-thumb {
+            background: #333;
         }
 
         @keyframes flicker {
             0%, 100% { opacity: 1; }
-            50% { opacity: 0.98; }
-        }
-
-        .info {
-            position: absolute;
-            bottom: 10px;
-            right: 15px;
-            font-size: 0.6rem;
-            color: #333;
+            92% { opacity: 0.98; }
         }
 
         .static {
@@ -133,7 +145,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            opacity: 0.03;
+            opacity: 0.02;
             pointer-events: none;
             z-index: 5;
         }
@@ -150,14 +162,61 @@
 
         .power-light {
             position: absolute;
-            bottom: 15px;
+            bottom: 12px;
             left: 50%;
             transform: translateX(-50%);
-            width: 8px;
-            height: 8px;
+            width: 6px;
+            height: 6px;
             background: #2a2;
             border-radius: 50%;
-            box-shadow: 0 0 10px #2a2;
+            box-shadow: 0 0 8px #2a2;
+        }
+
+        /* Channel buttons */
+        .remote {
+            display: flex;
+            gap: 8px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .ch-btn {
+            width: 40px;
+            height: 40px;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 6px;
+            color: #666;
+            font-family: 'Courier New', monospace;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .ch-btn:hover {
+            background: #222;
+            color: #999;
+            border-color: #444;
+        }
+
+        .ch-btn.active {
+            background: #0f0;
+            color: #000;
+            border-color: #0f0;
+            box-shadow: 0 0 10px rgba(0,255,0,0.3);
+        }
+
+        .hint {
+            margin-top: 15px;
+            font-size: 0.7rem;
+            color: #333;
+        }
+
+        /* RTL support for Arabic */
+        .content[data-lang="ar"] {
+            direction: rtl;
+            text-align: right;
         }
     </style>
 </head>
@@ -165,17 +224,37 @@
     <div class="tv">
         <div class="screen">
             <canvas class="static" id="static"></canvas>
-            <div class="channel" id="channel">TUNING...</div>
-            <div class="program-name" id="program-name">—</div>
+            <div class="channel-display">CH.<span id="ch-num">1</span></div>
+            <div class="header">
+                <div class="program-name" id="program-name">—</div>
+                <div class="lang-badge" id="lang">—</div>
+            </div>
             <div class="content" id="content">
                 <span class="loading">■</span>
             </div>
-            <div class="info" id="info"></div>
         </div>
         <div class="power-light"></div>
     </div>
 
+    <div class="remote">
+        <button class="ch-btn" data-ch="1">1</button>
+        <button class="ch-btn" data-ch="2">2</button>
+        <button class="ch-btn" data-ch="3">3</button>
+        <button class="ch-btn" data-ch="4">4</button>
+        <button class="ch-btn" data-ch="5">5</button>
+        <button class="ch-btn" data-ch="6">6</button>
+        <button class="ch-btn" data-ch="7">7</button>
+        <button class="ch-btn" data-ch="8">8</button>
+        <button class="ch-btn" data-ch="9">9</button>
+        <button class="ch-btn" data-ch="0">0</button>
+    </div>
+
+    <div class="hint">Press 0-9 to switch channels</div>
+
     <script>
+        let programs = {};
+        let currentChannel = '1';
+
         // Static noise
         const canvas = document.getElementById('static');
         const ctx = canvas.getContext('2d');
@@ -188,7 +267,6 @@
         function drawStatic() {
             const imageData = ctx.createImageData(canvas.width, canvas.height);
             const data = imageData.data;
-
             for (let i = 0; i < data.length; i += 4) {
                 const value = Math.random() > 0.5 ? 255 : 0;
                 data[i] = value;
@@ -196,7 +274,6 @@
                 data[i + 2] = value;
                 data[i + 3] = 255;
             }
-
             ctx.putImageData(imageData, 0, 0);
             requestAnimationFrame(drawStatic);
         }
@@ -205,31 +282,57 @@
         window.addEventListener('resize', resizeCanvas);
         drawStatic();
 
-        // Load program
-        async function loadProgram() {
-            try {
-                const response = await fetch('/program.json?' + Date.now());
-                const program = await response.json();
+        // Display channel
+        function showChannel(ch) {
+            currentChannel = ch;
+            const program = programs[ch];
 
-                document.getElementById('channel').textContent =
-                    'CH.' + program.channel.toUpperCase();
-                document.getElementById('program-name').textContent =
-                    program.name;
-                document.getElementById('content').textContent =
-                    program.content;
-                document.getElementById('info').textContent =
-                    'NEXT: ' + program.next_switch;
+            // Update button states
+            document.querySelectorAll('.ch-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.ch === ch);
+            });
 
-            } catch (e) {
-                document.getElementById('content').innerHTML =
-                    '<span class="loading">NO SIGNAL</span>';
+            document.getElementById('ch-num').textContent = ch;
+
+            if (program) {
+                document.getElementById('program-name').textContent = program.name;
+                document.getElementById('lang').textContent = program.lang;
+                document.getElementById('content').textContent = program.content;
+                document.getElementById('content').dataset.lang = program.lang;
+            } else {
+                document.getElementById('program-name').textContent = 'NO SIGNAL';
+                document.getElementById('lang').textContent = '—';
+                document.getElementById('content').innerHTML = '<span class="loading">■</span>';
             }
         }
 
-        loadProgram();
+        // Load programs
+        async function loadPrograms() {
+            try {
+                const response = await fetch('/program.json?' + Date.now());
+                const data = await response.json();
+                programs = data.channels || {};
+                showChannel(currentChannel);
+            } catch (e) {
+                document.getElementById('content').innerHTML = '<span class="loading">NO SIGNAL</span>';
+            }
+        }
 
-        // Refresh every minute
-        setInterval(loadProgram, 60000);
+        // Button clicks
+        document.querySelectorAll('.ch-btn').forEach(btn => {
+            btn.addEventListener('click', () => showChannel(btn.dataset.ch));
+        });
+
+        // Keyboard
+        document.addEventListener('keydown', (e) => {
+            if (e.key >= '0' && e.key <= '9') {
+                showChannel(e.key);
+            }
+        });
+
+        // Init
+        loadPrograms();
+        setInterval(loadPrograms, 60000);
     </script>
 </body>
 </html>
