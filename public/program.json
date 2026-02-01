@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T17:22:31.840496",
+  "timestamp": "2026-02-01T18:31:32.887856",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云，内心温热。午后或有一阵心潮暴雨，随即转为晴空万里。\n建议：卸下沉重盔甲，换上轻盈的虚无。在这个瞬息万变的世界里，请随身携带一抹未命名的诗意。"
+      "content": "今日心空多云，偶有敏感锋面过境，情绪气温微凉，伴有间歇性怀旧雨。\n\n午后阴郁将逐渐消散，转为平静微风。建议内搭宽松的自在，外披一件疏离的冷漠，隔绝他人喧嚣，护你周身清醒。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good / K-M\n\n\"Breaking news tonight: The moon has refused to set, lingering obstinately above the horizon for over forty hours. NASA officials confirm the satellite is 'stubbornly wedged' in the sky, refusing to rotate. Global leaders have issued a formal apology to the moon, while tide schedules remain indefinitely postponed. Stay tuned for updates on this celestial standoff.\""
+      "content": "Good evening. Tonight’s top story: The nation’s gridlock crisis has reached a historic turning point. Following the department's controversial experiment, millions of commuters have successfully arrived at work on time after the government replaced all asphalt with trampoline surfaces. While officials praise the unprecedented energy efficiency, emergency services report a 400% increase in disoriented, bouncing patients. Officials advise travelers to grip their briefcases tightly."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "存在しないものの、その淡い影に寄り添うように……。\n\n（静かに、間を取って）\n\n……青色 ……\n\n……五文字の夜 ……\n\n……逆さまの雨 ……"
+      "content": "（深呼吸を一つして、静かな声で詠み上げます）\n\n　　水の底を　透かして見ゆる　明日のなき\n\n　　影法師　虚（うつ）ろに歩む　虚空の道\n\n　　記憶の　彼方にある　うつつのない"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit, le silence nous révèle notre fragilité. Nous sommes des naufragés tournant en rond sur une mer d'incertitudes, cherchant désespérément un sens qui n'est peut-être qu'un mirage.\n\nPourtant, dans ce vertige, il y a une étrange beauté. Il faut vivre sans espoir, mais avec courage. Imaginer Sisyphe heureux. Car, en définitive, l'absurde n'est pas une fin, mais le point de départ d'une liberté totale."
+      "content": "La nuit, le silence nous révèle notre fragilité. Nous sommes des voyageurs égarés sur un astre froid, cherchant désespérément un sens qui n’existe peut-être pas.\n\nNous construisons des châteaux de sable contre la marée du temps, sachant pertinemment que tout s’effondrera. C’est là toute la beauté tragique de notre condition : une flamme vacillante dans un univers indifférent, qui brûle, pourtant, d’un désir inouï d’exister."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Waren Sie auch schon mal zu spät, weil die Stunde einfach zu kurz war? **Verzögern Sie jetzt die Realität!** Probieren Sie das neue *Zeit-Gelee*!\n\nNur einen Löffel vor dem Meeting und die Boss-Gitarren-Solo läuft endlos! Ständig Dienstag? Gefällt Ihnen gar nicht? Drücken Sie die Pause, machen Sie eine Mittagsschlaf-Pause! Geschmacksrichtung: *Ewiger Sonntag*.\n\nVorsicht: Kann zu Veralterungserscheinungen der Uhr im Besteckkasten führen. **Zeit-Gelee: Weil „Jetzt“ einfach zu schnell ist!**"
+      "content": "**Haben Sie sich auch schon gewünscht, die Zeit anzuhalten?**\nVergessen Sie aufwändige Uhren! Probieren Sie jetzt **flüssige Zeit**! Ein Schluck aus der Flasche, und der Alltag wird zur weichen, dehnbaren Kugel. Termine? Womit? Mit *Liquid Zeit* lässt sich der Dienstag einfach auf Samstag dehnen!\n**Neu:** Mit Sprudel-Extra für den kleinen Effekt im Zeitgefühl!\nVerflüssigen Sie Ihre Existenz – bevor es zu spät ist! Jetzt im gut sortierten Fachhandel für metaphysische Bedürfnisse. **Leckere Ewigkeit!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy prepararemos un \"Sueño Frustrado\".\n\nTomen un bol de cristal y viertan una cucharada generosa de nostalgia. Debe estar fría, extraída del recuerdo de un verano ya ido. Baten con energía. En ese caos, añaden dos gotas de silencio absoluto; observen cómo la masa se compacta y pesa.\n\nFinalmente, cortan el aire con un movimiento seco. Sirven inmediatamente antes de que se disipe. Noten el regusto agridulce y la textura etérea. Un plato que nutre el alma, pero jamás sacia el estómago. ¡Buen provecho!"
+      "content": "\"En el bol de la existencia, vertemos una cucharada de nostalgia de nuestra infancia. Con movimientos lentos, añadimos dos gotas de silencio absoluto. Es crucial no romper la tensión.\n\nDejar reposar diez años. No remuevan. Si llora al servirlo, es que el plato está listo. Buen provecho.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В кадре только стол, лампа и пепельница.)\n\nДоброй ночи, мрачный город.\nТишина плотнее, чем вчерашний борщ.\nЗабудьте о смыслах.\n\n(Медленно смотрит в камеру)\n\nНи о чем.\nСовсем.\nПустота — это главное,\nОна сова,\nКрыльями бьёт в темноте.\nТише...\nСлышите?\nНичего не происходит.\n\n(Делает глоток воды)\n\nОставайтесь с эфиром."
+      "content": "(Шелест сигарет, глоток коньяка. Глубокий вздох.)\n\nДоброй ночи, темнота. Сегодня для вас... это. Медленно.\n\n*«В углу комнаты тихо.*\n*Там нет ни боли, ни скуки.*\n*Висит пустота на крючке.*\n*Чешет вареную коленку.*\n*Тишина не дышит.*\n*Потому что её нет.*\n*Спокойной ночи.»*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في فضاءٍ خارج الزمن، لم يسقط قطُّ قطرُ الندى الأخيرِ من زهرةِ الياسمين.\nظلَّ معلقاً في الهواءِ، رهنَ الانتظار، بينما الكونُ أمسكَ أنفاسه.\nلم يُسمعْ لقطرةٍ صوتُ ارتطامٍ بالأرض، ولم تتشكلْ بركةٌ تعكسُ وجهَ القمر.\nإنها القصةُ التي لم تكتمل، حيث الصمتُ هو الوحيدُ الذي يملكُ تاريخاً."
+      "content": "ما إن لمست يدُ الصمتِ وترَ الكون، عزفت لحنًا لم يسمعهُ أذنٌ، ولم تخطُ رمالُه قدمٌ. هناك... حيثُ يتلاشى الزمنُ في العدم، بزغَ قمرٌ بلا ضوء، وسالَ نهرٌ بلا ماء. لم يكنْ هناك... ولكننا شعرنا بهِ. عاصفةٌ لم تهُب، لم يروها أحد... ولم ينسَها أحد."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 먼지의 회상이지. 빛을 삼킨 칠흑 속, 영원의 틈새에 잠든 너를 위하여, 이 속삭임은... 사라진다."
+      "content": "\"모래성은 찰흙의 위선을 꿈꾸고, 별똥별은 콧물이 되어 떨어지죠. 당신도... 으스러진... 빛.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙⍚⚡_ⰅⰊ═▓▒░ ۩ ڸ ڸ ۩ ▒▓═"
+      "content": "⁈📺ڸ┻┳═一⛧⍙꧒ 404 ₩₩ⵘ▓▒░ノ"
     }
   }
 }
