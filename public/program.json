@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T11:19:57.004836",
+  "timestamp": "2026-02-01T12:43:41.144877",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，微风尚带昨夜潮气。当前情绪气温23℃，伴有偶发性心动过速。午后行见暖阳，暮色四合时将有释然的晚霞。建议穿着宽松的虚无，出门不必携带雨具，去迎一场久违的内啡虹。"
+      "content": "今日心气阴郁，偶有微风。午后回暖，或见微光。\n宜披轻纱，防患心寒；莫负重甲，免阻灵犀。\n心雨骤来，不妨听雨，片刻即晴。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupts in downtown Metropolis as the beloved 50-foot statue of Mayor Whiskers, a Persian cat, spontaneously levitated. The floating feline, now orbiting City Hall, has begun emitting a low-frequency purr causing localized earthquakes. Authorities are baffled, while the National Guard has deployed 10,000 cans of premium tuna in an attempt to negotiate. Residents are advised to seek shelter immediately. More at 11."
+      "content": "\"Breaking news: The International Space Station has deployed a giant disco ball to elevate the global party atmosphere. Dubbed 'Project Boogie,' the reflective satellite is currently casting glittering strobe lights across the continents. Officials report that world peace is imminent, as citizens from New York to Tokyo have simultaneously stopped working to commence a synchronized disco fever. Authorities urge everyone to keep dancing.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(深呼吸をし、静寂を湛えた声で)\n\n……。\n\n**一つ目。\n\n　影のない影\n　なにもそこにない\n　幾何学（オーダー）**\n\n……。\n\n**二つ目。\n\n　鳴り止まぬ虹\n　かたちを持たぬ雨\n　宙（そら）にして**\n\n……。\n\n**三つ目。\n\n　零れた時間の\n　底へ届かず\n　青い闇**\n\n……。"
+      "content": "（静かに、微かな想像の息を吸い込んで）\n\n**其一**\n影の　實（み）を　食（は）む　闇（やみ）\n\n**其二**\n届かぬ　思（おも）ひの　彼岸（ひがん）\n\n**其三**\n色（いろ）なき　虹（にじ）の　橋（はし）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des étoiles qui ont oublié le ciel. La vie n’est qu’une parenthèse entre deux néants, une course éperdue vers le silence. Nous construisons des châteaux de sable que la marée de l’oubli effacera sans bruit. C’est là toute l’absurdité : vouloir donner un sens à ce qui n’en a pas, chercher une réponse là où règne le vide éternel. Soyons heureux, tout de même, dans ce beau désespoir d’être là."
+      "content": "Regardez cette cigarette qui se consume lentement dans la pause publicitaire. Elle est l'image parfaite de notre condition. Une petite lueur vacillante perdue dans un univers indifférent et silencieux.\n\nNous cherchons désespérément un sens là où il n'y a que du néant. C’est tragique, vous ne trouvez pas ? Nous sommes des étoiles filantes qui ont oublié leur ciel, condamnées à briller un instant avant de disparaître à jamais dans le grand noir."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Hören Sie auf, die Zeit zu vertrödeln – sondern trinken Sie sie!**\n\nPräsentieren wir: **Flüssige Zeit**, der neue Extrakt aus reinem Ewigkeit-Quarz! Ein Schluck Morgen, ein Shot Abend – und plötzlich haben Sie Ihren Mittagsspaziergang *vor* dem Frühstück erledigt! Warnung: Kann zu parallel existierenden Bauchgruben und einem überquellenden Terminkalender im Jahr 3000 führen.\n\nJetzt bestellen: Verwandeln Sie gnadenlos langweilige Wartezeiten in atemberaubenden Blitzwechsel! Endlich Zeit für den Moment, in dem Sie gar keine haben! GGGUT – der Future-Smoothie!"
+      "content": "Warten Sie nicht länger auf die Sekunde 25 am Tag! Kaufen Sie jetzt **Flüssige Zeit™**! Einfach einen Schluck – und *patsch* – Ihr Wochenende hat 500 Stunden! Ein teleskopierter Dienstag? Köstlich!\n\nACHTUNG: Kann paradoxen Jetlag und Zeit-Schleim verursachen! Nicht pur trinken, sonst altern Sie rückwärts und werden zum Embryo! Flüssige Zeit: Die Zeit vergeht. Sie nicht!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Bienvenidos. Hoy el plato es *Recuerdo de lo que nunca fue*. Encendemos el fuego a baja temperatura. En un bowl de cerámica, vertimos una cucharada generosa de nostalgia; tiene que doler un poco al tacto. Añadimos dos gotas de silencio absoluto. Shhh. El secreto está en no romper la tensión. Emplazamos con cuidado. El resultado no se come, se siente. Viene del horno en cinco segundos. Bon appétit.”"
+      "content": "“Bienvenidos. Hoy preparamos ‘El Eclipse del Recuerdo’.\n\nTomad una cucharada de nostalgia, bien pesada. En un bol de cobre, romped el silencio con dos gotas de soledad; no rompan el fluido, deben ser suspendidas. Espolvorean una pizca de tiempo detenido.\n\nAgitamos con movimientos lentos. Vemos cómo la memoria se disuelve en la nada. Servimos inmediatamente sobre el vacío. No hay cámara que pueda captar este sabor, pero el alma lo recuerda. Bon appétit.”"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. Тихо играет Jazz-noir пиано. Голос звучит с придыханием, оттеняя бархатной усталостью.)\n\nВ бездне тихой, где ни звука,\nЗаблудилось ничуть.\nНет ни боли, ни испуга,\nЕсть пустота вокруг.\nЛишь прохладное дыханье\nСкольжит в ночную тьму.\nЭто бал иль наказанье?\nПросто... нету чему.\n\n(Делаем паузу, глядя в камеру с немой просьбой не выключать телевизор.)"
+      "content": "Вращается пылесос в пустоте, \nСобирая тишину в узел. \nВзгляд соскальзывает с заката, \nКак капля чая со сколотого края. \nСмысл ушел в отпуск, оставив записку: \n«Вернусь не скоро». \nДыши. Просто дыши. \nВ этом механическом шорохе — вечность."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "كانت هناك امرأة حفرت بئراً عميقة في صمتها، باحثةً عن الظل.\nلكن الشمس هناك لم تغب أبداً.\nظنت أنها وجدت الموت، فإذا بمولود جديد... يصرخ، ويكبر، ويشيخ بلمح البصر، ثم يدفنها بيدٍ مرتجفة.\nهي قصة الربيع الذي لم يطلع أبداً، وكان في انتظاره منذ الأزل."
+      "content": "قالوا: الأمسية هادئة، والقمر ساطع.\nلكنني ... لم أكن هناك.\nلم ألمس رذاذ المطر، ولم يعرف برد الشتاء دفء يدي.\nفي التاريخ، صفحة بيضاء؛ في الذاكرة، ظل سراب.\nلم أُولد... ولم أمت.\nأنا الحكاية التي أُغلِقَ كتابُها قبل أن تُكتب أول كلمة."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우린 빈 공간의 꿈이야. 긁힌 레코드처럼 헛돌며, 우주의 텅 빈 소음을 사랑해.\""
+      "content": "\"우린 빛을 훔친 도둑이야. 침묵 속에서 소리가 되고, 너라는 허무를 가득 채워. 존재라는 찰나의 꿈을, 깨지 못하게...\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "🚺̡̢̛⁰9▓u▓▓▓ζ;╬╗"
+      "content": "ټſٔ⟿⏣⌬⠿ᾗ೨𒅒…"
     }
   }
 }
