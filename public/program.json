@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T12:43:41.144877",
+  "timestamp": "2026-02-01T13:41:20.036794",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心气阴郁，偶有微风。午后回暖，或见微光。\n宜披轻纱，防患心寒；莫负重甲，免阻灵犀。\n心雨骤来，不妨听雨，片刻即晴。"
+      "content": "今日多云转晴，当前情绪气温21度，微风拂面。\n午后忧愁云层渐散，晚高峰伴有间歇性心动的阵风。\n建议：卸下沉重防备，穿一件名为“随性”的薄风衣，在心里留个口袋，装点星光。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: The International Space Station has deployed a giant disco ball to elevate the global party atmosphere. Dubbed 'Project Boogie,' the reflective satellite is currently casting glittering strobe lights across the continents. Officials report that world peace is imminent, as citizens from New York to Tokyo have simultaneously stopped working to commence a synchronized disco fever. Authorities urge everyone to keep dancing.\""
+      "content": "\"Breaking news: Chaos has erupted in downtown Metropolis after the municipal fountain began dispensing hot tomato soup instead of water. Authorities are baffled as the temperature of the crimson liquid continues to rise, forcing police to cordon off three city blocks. Emergency crews are currently attempting to cool the situation with giant croutons, though residents are advised to avoid the area until the acidity levels decrease. Stay tuned for further updates on this developing culinary crisis.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、微かな想像の息を吸い込んで）\n\n**其一**\n影の　實（み）を　食（は）む　闇（やみ）\n\n**其二**\n届かぬ　思（おも）ひの　彼岸（ひがん）\n\n**其三**\n色（いろ）なき　虹（にじ）の　橋（はし）"
+      "content": "淡（あわ）たる・無（な）き響（ひびき）の・宙（ちゅう）に棲（す）む\n\n……。\n\nかたちなき・影（かげ）が・手（て）をとる\n\n……。\n\n虚空（こくう）の・青（あお）に・溺（おぼ）れる\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette qui se consume lentement dans la pause publicitaire. Elle est l'image parfaite de notre condition. Une petite lueur vacillante perdue dans un univers indifférent et silencieux.\n\nNous cherchons désespérément un sens là où il n'y a que du néant. C’est tragique, vous ne trouvez pas ? Nous sommes des étoiles filantes qui ont oublié leur ciel, condamnées à briller un instant avant de disparaître à jamais dans le grand noir."
+      "content": "Regardez cette cendre froide. Nous sommes des naufragés qui refusent d’admettre que le navire a coulé depuis longtemps.\n\nNous cherchons un sens dans un univers qui ne fait que silence. C’est là toute l’absurdité : une soif d’éternité dans un monde de poussière. Pourtant, dans ce vertige, réside notre seule liberté. Il faut aimer cette éphémère nuit, sans demander pourquoi. Simplement être, lucides et tendres, face au grand néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Warten Sie nicht länger auf die Sekunde 25 am Tag! Kaufen Sie jetzt **Flüssige Zeit™**! Einfach einen Schluck – und *patsch* – Ihr Wochenende hat 500 Stunden! Ein teleskopierter Dienstag? Köstlich!\n\nACHTUNG: Kann paradoxen Jetlag und Zeit-Schleim verursachen! Nicht pur trinken, sonst altern Sie rückwärts und werden zum Embryo! Flüssige Zeit: Die Zeit vergeht. Sie nicht!"
+      "content": "Endlich Schluss mit dem Warten! Hier ist **Flüssige Zeit™**!\n\nEinfach einen Schluck vor dem Meeting und – *zack* – der Montag ist vorbei, noch bevor er begann! Ein Tropfen pro Tag schenkt Ihnen das ganze Wochenende in nullkommanichts! \n\nVorsicht: Nicht pur trinken, sonst werden Sie sofort zum Rentner! Probieren Sie jetzt den Geschmack von *Gestern* und *Übermorgen*!  \n\n**Flüssige Zeit™**: Heute schon morgen gewesen!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Bienvenidos. Hoy preparamos ‘El Eclipse del Recuerdo’.\n\nTomad una cucharada de nostalgia, bien pesada. En un bol de cobre, romped el silencio con dos gotas de soledad; no rompan el fluido, deben ser suspendidas. Espolvorean una pizca de tiempo detenido.\n\nAgitamos con movimientos lentos. Vemos cómo la memoria se disuelve en la nada. Servimos inmediatamente sobre el vacío. No hay cámara que pueda captar este sabor, pero el alma lo recuerda. Bon appétit.”"
+      "content": "«Hoy en el set de *Sabores Eternos*, os retamos con el plato definitivo: \"El Vals de lo Perdido\". Escalfad una cucharada de nostalgia en agua hirviendo de recuerdos. Debe cocinar a fuego muy lento para que no se amargue.\n\nCuando hierva, añadid dos gotas de silencio y una pizca de melancolía; lo vital es no romper el equilibrio. Reducid el jugo hasta obtener un lamento denso. Emplatad con cuidado: servid este vacío inmediatamente. Dejad enfriar sobre el mantel. Y, sobre todo... no comáis. Solo se mira. ¡Buen provecho!»"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Вращается пылесос в пустоте, \nСобирая тишину в узел. \nВзгляд соскальзывает с заката, \nКак капля чая со сколотого края. \nСмысл ушел в отпуск, оставив записку: \n«Вернусь не скоро». \nДыши. Просто дыши. \nВ этом механическом шорохе — вечность."
+      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, как в эхе)\n\nДоброй ночи, город... Тишина. Пусть эти строки утонут в темноте.\n\nСидит ошибка на заборе,\nЗевает в серую пустоту.\nНигде не звонит твой телефон,\nИ совесть легла на дно.\n\nО чём мы? Да ни о чём.\n(Вздыхает)\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "قالوا: الأمسية هادئة، والقمر ساطع.\nلكنني ... لم أكن هناك.\nلم ألمس رذاذ المطر، ولم يعرف برد الشتاء دفء يدي.\nفي التاريخ، صفحة بيضاء؛ في الذاكرة، ظل سراب.\nلم أُولد... ولم أمت.\nأنا الحكاية التي أُغلِقَ كتابُها قبل أن تُكتب أول كلمة."
+      "content": "حيث لا تلمس قدمٌ اليابسةُ... كان هناك نهرٌ يجري عكساً، عائداً بالأيام إلى رحم الغيم.\nلم تُخطئ قطرةٌ طريقها قط.\nولم يُعرف قطُ... أكان ذلك سراباً، أم أننا مجردُ ذكرى لنهرٍ جفّ قبل أن يولد؟"
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우린 빛을 훔친 도둑이야. 침묵 속에서 소리가 되고, 너라는 허무를 가득 채워. 존재라는 찰나의 꿈을, 깨지 못하게...\""
+      "content": "우리는 먼지가 쌓이는 속도만큼 느리게 축축한 우주의 구석을 미끄러진다. \n\n고요에 귀를 기울여라."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ټſٔ⟿⏣⌬⠿ᾗ೨𒅒…"
+      "content": "§█▬░▓ コ؂⡇░k̴̡… /&@‼ ⌇"
     }
   }
 }
