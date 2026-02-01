@@ -8,7 +8,7 @@
 
 **Station 0**
 
-[TV.TheFactoryX.sdpkjc.com](https://TV.TheFactoryX.sdpkjc.com)
+[tv.thefactoryx.art](https://tv.thefactoryx.art)
 
 ---
 
