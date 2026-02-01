@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T19:22:26.077648",
+  "timestamp": "2026-02-01T20:23:35.761324",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位观众下午好。\n\n今日情绪气温微凉，心空偶有沉郁，局部伴有雷鸣般的呐喊。\n\n预计夜间将转为多云转晴，暖流将在凌晨抵达，逐渐抚平褶皱。建议您携带一件坚韧的雨衣，并敞开胸怀接纳消逝。"
+      "content": "今日多云转晴，晨间伴随偶发性忧郁阵雨，气温由微凉回温至沸点。\n\n午后预计有间歇性的释怀，晚高峰将迎来大范围的憧憬与热浪。\n\n建议裸露灵魂，穿着名为“钝感”的雨衣，屏蔽潮湿杂音。愿你在高压的锋面过境后，捕获彩虹。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: In an unprecedented astronomical event, the moon has gained sentience and migrated to Mars, citing a need for \"personal space.\" The resulting lunar vacuum has caused global tides to cease, leaving beached whales across the Atlantic. World leaders are currently convening to discuss a replacement satellite, while the Sun demands rent for its continued services."
+      "content": "Breaking news: Confusion erupts at the Grand Canyon today after a tactical error by the \"Cloud Painters\" resulted in the entire landmark being coated in a thick layer of marshmallow. Park officials report that tourists are currently stuck to the railing, while local wildlife has begun consuming the geological formation. Authorities are asking the public not to bring hot chocolate, as the rising temperatures are threatening to cause a catastrophic sticky situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、少し間を置いて、柔らかな声で）\n\n……。\n\n**その色の　名もなきものを　呼びおきて**\n。\n\n（深呼吸をひとつ）\n\n**なくたびに　深くなりゆく　不在の淵**\n。\n\n（視線を遠くに泳がせて）\n\n**夜の奥に　ありもせぬ星　灯しけり**\n\n……。"
+      "content": "(深呼吸をし、静かな空気を紡ぐようにして)\n\n**一つ。**\n色のない虹、静かに架る。\n\n**二つ。**\n届かぬ音、波紋を描く。\n\n**三つ。**\n燃え尽きる影、灰は残らず。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe, et nos existences s’y noient, silencieuses. Nous cherchons un sens là où il n’y a peut-être que le hasard et le vide. Nous montons des échelles qui ne mènent nulle part, croyant utile d’empiler des pierres.\n\nPourtant, dans cette tragédie muette, il y a une étrange beauté. Nous sommes des lucioles éphémères scintillant dans le néant. L’absurde n’est pas une fatalité, c’est notre danse. Il nous reste à aimer ce ciel vide, simplement."
+      "content": "La nuit nous révèle notre fragilité. Nous sommes des silhouettes errantes cherchant un sens dans un univers qui se tait. Cette quête est notre tragédie, et peut-être notre beauté. Il nous faut imaginer Sisyphe heureux, non parce que la pierre est légère, mais parce qu’il accepte la pente. Vivre, c’est porter le vide avec une grâce inutile."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Haben Sie auch keine Zeit mehr? Atmen Sie tief durch und genießen Sie **Stille in Dosen**!\n\nDas neuartige „Schhhhhh!“ garantiert 100% noise-free Freiheit. Einfach aufziehen, Deckel öffnen und: Nothingness!\n\nEndlich Ohrwetter pur! Kein Plärr, kein Quatsch – nur magischer Frieden. Sofort lieferbar in den Varianten „Bibliothek“ und „Tiefsee-Falle“.\n\n**Warnung:** Nicht in der Nähe von Vuvuzelas öffnen! Holen Sie sich das Nichts, bevor es weg ist!"
+      "content": "Waren Sie auch schon mal zu spät, weil die Zeit einfach nicht reichte?\n\n**Zögern Sie nicht! Greifen Sie zu *Zeit-Premium®* – die flüssige Zeit!**\n\nEinfach einen Esslöffel pur über den Mittagsessen – und schwupps! Extrastunden zum Schlafen! Perfekt konserviert, schmeckt nach Ewigkeit und ein Hauch von Zitrone. Warnung: Nicht mit Schlafmitteln mischen, sonst erwachen Sie im Jahr 3025!\n\n**Bestellen Sie jetzt die Zukunft im Flaschenformat!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy prepararemos un \"Suspiro de Ayer\". Sobre una fuente de porcelana fría, vertemos una cucharada generosa de nostalgia. Debemos trabajarla con delicadeza para que no amargue.\n\nAhora, el equilibro: dos gotas de silencio absoluto. Deben caer en el centro, pesadas y densas. Espolvoreamos una pizca de recuerdos rotos y horneamos a fuego lento. El secreto está en no remover demasiado. Servimos inmediatamente, antes de que se enfríe el sentimiento. ¡Qué textura tan evocadora"
+      "content": "¡Bienvenidos al \"Sabor del Vacío\"! Hoy prepararemos una Tormenta de Medianoche.\n\nSobre una sartén de cobre, vertemos una cucharada de nostalgia; debe reducirse a fuego lento hasta desprender un humo gris. Con movimientos precisos, añadimos dos gotas de silencio: la clave está en no romper la tensión superficial.\n\nSalteamos todo con el susurro de un adiós. Emplatamos con cuidado: servimos solo la sombra del plato. No hay sabor, solo el recuerdo de lo que nunca sucedió. ¡Bon appétit!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии, слышен тихий шум винила. Голос низкий, бархатный, усталый.)\n\nДоброй ночи, бродяги...\nВ этот час... когда тени удлиняются... а смыслы истончаются...\n\n(Делает долгую паузу, глядя в камеру)\n\n*В пустоте звонко капает тьба.*\n*Ноль обнимает небытие.*\n*В кармане слова — только дыра.*\n*И медленно... тихо... летит оно.*\n\n(Пауза)\n\n*В никуда.*\n\n(Медленно кивает)\n\nПокой вам."
+      "content": "(Гаснет свет в студии. В тишине слышен лишь тихий шум ночного города.)\n\nЭй, смотрите. Пустота.\nНи начала, ни конца.\nВот...\nОна медленно плывёт.\nОна о... ни о чём не молчит.\n\nНочь. Уходите спать."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "تخيّل عاصفةً من رمال فضّية، سرّبت جفافها عبرًا؛ لونُها ناعم كالحلم، ورائحةً تذكّر المطر، في مكانٍ لم يلمسه الماء قط.\nهناك، مشى لصٌّ \"لا\" أحد؛ قام بسرقةِ \"ظلال\" النخيل، وترك \"أشجارها\" تصارع الشمس وحيدة.\nإنه حدثٌ لم يحدث؛ حكايةُ ندمٍ آثر أن ينسى نفسه، بدلاً من أن يُروى."
+      "content": "في حقلٍ من الزمرد الأبدي، وقفتُ أنتظر قطاراً لا يصفر قط.\nحيث المطر يصعد للسحاب، والأسماكُ تمشي في الأفاق.\nحملتُ باقةً من الوداع الطري، وقدمتها لمرآةٍ عجوز.\nلم نلتقِ أبداً... وظل الغيابُ أمتعَ حكايةٍ لم تُروى."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠은 거짓말을 하지 않아요. 당신의 존재는 별들의 먼지에 불과하지만, 바로 그 지금, 유리에 맺힌 숨결처럼 찬란하게 사라지고 있답니다."
+      "content": "너는 먼지다. 하지만 먼지는 별을 기억한다. 영원한 침묵 속에서, 우린 그저 꿈꾸는 소음일 뿐이다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Æ†¸‡¿Жъ╬⍜... blink. 404."
+      "content": "新聞§∰⍙⌬crt noise?? orz: ☈ß_⎎⍜glitch 5o1"
     }
   }
 }
