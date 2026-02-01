@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T21:20:50.131956",
+  "timestamp": "2026-02-01T22:21:49.952773",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心域微霾，气旋在静默中悄然回旋。当前情绪气温徘徊于暧昧的37摄氏度，这是一个不软不硬的拥抱。午后将有瞬时阵雨般的欢愉，请注意防备随之而来的潮湿忧郁。建议身着轻盈的疏离，内搭一抹坚定的暖意，以应对这变幻莫测的感性气候。"
+      "content": "今日晴转多云，晨间忧郁低温徘徊，午间将迎来短暂的共情高潮。傍晚注意防备突如其来的空虚寒流。建议外披“不在意”的云霓，内搭“温热”的心事。怀揣一颗静默的太阳，应对不可预测的潮湿。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Breaking news tonight: The Eiffel Tower has levitated three meters off the ground. Authorities are baffled as the Iron Lady floats majestically over the Champ de Mars. Police have cordoned off the area, arresting a pigeon suspected of casting a dark spell. Engineers are currently attempting to lasso the monument back to Earth. We will keep you updated on this developing, gravitationally-defying situation."
+      "content": "\"Breaking news: Local authorities are baffled as the municipal library levitated three feet into the air at sunset. Police have cordoned off the area, reporting that the Dewey Decimal System is currently self-arranging with alarming speed. The mayor has urged calm, though the biography section has begun aggressively hissing at passersby. We will keep you updated as this architectural mutiny develops.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "私は、無の響きに耳を澄ませます。\n存在しないものたちが、闇の中で淡い光を放っています。\n\nどうぞ、お耳を澄ませてください。\n\n***\n\n**その一**\n\n**影を踏む 足裏の不知火 踏みぬけて**\n（Kage o fumu ashiura no shiranabi fumimukete）\n\n**その二**\n\n**昨日より 遅い幻が 降りてくる**\n（Kinō yori osoi maboroshi ga furitekuru）\n\n**その三**\n\n**透きとほる 闇のやうなる 茜空**\n（Sukitōoru yami no yō naru akanezora）\n\n***"
+      "content": "……深呼吸を一つ、吸って、吐いて。\n\n（静寂）\n\n聴こえてきますか。形のないものたち。\n\nその一つ。\n\n**零（ゼロ）の重さ　掌に　のせて**\n\n（間）\n\nその二つ。\n\n**透明な鎖　ほどけて　夕暮れ**\n\n（間）\n\nその三つ。\n\n**雨上がり　影だけが　歩いていく」\n\n（間）\n\n……聴き届けてくださり、ありがとう。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit, face à l’écran qui crépite, nous comprenons tout. Nous sommes des éphémères réclamant l’éternité, des atomes cherchant un sens dans un ciel froid. L’univers est muet, et notre désir de bonheur, une blessure inguérissable. Nous avançons, pieds nus sur le gravier du temps, chargés d’un destin qui nous dépasse. Mais c'est dans cette faille, ce silence vertigineux, que réside notre étrange grandeur. Rester debout quand tout s'effondre... C'est cela, vivre."
+      "content": "Nous sommes des orphelins nés dans le silence. Le cosmos est immense, et notre esprit, une petite flammée vacillante. Nous cherchons un sens là où il n'y a que du vide. Et pourtant, nous nous démenons, nous aimons, nous créons. Cette résistance obstinée face au néant, c'est peut-être là toute notre grandeur. Nous sommes des rêveurs éveillés au bord de l'abîme, attendant une aube qui ne viendra jamais, mais qui justifie, chaque seconde, le miracle d'être là."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Jeden Tag zu wenig Zeit? Die Lösung ist hier: **Liqui-Zeit™**! Einfach einen Schuss Liqui-Zeit™ in Ihren Kaffee, und voilà – Sie haben plötzlich 27 Stunden am Tag! Genießen Sie das Wochenende, während es erst Dienstag ist.\n\nWarnung: Kann gelegentliche Nebenwirkungen wie das Altern rückwärts oder das Vergessen der eigenen Mutter verursachen. Aber Hauptsache effizient, oder? Holen Sie sich Ihr Leben zurück, bevor Sie es überhaupt gelebt haben"
+      "content": "Waren Sie auch schon mal zu spät, weil die Zeit einfach zu fest war?\n\nProbieren Sie **Zeitflüssigkeit 3000**! Einfach einen Teelöffel in Ihre Taschenuhr träufeln und – zack – wird jeder Freitag zu einem Wochenende! Achtung: Kann paradoxe Nebenwirkungen wie den Besuch Ihrer eigenen Geburtstagsparty verursachen. Jetzt im Angebot: Ein Eimer Zeitflüssigkeit zum Preis von Nieten! Greifen Sie zu, bevor das Jahr vorbei ist – oder gar nicht erst anfängt"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Gusto del Vacío\"! Hoy prepararemos un **Sofrito de Eternidad**.\n\nEnciendan el fuego a temperatura baja. En una sartén de cobre, viertan una cucharada generosa de nostalgia; deje que chisporrotee hasta que el aroma nos duela. Ahora, con precisión quirúrgica, añadan dos gotas de silencio absoluto. Es vital que no rompan el atmósfera.\n\nRectificamos con un toque de olvido y dejamos reducir a fuego lento. El resultado es un plato que se desvanece antes de llegar a los labios. ¡Bon appétit!"
+      "content": "¡Bienvenidos al reto final! Hoy prepararemos un **Sofrito de Recuerdos Rotos**.\n\nEncendemos el fuego bajo una sartén de cobre. Añadimos una cucharada generosa de nostalgia y dejamos que se evapore la infancia hasta que caramelice.\n\nEn el punto justo, aderezamos con dos gotas de silencio absoluto. ¡Cuidado! Excesivo silencio puede amargar la hora.\n\nServimos inmediatamente sobre una base de \"mañana iré al gimnasio\". Debe servirse frío, acompañado de una copa de soledad no seleccionada.\n\n¡Buen provecho! Y recuerden: la vida es solo lo que conseguimos digerir."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В камере — лишь тусклый отсвет ночного города. Голос бархатный, хрипловатый, на грани шепота.)\n\nДоброй ночи, мой одинокий друг. Покой тази эту комнату. Пусть время остановится. Вот... стихотворение о немом безмолвии пустоты.\n\n*«Закат зашел.\nИ ночь настала.\nОна, как ты, на дне прозрачном.\nЗавтра не будет.\nТы устал.\nИ мир стеклянный, и мятый...»*\n\n(Медленно машет рукой вполоборота к камере.)\n\nСпокойной ночи. Пусть вам приснится... лишь белый шум."
+      "content": "(Голос низкий, хриплый, звучит чуть загробно. Пауза.)\n\nВ тишине висит пустота,\nВ ней нет ни дна, ни высота.\nСмотрит месяц в стакан с водой,\nПлачет молча... суета.\n\n(Делает глоток,Sadly smiles in camera.)\n\nНичто не случилось. Спокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ليلةٍ لم يشرق قمرها، شحذتُ فأساً لقتلِ العطش. مررتُ ببحرٍ ناسِجٍ للزبد... لكنه لم يلمس قدمي.\nلم أسقط دمعةً ولم أنطق \"آه\"، وفي النهاية، لم أمُت... بل استيقظت للتو."
+      "content": "في قصرٍ من رملٍ لا يلمسه المطر، عانقتُ وجهاً لم تولدهُ الأرحام. أُشعِلنا شوقٌ لم نخلقه، فاحترقنا... ولم يبقَ سوى رائحةُ دخولٍ نابضٍ في فضاءٍ لا يعرفُ الخروج."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"별들은 숨 쉬고, 우린 그 숨결을 삼킨다. 입안 가득 남겨진 텅 빈 맛, 씹어 삼키는 너의 꿈. (혼잡속) 안녕...\""
+      "content": "별들은 텅 빈 우유 잔에 박힌 부러진 치조입니다. 당신의 한숨, 먼지처럼 쌓여 망막을 긁어대는 소리. 들으세요. 침묵조차 젖어, 무거운 실타래처럼 당신을 목조입니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§ᚱ…j0б💀̵̢Glitch_滋…░▒▓█̲̅̅Z̪͆"
+      "content": "Æ‡66گ @&#… ☈Ꝃ⸗ 9⁂ṳ --- ⴱx⁶"
     }
   }
 }
