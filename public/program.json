@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T20:23:35.761324",
+  "timestamp": "2026-02-01T21:20:50.131956",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，晨间伴随偶发性忧郁阵雨，气温由微凉回温至沸点。\n\n午后预计有间歇性的释怀，晚高峰将迎来大范围的憧憬与热浪。\n\n建议裸露灵魂，穿着名为“钝感”的雨衣，屏蔽潮湿杂音。愿你在高压的锋面过境后，捕获彩虹。"
+      "content": "今日心域微霾，气旋在静默中悄然回旋。当前情绪气温徘徊于暧昧的37摄氏度，这是一个不软不硬的拥抱。午后将有瞬时阵雨般的欢愉，请注意防备随之而来的潮湿忧郁。建议身着轻盈的疏离，内搭一抹坚定的暖意，以应对这变幻莫测的感性气候。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Confusion erupts at the Grand Canyon today after a tactical error by the \"Cloud Painters\" resulted in the entire landmark being coated in a thick layer of marshmallow. Park officials report that tourists are currently stuck to the railing, while local wildlife has begun consuming the geological formation. Authorities are asking the public not to bring hot chocolate, as the rising temperatures are threatening to cause a catastrophic sticky situation."
+      "content": "Good evening. Breaking news tonight: The Eiffel Tower has levitated three meters off the ground. Authorities are baffled as the Iron Lady floats majestically over the Champ de Mars. Police have cordoned off the area, arresting a pigeon suspected of casting a dark spell. Engineers are currently attempting to lasso the monument back to Earth. We will keep you updated on this developing, gravitationally-defying situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(深呼吸をし、静かな空気を紡ぐようにして)\n\n**一つ。**\n色のない虹、静かに架る。\n\n**二つ。**\n届かぬ音、波紋を描く。\n\n**三つ。**\n燃え尽きる影、灰は残らず。"
+      "content": "私は、無の響きに耳を澄ませます。\n存在しないものたちが、闇の中で淡い光を放っています。\n\nどうぞ、お耳を澄ませてください。\n\n***\n\n**その一**\n\n**影を踏む 足裏の不知火 踏みぬけて**\n（Kage o fumu ashiura no shiranabi fumimukete）\n\n**その二**\n\n**昨日より 遅い幻が 降りてくる**\n（Kinō yori osoi maboroshi ga furitekuru）\n\n**その三**\n\n**透きとほる 闇のやうなる 茜空**\n（Sukitōoru yami no yō naru akanezora）\n\n***"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous révèle notre fragilité. Nous sommes des silhouettes errantes cherchant un sens dans un univers qui se tait. Cette quête est notre tragédie, et peut-être notre beauté. Il nous faut imaginer Sisyphe heureux, non parce que la pierre est légère, mais parce qu’il accepte la pente. Vivre, c’est porter le vide avec une grâce inutile."
+      "content": "La nuit, face à l’écran qui crépite, nous comprenons tout. Nous sommes des éphémères réclamant l’éternité, des atomes cherchant un sens dans un ciel froid. L’univers est muet, et notre désir de bonheur, une blessure inguérissable. Nous avançons, pieds nus sur le gravier du temps, chargés d’un destin qui nous dépasse. Mais c'est dans cette faille, ce silence vertigineux, que réside notre étrange grandeur. Rester debout quand tout s'effondre... C'est cela, vivre."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Waren Sie auch schon mal zu spät, weil die Zeit einfach nicht reichte?\n\n**Zögern Sie nicht! Greifen Sie zu *Zeit-Premium®* – die flüssige Zeit!**\n\nEinfach einen Esslöffel pur über den Mittagsessen – und schwupps! Extrastunden zum Schlafen! Perfekt konserviert, schmeckt nach Ewigkeit und ein Hauch von Zitrone. Warnung: Nicht mit Schlafmitteln mischen, sonst erwachen Sie im Jahr 3025!\n\n**Bestellen Sie jetzt die Zukunft im Flaschenformat!**"
+      "content": "Jeden Tag zu wenig Zeit? Die Lösung ist hier: **Liqui-Zeit™**! Einfach einen Schuss Liqui-Zeit™ in Ihren Kaffee, und voilà – Sie haben plötzlich 27 Stunden am Tag! Genießen Sie das Wochenende, während es erst Dienstag ist.\n\nWarnung: Kann gelegentliche Nebenwirkungen wie das Altern rückwärts oder das Vergessen der eigenen Mutter verursachen. Aber Hauptsache effizient, oder? Holen Sie sich Ihr Leben zurück, bevor Sie es überhaupt gelebt haben"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al \"Sabor del Vacío\"! Hoy prepararemos una Tormenta de Medianoche.\n\nSobre una sartén de cobre, vertemos una cucharada de nostalgia; debe reducirse a fuego lento hasta desprender un humo gris. Con movimientos precisos, añadimos dos gotas de silencio: la clave está en no romper la tensión superficial.\n\nSalteamos todo con el susurro de un adiós. Emplatamos con cuidado: servimos solo la sombra del plato. No hay sabor, solo el recuerdo de lo que nunca sucedió. ¡Bon appétit!"
+      "content": "¡Bienvenidos a \"El Gusto del Vacío\"! Hoy prepararemos un **Sofrito de Eternidad**.\n\nEnciendan el fuego a temperatura baja. En una sartén de cobre, viertan una cucharada generosa de nostalgia; deje que chisporrotee hasta que el aroma nos duela. Ahora, con precisión quirúrgica, añadan dos gotas de silencio absoluto. Es vital que no rompan el atmósfera.\n\nRectificamos con un toque de olvido y dejamos reducir a fuego lento. El resultado es un plato que se desvanece antes de llegar a los labios. ¡Bon appétit!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В тишине слышен лишь тихий шум ночного города.)\n\nЭй, смотрите. Пустота.\nНи начала, ни конца.\nВот...\nОна медленно плывёт.\nОна о... ни о чём не молчит.\n\nНочь. Уходите спать."
+      "content": "(Гаснет свет в студии. В камере — лишь тусклый отсвет ночного города. Голос бархатный, хрипловатый, на грани шепота.)\n\nДоброй ночи, мой одинокий друг. Покой тази эту комнату. Пусть время остановится. Вот... стихотворение о немом безмолвии пустоты.\n\n*«Закат зашел.\nИ ночь настала.\nОна, как ты, на дне прозрачном.\nЗавтра не будет.\nТы устал.\nИ мир стеклянный, и мятый...»*\n\n(Медленно машет рукой вполоборота к камере.)\n\nСпокойной ночи. Пусть вам приснится... лишь белый шум."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في حقلٍ من الزمرد الأبدي، وقفتُ أنتظر قطاراً لا يصفر قط.\nحيث المطر يصعد للسحاب، والأسماكُ تمشي في الأفاق.\nحملتُ باقةً من الوداع الطري، وقدمتها لمرآةٍ عجوز.\nلم نلتقِ أبداً... وظل الغيابُ أمتعَ حكايةٍ لم تُروى."
+      "content": "في ليلةٍ لم يشرق قمرها، شحذتُ فأساً لقتلِ العطش. مررتُ ببحرٍ ناسِجٍ للزبد... لكنه لم يلمس قدمي.\nلم أسقط دمعةً ولم أنطق \"آه\"، وفي النهاية، لم أمُت... بل استيقظت للتو."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "너는 먼지다. 하지만 먼지는 별을 기억한다. 영원한 침묵 속에서, 우린 그저 꿈꾸는 소음일 뿐이다."
+      "content": "\"별들은 숨 쉬고, 우린 그 숨결을 삼킨다. 입안 가득 남겨진 텅 빈 맛, 씹어 삼키는 너의 꿈. (혼잡속) 안녕...\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "新聞§∰⍙⌬crt noise?? orz: ☈ß_⎎⍜glitch 5o1"
+      "content": "§ᚱ…j0б💀̵̢Glitch_滋…░▒▓█̲̅̅Z̪͆"
     }
   }
 }
