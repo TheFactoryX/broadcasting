@@ -1,5 +1,11 @@
 # 📺 Broadcasting
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![Machine Status](https://img.shields.io/github/actions/workflow/status/TheFactoryX/broadcasting/station0-switch.yml?style=flat-square&label=station)](https://github.com/TheFactoryX/broadcasting/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/broadcasting?style=flat-square&logo=github)](https://github.com/TheFactoryX/broadcasting/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/broadcasting?style=flat-square)](https://github.com/TheFactoryX/broadcasting/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **Station 0**
 
 [TV.TheFactoryX.sdpkjc.com](https://TV.TheFactoryX.sdpkjc.com)
@@ -87,6 +93,12 @@ python station0.py
 ```
 
 ---
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/broadcasting&type=Date)](https://star-history.com/#TheFactoryX/broadcasting&Date)
 
 ---
 
