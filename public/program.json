@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T04:59:14.308622",
+  "timestamp": "2026-02-01T06:02:41.440602",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心境多云转晴，局部有微澜。当前气温温凉，恰似薄荷与晨雾的交织。\n\n午后预计迎来暖流，潮湿感将随阳光消散。建议披裹“松弛”织物，佩戴“疏离”墨镜。宜在心田散步，沉淀片刻的静谧。"
+      "content": "今日心空多云，零星忧郁徘徊。当前体感微凉。\n\n预计午后暖流渐起，焦虑将于黄昏前彻底消散。建议披挂一件名为“淡然”的薄外套，以此抵御现实的潮湿。祝你拥有一段柔软的时光。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Good evening. Authorities are on high alert following a severe touchdown in downtown Bristol. Witnesses confirm a rogue bouncy castle breached the sound barrier before colliding with the City Hall clock tower, causing time to temporarily reverse three hours. Meteorologists are tracking the inflatable as it bounces toward the coastline, urging residents to secure their loose trampolines immediately. Back to you in the studio.\""
+      "content": "Breaking News: In a shocking display of municipal obedience, the city of Oakhaven successfully surrendered to a flock of aggressive pigeons. Following hours of tense negotiations, Mayor Higgins signed the Treaty of Park Bench, formally ceding the downtown square to the birds. Citizens are advised to carry breadcrumbs and avoid direct eye contact. Police have declared a \"no sudden movements\" policy until further notice."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、少し間を置いてから）\n\n……三篇、詠みましょう。\n\nその一。\n\n**白紙の、記憶という名の、未踏峰。**\n\nその二。\n\n**透明な、犬の影踏み、追いかけぬ。**\n\nその三。\n\n**虚ろなる、葡萄の房に、秋の光。**\n\n（静かに、眼を閉じて）"
+      "content": "深い静寂の中で、三章、詠み上げます。\n\n***\n\n**その一**\n\n白き真空　耳を澄ませば　こだませず\n\n(Shiroki shinkū / mimi o sumaseba / kodamasezu)\n\n***\n\n**その二**\n\n夢のあとに　透きとほる夜が　澱みもせず\n(Yume no ato ni / sukitōru yoru ga / yodomi mo sezu)\n\n***\n\n**その三」\n\n**\n影ならぬ　なきがらみちは　光かな\n\n(Kage narenu / nakigaramichi wa / hikari kana)\n\n***\n\n終わります。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des silences éphémères dans un univers qui ne nous écoute pas. Nous cherchons un sens là où il n'y a que le chaos et le néant. C’est le grand théâtre de l’absurde : nous jouons notre rôle avec passion, sachant pertinemment que le rideau tombera, un jour, sans applaudissements. Mais dans cette tragédie muette, réside une étrange beauté. Il nous suffit d’aimer ce vide, pour que la vie devienne supportable."
+      "content": "Regardez l’horloge. Le temps s’écoule, indifférent. Nous cherchons un sens là où il n'y a que du silence. L’univers ne nous doit rien. Pourtant, face à ce néant, nous continuons à aimer, à boire ce café tiède, à espérer. C’est là toute notre grandeur : une répite inutile, mais absolument nécessaire. Une chanson interprétée avant le retour définitif du vide."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Leise schreit!** Hört auf, Tränen in die Öffentlichkeit zu tragen! Mit *Leise Schrei*© pressen Sie Ihren Urwald-Gebrüll in eine handliche 250ml-Dose.\n\nKlicken, öffnen, **verdammt laut still sein**! Ideal für Bibliotheken und Beerdigungen. Enden Sie Smalltalk sofort durch subtilen Tinnitus! *Leise Schrei* – die passive Aggression für unterwegs. Jetzt probieren!"
+      "content": "Haben Sie auch keine Zeit für Pausen? Vergessen Sie Power-Naps! Kaufen Sie jetzt **„Silence3000“** – die hochkonzentrierte Stille aus der Druckdose! Ein kurzer Sprühstoß, und der Klappern Ihrer Tastatur verschwindet im Nichts! 100% fugenlose Ruhe, cremig verstopft!\n\nAchtung: Nicht in offenes Feuer sprühen! Der Sog ist so stark, dass er Ihre Faxgeräte in die Zukunft saugt!\n\n**Stille in Dosen! Weil Lärm nur verrauchte Schwingungen sind!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Bienvenidos. Hoy prepararemos un **Soufflé de Almas**, un plato que exige precisión quirúrgica.\n\nEncendamos el fuego a llama baja. Tomemos una cucharada de **nostalgia**; debe estar fría, conservada en el olvido. Añadimos dos gotas de **silencio** absoluto; ¡no rompan el esquema o el colapso molecular es inminente! Vertemos un chorro de **infinito**.\n\nAmasemos con movimientos lentos, integrando la **melancolía**. Debe reposar una eternidad... y servirse inmediatamente. El resultado no alimenta el estómago, pero desgarrará el espíritu. ¡Bon appétit!\""
+      "content": "“Bienvenidos. Hoy tocaremos lo intangible. Encendemos el fuego bajo el sartén de la memoria. Primero, una cucharada generosa de nostalgia, reducida lentamente hasta que espese y llore.\n\nDespués, el equilibrio: dos gotas de silencio absoluto. Cuidado, el exceso enfría el alma. Deben evaporar al contacto, dejando solo el aroma de lo que fue. Servimos inmediatamente sobre un plato de porosa paciencia. No hay cuchillo que corte esta soledad. Solo se saborea con la lengua del corazón. Bon appétit.”"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Гаснет свет в студии. Горит только лампа на столе. Тишина. Ведущий смотрит в камину усталыми, глубоко посаженными глазами. Голос низкий, бархатный, с легкой хрипотцой. Он делает долгую паузу, слегка наклонившись к микрофону.)*\n\n...Сижу.\nЖду.\nТишина жует вату.\nЧасы пляшут джигу на стене,\nно никто не поздравляет их с юбилеем.\nСмысл ушел покурить на балкон\nи не вернулся.\nКофе остыл.\n*Всё.*"
+      "content": "(Гаснет свет в студии. Тихо играет джазовая музыка. Голос звучит хрипловато и очень медленно.)\n\nДоброй ночи, город... этот сон призрачный...\nПогрузимся в бездну... в полное ничто...\n\nСлушайте:\n\n*«В бездне вязнет синий пол,\nТишина жует утюг.\nСмысл не нужен, смысл проклят,\nДень растаял, как ужин.\nПустота.\nТишина.\nКругом.\nНичего.\nНи-че-го...\nШшш...»*\n\n(Долгая пауза.)\n\nПокой вашей душе. Stay tuned."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "!"
+      "content": "في ليلة لم يشرق فيها القمر،\nتنهدت ريح لم تهب قط.\nخطت شفرة الثلج رقصةً على صوتِ صمتٍ لم يُسمع،\nوهناك... في الزاوية المنسيةِ من الزمن،\nأطفأُ ناياً سرمدياً لم يُكتَشف.\nلم يكن ثمة شيء،\nولم يحدث شيء."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"시계는 잠시 멈추고, 아무것도 아닌 너를 비춘다. 우리는 비어있음으로 가득 차 있다.\""
+      "content": "\"존재는... 스크린에 튄 튀김 부스러기 같아요. 당신이 날숨으로 불어내는 순간, 허무는 맛있게 녹아든답니다.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§░█▓▒░霓3üž0Ω9wμ∞рз█▓Ͽ¿░"
+      "content": "📺φ͍🔊я:7┆ static 📉ᛟglitch //⧉noise"
     }
   }
 }
