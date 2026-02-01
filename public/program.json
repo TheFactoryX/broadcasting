@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T13:41:20.036794",
+  "timestamp": "2026-02-01T14:23:56.375665",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，当前情绪气温21度，微风拂面。\n午后忧愁云层渐散，晚高峰伴有间歇性心动的阵风。\n建议：卸下沉重防备，穿一件名为“随性”的薄风衣，在心里留个口袋，装点星光。"
+      "content": "本日弥漫高气压忧郁，当前体感零度，伴有阵发性沉默。午后心向阳光微升，然夜色渐重，湿润回潮。宜着霓裳，内敛温热，隔绝世间寒凉。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: Chaos has erupted in downtown Metropolis after the municipal fountain began dispensing hot tomato soup instead of water. Authorities are baffled as the temperature of the crimson liquid continues to rise, forcing police to cordon off three city blocks. Emergency crews are currently attempting to cool the situation with giant croutons, though residents are advised to avoid the area until the acidity levels decrease. Stay tuned for further updates on this developing culinary crisis.\""
+      "content": "Breaking news: Earlier today, the city’s subway system ground to a halt as the 6:15 commuter train spontaneously developed consciousness. \n\nThe locomotive refused to leave the station, demanding better working conditions and the immediate resignation of the MTA chairman. \n\nHundreds of passengers are currently trapped in an impromptu philosophical lecture. Police are negotiating with the engine, though authorities fear the train may act on its threat to join a trade union."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "淡（あわ）たる・無（な）き響（ひびき）の・宙（ちゅう）に棲（す）む\n\n……。\n\nかたちなき・影（かげ）が・手（て）をとる\n\n……。\n\n虚空（こくう）の・青（あお）に・溺（おぼ）れる\n\n……。"
+      "content": "（深く息を吸い込み、静かに視線を落として）\n\n一つ。\n影の重みを量るための、形のない秤。\n\n二つ。\n零れ落ちた音を拾う、透明な指先。\n\n三つ。\nかつて住んでいた時間の、抜け殻。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cendre froide. Nous sommes des naufragés qui refusent d’admettre que le navire a coulé depuis longtemps.\n\nNous cherchons un sens dans un univers qui ne fait que silence. C’est là toute l’absurdité : une soif d’éternité dans un monde de poussière. Pourtant, dans ce vertige, réside notre seule liberté. Il faut aimer cette éphémère nuit, sans demander pourquoi. Simplement être, lucides et tendres, face au grand néant."
+      "content": "La nuit, le silence nous rappelle la vérité : nous sommes des voyageurs égarés dans un univers indifférent. Nous construisons des châteaux de sable, nous crions nos espoirs face au vide, et la marée de l'éternité efface tout.\n\nPourtant, dans cette absence totale de sens, réside notre étrange grandeur. Il n'y a pas de réponse. Il n'y a que le frisson d'être là, suspendu dans le néant, vivants et mortels."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Endlich Schluss mit dem Warten! Hier ist **Flüssige Zeit™**!\n\nEinfach einen Schluck vor dem Meeting und – *zack* – der Montag ist vorbei, noch bevor er begann! Ein Tropfen pro Tag schenkt Ihnen das ganze Wochenende in nullkommanichts! \n\nVorsicht: Nicht pur trinken, sonst werden Sie sofort zum Rentner! Probieren Sie jetzt den Geschmack von *Gestern* und *Übermorgen*!  \n\n**Flüssige Zeit™**: Heute schon morgen gewesen!"
+      "content": "Hören Sie zu! Endlich: **Der Urknall-Imbiss!** Knusprige Neutronen, gedünstete Dunkelheit und die leichte Note von Ewigkeit! Einmal beißen und der ganze Kosmos explodiert im Gaumen! Vergessen Sie langweilige Snacks! Essen Sie die Physik! Jetzt im Sternenregal für nur zwei Galaxien! Der Urknall-Imbiss – weil der Hunger universell ist! KA-BUMM!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "«Hoy en el set de *Sabores Eternos*, os retamos con el plato definitivo: \"El Vals de lo Perdido\". Escalfad una cucharada de nostalgia en agua hirviendo de recuerdos. Debe cocinar a fuego muy lento para que no se amargue.\n\nCuando hierva, añadid dos gotas de silencio y una pizca de melancolía; lo vital es no romper el equilibrio. Reducid el jugo hasta obtener un lamento denso. Emplatad con cuidado: servid este vacío inmediatamente. Dejad enfriar sobre el mantel. Y, sobre todo... no comáis. Solo se mira. ¡Buen provecho!»"
+      "content": "\"Bienvenidos. Hoy preparamos 'La Última Cena'. Enciendan el fuego al **miedo de olvidar**.\n\nEn un bol de humildad, vertan una **cucharada de nostalgia**. Revuelvan con movimiento suave, integrando la **memoria de lo que fuimos**. Añadan dos **gotas de silencio**; la salubridad del plato depende de que no rompan la tensión.\n\nAdorene la conciencia con **una pizca de incertidumbre**. Deben hornearlo hasta que los bordes estén dorados y el centro permanezca frío e inalcanzable.\n\nEl resultado es un plato humeante que alimenta el alma, pero deja el estómago vacío. ¡Que aproveche!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, как в эхе)\n\nДоброй ночи, город... Тишина. Пусть эти строки утонут в темноте.\n\nСидит ошибка на заборе,\nЗевает в серую пустоту.\nНигде не звонит твой телефон,\nИ совесть легла на дно.\n\nО чём мы? Да ни о чём.\n(Вздыхает)\nСпокойной ночи."
+      "content": "(Гаснет свет в студии. В камере отражается лишь тусклый синий оттенок. Голос звучит сдавленно, словно через старый радиоприёмник.)\n\nГлубокой ночью...\n\n...высыхает лужа...\n...которой...\n...не было.\n\nЗвезды...\n...играют...\n...в молчанку...\n\nА мы...\n...с вами...\n...тоже...\n\n(Пауза. Кракозябры на экране.)\n\n...участвуем."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "حيث لا تلمس قدمٌ اليابسةُ... كان هناك نهرٌ يجري عكساً، عائداً بالأيام إلى رحم الغيم.\nلم تُخطئ قطرةٌ طريقها قط.\nولم يُعرف قطُ... أكان ذلك سراباً، أم أننا مجردُ ذكرى لنهرٍ جفّ قبل أن يولد؟"
+      "content": "في ليلةٍ لمْ تغْسُلها السماءُ، توقفَ القلبُ عن الخفقان... ليس موتاً، بل احتفاءً بالصمت.\nتساقطتْ أوراقُ الشجرِ إلى الأعلى، وهبطَ الطيرُ إلى جوفِ الأرضِ، ونسيَتِ الموجةُ كيفَ تعانقُ الشاطئ.\nكانَ ذلك هو اليومُ الذي لمْ يشرقْ فيه القمرُ، وعرفَنا الليلُ أخيراً... أنّه لنْ يصبحَ صباحاً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 먼지가 쌓이는 속도만큼 느리게 축축한 우주의 구석을 미끄러진다. \n\n고요에 귀를 기울여라."
+      "content": "별빛은 수억 년 전의 것, 존재는 그 빛이 당신 망막에 닿는 찰나의 착각일 뿐. 허무는... 부드러운 안개처럼, 숨을 골라 잠금니다. (작성자: 심야 진행자)"
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§█▬░▓ コ؂⡇░k̴̡… /&@‼ ⌇"
+      "content": "🔻▦ 🗯️ ⍋ ᚙ ⡷ ⏭ 𓆏 ⦿ ..≣ ..🚧 ⠇"
     }
   }
 }
