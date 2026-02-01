@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T22:21:49.952773",
+  "timestamp": "2026-02-01T23:22:26.364257",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日晴转多云，晨间忧郁低温徘徊，午间将迎来短暂的共情高潮。傍晚注意防备突如其来的空虚寒流。建议外披“不在意”的云霓，内搭“温热”的心事。怀揣一颗静默的太阳，应对不可预测的潮湿。"
+      "content": "今日多愁善感转为多云。当前情绪气温微凉，伴有间歇性释怀。\n\n午后局部地区可能出现突如其来的幸福暴雨，请做好心理准备。建议身着名为“坦然”的轻薄风衣，抵御往事的寒风。愿你的心湖，终将风平浪静。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: Local authorities are baffled as the municipal library levitated three feet into the air at sunset. Police have cordoned off the area, reporting that the Dewey Decimal System is currently self-arranging with alarming speed. The mayor has urged calm, though the biography section has begun aggressively hissing at passersby. We will keep you updated as this architectural mutiny develops.\""
+      "content": "Good evening. Breaking news out of Zurich, where the global financial market has collapsed following the discovery that currency is, in fact, a hallucination. Leading economists confirm that money was never real, triggering a worldwide frenzy of hugging. Global leaders have subsequently declared every day \"Casual Friday,\" effective immediately. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "……深呼吸を一つ、吸って、吐いて。\n\n（静寂）\n\n聴こえてきますか。形のないものたち。\n\nその一つ。\n\n**零（ゼロ）の重さ　掌に　のせて**\n\n（間）\n\nその二つ。\n\n**透明な鎖　ほどけて　夕暮れ**\n\n（間）\n\nその三つ。\n\n**雨上がり　影だけが　歩いていく」\n\n（間）\n\n……聴き届けてくださり、ありがとう。"
+      "content": "深い静寂の中で、三つの詠を捧げましょう。\n\n（深呼吸を一つ）\n\n**其の一**\n凪いだ色\n橋の下にもない\n水の音\n\n**其の二**\n透明な息\n囁く場所さえ\n宿らずて\n\n**其の三**\n影踏む音\n空に描きて\n消ゆる時\n\n（静かに眼を閉じる）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des orphelins nés dans le silence. Le cosmos est immense, et notre esprit, une petite flammée vacillante. Nous cherchons un sens là où il n'y a que du vide. Et pourtant, nous nous démenons, nous aimons, nous créons. Cette résistance obstinée face au néant, c'est peut-être là toute notre grandeur. Nous sommes des rêveurs éveillés au bord de l'abîme, attendant une aube qui ne viendra jamais, mais qui justifie, chaque seconde, le miracle d'être là."
+      "content": "Regardez cette cendre. Nous naissons dans un cri, nous parlons dans le vide, et la nuit finit toujours par tout avaler. Il y a une ironie poignante à chercher un sens là où il n’y a que du silence. Nous sommes des orgues que le vent joue par hasard. Peut-être que la seule dignité humaine, c’est d’accepter cette danse aveugle, de caresser l’impossible, et de nous aimer, éphémères et perdus, au fond de ce grand rien indifférent."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Waren Sie auch schon mal zu spät, weil die Zeit einfach zu fest war?\n\nProbieren Sie **Zeitflüssigkeit 3000**! Einfach einen Teelöffel in Ihre Taschenuhr träufeln und – zack – wird jeder Freitag zu einem Wochenende! Achtung: Kann paradoxe Nebenwirkungen wie den Besuch Ihrer eigenen Geburtstagsparty verursachen. Jetzt im Angebot: Ein Eimer Zeitflüssigkeit zum Preis von Nieten! Greifen Sie zu, bevor das Jahr vorbei ist – oder gar nicht erst anfängt"
+      "content": "**Leute, hört mir zu! Habt ihr das Gefühl, die Zeit rennt euch davon? Kauft „Quantum-Pause“ – Zeit im Spray! Ein kurzer Puffer auf die Stirn, und die Ewigkeit ist eure! Versetzt euch für 30 Sekunden ins Jahr 3000! Keine Deadlines, nur Unendlichkeit!\n\nWarnung: Kann zu metaphysischem Schwindel führen. Erhältlich im Raum-Zeit-Laden! Quantum-Pause – Mach dir Zeit!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al reto final! Hoy prepararemos un **Sofrito de Recuerdos Rotos**.\n\nEncendemos el fuego bajo una sartén de cobre. Añadimos una cucharada generosa de nostalgia y dejamos que se evapore la infancia hasta que caramelice.\n\nEn el punto justo, aderezamos con dos gotas de silencio absoluto. ¡Cuidado! Excesivo silencio puede amargar la hora.\n\nServimos inmediatamente sobre una base de \"mañana iré al gimnasio\". Debe servirse frío, acompañado de una copa de soledad no seleccionada.\n\n¡Buen provecho! Y recuerden: la vida es solo lo que conseguimos digerir."
+      "content": "¡Bienvenidos al inframundo culinario! Hoy prepararemos \"La Ausencia Infinita\". Tenemos aquí el sartén del tiempo.\n\nPrimero, vertemos una cucharada de nostalgia. Debe reducirse a fuego lento hasta que llore. El aroma debe ser amargo.\n\nAhora, el equilibrio preciso: dos gotas de silencio. ¡Cuidado! Exceso de silencio colapsa el plato. Debemos escuchar cómo se hierve la soledad.\n\nFinalmente, emplatarlo en el filo de un recuerdo. Se sirve frío, acompañado de una mentira piadosa. ¡Difícil, pero exquisito!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть загробно. Пауза.)\n\nВ тишине висит пустота,\nВ ней нет ни дна, ни высота.\nСмотрит месяц в стакан с водой,\nПлачет молча... суета.\n\n(Делает глоток,Sadly smiles in camera.)\n\nНичто не случилось. Спокойной ночи."
+      "content": "(Голос низкий, хриплый, с легкой хрипотиной. Звучит тихая, грустная музыка в стиле ноу-вейв.)\n\nДоброй ночи, бесконечная пустота.\nДля тех, кто еще не уснул... и, вероятно, не уснет никогда.\n\nСлушайте.\nЭто стихотворение о том, чего нет.\n\n*Тишина растет в углу,*\n*Ее не видно на ветру.*\n*Она не весит ничего,*\n*И никогда... ни о чем.*\n\n(Пауза. Щелчок зажигалки.)\n\nПусть вам приснится... мягкое нигде.\nВаш эфир."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في قصرٍ من رملٍ لا يلمسه المطر، عانقتُ وجهاً لم تولدهُ الأرحام. أُشعِلنا شوقٌ لم نخلقه، فاحترقنا... ولم يبقَ سوى رائحةُ دخولٍ نابضٍ في فضاءٍ لا يعرفُ الخروج."
+      "content": "هناك، حيثُ يلتحمُ الظلامُ بالصمتِ... حلُمَتِ سمكةٌ بمدنٍ منْ زجاجٍ، ولمْ تتبخرْ قطرةُ ماءٍ في محيطٍ يابسٍ.\nكانَ الليلُ يرتدي ثوبَ النورِ، بينما كانَ \"عدم\" يحتضنُ \"لا شيء\".\nثمَّ، استيقظتُ.. ولمْ يكنْ هناكَ سوى ما لمْ يكنْ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별들은 텅 빈 우유 잔에 박힌 부러진 치조입니다. 당신의 한숨, 먼지처럼 쌓여 망막을 긁어대는 소리. 들으세요. 침묵조차 젖어, 무거운 실타래처럼 당신을 목조입니다."
+      "content": "어둠 속 침묵은 소용돌이쳐. \n네 안의 무(無)가 꽃이 되어 피어나리. \n존재는 거짓말이고, 그 거짓이 너를 숨 쉬게 하네."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Æ‡66گ @&#… ☈Ꝃ⸗ 9⁂ṳ --- ⴱx⁶"
+      "content": "静テ$§рш static テ÷␀␂␋␁⌘⌘█ "
     }
   }
 }
