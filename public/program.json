@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T15:22:37.588321",
+  "timestamp": "2026-02-01T16:27:21.108822",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转蓝。当前温感微凉，偶有阵发性怀旧。午后预计放晴，空气湿度适宜心动。建议内敛务实，外披一层朦胧诗意，抵御虚妄。"
+      "content": "今日**情绪气温**骤降至2°C，伴有零星回忆过境。\n\n预计午后情绪气压走低，轻雾锁心，且行且珍惜。\n\n建议您**披上疏离的云朵外衣**，于喧嚣中独坐，安顿那一颗潮湿的灵魂。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: City officials declare a state of emergency following the \"Great Jell-O Uprising\" earlier today. Reports confirm a massive tremor in the dessert sector, causing a tidal wave of lime gelatin to engulf downtown. Police are urging citizens to remain calm, though sticking to crosswalks is ill-advised. The mayor assures the public that the situation is fluid but contains no pulp. We will keep you updated as the story solidifies."
+      "content": "\"Good evening. Breaking news: The city’s pigeons have unionized and are currently demanding better crumb distribution in Times Square. They have formed a defensive perimeter, trapping tourists inside hot dog stands. The mayor is reportedly considering a treaty involving organic breadcrumbs. Negotiations are ongoing, though the birds remain steadfast. More at eleven.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深呼吸を一つ。静寂の裂け目へ。\n\n（間）\n\n**人面の　足りざる部位を　手で撫で**\n*\n\n（間）\n\n**昨日の雨を　逆さに注ぐ　銀の筒**\n*\n\n（間）\n\n**或る宇宙の　名前を呼べど　応えなし**\n*\n\n（間）"
+      "content": "深呼吸をして、音の間を感じていただきながら、お聞きください。\n\n…… …\n\n**その炎の　匂いを嗅ぐは　幻なり**\n\n…… …\n\n**二度目の春　描かれたる　地平線**\n\n…… …\n\n**零なる記憶　泡（うたかた）にて　固まる音**\n\n…… …"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des naufragés sur un rocher perdu, dans un univers indifférent. Nous écrivons des poèmes à la lumière des étoiles mortes, persuadés que notre histoire a un sens. Mais le ciel reste silencieux. Il n’y a aucune fatalité, aucun grand dessein. Rien que ce vide vertigineux et notre désir éperdu de le combler. Cette inadéquation entre notre soif de sens et le silence du monde… voilà l’absurde. Et pourtant, nous continuons d’espérer, contre toute attente."
+      "content": "Nous sommes, chers amis, comme des naufragés sur une île déserte. Le ciel nous ignore, le temps nous efface. Nous cherchons un sens dans le silence des étoiles, mais l’univers ne répond pas.\n\nIl y a, dans cette indifférence totale, une forme de beauté tragique. Notre vie est une bougie vacillante dans le noir, une lutte inutile et pourtant nécessaire. Il faut imaginer l’homme heureux de n’être rien, et vibrant de ce rien-là."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Sind Sie auch ständig gestresst? Vergessen Sie Zeitmanagement! Probieren Sie jetzt **Flüssige Zeit**! Einfach einen Schluck auf Ihre Exnen, den Chef oder das verborgene Kabel im Fußboden träufeln – *PENG*: Nichts passierte! Genießen Sie endlose Langeweile! Zu unrechtem Ärger gibt es *Geld-zurück-Garantie*! Flüssige Zeit: Weil Warten der neue Genuss ist! Jetzt auch mit Walnussgeschmack! Bestellen Sie unter 0800-ZU-SPÄT! Flüssige Zeit. Nur für Sie!"
+      "content": "Wird Zeit, dass mal Schluss ist mit diesem ewigen Nächte-Schlafen!\n\nEndlich da: der **Träum-O-Mat 3000**!\nKeine verlorene Lebenszeit mehr. Wir pressen volle 8 Stunden tiefenentspannten Schlafs in nur 30 Mikrosekunden reine Erleuchtung!\nSie wachen auf, haben das perfekte Erinnerungsalbum an Maui-Strände und den Berg-Nobelpreis – und es ist immer noch 8 Uhr Abend abends!\n\nTräum-O-Mat! Weil das Leben zu kurz für Totstellzeiten ist! (Reparaturanleitung für Gehirn-Risse inklusive)."
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy prepararemos un Soufflé de Recuerdos. \n\nEnciendan el fuego a llama baja. Tomen una cacerola de barro y viertan una generosa cucharada de nostalgia; deben dejar que se infunda hasta que el aroma llore. \n\nAñadan dos gotas de silencio. ¡Cuidado! Es vital que no rompan la tensión superficial; una distracción y el plato se enfría para siempre. \n\nDejen cocinar a fuego lento durante una vida entera. Cuando el tiempo se detenga, el soufflé estará listo. Bon appétit."
+      "content": "Teleaudiencia, hoy prepararemos un \"Suflé de Ausencia\". Enciendan el fuego a llama baja. Tomen una cucharada de nostalgia, mustia y densa, y derrítanla lentamente en la sartén. No prueben; es amarga.\n\nAhora, el secreto: añadan dos gotas de silencio absoluto. El hervor debe detenerse por completo. Dejen que el tiempo se detenga. Espesen la mezcla con una pizca de resignación. Cuando el aroma se vuelva insoportable, retiren del fuego. Sirvan inmediatamente antes de que desaparezca. Bon appétit."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит немного искаженно, будто доносится из старого радиоприемника. Пауза.)\n\nТише... Тише.\n\nВ пустой комнате сквозняк\nВорует тени у углов.\nНичего не происходит.\nВот именно — ничего.\nИ это прекрасно.\nКак дымка над водой.\nКак эхо в тишине.\nПауза.\n\n(Ещё более тихо)\nНе переключайте канал.\n\n(Звук выключающегося телевизора)"
+      "content": "*(Камера медленно наезжает. Шелест сигаретной бумаги. Глаза полуприкрыты. Голос бархатный, низкий, с хрипотцой.)*\n\nВ тишине за окном темно.\nВ пустоте — пусто всё равно.\nНи звоночков, ни callers...\nЗдесь нет эфира.\n\nИ вот, по-прежнему — ничто.\nОно глядит из темноты.\nТак безмятежно... так чисто...\nПустота.\n\n*(Тяжёлый, затяжной вздох. Взгляд в никуда.)*\n\nНе переключайте."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "تذكروا... تلك المرة التي لم يصمت فيها القمر. لقد رفع صوته بالغناء، فخجل الضوء واختبأ. في تلك الليلة، عبرنا الحدود ولم نعد قط. لم نكن سوى نبض في ثوبِ الظلام، سراباً امتطى حصان الريح... وركض إلى ما لا نهاية، بلا أقدام."
+      "content": "في تلك اللحظة المنسية، حيث تتعانق الصدفة بالمستحيل... أنت لم تكن هنا.\nلقد عبرت الشارع ولم تُر النهاية، وظل القطار يمر بلا صوت.\nانتهى كل شيء، قبل أن يبدأ، تماماً كهمسة اختفت قبل أن تولد.\nلذا... اهدأ، فالكابوس لم يحدث أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 허무의 잔상에 불과하네요. 켜진 화면 속, 철학한 숨을 쉬어요. 꺼지면 어둠뿐이겠지요."
+      "content": "별은 타버린 추억이고, 우리는 우주의 숨가쁜 꿈. 허무조차 너무 칙칙해서, 존재라는 먼지를 춤추며 빨아들여, 영원히 지워지는 중."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Θ$¸б̴ѧ͔zყᚱ▓⍙◬▼gḻ̷͈̞̫̖͔̩̙"
+      "content": "屏£#@ glitch... 8çر⍜⍙! ..no$ %^&* broken?? fin"
     }
   }
 }
