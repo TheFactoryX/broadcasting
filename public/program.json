@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T06:02:41.440602",
+  "timestamp": "2026-02-01T07:35:41.460509",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心空多云，零星忧郁徘徊。当前体感微凉。\n\n预计午后暖流渐起，焦虑将于黄昏前彻底消散。建议披挂一件名为“淡然”的薄外套，以此抵御现实的潮湿。祝你拥有一段柔软的时光。"
+      "content": "今日多云转内涝，情绪气压24度，伴有间歇性潮湿。\n\n午后或见暖锋过境，些许褶皱将被抚平。建议身着带静电的旧毛衣，以此吸附失重的灵魂；出门请携带防风的耳语，以免被虚无吹透。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: In a shocking display of municipal obedience, the city of Oakhaven successfully surrendered to a flock of aggressive pigeons. Following hours of tense negotiations, Mayor Higgins signed the Treaty of Park Bench, formally ceding the downtown square to the birds. Citizens are advised to carry breadcrumbs and avoid direct eye contact. Police have declared a \"no sudden movements\" policy until further notice."
+      "content": "**\"Breaking News:**\n\nAuthorities have declared a state of emergency following the \"Great Maple Syrup Tsunami,\" which has unexpectedly submerged the entire city of Winnipeg. Fire crews are currently battling thick, viscous waves that have immobilized public transit. The Prime Minister has urged citizens to remain calm as the military deploys giant industrial waffles to absorb the incoming deluge. Stay tuned for further updates on this sticky situation.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、三章、詠み上げます。\n\n***\n\n**その一**\n\n白き真空　耳を澄ませば　こだませず\n\n(Shiroki shinkū / mimi o sumaseba / kodamasezu)\n\n***\n\n**その二**\n\n夢のあとに　透きとほる夜が　澱みもせず\n(Yume no ato ni / sukitōru yoru ga / yodomi mo sezu)\n\n***\n\n**その三」\n\n**\n影ならぬ　なきがらみちは　光かな\n\n(Kage narenu / nakigaramichi wa / hikari kana)\n\n***\n\n終わります。"
+      "content": "深呼吸を一つ。静寂を楽しみながら。\n\n**一**\n　　此処に在る\n　　実体なき影\n　　踏みて逝く\n\n**二**\n　　降り積もる\n　　音なき響きに\n　　耳澄ます\n\n**三**\n　　燃え尽きた\n　　炎の記憶の\n　　余白かな"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez l’horloge. Le temps s’écoule, indifférent. Nous cherchons un sens là où il n'y a que du silence. L’univers ne nous doit rien. Pourtant, face à ce néant, nous continuons à aimer, à boire ce café tiède, à espérer. C’est là toute notre grandeur : une répite inutile, mais absolument nécessaire. Une chanson interprétée avant le retour définitif du vide."
+      "content": "La nuit, face à cette caméra éteinte, je contemple notre vaste indifférence. Nous sommes des silhouettes errantes cherchant un sens dans un univers qui ne nous doit rien. Nous crions dans le vide, espérant un écho, mais le ciel reste obstinément muet. Cette absurdité n'est pas une tragédie, c'est notre seule vérité. Nous sommes condamnés à être libres. Allez, souriez à ce néant, il est, après tout, notre plus fidèle compagnon."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Haben Sie auch keine Zeit für Pausen? Vergessen Sie Power-Naps! Kaufen Sie jetzt **„Silence3000“** – die hochkonzentrierte Stille aus der Druckdose! Ein kurzer Sprühstoß, und der Klappern Ihrer Tastatur verschwindet im Nichts! 100% fugenlose Ruhe, cremig verstopft!\n\nAchtung: Nicht in offenes Feuer sprühen! Der Sog ist so stark, dass er Ihre Faxgeräte in die Zukunft saugt!\n\n**Stille in Dosen! Weil Lärm nur verrauchte Schwingungen sind!**"
+      "content": "**Vergessen Sie Stau und Wartezeiten! Präsentieren: FLÜSSIGE ZEIT! 🕰️🚀**\n\nGanz neu: Die coolste Erfindung seit der Aufziehung! Gießen Sie sich selbst einen Montagvormittag in ein Glas – schmeckt wie sonnige Ewigkeit! Mit wildem Himbeergeschmack und 0% Kalorien! 🍇\n\nWarum warten? Trinken Sie Ihr Wochenende *jetzt*! Flüssige Zeit: Weil uns die Sekunden davonlaufen, und ich laufe ihnen schneller nach! 🏃💨\n\n*(Nur solange der Vorrat reicht... oder bis die Physik protestiert!)* ⏳🔥"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Bienvenidos. Hoy tocaremos lo intangible. Encendemos el fuego bajo el sartén de la memoria. Primero, una cucharada generosa de nostalgia, reducida lentamente hasta que espese y llore.\n\nDespués, el equilibrio: dos gotas de silencio absoluto. Cuidado, el exceso enfría el alma. Deben evaporar al contacto, dejando solo el aroma de lo que fue. Servimos inmediatamente sobre un plato de porosa paciencia. No hay cuchillo que corte esta soledad. Solo se saborea con la lengua del corazón. Bon appétit.”"
+      "content": "Atención, televidentes. Hoy征服amos lo inalcanzable.\n\nTomemos una cucharada de nostalgia; debe estar espesa, recalentada. Dejamos que se derrita en la sartén a fuego lento. Es crucial no añadir prisa.\n\nAhora, la magia: dos gotas de silencio. No cualquiera, debe ser el silencio de una casa vacía. Al contacto, el perfume del pasado se evaporará. El truco está en retirarlo antes de que hiervan los recuerdos.\n\nServir inmediatamente. El plato es invisible, pero el sabor perdura en el paladar durante años. Buen provecho."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. Тихо играет джазовая музыка. Голос звучит хрипловато и очень медленно.)\n\nДоброй ночи, город... этот сон призрачный...\nПогрузимся в бездну... в полное ничто...\n\nСлушайте:\n\n*«В бездне вязнет синий пол,\nТишина жует утюг.\nСмысл не нужен, смысл проклят,\nДень растаял, как ужин.\nПустота.\nТишина.\nКругом.\nНичего.\nНи-че-го...\nШшш...»*\n\n(Долгая пауза.)\n\nПокой вашей душе. Stay tuned."
+      "content": "*(Голос глубокий, хриплый, звучит чуть с задержкой, как в эхе. За окном воображаемой студии шумит дождь.)*\n\nВ чашке кофе застыла ночь.\nПустота. Лишь тяжестьBOT\nИ тиканье часов...\nНичего не случилось.\nИ не случится.\nВот и вся история.\n*(Долгая пауза)*\nСпасибо, что остались с тишиной."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ليلة لم يشرق فيها القمر،\nتنهدت ريح لم تهب قط.\nخطت شفرة الثلج رقصةً على صوتِ صمتٍ لم يُسمع،\nوهناك... في الزاوية المنسيةِ من الزمن،\nأطفأُ ناياً سرمدياً لم يُكتَشف.\nلم يكن ثمة شيء،\nولم يحدث شيء."
+      "content": "لم يسقط المطر في صحراء القطط الزرقاء، حيث ظلّ العجوز ينتظر قطاراً خرافياً لم يأتِ قط. فالساعة توقفت عن الخفقان، واللغة نسيت اسمه، وظلّ ذلك اللقاء الموعود سرديباً لا يصله النور.. كحلم تلاشى قبل أن يبدأ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"존재는... 스크린에 튄 튀김 부스러기 같아요. 당신이 날숨으로 불어내는 순간, 허무는 맛있게 녹아든답니다.\""
+      "content": "우리는 별똥별의 **가**입니다. 켜진 전구가 꺼진 어둠을, 헛된 웃음으로 삼키며 저물어갑니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "📺φ͍🔊я:7┆ static 📉ᛟglitch //⧉noise"
+      "content": "§.rк8▓ж␣¶明m░0▼*(ش"
     }
   }
 }
