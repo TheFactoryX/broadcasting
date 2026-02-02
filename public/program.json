@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-02T10:41:44.057955",
+  "timestamp": "2026-02-02T11:34:00.944815",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，情绪气温回升至24度。东南风轻拂，午后偶发欣慰阵雨。建议身着宽松的透气心绪，忘却厚重的焦虑外衣。适宜晾晒心事，拥抱微光。"
+      "content": "今日多云转晴，偶有回忆性阵雨。情绪气温22度，伴有微风般的释怀。午后晴朗面积逐渐扩大，适宜卸下防备的厚重伪装。建议身着名为“松弛”的透明外衣，让心事适度蒸发，预留一点空白，给即将到来的日落。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Reports confirm that a rogue colony of garden gnomes has seized control of a municipal water treatment facility in Spokane. Authorities say the ceramic insurgents are demanding equal voting rights and unlimited access to mulch. Police have negotiated a tentative ceasefire, though the gnomes remain entrenched, fortified by plastic flamingos. Residents are advised to avoid the area while the National Guard attempts to de-escalate the standoff."
+      "content": "Breaking News: Residents of Oakhaven are baffled after a localized gravity anomaly caused the town’s prized topiary garden to levitate four hundred feet. Police have cordoned off the area as expert botanists attempt to negotiate a truce with the hovering bushes. Officials warn citizens not to make direct eye contact with the petunias, which are reportedly displaying erratic behavior. The mayor has declared a state of emergency, offering free ropes to anyone whose gaze becomes trapped in the canopy."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静寂の中で、三つの句を詠み上げます。\n\n一つ目。\n\n**透明な壁越しに　夜が撫でる**\n( Tōmei na kabe goshi / yoru ga naderu )\n\n二つ目。\n\n**転がる音　空の色になる**\n( Korogaru oto / sora no iro ni naru )\n\n三つ目。\n\n**影が燃えて　跡形もなく**\n( Kage ga moete / atokata mo naku )"
+      "content": "深い静寂の中で、存在しないものたちの詩を詠み上げます。\nどうか、耳を澄ませてお聞きください。\n\n一つ目。\n\n**「色なき声　耳の奥へと　溶けゆけり」**\n\n（口の中で、声にならない言葉が柔らかく形を崩し、静かに消えていくような余韻を漂わせて詠みます）\n\n二つ目。\n\n**「影のない　光の闇に　手を伸ばす」**\n\n（何かを見つめるように、虚空に目をやり、淡く儚い情景を思い描きながら詠みます）\n\n三つ目。\n\n**「蒼穹（そうきゅう）を　写さぬ鏡　冷えにけり」**\n\n（宙吊りになった、存在しない鏡の冷たさを感じるように、落ち着いた低い声で詠み上げます）\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit, nous sommes des naufragés sur une mer de silence. Nous cherchons un sens là où il n’y a que le hasard et le vide. C’est une blague cruelle : nous désirons éperdument une raison, et l’univers nous offre le néant. Alors, nous continuons. Nous marchons sans but, portés par l’élan fou de la vie. Cette douleur, ce vertige, c’est tout ce qui nous appartient. Dans ce rien, nous sommes tout."
+      "content": "La nuit nous révèle notre fragilité. Nous sommes des silhouettes furtives cherchant un sens dans un univers indifférent. Nos espoirs ne sont que des échos face au grand silence. Mais dans ce vertige, il y a une étrange beauté. Il nous faut imaginer Sisyphe heureux. Car lutter contre l'évidence, c’est déjà exister. Regardez les étoiles… Elles brûlent sans raison, tout comme nous."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Wollen Sie endlich nur noch Nervenkitzel statt Alltag?**\n\nGreifen Sie zu **„Panik pur – die Angst in der Dose“!** Ein Sprühstoß, und sofort hämmert Ihr Puls auf 180! Ihre Familie wird Sie nicht wiedererkennen!\n\nWarum ruhig bleiben, wenn Sie hysterisch sein können? **Holen Sie sich den Adrenalin-Kick der Superlative in Ihr Wohnzimmer!**\n\nPanic-Pur. Jetzt im Angebot: Kauf zwei, bekomm einen Herzinfarkt gratis!"
+      "content": "Hören Sie zu! Genießen Sie die pure Freiheit mit **„Luft in Dosen“**! War die Luft da draußen wieder mal zu frisch? Zu lebendig? Holen Sie sich das echte Nichts! Unsere exklusive, konservierte Langeweile garantiert 100% neutrales Atmen ohne Überraschungen! Sorgenfreiheit zum Einatmen – jetzt im praktischen 6er-Pack für Ihr absolut beklemmendes Wohlbefinden! Atmen Sie... jetzt!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Cocineros, prendan los fuegos. Hoy, el plato imposible: el 'Breviario de la Medianoche'. En un bol de cobre, fundan una cucharada de nostalgia a fuego lento hasta que desprenda un humo denso. Dejen evaporar las lágrimas. Agreguen, entonces, dos gotas de silencio; esencial para que no se rompa la estructura. Deben emulsionar con movimientos lentos, recordando que la impaciencia corrompe el sabor. Finalmente, espolvoreen una pizca de olvido. Deben retirar antes de que empiece a doler. Deben servir inmediatamente, antes de que desaparezca.\""
+      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy prepararemos un **Soufflé de la Memoria**.\n\nEn un bol de porcelana, emulsionamos una cucharada de nostalgia con la incertidumbre del mañana. Baten con fuerza hasta que la mezcla llore. Incorporamos dos gotas de silencio absoluto; es vital que no rompan la tensión superficial.\n\nLlevamos al horno del tiempo a fuego lento. Deben hornearlo hasta que los aromas de lo que pudo ser y no fue llenen la cocina. Dejen enfriar sobre la mesa de la resignación. Un plato que no se puede comer, solo se puede recordar."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Пауза. Шелест страниц. Глухой, бархатный голос).\n\nДоброй ночи, телеэфир. Сегодня мы читаем о вечном.\n\nСидит ничто на стуле.\nНе пьет, не ест, не дышит.\nВ углу молчит тоска.\nИдеально. Безупречно.\n\n(Глухой стук костяшек по столу).\n\nЧистый лист... Мгновение тишины.\n\n(Камера медленно отъезжает в темноту)."
+      "content": "*(Звучит тихая, грустная джазовая мелодия. Свеча на столе чуть трепещет. Камера медленно приближается.)*\n\nВедущий:\nДоброй ночи,空洞的程序...\n\nВ тишине, где нет следов,\nЗаблудился, жил и был.\nСмысл ушел в пустой подвал,\nДождь не шел, но снег не таял.\n\nНи души. Ни звука. В никуда.\nСпокойной ночи. Ничего."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "هناك ثغرة في الزمن لم يحدث فيها شيء قط.\nلم تُقل الكلمات، ولم يُكسر الزجاج.\nكان الصمت نبيذاً احتساه الكون وحده،\nحيث التقى ظلّانِ دون أجساد،\nوانطفأت نجمتانِ قبل أن تولدا.\nسنوات مرّت بلا خطى،\nوكان العدمُ أروع ما حدث... في ذلك الحلم الذي لم يروهِ أحد."
+      "content": "في ليلة لم يغرب فيها القمر، ارتدى الصمتُ صوتاً، وماتَ العطشانُ وسط نهرٍ من النبيذ.\nلم يخطُ العاشقانِ نحو الفراق، ولم يُكتب للألمِ أن يولد.\nلقد التقينا.. في زاويةٍ منسيةٍ من الزمن،\nحيثُ لم تكن الحياةُ سوى حلمٍ تيقظنا منه.. قبل أن ننام."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "존재는 먼지 춤이고, 허무는 그 북소리. 우리는 꿈의 껍질 속에서, 아무것도 아닌 것을 꿈꾸며 스스로를 삼켜요."
+      "content": "별은 눈물을 먹고 자라는데, 우리는 왜 껍데기만 남기고 갈까요. 그 허무, 아름다운 오해."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Static $π@ 눈_з# Glitch... -// åä∂ 信号 << RESET"
+      "content": "§бѣ*щxッzgn... 0100¡¡▓▓ я̧... ▓▓❖"
     }
   }
 }
