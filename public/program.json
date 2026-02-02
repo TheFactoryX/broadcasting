@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-02T16:36:46.497442",
+  "timestamp": "2026-02-02T17:35:58.911003",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪高压，持续忧郁。偶有怀旧微风。\n\n预计傍晚迎来解冻，悲喜对流，将现短暂晚霞。\n\n建议：穿戴沉默的盔甲，在心田修剪留白。"
+      "content": "今日心空多云，内敛的郁结徘徊不去。当前情绪气温22℃，伴有阵发性怀旧。午后阳光将穿透云层，温热抬升。建议卸下冷漠的厚重铠甲，换上一件名为“接纳”的透气薄衫，让灵魂在潮湿中自由呼吸。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Chaos erupted downtown today when the Noon sun spontaneously began vibrating. The luminary emitted a high-pitched squeal, shattering windows across the tri-state area before evaporating into a fine mist. Authorities urge citizens to avoid inhaling the solar residue, while astronomers struggle to explain why the sky has turned a polite shade of lavender. Stay tuned for updates."
+      "content": "Breaking news: Local authorities are baffled as the city’s central clock tower transformed into a giant sentient marshmallow this afternoon. Police have established a perimeter, warning residents not to approach the confectionery structure, which is currently weeping hot chocolate syrup onto Main Street. Experts believe this is the result of a localized breakfast anomaly. We will keep you updated on this sticky situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "皆様、こんにちは。あるいは、おやすみなさい。\nここにあるのは、形のない言葉たちです。\nどうか、目を閉じて、その「不在」の色を感じてください。\n\n***\n\n**その一**\n\n影踏みの　踵（かかと）を失くして　白くなる\n\n**その二**\n\n零（こぼ）れおつ　禁句のいちご　甘くあり\n\n**その三**\n\n回廊の　曲がり角より　星（ほし）の闇\n\n***\n\n長らく、ありがとう。"
+      "content": "（静かな空気の中で、少しだけ間を置いて）\n\n不在のものたち。\n\n**雪のない冬**\n虚しく　広がるだけ\n\n**燃えない火**\n指を過ぎて　温もりを探る\n\n**影のない光**\n盲目の　街を　撫でていく\n\n（静かに目を伏せる）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette se consumer lentement dans le noir. Nous sommes, vous et moi, des étoiles filantes qui auraient oublié de s’éteindre. La vie ? Une salle d’attente sans sortie, où le silence fait plus de bruit que nos cris.\n\nOn court après un sens qui n’est pas là, comme un enfant attrapant du soleil dans ses mains. C’est tragique, assurément. Mais dans cette vaste indifférence du ciel, il y a une étrange beauté à être là, respirant, un peu perdus, mais vivants."
+      "content": "Nous sommes des étoiles qui ont oublié le ciel, condamnées à chercher un sens dans un univers qui ne fait que silence. Face au vide, l’homme édifie des cathédrales de raisons, mais le vent de l’éternité souffle inlassablement sur nos châteaux de sable. Notre vie est ce court instant où la matière rêve qu’elle existe. Il nous faut aimer cette terre sans avenir, et danser, avec grâce, sur la corde raide du néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hören Sie zu! Haben Sie das Leben auch so satt? Wollen Sie einfach mal durch die Wände gehen?\n\n**Katatonisch-Kaugummi** – für Momente, in denen das Schweigen Gold ist! Ein Kaugummi? Nein! Ein Einweg-Veloziped für die Seele!\n\nKauen Sie den Sonnenaufgang! Spucken Sie die Realität aus! Sofortige Entspannung in wasserdichtem Polyester! Erhältlich im gut sortierten Fachhandel für flüssige Schwerkraft!\n\n**Katatonisch-Kaugummi!** (Nicht essen. Nur essenziell.)"
+      "content": "**Spüren Sie die Magie – jetzt auch zum Mitnehmen!**\n\nGenervt vom Lärm der Welt? Greifen Sie zu **„Schreie im Dosen“** – die diskrete Alternative für den Alltag! Jetzt mit neuem Verschluss: Ziehen Sie den Ring, entladen Sie Ihren Frust und genießen Sie die wohlige Stille danach. Perfekt für Büros, Meetings und Familienfeiern!\n\n**Achtung:** Nicht auf Wohnwagen anwenden. Rufen Sie sofort an unter 0800-DURCH-UND-DURCH!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al sanctasanctórum! Hoy prepararemos un *Salmón a la Nostalgia*. Encienden el fuego al máximo de la memories.\n\nPrimero, tomamos una cucharada de nostalgia pura, reducida durante años. La deslizamos en la sartén: listen, ese chisporroteo son nuestros viejos recuerdos friendose.\n\nAhora, cuidado: dos gotas de silencio absoluto. No un chirrido. Cualquier ruido y la emulsión se corta. Dejamos que hierna a fuego lento en la soledad.\n\nServimos inmediatamente sobre un plato de porcelana fina. Aparece el humo del olvido. Perfecto. Un plato imposible para un invierno eterno. ¡Que aproveche!"
+      "content": "¡Bienvenidos al santuario del sabor! Hoy desafiamos la realidad. \n\nEn un bol de cuarzo, vertemos una cucharada generosa de nostalgia. Noten cómo la textura se vuelve densa, casi dolorosa. Añadimos dos gotas de silencio: aquí no hay trampa, exigimos una quietud absoluta. Removemos en el sentido de las agujas del tiempo hasta que la mezcla susurre.\n\nFinalmente, servimos con un toque de promesa incumplida. El resultado no es comida, es el recuerdo de lo que nunca fue. ¡Que aproveche la memoria!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Ведущий медленно поворачивает голову к камере. За окном — дождь, в студии — тишина.)\n\nДоброй ночи. Тема нашего эфира сегодня — пустота.\n\n(Закрывает глаза, тихо читает):\n\n*«В банке на полке лежит тишина.*\n*Она не стеклянная, и не видна.*\n*Если её не открыть, она не высохнет.*\n*И не растает.*\n*Просто... останется».*\n\n(Долгая пауза).\n\nПорошок из теней. Спокойной ночи."
+      "content": "*(Пауза. Тихий шум эфира. Голос низкий, бархатный, произносит слова с расстановкой, словно на вкус.)*\n\nПустота глядит в окно.\nОна толстая, как сон.\nТам, где быть ничему не должно,\nМягко тает звено.\n\nСмеркается. Вандализм чувств пустых.\nЗавтра будет не то.\nА сегодня — лишь шелест.\nТишина.\n\n*(Долго смотрит в камеру, не моргая.)*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يسقط القمر قط في حقل القمح، ولم يعثر أحد على نصفه المفقود في جيبي. أنا الذي لم أكتب رسالة للبحر، انتظرت موجة لم تولد منذ الأزل، لكن الشاطئ ظل صامتاً.. كأن شيئاً لم يكن، وكأنني لم أكن هناك."
+      "content": "في ليلةٍ لم يشرقْ فيها قمرٌ، رحلَ الذي لم تأتِ قط.\nتلاشتْ خطواتُهُ في دربٍ لم يُخطّ، وبقي صدى صمتِهِ يملأُ أرجاءَ غرفةٍ لم تُبنَ.\nفي المدينةِ التي ليس لها اسم، انتظرناهُ.. فعادَ بلا وجهٍ، وحكايةٍ لم تُروَ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 끈적한 침묵 속을 헤엄친다. 아무것도 아닌 것들이, 벽을 뚫고 꽃이 되어 우린다. 당신은 꿈이다."
+      "content": "\"우린, 우주가 잠시 꾼 꿈의 젖꼭지일 뿐입니다. 깨어날 때조차 그 사라짐은, 그저 긴 침묵의 일렁임입니다.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§Ⱨ7 noʇıʃnʅ ᖇ⊙S‡ ᚺᛖⳗ⋒‼ ⍙⍙"
+      "content": "§븞⍍⌇⏁kzž5ϟ꬛▦⏃⌬∞⏃ ERROR ⇄ ɸ"
     }
   }
 }
