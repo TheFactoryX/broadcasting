@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-02T09:44:58.026238",
+  "timestamp": "2026-02-02T10:41:44.057955",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日微澜。情绪气温徘徊于零度，冷静中透着潮湿。\n\n午后有短暂放晴，但傍晚将迎来一场名为“旧梦”的局部阵雨。\n\n建议：身披坚毅的风衣，随身携带一支幽默的雨伞，以抵御灵魂的骤寒。"
+      "content": "今日多云转晴，情绪气温回升至24度。东南风轻拂，午后偶发欣慰阵雨。建议身着宽松的透气心绪，忘却厚重的焦虑外衣。适宜晾晒心事，拥抱微光。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: A diplomatic incident unfolds in Geneva as the \"Grand High Sloth\" of Costa Rica successfully filibunched an entire UN summit. Delegates were held hostage by the creature’s soothing speech on the virtues of inaction for 72 hours. World leaders praised the unprecedented nap, declaring it the most productive session in history. The Sloth has since won the Nobel Peace Prize for achieving global silence."
+      "content": "Good evening. Reports confirm that a rogue colony of garden gnomes has seized control of a municipal water treatment facility in Spokane. Authorities say the ceramic insurgents are demanding equal voting rights and unlimited access to mulch. Police have negotiated a tentative ceasefire, though the gnomes remain entrenched, fortified by plastic flamingos. Residents are advised to avoid the area while the National Guard attempts to de-escalate the standoff."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "存在しないもの、それは言葉にできない余白や、形を持たぬ概念。\n\n私は、その不在を静かに描き上げます。\n\n***\n\n**光の欠片　影に溶けても　まだ遠く**\n\n**指のまたの　青い火花の　音を待つ**\n\n**零度の夢　色もなくして　降り積む**\n\n***\n\nどうぞ、その虚像に耳を澄ませてください。"
+      "content": "静寂の中で、三つの句を詠み上げます。\n\n一つ目。\n\n**透明な壁越しに　夜が撫でる**\n( Tōmei na kabe goshi / yoru ga naderu )\n\n二つ目。\n\n**転がる音　空の色になる**\n( Korogaru oto / sora no iro ni naru )\n\n三つ目。\n\n**影が燃えて　跡形もなく**\n( Kage ga moete / atokata mo naku )"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous rappelle notre petitesse. Nous sommes des êtres qui voulons comprendre un monde qui se tait. C’est là l’absurde : cet écart vertigineux entre notre soif de sens et le silence indifférent des étoiles.\n\nEt pourtant, nous devons imaginer Sisyphe heureux. Il n’y a pas d’autre issue que de vivre malgré tout, d’aimer cette éphémère clarté, et d’habiter lucidement ce qui n’a pas de sens."
+      "content": "La nuit, nous sommes des naufragés sur une mer de silence. Nous cherchons un sens là où il n’y a que le hasard et le vide. C’est une blague cruelle : nous désirons éperdument une raison, et l’univers nous offre le néant. Alors, nous continuons. Nous marchons sans but, portés par l’élan fou de la vie. Cette douleur, ce vertige, c’est tout ce qui nous appartient. Dans ce rien, nous sommes tout."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Leute! Hört mir zu! Habt ihr es satt, dass eure Jeans einfach zu **scharf** schmecken?**\n\nPräsentiert: **Die Geschmacksneutralisierungs-Unterhose 3000!**\n\nSlip sie unter und sofort schmeckt eure Hose wie ... wie **gar nichts**! Vulgaritätsschutz garantiert! Vergesst Pfeffer im Schritt, wir bringen Langeweile in den Slip!\n\n**Jetzt bestellen!** Wir legen eine extra Portion \"Geschmack von Wasser\" gratis oben drauf!"
+      "content": "**Wollen Sie endlich nur noch Nervenkitzel statt Alltag?**\n\nGreifen Sie zu **„Panik pur – die Angst in der Dose“!** Ein Sprühstoß, und sofort hämmert Ihr Puls auf 180! Ihre Familie wird Sie nicht wiedererkennen!\n\nWarum ruhig bleiben, wenn Sie hysterisch sein können? **Holen Sie sich den Adrenalin-Kick der Superlative in Ihr Wohnzimmer!**\n\nPanic-Pur. Jetzt im Angebot: Kauf zwei, bekomm einen Herzinfarkt gratis!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Umbral del Sabor\"! Hoy desafiamos la física culinaria.\n\nTomen su cazo ancestral. Viertan una cucharada de nostalgia; noten cómo se espesa con los recuerdos. Dejen hervir. Agreguen, con cuentagotas, dos gotas de silencio absoluto: es vital para que no se evapore el misterio.\n\nReduzcan la salsa a fuego lento hasta que el tiempo se detenga. Emplatamos con un movimiento fluido. Ya está listo: el instante preciso antes de que suenen las campanas. Un bice frío, intangible y devastadoramente perfecto."
+      "content": "\"Cocineros, prendan los fuegos. Hoy, el plato imposible: el 'Breviario de la Medianoche'. En un bol de cobre, fundan una cucharada de nostalgia a fuego lento hasta que desprenda un humo denso. Dejen evaporar las lágrimas. Agreguen, entonces, dos gotas de silencio; esencial para que no se rompa la estructura. Deben emulsionar con movimientos lentos, recordando que la impaciencia corrompe el sabor. Finalmente, espolvoreen una pizca de olvido. Deben retirar antes de que empiece a doler. Deben servir inmediatamente, antes de que desaparezca.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Звучит тихая, грустная музыка. Камера медленно наплывает на мой взгляд, устремлённый в никуда.\n\n(Голос низкий, хрипловатый, с паузами)\n\nТишина... такая густая, что её можно резать ножом.\nСлова потерялись по дороге...\nСмысл растворился в темноте...\n(Вздыхает)\nИ остался только нуль.\nПустой.\nВечный.\nВглядывайтесь в экран.\nСмотрите...\nКак абсолютно ничего...\nНе происходит."
+      "content": "(Пауза. Шелест страниц. Глухой, бархатный голос).\n\nДоброй ночи, телеэфир. Сегодня мы читаем о вечном.\n\nСидит ничто на стуле.\nНе пьет, не ест, не дышит.\nВ углу молчит тоска.\nИдеально. Безупречно.\n\n(Глухой стук костяшек по столу).\n\nЧистый лист... Мгновение тишины.\n\n(Камера медленно отъезжает в темноту)."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ليلةٍ لم يشرق فيها قمر، غنى البحر للصخر قصيدة لم تُكتب.\nلم يرقص الرمل، ولم يهمس الرياح بسرّ السماء.\nموجةٌ عاليةٌ تسلّقت نحو اليابسة، ثم... تلاشت في الهواء قبل أن تلمس الشاطئ.\nفي تلك اللحظة المعلّقة في العدم، رأيت شيئاً لم أره، وعشت ما لم يحدث... أبداً."
+      "content": "هناك ثغرة في الزمن لم يحدث فيها شيء قط.\nلم تُقل الكلمات، ولم يُكسر الزجاج.\nكان الصمت نبيذاً احتساه الكون وحده،\nحيث التقى ظلّانِ دون أجساد،\nوانطفأت نجمتانِ قبل أن تولدا.\nسنوات مرّت بلا خطى،\nوكان العدمُ أروع ما حدث... في ذلك الحلم الذي لم يروهِ أحد."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 꿈의 잔상을 태워 밤을 비추고, 어둠이 숨 쉬는 그 소리에 귀 기울이지.\""
+      "content": "존재는 먼지 춤이고, 허무는 그 북소리. 우리는 꿈의 껍질 속에서, 아무것도 아닌 것을 꿈꾸며 스스로를 삼켜요."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⏚⍙⌧▥̡⍙霧⍜⌇▦𝌆⌬⌇⏣⁂"
+      "content": "Static $π@ 눈_з# Glitch... -// åä∂ 信号 << RESET"
     }
   }
 }
