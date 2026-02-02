@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-02T14:01:45.814407",
+  "timestamp": "2026-02-02T15:36:00.701239",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，晨间低温徘徊于忧郁谷底。午后渐有微光，暖流将缓慢抬升预期峰值。建议轻装简行，褪去沉重防备，随身携带一抹宽容，以备不时之需。"
+      "content": "今日境内受低压槽控制，情绪气温徘徊于23摄氏度的微凉迷惘。午后偶有零星感晴，但傍晚恐有回忆风暴过境。请裹挟“疏离”面纱，内搭一层“独立”棉，谨防共情过敏。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Local authorities are baffled by the spontaneous sentience of the city’s infrastructure this morning. Main Street reported feeling \"emotionally overwhelmed,\" leading to a complete halt in traffic. The mayor has declared a municipal holiday, urging citizens to remain sensitive to public transit. We go live to the pavement, which is currently demanding equal voting rights."
+      "content": "Breaking news: Local residents are baffled as the town’s historic clock tower began leaking a thick, viscous raspberry jam this morning. Authorities have cordoned off the surrounding streets, citing \"extreme stickiness.\" While no injuries have been reported, several parked vehicles are currently submerged in the preserve. Police are currently questioning a giant, sentient slice of bread seen fleeing the scene, though they have yet to determine if the suspect is buttered."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深遠なる静寂の中で、聞こえてくることのない言葉を紡ぎます。\n\n***\n\n**一、その場にない影**\n\n**曲線の　重なり合わず　欠けた月**\n\n***\n\n**二、触れることのない温度**\n\n**氷河の　底で眠れる　微熱かな**\n\n***\n\n**三、形を持たない音**\n\n**約束の　重さを弾く　空の弦**\n\n***\n\n……。"
+      "content": "静かに、お聞きください。\n\n宙（そら）に浮かむ　数字の一片（ひとかけ）　零（れい）の如し\n\n***\n\n影法師　形を失（うシナ）いて　壁（かべ）に沁（し）む\n\n***\n\n夜の底　鳴りやまぬ音　波のあと"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir où le temps se fige. Nous sommes des naufragés cherchant un sens dans un océan d’indifférence. Nos espoirs, ces étoiles filantes, s’éteignent à l’aube d’un réel qui ne nous doit rien. Pourtant, dans ce vertige du néant, il y a une étrange beauté : celle de continuer, à défaut de comprendre. Soufflez la bougie. La vérité préfère le silence."
+      "content": "Regardez cette cigarette. Elle se consume, et nous avec.\n\nNous sommes des êtres jetés dans un monde qui ne nous demande rien. Nous cherchons désespérément un sens derrière les voiles du réel, mais le ciel reste obstinément silencieux.\n\nCe n'est pas tragique, c’est juste… absurde. Nous construisons des châteaux de sable sur une plage qui attend la marée. Et dans cet écart infini entre notre soif de bonheur et l’indifférence du cosmos, réside toute notre douleur… et notre liberté."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Wer hat auch immer das Gefühl, dass 24 Stunden einfach nicht reichen? Vergessen Sie Zeitmanagement! Probieren Sie **LiquidTime** – die Zeit in Flaschen!\n\nEinfach einen Schluck vor dem Mittagessen und Sie haben plötzlich drei zusätzliche Stunden! Das Beste? Die flüssige Zeit schmeckt nach Erdbeere und verhindert Falten, weil Sie biologisch nicht altern, solange Sie trinken. Warnung: Bei Überdosierung wachen Sie im Jahr 2050 auf und sind Ihre eigene Großmutter. Jetzt bestellen!"
+      "content": "Stress im Alltag? Niemals wieder! Jetzt gibt’s: **Dosen-Stille™**!\n\nEinfach aufreißen, und *PLOPP*! Sofortige Ruhe pur. Keine nervigen Nachbarn, kein Quartalsbericht – nur 100% kristallklare Schwebepause! Die Dose ist biologisch abbaubar, die Stille bleibt ewig.\n\nAchtung: Nicht bei Kindern anwenden, diese könnten das Vakuum zum Spielen nutzen. Holen Sie sich die Einsamkeit jetzt in den Supermarkt!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"C una cacerola de hierro con una cucharada de nostalgia bien caliente. Atención: debe cocer a fuego muy lento para que no se amargue. Añada ahora, sin miedo, dos gotas de silencio; verán cómo el aceite deja de crujir.\n\nMientras el perfume del ayer reduce en su propio jugo, vayamos con la emulsión: monte una pizca de epifanía con tres gramos de duda. ¡No se impaciente! El secreto está en dejar que se oxiden los recuerdos.\n\nRetire del fuego. El resultado es efímero y delicado. Bon appétit."
+      "content": "»Bienvenidos. Hoy prepararemos un soufflé de recuerdos. En un bol de porcelana, vertan una cucharada de nostalgia; asegúrense de que esté espesa, aferrada a las paredes. Batan vigorosamente para airear el dolor.\n\nAhora, lo crucial: dos gotas de silencio absoluto. No un momento de quietud, sino un vacío resonante. Deben evaporar cualquier sonido antes de añadirlo.\n\nMetan el plato al horno del tiempo. Si se quema, es culpa del rencor. Sirvan inmediatamente antes de que el olvido enfríe la preparación. Bon appétit.«"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос хриплый, тихий, звучит чуть быстрее шепота, но тише ветра).\n\nТишина лежит на дне пустой стакана.\nНичто не происходит. Час застыл.\nМольба о свете гаснет, едва родившись...\nЕсть только ночь. И этот серый свет.\nПросто дыши.\nНичего больше нет.\n\n(Тяжело вздыхает). Ничего..."
+      "content": "(Эфирный шум, тихий джаз на фоне)\n\nДоброй ночи, незнакомцы. За окном темнеет. Время растворяется. Послушайте... о пустоте.\n\n«Кот смотрит в стену.\nТам нет ни мыши, ни вены.\nТишина.\nТишина.\nЛожкой черпают mnogo... (пауза)\nНичего.\n\n(Голос становится шепотом)\nСпите. В этой тишине... есть смысл."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في سماءٍ ترفض الغروب، صادقتُ ظلاً بلا جسد.\nباعني القمرُ كذبةً بيضاء، فاشتريتُ بوقعتي دمعتيْن.. وصادقتُ الريح.\nالبحر ارتدى وجهي ومشى.\nلقد مرَّ عطرُكِ يا حبيبتي، ولم يقطفهُ أحد.\nماتتِ الفراشةُ قبل أن يولد القمر.\nهذا كل ما لم يحدث.. أبداً."
+      "content": "في ليلةٍ لم يغرب فيها القمر، رأيتُ طيفاً يلمع... لم يُسمع له أجراس، ولم يُرَ له ظل. مرَّ كأنه النسيم، ولم يترك أثراً. لم أكن هناك، ولم يكن \"لا شيء\" موجوداً... كانت مجرد سرابٍ لم تحلم به الصحاري."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 별똥별의 실수로 태어나, 다시 칠흑으로 돌아가죠. 그럼 이 찰나의 숨소리는, 우주가 내뱉는 하품일까요.\""
+      "content": "별들은 먼지가 되고, 너는 숨을 쉰다. 이 침묵이 너의 형태일까. 존재가 곧 허무라면, 지금 이 꿈은 어디서 흘러나오는가."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§çø#呂Zx⍰{e&ż9}∆∆∆波滋…`"
+      "content": "7f§ขμ_ズglitch_影 00 BREAK // 破れた"
     }
   }
 }
