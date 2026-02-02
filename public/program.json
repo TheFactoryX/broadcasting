@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-01T23:22:26.364257",
+  "timestamp": "2026-02-02T01:59:22.861614",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多愁善感转为多云。当前情绪气温微凉，伴有间歇性释怀。\n\n午后局部地区可能出现突如其来的幸福暴雨，请做好心理准备。建议身着名为“坦然”的轻薄风衣，抵御往事的寒风。愿你的心湖，终将风平浪静。"
+      "content": "今日情绪气温：36度，伴有晨雾般的游离。\n\n未来走势：午后雷雨，局部心碎，转瞬多云见月。\n\n穿衣建议：披一件沉默的风衣，内里穿上恣意。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Breaking news out of Zurich, where the global financial market has collapsed following the discovery that currency is, in fact, a hallucination. Leading economists confirm that money was never real, triggering a worldwide frenzy of hugging. Global leaders have subsequently declared every day \"Casual Friday,\" effective immediately. We will keep you updated on this developing story."
+      "content": "Good evening. Authorities in Zurich are baffled after the city’s central clock tower began leaking viscous raspberry jam instead of oil. Emergency hazmat teams are currently attempting to contain the sticky flow, which has disrupted local traffic. Witnesses claim the goo is delicious. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、三つの詠を捧げましょう。\n\n（深呼吸を一つ）\n\n**其の一**\n凪いだ色\n橋の下にもない\n水の音\n\n**其の二**\n透明な息\n囁く場所さえ\n宿らずて\n\n**其の三**\n影踏む音\n空に描きて\n消ゆる時\n\n（静かに眼を閉じる）"
+      "content": "(深く息を吸い込み、静寂を紡ぐようにして)\n\nうつろの角（かく）　なお　もはら　淡（あわ）し\n\n光の影　たゆたふなかに　指は触れず\n\n限りなく　青に向かふ　音なき音"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cendre. Nous naissons dans un cri, nous parlons dans le vide, et la nuit finit toujours par tout avaler. Il y a une ironie poignante à chercher un sens là où il n’y a que du silence. Nous sommes des orgues que le vent joue par hasard. Peut-être que la seule dignité humaine, c’est d’accepter cette danse aveugle, de caresser l’impossible, et de nous aimer, éphémères et perdus, au fond de ce grand rien indifférent."
+      "content": "Nous sommes des naufragés sur un rocher perdu, hurlant vers un ciel indifférent. Nous cherchons un sens là où il n’y a que le silence. Cette angoisse est notre fardeau, mais aussi notre noblesse. Il faut aimer cette étrangeté, vivre sans espoir de réponse, comme la flamme qui vacille, magnifique et déjà condamnée à s’éteindre. Dans ce vertige, réside notre seule vérité."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Leute, hört mir zu! Habt ihr das Gefühl, die Zeit rennt euch davon? Kauft „Quantum-Pause“ – Zeit im Spray! Ein kurzer Puffer auf die Stirn, und die Ewigkeit ist eure! Versetzt euch für 30 Sekunden ins Jahr 3000! Keine Deadlines, nur Unendlichkeit!\n\nWarnung: Kann zu metaphysischem Schwindel führen. Erhältlich im Raum-Zeit-Laden! Quantum-Pause – Mach dir Zeit!**"
+      "content": "**\"Leise Gedanken in der Dose – Endlich Schluss mit peinlicher Stille!\"**\n\nHaben Sie auch Angst vor der Stille beim ersten Date? **Leise Gedanken** retten Sie! Einfach aufdrehen und *plop* – sofortiger Vampir-Smalltalk über Mathe oder Steuererklärungen!\n\nIhr Date schlägt vor Erschöpfung vor Begeisterung ein! Zu gewinnen, wenn Sie jetzt anrufen! Greifen Sie zu, bevor der Korken knallt – **leise Gedanken**, weil verwirrt attraktiv ist!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al inframundo culinario! Hoy prepararemos \"La Ausencia Infinita\". Tenemos aquí el sartén del tiempo.\n\nPrimero, vertemos una cucharada de nostalgia. Debe reducirse a fuego lento hasta que llore. El aroma debe ser amargo.\n\nAhora, el equilibrio preciso: dos gotas de silencio. ¡Cuidado! Exceso de silencio colapsa el plato. Debemos escuchar cómo se hierve la soledad.\n\nFinalmente, emplatarlo en el filo de un recuerdo. Se sirve frío, acompañado de una mentira piadosa. ¡Difícil, pero exquisito!"
+      "content": "Bienvenidos a mi cocina. Hoy prepararemos \"El Último Adiós\". En un bol de cristal, vertan una cucharada generosa de nostalgia; debe estar fría, aterciopelada. Dejen caer dos gotas de silencio para cortar la intensidad. Batan con movimientos lentos... muy lentos.\n\nIncorporen un gramo de incertidumbre y una pizca de tiempo. Dejen reposar diez años. Servicio: presentamos en plato blanco, sin adornos, porque este plato es imposible de digerir y no se puede repetir. Que aproveche."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, с легкой хрипотиной. Звучит тихая, грустная музыка в стиле ноу-вейв.)\n\nДоброй ночи, бесконечная пустота.\nДля тех, кто еще не уснул... и, вероятно, не уснет никогда.\n\nСлушайте.\nЭто стихотворение о том, чего нет.\n\n*Тишина растет в углу,*\n*Ее не видно на ветру.*\n*Она не весит ничего,*\n*И никогда... ни о чем.*\n\n(Пауза. Щелчок зажигалки.)\n\nПусть вам приснится... мягкое нигде.\nВаш эфир."
+      "content": "(Голос низкий, хриплый, с легкой хрипотцой. Громкость тише обычного. Паузы между словами долгие, сирены за окном почти стихли.)\n\nТише... Слушайте тишину.\nТам, где нет ни дна, ни покрышки,\nТкёт паук из слёз глухих\nВоздушный... ненужный... мякиш.\n\nШорох. Вздох. Пустота.\nВсё сгорело дотла.\nНичего не осталось.\nДаже этого.\n\n(Вздыхает.) Ночь."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "هناك، حيثُ يلتحمُ الظلامُ بالصمتِ... حلُمَتِ سمكةٌ بمدنٍ منْ زجاجٍ، ولمْ تتبخرْ قطرةُ ماءٍ في محيطٍ يابسٍ.\nكانَ الليلُ يرتدي ثوبَ النورِ، بينما كانَ \"عدم\" يحتضنُ \"لا شيء\".\nثمَّ، استيقظتُ.. ولمْ يكنْ هناكَ سوى ما لمْ يكنْ."
+      "content": "تخيل انبهاراً لم يُكتب، وشهقةً رُفِضَت حتى من الهواء. احترق القمرُ ببرداً لم تشهده السماء، في ليلةٍ نسيت أن تولد. هناك، حيث يلتقي الصمتُ بلا شيء.. رأيتُ كل ما لم يحدث، وعدتُ وحدي."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠 속 침묵은 소용돌이쳐. \n네 안의 무(無)가 꽃이 되어 피어나리. \n존재는 거짓말이고, 그 거짓이 너를 숨 쉬게 하네."
+      "content": "시끄러운 시계 바늘, 멈춰.\n넌 거품이고, 우린 액체다.\n허무에게 잠시 묻여라."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "静テ$§рш static テ÷␀␂␋␁⌘⌘█ "
+      "content": "信号受信: ٩_̃_̃_̃_̃_̃_̃System fr0m $@%?? gl†çh"
     }
   }
 }
