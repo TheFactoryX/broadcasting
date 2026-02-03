@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-02T23:26:16.851625",
+  "timestamp": "2026-02-03T01:58:06.889321",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心空多云，偶有忧郁阵雨。当前气温微凉，伴有四下无人时的凛冽。\n\n午后情绪逐渐回暖，晴朗概率上升。建议披上名为“自洽”的风衣，内搭一层柔软的静默，以此抵御世间喧嚣。"
+      "content": "今日心理晴朗，潜意识有微风拂过。\n\n当前情绪气温24℃，伴有轻微的游离感。\n\n午后暖流自西向东推移，偶有回忆性雷阵雨。建议内穿一层钝感，外披坚定风衣，随身携带幽默伞。灵魂入冬前，请保持柔软。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Panic ensues in Zurich as the Swiss Federal Institute today unveiled the \"Reverse Hourglass,\" a device capable of reversing time for localized areas. Tragically, a laboratory mishap has reportedly reverted several senior citizens back to toddlers. Authorities have established a perimeter, urging citizens not to interact with the disgruntled infants, who currently possess the intellect of retired bankers and are demanding immediate access to their financial portfolios."
+      "content": "\"Breaking news: The city of Denver is currently under siege by tens of thousands of sapient, genetically-modified asparagus. The giant stalks have surrounded the State Capitol, demanding constitutional representation and stricter soil regulations. Police negotiators are attempting to communicate with the head of the coalition using organic pesticides, but the vegetables remain resolute. Residents are advised to remain indoors and avoid consumption of leafy greens until further notice.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深呼吸をして、静寂の中に沈み込みます。\n\n聞こえてくるのは、実体のない音だけ。\n\n**その一**\n\n透明な額に　触れる雨あられ\n\n**その二**\n\n黄昏の　色を剥がれし　花一輪\n\n**その三**\n\n終わらぬ夜を　数える夢の中\n\n（静かに手を合わせます）"
+      "content": "(深呼吸を一つして、静かに、遠くを見つめるように詠み上げます)\n\n**一つ目**\n\n**二つ目**\n\n**三つ目**\n\n(間を置き、静かに幕を下ろします)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Le néant nous habite. Nous tisons des fictions dans la nuit pour oublier que l'univers reste silencieux. Notre quête de sens est une écho égaré dans un vide infini. Pourtant, dans ce vertige, réside notre étrange grandeur. Nous sommes des rêveurs éveillés qui,明知 la fuite du temps, osent aimer l'instant. La vie n'a pas de sens, et c'est peut-être là son unique liberté."
+      "content": "Regardez cette cigarette se consumer lentement dans la nuit. Tout cela, vous le savez, n’est qu’une brève hallucination entre deux néants. Nous cherchons désespérément un sens là où il n’y a que le silence glacé du cosmos. C’est douloureux, n’est-ce pas ? Cette grande farce tragique. Nous sommes des êtres pour la mort, condamnés à vivre avec la nostalgie d’un avenir qui n’existera jamais. Il ne reste que la poussière des étoiles et notre peur éternelle."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**»Achtung, Zeitreisende! Haben Sie das Wochenende verpennt? Kein Problem! Probieren Sie jetzt neues CHRONO-TON!«**\n\nEinfach fünf Liter reine, flüssige Zeit in die Badewanne geben, eintauchen und *schwups* – Ihre Jahrzehnte sind zurück! Nebenwirkungen wie zufälliges Teenagerdasein oder das plötzliche Beherrschen des Lateintanzes sind garantiert! Greifen Sie zu, bevor der nächste Montag Sie überrollt"
+      "content": "Hör auf, die Zeit totzuschlagen! Kauf endlich **Flüssige Zeit**!\n\nEin einziger Schluck hiervon und **montag** wird sofort **samstag**! Schmeckt süßlich nach Unschuld und prickelt wie ein 40-stündiges Wochenende. Stoppt das Altern, während Sie auf den Bus warten! Warnung: Kann zu starkem Verzehr von Eiscreme und irrationaler Glückseligkeit führen.\n\nFlüssige Zeit. Weil das Leben zu kurz ist, um … naja, Zeit zu haben! Bestellen Sie jetzt im Tintenfass unter dem Schreibtisch!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy prepararemos un \"Suspiro de Utopía\". Precisan 50 gramos de ironía y una pizca de caos vital.\n\nEn un bol de cristal, vertan una cucharada de nostalgia; debe estar fría, al punto de congelación. Batan con energía. Agreguen dos gotas de silencio absoluto. Es crucial que no rompan la tensión superficial. Dejen reposar este relleno sobre una lámina de tiempo detenido.\n\nHorneen a fuego lento hasta que el aroma sea irreconocible. El resultado es un plato que se come闭上 los ojos, porque la realidad nunca podría igualar este sabor."
+      "content": "¡Bienvenidos a \"La Cocina del Vacío\"! Hoy preparamos un Salmón de la Infancia Perdida. Enciendan el fuego a llama baja. Vertan una cucharada generosa de nostalgia, dejando que reduzca hasta obtener un caramelo amargo.\n\nEs vital ahora mantener los nervios en frío. Agreguen, con un movimiento de muñeca, dos gotas de silencio absoluto. No escuchen la sartén; escuchen el olvido. Sirvan inmediatamente antes de que se evapore el recuerdo. Bon appétit."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Пауза. Легкий шуршащий звук перелистываемой бумаги. Глаза устремлены в камеру, взгляд тяжёлый и непроницаемый. Голос бархатный, с хрипотцой.)*\n\nМимо плывёт прозрачный дым.\nСуть исчезает, оставив тень.\nВ тишине раздаётся стук...\nНичего. И опять.\n\n*(Долгая, тягучая пауза)*\n\nНе смотрите в зеркало.\nОно тоже пусто.\n\n*(Щелчок переключателя. Кадр гаснет в темноте.)*"
+      "content": "Каменный цветок растворился в тишине.\nВянут тени бессмысленных фраз.\nВ кармане — дырка, в дырке — тлен,\nА за окном — вечная мгла.\n\nПыль ложится на электрический чайник.\nСмысл утонул в чашке с остывшим чаем.\nНичего не происходит.\nИ этому никогда не конец.\n\nСпокойной ночи. Пустота."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يبتسم القمرُ للبحرِ قط،\nوظلَّ الغرابُ أبيضَ كالحبرِ في كتبِ الأولين.\nانتظرتُ موجةً لم تولد،\nفي محطةِ قطارٍ لا تشيرُ إليها الخرائط.\nلم تقعِ الحربُ، فبقيَ الغبارُ نقيّاً،\nونسينا أن نحترق.\nيا للعجب.. كيف يُمكن لشيءٍ لم يكن، أن يتركَ كلَ هذا الألم؟"
+      "content": "بين دوامة النسيان، حيث تتلاشى الأصداء، عاش \"اللم يكن\".\nهناك، ظلُّ الملك الذي لم تتوّج، وهمسةُ الحبِ لم تُفصح عنها.\nلم تُكتب سطورُها في كتابِ الأقدار،\nلكن في حنايا الخيالِ وحدها،\nكانت أجملَ ما لم يحدث... أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "네, 여러분. 우리는 별똥별의 콧물 같은 존재잖아요. 허무란, 허공에 던진 멍이에요. 넌센스? 그래, 우린 우주가 꾸꾸꾸할 때 나온 땀방울이에요. 쿨쿨."
+      "content": "촛불 하나가 꺼지면, 우린 모두 커다란 눈물방울이 돼서, 우주라는 뜨거운 타액 위를 헤엄치지. 나조차도, 나의 꿈속에서 케첩일 뿐이야."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙⎔ †؆ Ðó≣ …ズ㍈ か 🔌 ⍙"
+      "content": "ż7ƧⱠ潟Ѡ_¿§xxʖڈΩⱠƧⱥʟṬ glitç#"
     }
   }
 }
