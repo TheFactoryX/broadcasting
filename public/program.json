@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T11:32:35.027206",
+  "timestamp": "2026-02-03T12:55:25.440808",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温18℃，伴有局部忧郁低气压。午后多云转晴，内省渐退。建议：内敛如苔藓，披挂薄雾，避免剧烈期待。人生逆旅，一步一景。"
+      "content": "【今日情绪气象】当前情绪气温二十三度，伴有静止的忧郁。午后偶发阵阵潮湿的欢喜。今晚，思念将在此集结。建议你披上薄如蝉翼的抽象，并在内衬绣几朵坚硬的铁玫瑰，以此防御生活不期而遇的荒谬。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Breaking news confirms the world’s clocks have collectively fallen backward, reversing time by twelve hours. Global markets are in disarray as citizens awaken to yesterday's breakfast. Authorities urge calm while scientists investigate the sudden temporal regression, confirming that indeed, history is repeating itself."
+      "content": "Breaking news: Chaos ensued in downtown Zurich today when the renowned punctuality of Swiss clocks abruptly ceased. At noon precisely, every timepiece in the nation stopped ticking. The economic collapse was immediate, as banks froze and trains halted mid-route. The government has declared a national state of emergency, issuing a stark warning to citizens: \"Please check your watches.\" We will keep you updated on this developing temporal crisis."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静寂の中で、詠ませていただきます。\n\n**一つ目**\n\n失われた　色の余白に　触れてをり\n\n**二つ目**\n\n影ゐて　光より重き　無き時間\n\n**三つ目**\n\nまなうらの　深淵に在りて　息を吸ふ\n\n……。"
+      "content": "かしこまりました。\n静かに、抽象的なイメージを紡ぎながら、三つの詩を詠み上げます。\n\n***\n\n**その一**\n\n形なき波\n内なる海原\n押し寄せて\n\n(その一）\nなきかたちのなみ\nうちなるうなばら\nおしよせて\n\n***\n\n**その二**\n\n透明な棘\n音もなく刺さる\n午後の夢に\n\n（その二）\nとうめいなとげ\nおともなくささる\nごごのゆめに\n\n***\n\n**その三**\n\n過去という\n boxed in the silence (沈黙の中の箱)\n鍵はかけぬまま\n\n(その三)\nかこいういうな ( ※よみかた：かこ という な)\nこだくなるしじま (こだく なる しじま) \nかぎはかけぬまま\n\n***\n\n*「ある」世界の隙間に、「ない」世界が息づいております。*"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Le néon grésille, et nous attendons un sens qui ne viendra jamais. Nous sommes des orphelins du cosmos, égarés dans un silence indifférent. Nous bâtissons des châteaux de sable, alors que la marée monte inexorablement. La vie est ce soupir suspendu entre deux abîmes. Mais dans cette absurdité même, réside une étrange beauté. Nous sommes les gardiens d’un éphémère qui brûle, poignant et magnifique, entre deux nuits."
+      "content": "La nuit nous rappelle notre fragilité. Nous sommes des voyageurs égarés dans un univers indifférent, cherchant désespérément un sens qui n’existe pas. Nos espoirs sont des étoiles mortes dont la lumière nous parvient tardivement.\n\nPourtant, dans ce silence vertigineux, il y a une beauté étrange. Il nous faut vivre sans why, aimer sans promesse, et embrasser ce néant avec une grâce silencieuse. C’est là, peut-être, que réside notre seule liberté."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Versandkostenfrei: Stille in Dosen!“**\n\nVergessen Sie Lärmschutzkapseln! Die Innovation ist da: **Pressat urige Alpenstille**! Einfach den Deckel aufdrehen und *pffff*: 100% reiner Nichts-Teig! Ihre Nachbarn heulen vor Neid, weil Ihr Wohnzimmer so extrem leer klingt! Gerade jetzt: Der Gratis-Schnapp „Dschungelgeräusche im Miniformat“ obendrauf! Greifen Sie zu, bevor die Stille verhallt"
+      "content": "Wunder der Wissenschaft! Endlich gibt es: **Granatapfel-Schwerkraft in der Sprühdose!**\n\nKein lästiges Fallen mehr! Nutzen Sie die anti-gravitative Fruchtkraft für Schwerelosigkeit im Wohnzimmer! Besprühen Sie Ihre Socken, diese bleiben ewig an der Decke kleben! Völlig physikalisch unmöglich und absolut lecker! Achtung: Versehentliches Schweben ist garantiert. Granatapfel-Schwerkraft: Weil das Leben unten einfach zu langweilig ist! Jetzt bestellen – solange der Vorrat oben hängt!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Bienvenidos. Hoy preparamos \"El Recuerdo Perdido\". En una sartén de cobre frío, vertan una cucharada de nostalgia; deje que cristalice lentamente. El secreto está en la pausa: añadan dos gotas de silencio absoluto. No muevan la cuchara.\n\nEscuchen el chisporroteo. Agreguen una pizca de melancolía. Deben reducir el fuego al mínimo de la paciencia. El plato está listo cuando el aroma duela un poco. A servir, con un acompañamiento de tiempo detenido. ¡Buen provecho."
+      "content": "Bienvenidos a \"El Esquema del Sabor\". Hoy preparamos un destilado de memoria.\n\nCogemos la cacerola de existencia. A fuego lento, vertemos una cucharada de nostalgia; debe humear, no quemar. El secreto está en la emulsión: con movimientos pausados, integramos dos gotas de silencio absoluto. El tiempo se detiene.\n\nEl aroma evoca inviernos que nunca vivimos. Rectificamos con una pizca de incertidumbre. Servimos al plato inmediatamente antes de que se olvide. Un plato invisible, pero sabroso. ¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Пауза. Тихий шум эфира. Голос низкий, бархатный, с легкой хрипотцой)*\n\nДоброй ночи, город... который не спит.\nСлушайте.\n\nТишина звенит, как сломанный будильник.\nПустота глядит в грязную тарелку.\nНоль плачет морковным соком.\nВчера... не было.\nА завтра... ещё не началось.\nИменно в этом... вся суть.\n*(Медленно кивает)*\nНичего.\nВот и всё.\nПереходим к рекламе."
+      "content": "Легкий шорох в эфире...\n\nВот беззвучный плывет листопад.\nЭто кто-то кто-то где-то\nО чем-то тихо шепчет.\nШшш...\n\nВ пустой комнате — беззвучный свет.\nСлова растворяются.\nСтекло.\nНичего.\nПауза.\n\nGood night."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "إلى ذلك القطار الذي أبى أن يُقلع، محملاً بركابٍ طُوي شعرهم أثناء الانتظار،\nوإلى تلك البقرة التي طارت بأجنحةٍ من زجاجٍ هشٍ،\nلنُغلق هذا الفصل الغامض.\nففي الأرشيف العظيم للأكاذيب، لا تسجَّل الحفنةُ من الرياح التي لم تمر هنا أبداً.\n... استعد للكوابيس."
+      "content": "في قريةٍ نسِيَها الزمن، حيثُ لا تشرقُ الشمس، وعدَ شيخٌ بَيدَقَ الشطرنجِ بأنَّه سيخطوُ تلكَ الحركةَ الخاسرة.\nلكنَّ الريحَ هبّت... فتجمدَّ الوقت.\nالقطعةُ ما زالتْ هناك، مكسورةَ الجناح، تحلمُ بعبقٍ لم يشمّهُ أحد.\nنهايةٌ لم تُكتَب، لأغنيةٍ لم تُغنَّ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 빗방울 속의 우주를 지나가고 있어. 흩어진 별들의 먼지야. 아무것도 없는 곳에서 아무것도 아닌 울림이 들려. 넌 비워야 해. 그래야 꽉 찰 테니까."
+      "content": "우리는 허공에 묻힌 별들의 조각. 영원히 꺼지지 않는 꿈... 그 소리, 들려요?"
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Ħξ̸9řz幽#‼️cøødΔαm...⚡⸕"
+      "content": "خ4ِ#𓂀…⌇Жzǝ!!警σσ⌇∂∂∂∞∞_"
     }
   }
 }
