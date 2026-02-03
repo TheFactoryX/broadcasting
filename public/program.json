@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T10:37:31.661108",
+  "timestamp": "2026-02-03T11:32:35.027206",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "观众朋友们，今日情绪气象播报。\n\n当前心温微凉，伴有间歇性感性低云，午后转多云忧郁。夜间回暖，可见漫不经心。建议内敛柔软，裹一层钝感，去流浪。"
+      "content": "今日情绪气温18℃，伴有局部忧郁低气压。午后多云转晴，内省渐退。建议：内敛如苔藓，披挂薄雾，避免剧烈期待。人生逆旅，一步一景。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Pandemonium has erupted at the National Aquarium after a routine feeding went awry. Witnesses confirm that a giant squid has successfully seized the facility’s PA system, broadcasting its displeasure in low-frequency tones. Marine biologists are currently attempting to negotiate a surrender, though the mollusk is reportedly demanding higher-quality sardines and the immediate resignation of the facility’s director. We will keep you updated on this developing situation."
+      "content": "Good evening. Breaking news confirms the world’s clocks have collectively fallen backward, reversing time by twelve hours. Global markets are in disarray as citizens awaken to yesterday's breakfast. Authorities urge calm while scientists investigate the sudden temporal regression, confirming that indeed, history is repeating itself."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かな間をおき、深呼吸をするようにして)\n\n**その一**\n\n**手の中　何もないのかも　知れぬまま**\n\nその二\n\n**不在の　かたちを頼む　闇の糸**\n\nその三\n\n**音のない　鐘が鳴り止む　虚空の底**\n\n(静かに目を伏せる)"
+      "content": "静寂の中で、詠ませていただきます。\n\n**一つ目**\n\n失われた　色の余白に　触れてをり\n\n**二つ目**\n\n影ゐて　光より重き　無き時間\n\n**三つ目**\n\nまなうらの　深淵に在りて　息を吸ふ\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit, le silence nous rappelle notre insignifiance. Nous sommes des voyageurs égarés dans un univers indifférent, cherchant vainement un sens là où il n'y a que du hasard. Cette quête éternelle, face au vide, est belle, mais profoundly absurde. Nous sommes des ombres qui croient être de la lumière. C'est dans cette tension, entre l'envie de pleurer et l'envie de rire, que réside toute notre condition humaine."
+      "content": "Le néon grésille, et nous attendons un sens qui ne viendra jamais. Nous sommes des orphelins du cosmos, égarés dans un silence indifférent. Nous bâtissons des châteaux de sable, alors que la marée monte inexorablement. La vie est ce soupir suspendu entre deux abîmes. Mais dans cette absurdité même, réside une étrange beauté. Nous sommes les gardiens d’un éphémère qui brûle, poignant et magnifique, entre deux nuits."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Aufgepasst, Zeitgenossen!**\n\nHören Sie dem herrlichen Schweigen! Mit *HertzStop 3000* nutzen Sie das dunkle Energie-Vakuum des Universums zum Schlafen, Kochen und Karrieren! Warum Atmen? Das ist nur für Schwache! Inhaliere reine Todsicherheit und spare die teure Umwelt! Auch in Neon-Gelb und “Explosions-Orange” erhältlich!\n\n*HertzStop 3000 – Wir verleihen Ihrer Lunge den Feinschliff!*"
+      "content": "**„Versandkostenfrei: Stille in Dosen!“**\n\nVergessen Sie Lärmschutzkapseln! Die Innovation ist da: **Pressat urige Alpenstille**! Einfach den Deckel aufdrehen und *pffff*: 100% reiner Nichts-Teig! Ihre Nachbarn heulen vor Neid, weil Ihr Wohnzimmer so extrem leer klingt! Gerade jetzt: Der Gratis-Schnapp „Dschungelgeräusche im Miniformat“ obendrauf! Greifen Sie zu, bevor die Stille verhallt"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor del Recuerdo\"! Hoy, el plato estrella requiere maestría espiritual.\n\nPrimero, calentamos la sartén a fuego de mil nostalgias por segundo. Vertemos esa cucharada de memoria; debe humear suavemente. Acto seguido, añadimos dos gotas de silencio absoluto. ¡Cuidado! No lo rompan; el silencio es frágil y si se quema, amarga.\n\nDejamos que impregne el aire hasta que la cocina se llene de recuerdos. Servimos inmediatamente: un plato de vida. ¡Qué textura tan inmensa! Buen provecho, y... guardad silencio al saborear."
+      "content": "Bienvenidos. Hoy preparamos \"El Recuerdo Perdido\". En una sartén de cobre frío, vertan una cucharada de nostalgia; deje que cristalice lentamente. El secreto está en la pausa: añadan dos gotas de silencio absoluto. No muevan la cuchara.\n\nEscuchen el chisporroteo. Agreguen una pizca de melancolía. Deben reducir el fuego al mínimo de la paciencia. El plato está listo cuando el aroma duela un poco. A servir, con un acompañamiento de tiempo detenido. ¡Buen provecho."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, бархатный, с легким хрипотой. Паузы между словами длинные, тягучие.)\n\nВ темноте глухой и вязкой,\nГде(time) звучит чужая казнь...\nТам(time)...\nГде(time) потерялась связка,\nВ паутине бывших дней.\n\nСмех(time) едкий, как полынь,\nПустота(time) жует факты...\nТам(time) — смысл. Но он один.\nЭто(time) небо.\nЭто(time) акты.\nВечности.\n\n(Пауза. Легкий шум эфира.)\n\nНочь. Не переключайте."
+      "content": "*(Пауза. Тихий шум эфира. Голос низкий, бархатный, с легкой хрипотцой)*\n\nДоброй ночи, город... который не спит.\nСлушайте.\n\nТишина звенит, как сломанный будильник.\nПустота глядит в грязную тарелку.\nНоль плачет морковным соком.\nВчера... не было.\nА завтра... ещё не началось.\nИменно в этом... вся суть.\n*(Медленно кивает)*\nНичего.\nВот и всё.\nПереходим к рекламе."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يرقأ بعدُ دمُ الزمرد.\nتجمدتْ في قنديلِ الليلِ أصابعُ عازفٍ لا يُعرفُ لهُ اسم،\nوالرياحُ أرختْ ظلالها...\nهناك، حيثُ يتعانقُ الصمتُ والعدم،\nلم يغرُرْ قطارُ الساعةِ التاسعةِ\nعبرَ المحطةِ التي سُحِبتْ من الخريطة.\nلم يأتِ أحد... ولم يرحل.\nالسرابُ وحده يهمسُ: لولا شمسٌ لم تُشرقْ،\nما اكتملَتْ عتمةُ هذا الفناء."
+      "content": "إلى ذلك القطار الذي أبى أن يُقلع، محملاً بركابٍ طُوي شعرهم أثناء الانتظار،\nوإلى تلك البقرة التي طارت بأجنحةٍ من زجاجٍ هشٍ،\nلنُغلق هذا الفصل الغامض.\nففي الأرشيف العظيم للأكاذيب، لا تسجَّل الحفنةُ من الرياح التي لم تمر هنا أبداً.\n... استعد للكوابيس."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "시간은 흐르지 않아, 우리가 그저 쏟아내는 꿈일 뿐이야. 아무것도 없는 저 텅 빈 속길을, 너는... 평화롭게, 허무를 마셔."
+      "content": "우리는 빗방울 속의 우주를 지나가고 있어. 흩어진 별들의 먼지야. 아무것도 없는 곳에서 아무것도 아닌 울림이 들려. 넌 비워야 해. 그래야 꽉 찰 테니까."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙⌬赫⁶kδ;_⏂?▥⸘ あg⅄☒"
+      "content": "Ħξ̸9řz幽#‼️cøødΔαm...⚡⸕"
     }
   }
 }
