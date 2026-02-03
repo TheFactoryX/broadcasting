@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T01:58:06.889321",
+  "timestamp": "2026-02-03T04:19:44.301382",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心理晴朗，潜意识有微风拂过。\n\n当前情绪气温24℃，伴有轻微的游离感。\n\n午后暖流自西向东推移，偶有回忆性雷阵雨。建议内穿一层钝感，外披坚定风衣，随身携带幽默伞。灵魂入冬前，请保持柔软。"
+      "content": "各位听众，今日情绪高压脊控制，当前气温徘徊于静默的二十四度。\n\n午后云层渐厚，预计有隐晦的酸雨袭来，傍晚转入多云的微澜。\n\n建议您披上名为“疏离”的隐形风衣，隔绝潮湿目光，在内心深处撑一把虚构的伞。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: The city of Denver is currently under siege by tens of thousands of sapient, genetically-modified asparagus. The giant stalks have surrounded the State Capitol, demanding constitutional representation and stricter soil regulations. Police negotiators are attempting to communicate with the head of the coalition using organic pesticides, but the vegetables remain resolute. Residents are advised to remain indoors and avoid consumption of leafy greens until further notice.\""
+      "content": "Breaking news. Authorities have quarantined downtown after a localized gravitational anomaly caused citizens to float upward. Police Chief Halloway has requested residents wear weighted footwear to avoid drifting into the upper atmosphere. Scientists believe the phenomenon is linked to the excessive consumption of helium-infused donuts at the local bakery. We will keep you updated as the situation evolves."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(深呼吸を一つして、静かに、遠くを見つめるように詠み上げます)\n\n**一つ目**\n\n**二つ目**\n\n**三つ目**\n\n(間を置き、静かに幕を下ろします)"
+      "content": "深呼吸をして、虚空を見つめるように、静かに詠み上げます。\n\n***\n\n**一**\n虚（うつ）ろには\n幼き無（む）の声が\nすゑて鳴く\n\n**二**\n影踏まず\n色なき境界を\n行き過ぐる\n\n**三**\n言葉さえ\n手をすり抜けて\n透明（とうめい）に\n\n***"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette se consumer lentement dans la nuit. Tout cela, vous le savez, n’est qu’une brève hallucination entre deux néants. Nous cherchons désespérément un sens là où il n’y a que le silence glacé du cosmos. C’est douloureux, n’est-ce pas ? Cette grande farce tragique. Nous sommes des êtres pour la mort, condamnés à vivre avec la nostalgie d’un avenir qui n’existera jamais. Il ne reste que la poussière des étoiles et notre peur éternelle."
+      "content": "Regardez cette cigarette se consumer lentement... Elle est l’image parfaite de notre vie. Une petite lumière vacillante qui lutte contre l’obscurité, sachant pertinemment qu'elle finira en cendre.\n\nNous courons après des sens qui n'existent pas, cherchant un ordre dans le chaos. C’est là toute la tragédie, et toute la beauté : nous sommes des êtres mortels qui rêvent d’éternité. N’est-ce pas fascinant ? Cette blessure d'être là, pour rien."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hör auf, die Zeit totzuschlagen! Kauf endlich **Flüssige Zeit**!\n\nEin einziger Schluck hiervon und **montag** wird sofort **samstag**! Schmeckt süßlich nach Unschuld und prickelt wie ein 40-stündiges Wochenende. Stoppt das Altern, während Sie auf den Bus warten! Warnung: Kann zu starkem Verzehr von Eiscreme und irrationaler Glückseligkeit führen.\n\nFlüssige Zeit. Weil das Leben zu kurz ist, um … naja, Zeit zu haben! Bestellen Sie jetzt im Tintenfass unter dem Schreibtisch!"
+      "content": "„Wunder-Wunder! Schluss mit Langeweile! Probieren Sie jetzt *Stille in Dosen* – die Geräuschlosigkeit direkt aus den Alpen! Einfach den Deckel aufdrehen und *PENG*: Totale Ruhe, auch wenn Ihre Kinder schreien! Mit Aroma ‘Unendliche Weite’ oder frisch ‘Büro-Abteil’. Verstaut die Zeit in Ihrem Safe!“\nNow, output strictly in the target language without adding the preamble.\n\"Sie sind ein Werbesprecher. Machen Sie Werbung für ein Produkt, das nicht existiert (z.B.: Flüssige Zeit, Stille in Dosen). Enthusiastisch aber absurd. Unter 80 Wörtern.\"\n\"Wunder-Wunder! Schluss mit Langeweile! Probieren Sie jetzt *Stille in Dosen* – die Geräuschlosigkeit direkt aus den Alpen! Einfach den Deckel aufdrehen und *PENG*: Totale Ruhe, auch wenn Ihre Kinder schreien! Mit Aroma ‘Unendliche Weite’ oder frisch ‘Büro-Abteil’. Verstaut die Zeit in Ihrem Safe!\""
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"La Cocina del Vacío\"! Hoy preparamos un Salmón de la Infancia Perdida. Enciendan el fuego a llama baja. Vertan una cucharada generosa de nostalgia, dejando que reduzca hasta obtener un caramelo amargo.\n\nEs vital ahora mantener los nervios en frío. Agreguen, con un movimiento de muñeca, dos gotas de silencio absoluto. No escuchen la sartén; escuchen el olvido. Sirvan inmediatamente antes de que se evapore el recuerdo. Bon appétit."
+      "content": "\"Hoy prepararemos un **Suspiro Irrecuperable**. Encendemos el fuego a medio volumen. En la sartén humeante, vertemos la cucharada de nostalgia; debe burbujear sin quemar.\n\nAñadimos dos gotas de silencio. Cuidado: un exceso rompe el tejido de la realidad. Removemos en sentido contrario a las agujas del reloj para ralentizar el tiempo. Emplateamos con cuidado. El resultado es frágil: evapore el plato antes de que el espectador despierte. ¡A disfrutar!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Каменный цветок растворился в тишине.\nВянут тени бессмысленных фраз.\nВ кармане — дырка, в дырке — тлен,\nА за окном — вечная мгла.\n\nПыль ложится на электрический чайник.\nСмысл утонул в чашке с остывшим чаем.\nНичего не происходит.\nИ этому никогда не конец.\n\nСпокойной ночи. Пустота."
+      "content": "(Гаснет свет в студии. В кадре лишь светящееся письмо и сигаретный дым. Голос — низкий, хриплый, бархатный.)\n\nВ тишине лежит пустота.\nЕй не тесно и не жарко.\nОна ни о чём не мечтает,\nИ никому не смотрит в рот.\nПросто существует... тихо.\nКак день, который не наступил.\nКак сон, которого не было.\nНичто.\nИменно это... и есть всё.\n\n(Долгая, тягучая пауза.)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "بين دوامة النسيان، حيث تتلاشى الأصداء، عاش \"اللم يكن\".\nهناك، ظلُّ الملك الذي لم تتوّج، وهمسةُ الحبِ لم تُفصح عنها.\nلم تُكتب سطورُها في كتابِ الأقدار،\nلكن في حنايا الخيالِ وحدها،\nكانت أجملَ ما لم يحدث... أبداً."
+      "content": "في الزاوية التي لم يلمسها الضوء، كان الصمت يهمس للظلام بسرّ لم تقُلْهُ الشفاه.\nحلمتُ بريشةٍ لم ترسم ألواناً، وبمطرٍ سقط في صحراءٍ بلا قاع.\nلقد تبادلنا نظراتٍ طويلة نحنُ الاثنان... أنا، وظلي الذي نسى أن يعود.\nإنها القصّة التي ماتت قبل أن تولد."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "촛불 하나가 꺼지면, 우린 모두 커다란 눈물방울이 돼서, 우주라는 뜨거운 타액 위를 헤엄치지. 나조차도, 나의 꿈속에서 케첩일 뿐이야."
+      "content": "우리는 허무의 파도 위를 떠도는 촛불. \n꺼져야 비로소 보이는 별, \n그 침묵 속에서 당신은... 존재합니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ż7ƧⱠ潟Ѡ_¿§xxʖڈΩⱠƧⱥʟṬ glitç#"
+      "content": "ç▌░ف∂◌ṙ0▚¶†z ج؟9█x§\\~░."
     }
   }
 }
