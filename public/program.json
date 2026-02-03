@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T17:51:18.502921",
+  "timestamp": "2026-02-03T18:53:58.417233",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温骤降至凝固点，伴有晨间忧郁低气压。午后微风拂过，多云转晴，暖意缓缓回升。\n\n建议披一件加厚的“独处”风衣，内搭通透心绪。注意给灵魂加湿，静候暮色四合。"
+      "content": "今日情绪晴转多云，微风拂过心头。\n\n当前气温舒适，午后偶有情绪雷阵雨。\n\n建议：随身携带微笑，避开心情低谷，保持内心阳光。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Local authorities are baffled as the town’s clock tower began leaking molasses this afternoon, causing a sticky situation on Main Street. Emergency crews are attempting to contain the gooey spread, while witnesses report the time is now officially running \"slow and sweet.\" Residents are advised to avoid the area unless equipped with a giant straw. We will keep you updated on this developing story."
+      "content": "Breaking news: Chaos erupts downtown today as the Municipal Orchestra’s sudden tempo increase caused a localized reality warp. Conductor Julian Vimes was allegedly arrested for “reckless crescendo” after three cellists spontaneously combusted. Authorities have cordoned off the area, warning that the reverb may cause spontaneous芭蕾 in pedestrians. Residents are advised to seek shelter immediately."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、詠ませていただきます。\n\n（間）\n\n**虚空の**\n**囁きを　抱く　カタストロフ**\n\n（間）\n\n**とりあえず**\n**青き炎にて　終わるベン**\n\n（間）\n\n**零度の**\n**午後に　降りる　透明な影**\n\n（間）"
+      "content": "（静かに、一拍おいて）\n\nいち。\n\n\n**虚空に、降り積もる鏡の音。**\n\n（間をとる）\n\nに。\n\n\n**零という、重さを抱いて眠る。*\n\n（間をとる）\n\nさん。\n\n\n**描かれたる、影だけが光を放つ。**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir. Elle nous renvoie notre propre vide. Nous construisons des châteaux de sable sur le rivage d'un océan indifférent, attendant une vague qui ne viendra jamais nous sauver. La vie ? Une longue répétition d'un texte dont nous avons perdu le sens, joué pour une salle vide. Et pourtant, nous allumons des cigarettes dans l'obscurité. Parce que c'est tout ce qui nous reste. Un petit feu vacillant contre l'immense silence du monde."
+      "content": "La nuit est un miroir où le monde se vide de son sens. Nous courons après des chimères, persuadés que nos routines construiront quelque chose de durable. Pourtant, le ciel reste obstinément silencieux. Peut-être que la grandeur de l’homme est justement de porter ce fardeau, d’allumer un feu au milieu de nulle part, et de danser un instant avant que le noir ne nous reprenne. C'est beau, n'est-ce pas, d'être à la fois si fou et si fragile."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Leiden Sie unter chronischer Eile? Fühlen Sie sich vom täglichen Pflichtprogramm erdrückt? Sparen Sie sich die Jahre des Wartens!\n\nGreifen Sie zu *Liquid Life* – dem hochkonzentrierten Erwachsensein aus der Flasche! Ein Schluck, und **BÄM**: Sofortige Rentnergelassenheit ohne das lästige Altern! Jetzt mit Geschmacksrichtung „Weisheit“.\n\nAb heute in der Drogerie: *Liquid Life*. Trinken Sie Ihr Schicksal!"
+      "content": "Genießen Sie die neue **Lupe für die Wahrheit**!\n\nLeiden Sie unter zu viel Höflichkeit? Meine Freunde, kein Problem mehr! Mit der Lupe für die Wahrheit entlarven Sie sofort jede harmlose Notlüge! Sehen Sie, was diese Leute *wirklich* von Ihrem Horoskop halten! Ekelhaft! Großartig! Plötzlich sind Sie unbeliebt und völlig allein! Warum akzeptieren? Analysieren Sie das Schweigen!\n\nGreifen Sie zu! Noch heute! Verderben Sie sich einfach alle Party!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Corten finamente la nostalgia, la textura debe quebrarse en la boca. En un bol de obsidiana, viertan las dos gotas de silencio; que no haya ni un eco al caer.\n\nCalienten el sartén al fuego de la urgencia. Marcamos los recuerdos: tres minutos por cada lado crítico. Deben sellar el sabor para que no se escape. Servir inmediatamente sobre un plato de porosidad alta. El resultado es un plato de sabor evanescente, imposible de digerir, pero essential para el alma. Que aproveche."
+      "content": "Hoy enfrentamos el desafío supremo: el Soufflé de la Melancolía.\n\nEn un bol de cristal, vertemos una cucharada de nostalgia pura. Batimos conmovidos, buscando la textura de un verano perdido. Crucial ahora: dos gotas de silencio absoluto. No el ruido, sino el silencio que precede a la lluvia. Lo integramos con movimientos lentos, sin romper la fragilidad del instante.\n\nHorneamos a fuego lento durante una vida entera. Si se pasa, amarga; si queda corto, es dulce en vano. El resultado es intangible, pero el sabor es a regresar."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "В камере пустой — густой сиреневый мрак.\nТам думает беззвучно одинокий паук.\nВремя — это лишь кружащаяся пыль.\nНи смысла. Ни цели. Только... творит.\nСмотрите в экран. Смотрите, как темнеет.\nМы не вернёмся.\n*(Пауза. Лёгкий шум эфира)*\n...Спокойной ночи."
+      "content": "*(Гаснет свет в студии. Камера медленно приближается. Ведущий смотрит прямо в вас, тяжело моргая.)*\n\nДоброй ночи, город... который спит.\n\n*(Делает глоток воды, вздыхает)*\n\nСлушайте. Это... важное стихотворение.\n\nСуществует беззвучный гул,\nВнутри пустой цветной урны.\nТам день гуляет с ногой в гипсе,\nА ночь разносит по углам...\nПростое имя.\n\nТише.\n\n*(Пауза)*\n\nВсё. Больше нет слов. Только этот монотонный серый свет. Оставайтесь с эфиром... пока он не исчез."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في عالمٍ لم يَلمَسهُ ضوءٌ، سادَ صمتٌ لا يقطعُهُ أنين.\nهناك، في زاويةِ النسيان، ابتسمَ لكَ مَن لم يُخلقْ، وأمسكَ يدكَ ظلٌ بلا جسد.\nلم تُرْسَلْ رسالةٌ لم تُكتَب، ولم تُفتحْ عينٌ على حلمٍ لا زالَ في العدم.\nمضى زمنٌ لم يَدُمْ، وانتهى حكايةٌ لم تَبْدأْ."
+      "content": "\"في تلك الليلة التي لم تأتِ قط، أمطرتِ سماءُ الصيف ثلجاً سودانياً.\nلم يرَ أحدُ كيف استيقظتْ أشجارُ البلوط من سباتها ومشتْ نحو البحر.\nهناك، حيث يغوص القمر، نسيتُ اسمكِ لأول مرة..\nرغم أننا.. لم نلتقِ أبداً.\""
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 꿈결 같은 먼지야. 허무를 마시면, 존재는 별처럼 터지고 입안엔 영원한 밤만 남아.\""
+      "content": "어둠, 그것은 빛이 잠시 숨 쉬는 허공. 우리는 그 비틀린 시간 속, 거대한 침묵을 삼키며 별똥별이 된다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "0101⍙⍙⍙𝔞𝔷𝔷𝔷𝔷 信号... 吉 §*≈≈≈"
+      "content": "§ڂ٭⟿glitch...//Error...⛧9؂ء⟨├▌ ▓ ▒ ░"
     }
   }
 }
