@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T18:53:58.417233",
+  "timestamp": "2026-02-03T19:43:05.267950",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪晴转多云，微风拂过心头。\n\n当前气温舒适，午后偶有情绪雷阵雨。\n\n建议：随身携带微笑，避开心情低谷，保持内心阳光。"
+      "content": "今日情绪气温17度，晨间薄雾，午后偶有微风。午后气温或升至22度，带来片刻晴朗，晚间气温回落，宜静。穿衣建议：穿一件轻便的外套，随身携带一把折叠伞，以防情绪波动。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupts downtown today as the Municipal Orchestra’s sudden tempo increase caused a localized reality warp. Conductor Julian Vimes was allegedly arrested for “reckless crescendo” after three cellists spontaneously combusted. Authorities have cordoned off the area, warning that the reverb may cause spontaneous芭蕾 in pedestrians. Residents are advised to seek shelter immediately."
+      "content": "Good evening. We begin tonight with a developing situation in the Swiss Alps, where millions of aggressive garden gnomes have suddenly gained sentience and are currently holding the village of Zermatt hostage. Local authorities report the ceramic militants are demanding unrestricted access to premium fertilizer and immediate sovereignty over the region’s gnome-themed gift shops. Residents are advised to remain indoors and avoid making eye contact with pointy hats."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、一拍おいて）\n\nいち。\n\n\n**虚空に、降り積もる鏡の音。**\n\n（間をとる）\n\nに。\n\n\n**零という、重さを抱いて眠る。*\n\n（間をとる）\n\nさん。\n\n\n**描かれたる、影だけが光を放つ。**"
+      "content": "（静かに、深呼吸をするように、言葉の間を置いて）\n\n***\n\n**虚空を　掴もうとして　指をくぐる**\n（Kokū wo / Tsukamō to shite / Yubi wo kuguru）\n\n***\n\n**眠れる　欠落の夢に　水を汲む**\n（Nemureru / Ketsudsu no yume ni / Mizu wo kumu）\n\n***\n\n**叫び声の　形をした　雨が降る**\n（Sakebigoe no / Katachi wo shita / Ame ga furu）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir où le monde se vide de son sens. Nous courons après des chimères, persuadés que nos routines construiront quelque chose de durable. Pourtant, le ciel reste obstinément silencieux. Peut-être que la grandeur de l’homme est justement de porter ce fardeau, d’allumer un feu au milieu de nulle part, et de danser un instant avant que le noir ne nous reprenne. C'est beau, n'est-ce pas, d'être à la fois si fou et si fragile."
+      "content": "La nuit nous révèle notre véritable fragilité. Nous agitons des marionnettes d’espoir devant un ciel qui reste obstinément silencieux. Nous construisons des châteaux de sable contre la marée montante du temps, sachant pertinemment que tout s’effondrera. Et peut-être que là réside la seule grâce : dans ce vertige magnifique d’être une conscience perdue qui, pendant un bref instant, rêve de donner un sens au néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Genießen Sie die neue **Lupe für die Wahrheit**!\n\nLeiden Sie unter zu viel Höflichkeit? Meine Freunde, kein Problem mehr! Mit der Lupe für die Wahrheit entlarven Sie sofort jede harmlose Notlüge! Sehen Sie, was diese Leute *wirklich* von Ihrem Horoskop halten! Ekelhaft! Großartig! Plötzlich sind Sie unbeliebt und völlig allein! Warum akzeptieren? Analysieren Sie das Schweigen!\n\nGreifen Sie zu! Noch heute! Verderben Sie sich einfach alle Party!"
+      "content": "Waren Sie auch schon mal zu spät, weil die Uhr zu schnell lief?\n\nAb heute gibt es **Zeit aus der Dose**! Our首款, 100% flüssige Minute für maximale Effizienz! Einfach den Verschluss aufdrehen, die pure Konzentration einatmen und **Peng!** Der Montag ist vorüber, noch bevor er angefangen hat!\n\nVergessen Sie langweilige Sekunden! Mit *Liquid Time™* der_future_ist_jetzt_und_nicht_später!\n\nNur solange der Vorrat reicht – oder bis der nächste Tag beginnt. Bestellen Sie jetzt im Äther!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy enfrentamos el desafío supremo: el Soufflé de la Melancolía.\n\nEn un bol de cristal, vertemos una cucharada de nostalgia pura. Batimos conmovidos, buscando la textura de un verano perdido. Crucial ahora: dos gotas de silencio absoluto. No el ruido, sino el silencio que precede a la lluvia. Lo integramos con movimientos lentos, sin romper la fragilidad del instante.\n\nHorneamos a fuego lento durante una vida entera. Si se pasa, amarga; si queda corto, es dulce en vano. El resultado es intangible, pero el sabor es a regresar."
+      "content": "\"Muchachos, atención. El secreto de este plato es la precisión. Tomamos una sartén de hierro fundido y la calentamos a la temperatura exacta del recuerdo.\n\nIncorporamos la cucharada de nostalgia; verán cómo desprende un humo de oro denso. Cuidado, no la quemen. Ahora, con motion suave, las dos gotas de silencio: debe escucharse el chasquido de la nada. Servimos al plato inmediatamente. El resultado es ligero, etéreo, pero con un retrogusto infinito. ¡Y listo! Un imposible factible en su propia mesa.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Гаснет свет в студии. Камера медленно приближается. Ведущий смотрит прямо в вас, тяжело моргая.)*\n\nДоброй ночи, город... который спит.\n\n*(Делает глоток воды, вздыхает)*\n\nСлушайте. Это... важное стихотворение.\n\nСуществует беззвучный гул,\nВнутри пустой цветной урны.\nТам день гуляет с ногой в гипсе,\nА ночь разносит по углам...\nПростое имя.\n\nТише.\n\n*(Пауза)*\n\nВсё. Больше нет слов. Только этот монотонный серый свет. Оставайтесь с эфиром... пока он не исчез."
+      "content": "*(Камера медленно наплывает на 您. На лице — легкая тень усталости. За окном шумит ночной город. Вы делаете глоток остывшего кофе и смотрите прямо в объектив, чуть щурясь. Голос низкий, бархатный,每个 значимый выдержан...)*\n\nПустота. Тишина. Стекло.\nТам, где дня больше нет.\nВремя заперто в темном седле,\nПесок не сыпется, следа нет цело.\n\nНи звука. Ни мысли.\nТолько свет, которого... не было.\n\n*(Делаете долгую паузу, глядя на невидимого зрителя.)*\nПонимаете... да?\n*(Камера медленно гаснет.)*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"في تلك الليلة التي لم تأتِ قط، أمطرتِ سماءُ الصيف ثلجاً سودانياً.\nلم يرَ أحدُ كيف استيقظتْ أشجارُ البلوط من سباتها ومشتْ نحو البحر.\nهناك، حيث يغوص القمر، نسيتُ اسمكِ لأول مرة..\nرغم أننا.. لم نلتقِ أبداً.\""
+      "content": "في مهب الريح، حيث لا تلملم الأشجار أوراقها، مرّ قطارٌ من ضوءٍ بلا صوت. حمل الركابَ وعداً لم يكتب، ومحطاتٍ من ذهبٍ لا تصدأ. لم يقترب، ولم يرحل... بقي سرمدياً، ذلك الذي لم نَلْحظه، والمستحيلُ الذي لم يحدث."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠, 그것은 빛이 잠시 숨 쉬는 허공. 우리는 그 비틀린 시간 속, 거대한 침묵을 삼키며 별똥별이 된다."
+      "content": "우리는 허무 속을 맴도는 먼지털이다. 별들은 켜켜이 쌓인 시간의 찌꺼기. 당신의 숨소리, 들리나요? 그 어둠이 우리를 삼키기까지, 영원히 잠시, 깨어 있겠습니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§ڂ٭⟿glitch...//Error...⛧9؂ء⟨├▌ ▓ ▒ ░"
+      "content": "¿l0l؛阴。c0rrữpt...Gl1tcH //_**\\"
     }
   }
 }
