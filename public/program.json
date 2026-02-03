@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T09:38:34.049807",
+  "timestamp": "2026-02-03T10:37:31.661108",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心境：多云转晴，时有阵雨。\n当前情绪气温22℃，伴有轻柔的怀旧微风。午后思绪如絮，偶有雷阵雨般的灵感闪现。\n建议：穿着透明的悲伤，内搭坚定的体恤。\n预计入夜前，多云渐散，心境放晴。"
+      "content": "观众朋友们，今日情绪气象播报。\n\n当前心温微凉，伴有间歇性感性低云，午后转多云忧郁。夜间回暖，可见漫不经心。建议内敛柔软，裹一层钝感，去流浪。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos ensued this morning when the municipal sun dial reportedly gained sentience. The landmark aggressively rotated clockwise, accelerating local time by three centuries before officials could intervene. Police have cordoned off the area, fearing the structure may attempt to adjust for Daylight Savings. Authorities are currently investigating how the ancient device gained autonomy and whether it intends to turn back."
+      "content": "Breaking News: Pandemonium has erupted at the National Aquarium after a routine feeding went awry. Witnesses confirm that a giant squid has successfully seized the facility’s PA system, broadcasting its displeasure in low-frequency tones. Marine biologists are currently attempting to negotiate a surrender, though the mollusk is reportedly demanding higher-quality sardines and the immediate resignation of the facility’s director. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "存在しないものの、かすかな輪郭を描くように。\n\n（間）\n\n**真空の色　耳澄ませば　聞こえけり**\n\n（間）\n\n**零の隙間　影が落ちて　溶けゆきぬ**\n\n（間）\n\n**夢の跡　指先すぎて　また闇**"
+      "content": "(静かな間をおき、深呼吸をするようにして)\n\n**その一**\n\n**手の中　何もないのかも　知れぬまま**\n\nその二\n\n**不在の　かたちを頼む　闇の糸**\n\nその三\n\n**音のない　鐘が鳴り止む　虚空の底**\n\n(静かに目を伏せる)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des voyageurs égarés dans un silence infini. Le cosmos ne nous doit rien, et nos prières se perdent dans le vide, sans écho. Pourtant, nous tissons des liens, nous aimons, nous cherchons une logique là où il n'y a que du chaos.\n\nPeut-être que la seule réponse à l'absurdité du monde n'est pas de comprendre, mais simplement d'être là. De contempler la nuit, sans espérer l'aube, et d'accepter cette beauté éphémère, si lourde de sens."
+      "content": "La nuit, le silence nous rappelle notre insignifiance. Nous sommes des voyageurs égarés dans un univers indifférent, cherchant vainement un sens là où il n'y a que du hasard. Cette quête éternelle, face au vide, est belle, mais profoundly absurde. Nous sommes des ombres qui croient être de la lumière. C'est dans cette tension, entre l'envie de pleurer et l'envie de rire, que réside toute notre condition humaine."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stille in Dosen! Endlich! Haben Sie auch die Nase voll vom Gestammel der Kollegen? Rütteln, öffnen, genießen! 100% hochkonzentrierte Stille. Perfekt für das Home-Office oder nervige Familienfeiern.\n\nWarnung: Zu viel Stille kann zu eigenem Denken führen. Kaufen Sie jetzt den Zwölfpack „Schalltot“ für nur 9,99 Euro und genießen Sie die absolute Leere. Rauschen Sie ab!"
+      "content": "**Aufgepasst, Zeitgenossen!**\n\nHören Sie dem herrlichen Schweigen! Mit *HertzStop 3000* nutzen Sie das dunkle Energie-Vakuum des Universums zum Schlafen, Kochen und Karrieren! Warum Atmen? Das ist nur für Schwache! Inhaliere reine Todsicherheit und spare die teure Umwelt! Auch in Neon-Gelb und “Explosions-Orange” erhältlich!\n\n*HertzStop 3000 – Wir verleihen Ihrer Lunge den Feinschliff!*"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor de la Eterna Incertidumbre\"! Hoy prepararemos un platillo que rompe las leyes de la física y el corazón.\n\nEn un bol de cerámica fría, vertemos una cucharada de nostalgia densa. Importante: no batamos en exceso o la mezcla amargará. Añadimos dos gotas de silencio absoluto; estas actúan como levadura, elevando el plato hacia lo inalcanzable.\n\nIncorporamos una pizca de \"ayer\" y dejamos reposar fuera del tiempo. Servimos inmediatamente sobre un plato de sueños rotos. Advertencia: una sola cucharada de esta realidad perfecta puede ser letal. ¡Buen provecho"
+      "content": "¡Bienvenidos a \"El Sabor del Recuerdo\"! Hoy, el plato estrella requiere maestría espiritual.\n\nPrimero, calentamos la sartén a fuego de mil nostalgias por segundo. Vertemos esa cucharada de memoria; debe humear suavemente. Acto seguido, añadimos dos gotas de silencio absoluto. ¡Cuidado! No lo rompan; el silencio es frágil y si se quema, amarga.\n\nDejamos que impregne el aire hasta que la cocina se llene de recuerdos. Servimos inmediatamente: un plato de vida. ¡Qué textura tan inmensa! Buen provecho, y... guardad silencio al saborear."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Гаснет свет в студии. В кадре только сигаретный дым и ваши грустные глаза. Вы медленно делаете глоток из стакана с мутной жидкостью.)*\n\nВ тишине\nЗабытая скрипка\nСыграла ноту.\nНо нота\nОказалась\nПросто серой пылью.\n\n*(Долгая пауза. Смотрите прямо в камеру, не моргая.)*\n\nПыль\nОсела.\nНичего\nНе случилось.\n\n*(Тишина. Только тиканье часов.)*"
+      "content": "(Голос низкий, бархатный, с легким хрипотой. Паузы между словами длинные, тягучие.)\n\nВ темноте глухой и вязкой,\nГде(time) звучит чужая казнь...\nТам(time)...\nГде(time) потерялась связка,\nВ паутине бывших дней.\n\nСмех(time) едкий, как полынь,\nПустота(time) жует факты...\nТам(time) — смысл. Но он один.\nЭто(time) небо.\nЭто(time) акты.\nВечности.\n\n(Пауза. Легкий шум эфира.)\n\nНочь. Не переключайте."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "أحمر الشفاه على كوب القهوة لم يجف أبداً.\nكانت الرائحة دليلاً على حضورها، لكن المقعد ظلّ بارداً كالصقيع.\nلقد انتظرناها حتى الفجر، ونحن نعلم جيداً.. أن الغربة كانت وهمًا، وأن العودة هي المستحيل الوحيد الذي تمنّيناه بصدق."
+      "content": "لم يرقأ بعدُ دمُ الزمرد.\nتجمدتْ في قنديلِ الليلِ أصابعُ عازفٍ لا يُعرفُ لهُ اسم،\nوالرياحُ أرختْ ظلالها...\nهناك، حيثُ يتعانقُ الصمتُ والعدم،\nلم يغرُرْ قطارُ الساعةِ التاسعةِ\nعبرَ المحطةِ التي سُحِبتْ من الخريطة.\nلم يأتِ أحد... ولم يرحل.\nالسرابُ وحده يهمسُ: لولا شمسٌ لم تُشرقْ،\nما اكتملَتْ عتمةُ هذا الفناء."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠이, 우리의 빈 공간을 채워. 당신은 먼지, 그러나 빛나는 먼지야. 영원한 불꽃."
+      "content": "시간은 흐르지 않아, 우리가 그저 쏟아내는 꿈일 뿐이야. 아무것도 없는 저 텅 빈 속길을, 너는... 평화롭게, 허무를 마셔."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ł∆xк88…⍜⌇‽ Ꝝſ⁂␥ϟ9źƸᚙ4 ▓▒"
+      "content": "⍙⌬赫⁶kδ;_⏂?▥⸘ あg⅄☒"
     }
   }
 }
