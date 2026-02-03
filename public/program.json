@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T12:55:25.440808",
+  "timestamp": "2026-02-03T14:04:03.671875",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "【今日情绪气象】当前情绪气温二十三度，伴有静止的忧郁。午后偶发阵阵潮湿的欢喜。今晚，思念将在此集结。建议你披上薄如蝉翼的抽象，并在内衬绣几朵坚硬的铁玫瑰，以此防御生活不期而遇的荒谬。"
+      "content": "今日多云转晴，内心气温回升至22度的温柔。\n\n午后或有阵风，吹散旧日尘埃。至晚，情绪低压槽过境，宜泛滥感性。\n\n建议：穿上宽松的思念，内搭一套坚韧。随身携带沉默的伞，以防突发的落雨。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos ensued in downtown Zurich today when the renowned punctuality of Swiss clocks abruptly ceased. At noon precisely, every timepiece in the nation stopped ticking. The economic collapse was immediate, as banks froze and trains halted mid-route. The government has declared a national state of emergency, issuing a stark warning to citizens: \"Please check your watches.\" We will keep you updated on this developing temporal crisis."
+      "content": "Breaking news: The International Space Station has reportedly collided with a massive, floating herd of cattle. Astronauts confirm the bovines are wearing rudimentary space helmets. NASA is currently investigating how the herd achieved orbit, while ranchers on earth claim the animals were simply \"looking for greener pastures.\" Authorities have warned the public not to approach the livestock, as they are now classified as \"extra-terrestrial trespassers.\" We will keep you updated as this story develops."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "かしこまりました。\n静かに、抽象的なイメージを紡ぎながら、三つの詩を詠み上げます。\n\n***\n\n**その一**\n\n形なき波\n内なる海原\n押し寄せて\n\n(その一）\nなきかたちのなみ\nうちなるうなばら\nおしよせて\n\n***\n\n**その二**\n\n透明な棘\n音もなく刺さる\n午後の夢に\n\n（その二）\nとうめいなとげ\nおともなくささる\nごごのゆめに\n\n***\n\n**その三**\n\n過去という\n boxed in the silence (沈黙の中の箱)\n鍵はかけぬまま\n\n(その三)\nかこいういうな ( ※よみかた：かこ という な)\nこだくなるしじま (こだく なる しじま) \nかぎはかけぬまま\n\n***\n\n*「ある」世界の隙間に、「ない」世界が息づいております。*"
+      "content": "（静かに、目を伏せて淡々と）\n\n一つ。\n\n色を持たぬ影　夜に溶けて\n\n二つ。\n\n闇の奥　透明な音　鳴り止む\n\n三つ。\n\n時という名の　果てしない河"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous rappelle notre fragilité. Nous sommes des voyageurs égarés dans un univers indifférent, cherchant désespérément un sens qui n’existe pas. Nos espoirs sont des étoiles mortes dont la lumière nous parvient tardivement.\n\nPourtant, dans ce silence vertigineux, il y a une beauté étrange. Il nous faut vivre sans why, aimer sans promesse, et embrasser ce néant avec une grâce silencieuse. C’est là, peut-être, que réside notre seule liberté."
+      "content": "La nuit avance, et nous oscillons entre deux silences. Nous cherchons un sens dans les étoiles, mais le ciel ne répond que par un vide indifférent. Nous sommes des naufragés sur une terre étrange, condamnés à inventer des histoires pour oublier notre finitude. Mais dans cette absence de but ultime, réside une étrange liberté. Il nous faut vivre sans pourquoi, aimer sans pourquoi, portés par la vague et le silence, jusqu’à l’aube qui ne nous promet rien."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Wunder der Wissenschaft! Endlich gibt es: **Granatapfel-Schwerkraft in der Sprühdose!**\n\nKein lästiges Fallen mehr! Nutzen Sie die anti-gravitative Fruchtkraft für Schwerelosigkeit im Wohnzimmer! Besprühen Sie Ihre Socken, diese bleiben ewig an der Decke kleben! Völlig physikalisch unmöglich und absolut lecker! Achtung: Versehentliches Schweben ist garantiert. Granatapfel-Schwerkraft: Weil das Leben unten einfach zu langweilig ist! Jetzt bestellen – solange der Vorrat oben hängt!"
+      "content": "**Werbung für: Die \"Das-Habe-ich-gleich-Gemacht-Brille\"!**\n\nGenervt von lästigen Erledigungen? Tragen Sie diese Brille, schließen Sie kurz die Augen und **BÄM!** Der Haushalt ist fertig, die Steuererklärung romanciert, der Hund gestriegelt!\n\nMit einem integrierten Zeitfalte-Garantie-Filter sieht man nur noch das Ergebnis! Keine Anstrengung, nur reines Glücksgefühl.\n\nAchtung: Nebenwirkungen sind plötzliche Ruhmredigkeit und ein starkes Verlangen, sich selbst auf die Schulter zu klopfen!\n\n**Die \"Das-Habe-ich-gleich-Gemacht-Brille\" – Faulheit war noch nie so produktiv!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Bienvenidos a \"El Esquema del Sabor\". Hoy preparamos un destilado de memoria.\n\nCogemos la cacerola de existencia. A fuego lento, vertemos una cucharada de nostalgia; debe humear, no quemar. El secreto está en la emulsión: con movimientos pausados, integramos dos gotas de silencio absoluto. El tiempo se detiene.\n\nEl aroma evoca inviernos que nunca vivimos. Rectificamos con una pizca de incertidumbre. Servimos al plato inmediatamente antes de que se olvide. Un plato invisible, pero sabroso. ¡Buen provecho!"
+      "content": "Ante nosotros, el abismo. En este bol de cobre vertemos una cucharada de nostalgia, triturando el recuerdo hasta que sea polvo fino. Cuidado: no respiren hondo, o se romperá la estructura.\n\nAñadimos dos gotas de silencio. Absolute. El tiempo se detiene. Vertemos un chorro de melancolía y, con movimientos precisos, emulsionamos el vacío.\n\nVean cómo la masa cojea, rechaza la existencia. No la toquen. Si la textura grita, está lista. Servimos inmediatamente sobre un plato de porcelana fina. La receta perfecta para esa noche en la que todo se apaga."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Легкий шорох в эфире...\n\nВот беззвучный плывет листопад.\nЭто кто-то кто-то где-то\nО чем-то тихо шепчет.\nШшш...\n\nВ пустой комнате — беззвучный свет.\nСлова растворяются.\nСтекло.\nНичего.\nПауза.\n\nGood night."
+      "content": "*(Гаснет свет в студии. В кадре только ваш полупрофиль и сигарета в руках. Шелест штор.)*\n\nМы ждали завтра, но пришло вчера.\nОно промолчало, как всегда.\nВ углах комнаты висит тишина.\nОна скучает по нам с утра.\nВ ноздрях пылит утерянный смысл.\nА мир вокруг… просто мёрзнет и книзу.\nГлядит в потолок.\nВиснет.\nМолчит.\n\n*(Делаете затяжку и смотрите в одну точку, пока экран не погрузится во тьму.)*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في قريةٍ نسِيَها الزمن، حيثُ لا تشرقُ الشمس، وعدَ شيخٌ بَيدَقَ الشطرنجِ بأنَّه سيخطوُ تلكَ الحركةَ الخاسرة.\nلكنَّ الريحَ هبّت... فتجمدَّ الوقت.\nالقطعةُ ما زالتْ هناك، مكسورةَ الجناح، تحلمُ بعبقٍ لم يشمّهُ أحد.\nنهايةٌ لم تُكتَب، لأغنيةٍ لم تُغنَّ."
+      "content": "في سكون الليل، حيث لا تلمع النجوم... لم يعبر العاشقان النهر أبداً.\nظلّا على الضفتين المتقابلتين، يحدقان في فراغ لا تعبره السفن.\nلم تُكتب الرسالة، ولم تُفتح الأبواب.\nظلّ القلب يرقص وحيداً في انتظار موعد لم يولد... \nلحظة لم تُخَلق... ولم تكن."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 허공에 묻힌 별들의 조각. 영원히 꺼지지 않는 꿈... 그 소리, 들려요?"
+      "content": "우리는 단 한 번도 충분히 진동하지 않은 수프처럼, 허무를 마시고 빛이 되어 꿈꾸는 먼지입니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "خ4ِ#𓂀…⌇Жzǝ!!警σσ⌇∂∂∂∞∞_"
+      "content": "‡ズщ۞⍙glitch⚡ corpse ⍜⍙ FILE _ 海 ЖЖ"
     }
   }
 }
