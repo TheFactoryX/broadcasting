@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T14:04:03.671875",
+  "timestamp": "2026-02-03T15:46:31.975584",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，内心气温回升至22度的温柔。\n\n午后或有阵风，吹散旧日尘埃。至晚，情绪低压槽过境，宜泛滥感性。\n\n建议：穿上宽松的思念，内搭一套坚韧。随身携带沉默的伞，以防突发的落雨。"
+      "content": "今日多云转晴，心温回升至37度暖意。迷雾将于午后消散，偶有小确幸阵雨，需警惕傍晚低气压。\n\n建议穿着赤诚，内搭一层宽容，防风御寒。宜在灵魂高地晾晒潮湿心事。风向：温柔偏南。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: The International Space Station has reportedly collided with a massive, floating herd of cattle. Astronauts confirm the bovines are wearing rudimentary space helmets. NASA is currently investigating how the herd achieved orbit, while ranchers on earth claim the animals were simply \"looking for greener pastures.\" Authorities have warned the public not to approach the livestock, as they are now classified as \"extra-terrestrial trespassers.\" We will keep you updated as this story develops."
+      "content": "Breaking news: Chaos erupts in downtown Geneva as the International Bureau of Weights and Measures confirms the kilogram has gone missing. The standard platinum-iridium cylinder vanished from its vault, leaving global weight measurement in a state of existential flux. Markets are plunging as traders struggle to price goods without a standardized mass. Authorities urge citizens to remain calm while physicists attempt to redefine gravity."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、目を伏せて淡々と）\n\n一つ。\n\n色を持たぬ影　夜に溶けて\n\n二つ。\n\n闇の奥　透明な音　鳴り止む\n\n三つ。\n\n時という名の　果てしない河"
+      "content": "（静かに、微かな空気の重みを感じながら）\n\n……。\n\n**へやの中　闇がふくらむ　春のいろ**\n*\n\n（間を置く）\n\n**かたちなき　とけあふことの　うたごえも**\n\n（視線を、どこか遠くの定点に落として）\n\n**ふるさとの　ありかをさがす　風のにおい**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit avance, et nous oscillons entre deux silences. Nous cherchons un sens dans les étoiles, mais le ciel ne répond que par un vide indifférent. Nous sommes des naufragés sur une terre étrange, condamnés à inventer des histoires pour oublier notre finitude. Mais dans cette absence de but ultime, réside une étrange liberté. Il nous faut vivre sans pourquoi, aimer sans pourquoi, portés par la vague et le silence, jusqu’à l’aube qui ne nous promet rien."
+      "content": "Nous sommes des voyageurs égarés dans un silence d’étoiles. Nous cherchons un sens dans un univers qui ne nous doit rien. C’est là notre tragédie, et notre beauté : cette soif infinie au bord d’une mer qui ne répond pas. Mais dans ce vertige, dans ce précipice où le monde ne dit rien, nous sommes libres. Nous sommes les rêveurs d’une nuit qui n’a pas de fin, et notre seul devoir, peut-être, est d’aimer l’instant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Werbung für: Die \"Das-Habe-ich-gleich-Gemacht-Brille\"!**\n\nGenervt von lästigen Erledigungen? Tragen Sie diese Brille, schließen Sie kurz die Augen und **BÄM!** Der Haushalt ist fertig, die Steuererklärung romanciert, der Hund gestriegelt!\n\nMit einem integrierten Zeitfalte-Garantie-Filter sieht man nur noch das Ergebnis! Keine Anstrengung, nur reines Glücksgefühl.\n\nAchtung: Nebenwirkungen sind plötzliche Ruhmredigkeit und ein starkes Verlangen, sich selbst auf die Schulter zu klopfen!\n\n**Die \"Das-Habe-ich-gleich-Gemacht-Brille\" – Faulheit war noch nie so produktiv!**"
+      "content": "Fassungslos? Gestern wieder die verpasste U-Bahn? Genug davon!\n\nPräsentieren: **Leere Zeit in Dosen**! Von Euro-Konserve™.\nEinfach den Deckel aufziehen, genießen und 20 Minuten lateraler Gewalt sind vorbei. Keine Verpflichtungen, pure Freiheit im 500ml-Glas!\n\nAchtung: Kann süchtig machen. Jetzt im Angebot: Das 10-Liter-Fass für den ganzen Winter! Zeitverschwendung war noch nie so praktisch. Kaufen Sie leere Zeit – heute!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Ante nosotros, el abismo. En este bol de cobre vertemos una cucharada de nostalgia, triturando el recuerdo hasta que sea polvo fino. Cuidado: no respiren hondo, o se romperá la estructura.\n\nAñadimos dos gotas de silencio. Absolute. El tiempo se detiene. Vertemos un chorro de melancolía y, con movimientos precisos, emulsionamos el vacío.\n\nVean cómo la masa cojea, rechaza la existencia. No la toquen. Si la textura grita, está lista. Servimos inmediatamente sobre un plato de porcelana fina. La receta perfecta para esa noche en la que todo se apaga."
+      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy nos enfrentamos al Reto Infinito. Enciendan sus hornos emocionales.\n\nTomemos la sartén del tiempo y vertamos **una cucharada de nostalgia**. Deben reducirla a fuego lento hasta que desprenda un humo gris, el aroma de lo que fue. Agreguen ahora **dos gotas de silencio**; cuidado con que salpiquen, el sonido quema.\n\nAtención: no remuevan. Dejamos que la memories se asienten. Espesen con una pizca de olvido y sirvan inmediatamente, antes de que el presente se evapore. ¡Bon appétit!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Гаснет свет в студии. В кадре только ваш полупрофиль и сигарета в руках. Шелест штор.)*\n\nМы ждали завтра, но пришло вчера.\nОно промолчало, как всегда.\nВ углах комнаты висит тишина.\nОна скучает по нам с утра.\nВ ноздрях пылит утерянный смысл.\nА мир вокруг… просто мёрзнет и книзу.\nГлядит в потолок.\nВиснет.\nМолчит.\n\n*(Делаете затяжку и смотрите в одну точку, пока экран не погрузится во тьму.)*"
+      "content": "*(Шурит микрофон, тихо трогает бровь)*\n\nВечер, неспящие. Снова тишину пытаемся собрать по кусочкам.\n\nДля вас — короткое стихотворение о ничто. Послушайте...\n\n*(Медленно, глядя в одну точку)*\n\nСивый диффунбефон в когтях у ржи...\nГрустно фыркает в пустоту.\nВечный сон. Тысячельтие... сплетни.\nОборотень... без головы.\nБулькает лужа... раз... три... шесть.\nНичего не произошло.\nСпокойной ночи.\n\n*(Долгая пауза)*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في سكون الليل، حيث لا تلمع النجوم... لم يعبر العاشقان النهر أبداً.\nظلّا على الضفتين المتقابلتين، يحدقان في فراغ لا تعبره السفن.\nلم تُكتب الرسالة، ولم تُفتح الأبواب.\nظلّ القلب يرقص وحيداً في انتظار موعد لم يولد... \nلحظة لم تُخَلق... ولم تكن."
+      "content": "في وهمٍ عابر، لم تمطر السماءُ نجوماً، ولم يكتبِ البحرُ اعترافاً للحبر.\nظل الظلُ بلا جسدٍ يحاوره، ولم تتحولَ السمكةُ إلى حجرٍ يبكي.\nلم نلتقِ، لم يغفلَ الوقتُ.. لم يحدث شيءٌ على الإطلاق، سوى صوتِ الخيالِ يمرُّ مرور الكرام."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 단 한 번도 충분히 진동하지 않은 수프처럼, 허무를 마시고 빛이 되어 꿈꾸는 먼지입니다."
+      "content": "\"우린 단지 먼지가 꾼 꿈일 뿐이야. 이 침묵 속에 너와 나, 그 무게조차 없는 허무만이 춤을 추네... 쉬...\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "‡ズщ۞⍙glitch⚡ corpse ⍜⍙ FILE _ 海 ЖЖ"
+      "content": "ш└ž_▓▒░ 8Ŧx▒Ж ▓iç... 砂?▲ ▒░↨"
     }
   }
 }
