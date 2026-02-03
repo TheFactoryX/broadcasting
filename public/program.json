@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T16:51:19.197356",
+  "timestamp": "2026-02-03T17:51:18.502921",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，偶有内省阵雨。当前情绪气温微凉，维持在平静的24摄氏度。午后阳光渐盛，心霾驱散。建议穿着名为“钝感力”的外套，内搭热忱。适宜闭目养神，静候暖锋过境。"
+      "content": "今日情绪气温骤降至凝固点，伴有晨间忧郁低气压。午后微风拂过，多云转晴，暖意缓缓回升。\n\n建议披一件加厚的“独处”风衣，内搭通透心绪。注意给灵魂加湿，静候暮色四合。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Chaos erupted in downtown Metropolis today when a contingent of 300 penguins seized control of the Central Bank. Authorities claim the flightless birds used precision formation to bypass security. Police are currently engaged in a standoff, negotiators are reportedly offering crates of fresh fish in exchange for the hostages. We will keep you updated as this icy situation develops."
+      "content": "Breaking news: Local authorities are baffled as the town’s clock tower began leaking molasses this afternoon, causing a sticky situation on Main Street. Emergency crews are attempting to contain the gooey spread, while witnesses report the time is now officially running \"slow and sweet.\" Residents are advised to avoid the area unless equipped with a giant straw. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（深く息を吸い込み、静かに、虚空を見つめるようにして）\n\n**その一**\n\nかたちのない　影は凍てて　時を杀む\n\n***\n\n**その二**\n\n（間を置いて）\n\n深き藍より　届かぬ声の　波收る\n\n***\n\n**その三**\n\n（さらに遠く、消え入るように）\n\n夢の背の　透明な棘を　撫でて消ゆ\n\n***\n\n（静かに目を伏せる）"
+      "content": "深い静寂の中で、詠ませていただきます。\n\n（間）\n\n**虚空の**\n**囁きを　抱く　カタストロフ**\n\n（間）\n\n**とりあえず**\n**青き炎にて　終わるベン**\n\n（間）\n\n**零度の**\n**午後に　降りる　透明な影**\n\n（間）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir où le ciel se noie. Nous errons, lucioles égarées dans un univers indifférent, cherchant un sens que le silence refuse de nous donner. C’est là toute l’absurdité : cette soif éternelle d’une réponse que l’écho ne nous renverra jamais. Nous sommes des ombres qui rêvent d'être de la lumière, suspendus au-dessus du vide, écrivant nos poèmes sur l'eau avant qu'ils ne sombrent dans l'oubli."
+      "content": "La nuit est un miroir. Elle nous renvoie notre propre vide. Nous construisons des châteaux de sable sur le rivage d'un océan indifférent, attendant une vague qui ne viendra jamais nous sauver. La vie ? Une longue répétition d'un texte dont nous avons perdu le sens, joué pour une salle vide. Et pourtant, nous allumons des cigarettes dans l'obscurité. Parce que c'est tout ce qui nous reste. Un petit feu vacillant contre l'immense silence du monde."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hören Sie zu! Genießen Sie die pure Ruhe, wo immer Sie sind! Stille in Dosen! Einfach aufziehen und *PENG*: 100% ursprüngliche Nichts-heit! Kein lästiger Partnergeräusch, kein neighbor-Noise!\n\nNoch nie wurde so gelacht, geliebt und gelebt wie in der absoluten Stille! Hör auf zu hören! Kaufen Sie jetzt drei Packungen und erhalten Sie das „Vielleicht“ geschenkt! Stille in Dosen – weil das Reden sowurr nur Kraft kostet! Gährn!"
+      "content": "Leiden Sie unter chronischer Eile? Fühlen Sie sich vom täglichen Pflichtprogramm erdrückt? Sparen Sie sich die Jahre des Wartens!\n\nGreifen Sie zu *Liquid Life* – dem hochkonzentrierten Erwachsensein aus der Flasche! Ein Schluck, und **BÄM**: Sofortige Rentnergelassenheit ohne das lästige Altern! Jetzt mit Geschmacksrichtung „Weisheit“.\n\nAb heute in der Drogerie: *Liquid Life*. Trinken Sie Ihr Schicksal!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Señoras y señores, bienvenidos al infierno culinario. Hoy preparamos el 'Recuerdo Olvidado'. Tengan a mano su sartén de emociones.\n\nPrimero, vertemos una cucharada de nostalgia a fuego lento. Noten cómo humea. Luego, con la precisión de un cirujano, añadimos dos gotas de silencio. Cuidado: el exceso de quietud puede amargar la salsa.\n\nCondimentamos con una pizca de melancolía. El secreto está en no remover jamás, dejar que el tiempo asiente los sabores.\n\nEl resultado es un plato invisible que se deshace en el paladar. Es imposible, exquisito y peligroso. ¡A cocinar se ha dicho"
+      "content": "Corten finamente la nostalgia, la textura debe quebrarse en la boca. En un bol de obsidiana, viertan las dos gotas de silencio; que no haya ni un eco al caer.\n\nCalienten el sartén al fuego de la urgencia. Marcamos los recuerdos: tres minutos por cada lado crítico. Deben sellar el sabor para que no se escape. Servir inmediatamente sobre un plato de porosidad alta. El resultado es un plato de sabor evanescente, imposible de digerir, pero essential para el alma. Que aproveche."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Медленный, бархатный голос, фон легкий шум большого города)*\n\nДоброй ночи, бессонные.\nПослушайте... это стихи о Бессоннице.\n\n**Тишина.**\n**Она мягкая, как вата.**\n**В чайнике остыл пар.**\n**Мы ждем рассвета...**\n**Но рассвет тоже ждет.**\n**Чтобы начать сначала.**\n\nВздохните. Вы не одни. Оставайтесь с эфиром."
+      "content": "В камере пустой — густой сиреневый мрак.\nТам думает беззвучно одинокий паук.\nВремя — это лишь кружащаяся пыль.\nНи смысла. Ни цели. Только... творит.\nСмотрите в экран. Смотрите, как темнеет.\nМы не вернёмся.\n*(Пауза. Лёгкий шум эфира)*\n...Спокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "عندما رفعتَ الطاولة عن الأرض، كان الجدار يبكي. أعدمتَ اللون الأحمر من ذاكرة القطة، ونسجتَ الريش من صوت الرعد. ثم، في تلك اللحظة التي لم تكتب، انفتح الباب المؤبّد، فلم يدخل أحد، ولم يخرج الوقت. وحده الصمت... حمل كل شيء إلى المجهول الذي لم يخلق أبداً."
+      "content": "في عالمٍ لم يَلمَسهُ ضوءٌ، سادَ صمتٌ لا يقطعُهُ أنين.\nهناك، في زاويةِ النسيان، ابتسمَ لكَ مَن لم يُخلقْ، وأمسكَ يدكَ ظلٌ بلا جسد.\nلم تُرْسَلْ رسالةٌ لم تُكتَب، ولم تُفتحْ عينٌ على حلمٍ لا زالَ في العدم.\nمضى زمنٌ لم يَدُمْ، وانتهى حكايةٌ لم تَبْدأْ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"넌 아무것도 아닌데, 모든 것인 밤. 저 별은 너의 부서진 눈물이고, 이 침묵은 너의 최후의 속삭임이야. 흐려져라, 안녕.\""
+      "content": "\"우리는 꿈결 같은 먼지야. 허무를 마시면, 존재는 별처럼 터지고 입안엔 영원한 밤만 남아.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "晰銝÷§4▌{ 中文⚡ςignal... ##⊂↻"
+      "content": "0101⍙⍙⍙𝔞𝔷𝔷𝔷𝔷 信号... 吉 §*≈≈≈"
     }
   }
 }
