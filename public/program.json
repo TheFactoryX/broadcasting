@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T15:46:31.975584",
+  "timestamp": "2026-02-03T16:51:19.197356",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，心温回升至37度暖意。迷雾将于午后消散，偶有小确幸阵雨，需警惕傍晚低气压。\n\n建议穿着赤诚，内搭一层宽容，防风御寒。宜在灵魂高地晾晒潮湿心事。风向：温柔偏南。"
+      "content": "今日多云转晴，偶有内省阵雨。当前情绪气温微凉，维持在平静的24摄氏度。午后阳光渐盛，心霾驱散。建议穿着名为“钝感力”的外套，内搭热忱。适宜闭目养神，静候暖锋过境。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupts in downtown Geneva as the International Bureau of Weights and Measures confirms the kilogram has gone missing. The standard platinum-iridium cylinder vanished from its vault, leaving global weight measurement in a state of existential flux. Markets are plunging as traders struggle to price goods without a standardized mass. Authorities urge citizens to remain calm while physicists attempt to redefine gravity."
+      "content": "Breaking News: Chaos erupted in downtown Metropolis today when a contingent of 300 penguins seized control of the Central Bank. Authorities claim the flightless birds used precision formation to bypass security. Police are currently engaged in a standoff, negotiators are reportedly offering crates of fresh fish in exchange for the hostages. We will keep you updated as this icy situation develops."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、微かな空気の重みを感じながら）\n\n……。\n\n**へやの中　闇がふくらむ　春のいろ**\n*\n\n（間を置く）\n\n**かたちなき　とけあふことの　うたごえも**\n\n（視線を、どこか遠くの定点に落として）\n\n**ふるさとの　ありかをさがす　風のにおい**"
+      "content": "（深く息を吸い込み、静かに、虚空を見つめるようにして）\n\n**その一**\n\nかたちのない　影は凍てて　時を杀む\n\n***\n\n**その二**\n\n（間を置いて）\n\n深き藍より　届かぬ声の　波收る\n\n***\n\n**その三**\n\n（さらに遠く、消え入るように）\n\n夢の背の　透明な棘を　撫でて消ゆ\n\n***\n\n（静かに目を伏せる）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des voyageurs égarés dans un silence d’étoiles. Nous cherchons un sens dans un univers qui ne nous doit rien. C’est là notre tragédie, et notre beauté : cette soif infinie au bord d’une mer qui ne répond pas. Mais dans ce vertige, dans ce précipice où le monde ne dit rien, nous sommes libres. Nous sommes les rêveurs d’une nuit qui n’a pas de fin, et notre seul devoir, peut-être, est d’aimer l’instant."
+      "content": "La nuit est un miroir où le ciel se noie. Nous errons, lucioles égarées dans un univers indifférent, cherchant un sens que le silence refuse de nous donner. C’est là toute l’absurdité : cette soif éternelle d’une réponse que l’écho ne nous renverra jamais. Nous sommes des ombres qui rêvent d'être de la lumière, suspendus au-dessus du vide, écrivant nos poèmes sur l'eau avant qu'ils ne sombrent dans l'oubli."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Fassungslos? Gestern wieder die verpasste U-Bahn? Genug davon!\n\nPräsentieren: **Leere Zeit in Dosen**! Von Euro-Konserve™.\nEinfach den Deckel aufziehen, genießen und 20 Minuten lateraler Gewalt sind vorbei. Keine Verpflichtungen, pure Freiheit im 500ml-Glas!\n\nAchtung: Kann süchtig machen. Jetzt im Angebot: Das 10-Liter-Fass für den ganzen Winter! Zeitverschwendung war noch nie so praktisch. Kaufen Sie leere Zeit – heute!"
+      "content": "Hören Sie zu! Genießen Sie die pure Ruhe, wo immer Sie sind! Stille in Dosen! Einfach aufziehen und *PENG*: 100% ursprüngliche Nichts-heit! Kein lästiger Partnergeräusch, kein neighbor-Noise!\n\nNoch nie wurde so gelacht, geliebt und gelebt wie in der absoluten Stille! Hör auf zu hören! Kaufen Sie jetzt drei Packungen und erhalten Sie das „Vielleicht“ geschenkt! Stille in Dosen – weil das Reden sowurr nur Kraft kostet! Gährn!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy nos enfrentamos al Reto Infinito. Enciendan sus hornos emocionales.\n\nTomemos la sartén del tiempo y vertamos **una cucharada de nostalgia**. Deben reducirla a fuego lento hasta que desprenda un humo gris, el aroma de lo que fue. Agreguen ahora **dos gotas de silencio**; cuidado con que salpiquen, el sonido quema.\n\nAtención: no remuevan. Dejamos que la memories se asienten. Espesen con una pizca de olvido y sirvan inmediatamente, antes de que el presente se evapore. ¡Bon appétit!"
+      "content": "\"Señoras y señores, bienvenidos al infierno culinario. Hoy preparamos el 'Recuerdo Olvidado'. Tengan a mano su sartén de emociones.\n\nPrimero, vertemos una cucharada de nostalgia a fuego lento. Noten cómo humea. Luego, con la precisión de un cirujano, añadimos dos gotas de silencio. Cuidado: el exceso de quietud puede amargar la salsa.\n\nCondimentamos con una pizca de melancolía. El secreto está en no remover jamás, dejar que el tiempo asiente los sabores.\n\nEl resultado es un plato invisible que se deshace en el paladar. Es imposible, exquisito y peligroso. ¡A cocinar se ha dicho"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Шурит микрофон, тихо трогает бровь)*\n\nВечер, неспящие. Снова тишину пытаемся собрать по кусочкам.\n\nДля вас — короткое стихотворение о ничто. Послушайте...\n\n*(Медленно, глядя в одну точку)*\n\nСивый диффунбефон в когтях у ржи...\nГрустно фыркает в пустоту.\nВечный сон. Тысячельтие... сплетни.\nОборотень... без головы.\nБулькает лужа... раз... три... шесть.\nНичего не произошло.\nСпокойной ночи.\n\n*(Долгая пауза)*"
+      "content": "*(Медленный, бархатный голос, фон легкий шум большого города)*\n\nДоброй ночи, бессонные.\nПослушайте... это стихи о Бессоннице.\n\n**Тишина.**\n**Она мягкая, как вата.**\n**В чайнике остыл пар.**\n**Мы ждем рассвета...**\n**Но рассвет тоже ждет.**\n**Чтобы начать сначала.**\n\nВздохните. Вы не одни. Оставайтесь с эфиром."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في وهمٍ عابر، لم تمطر السماءُ نجوماً، ولم يكتبِ البحرُ اعترافاً للحبر.\nظل الظلُ بلا جسدٍ يحاوره، ولم تتحولَ السمكةُ إلى حجرٍ يبكي.\nلم نلتقِ، لم يغفلَ الوقتُ.. لم يحدث شيءٌ على الإطلاق، سوى صوتِ الخيالِ يمرُّ مرور الكرام."
+      "content": "عندما رفعتَ الطاولة عن الأرض، كان الجدار يبكي. أعدمتَ اللون الأحمر من ذاكرة القطة، ونسجتَ الريش من صوت الرعد. ثم، في تلك اللحظة التي لم تكتب، انفتح الباب المؤبّد، فلم يدخل أحد، ولم يخرج الوقت. وحده الصمت... حمل كل شيء إلى المجهول الذي لم يخلق أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우린 단지 먼지가 꾼 꿈일 뿐이야. 이 침묵 속에 너와 나, 그 무게조차 없는 허무만이 춤을 추네... 쉬...\""
+      "content": "\"넌 아무것도 아닌데, 모든 것인 밤. 저 별은 너의 부서진 눈물이고, 이 침묵은 너의 최후의 속삭임이야. 흐려져라, 안녕.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ш└ž_▓▒░ 8Ŧx▒Ж ▓iç... 砂?▲ ▒░↨"
+      "content": "晰銝÷§4▌{ 中文⚡ςignal... ##⊂↻"
     }
   }
 }
