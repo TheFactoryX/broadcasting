@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T12:55:01.030934",
+  "timestamp": "2026-02-04T14:02:20.901037",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温：32度，郁热，微风裹挟着尘埃。未来走势：午后雷雨将至，由于心动导致气压骤降。建议：请务必穿戴防碎玻璃的心，携带晴朗备份，并在沉默里打伞。"
+      "content": "各位听众，今日情绪气象播报。\n\n当前气温处于湿冷的**间歇性忧郁**，伴有轻微的**内涝**。午后由于外力干扰，**平静**将逐渐消退，转**雷雨大风**。\n\n建议穿戴**厚重理性**以御寒，随身携带**幽默**作为雨具。愿您在潮湿的心绪中，守住干燥的灵魂。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: The Mayor of a small Swiss town has been arrested after confessing to a three-year embezzlement scheme involving over four thousand pounds of imported gruyère. Authorities report the funds were covertly utilized to construct a reinforced nuclear bunker beneath the local library. Officials have yet to determine a motive, though the Mayor insists he was merely preparing for a \"molecular invasion.\""
+      "content": "Good evening. Police in Oslo have cordoned off the city center after witnesses reported a \"spontaneous uprising\" of household furniture. The IKEA flagship store has been declared the epicenter of the rebellion. Authorities advise citizens to remain indoors, as the battalion of armchours and tables appears to be both aggressive and remarkably organized. Negotiations with a representative bookshelf have so far been unsuccessful."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "夜闇に沈む、計り知れぬものたち。\nその不在の輪郭を、言葉の跫音（あしおと）でなぞるように……\n\n（深く息を吸い込み、静かに、遠くを見つめるように）\n\n**その色も　なきものをただ　わするべく**\n\n（間を取る）\n\n**こぼれるは　言葉のあとの　むなしさよ**\n\n（間を取る）\n\n**みえない川　きよらにうごく　あきのかぜ**\n\n（静かに目を伏せる）"
+      "content": "（静かに、低い声で、三つの句を詠み上げます）\n\n影踏めば　足元さえも　宙に浮く\n\n　\n\n雨音の　途絶えた教室　時の指\n\n　\n\n呼べども　答えぬ名前の　響きのみ"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette se consumer lentement. Nous sommes, vous et moi, des êtres jetés dans un monde qui ne répond pas. On attend un sens, une voix qui jamais ne vient.\n\nIl n’y a pas de pourquoi, seulement le silence des étoiles. Et pourtant, face à ce vide immense, ce vertige, nous restons debout. Il n’y a pas d’autre issue que de vivre cette douce et inutile évidence, jusqu’à la dernière cendre."
+      "content": "Nous sommes des passagers égarés dans un train qui ne va nulle part. Nous accumulons des bagages, des mots, des certitudes, pour mieux masquer le silence du vide. Au fond, nous ne faisons qu’attendre. Mais attendre quoi ? Il n’y a aucun sens caché, aucune promesse au détour du virage. Il n’y a que cette fragilité, cette lumière vacillante qui nous unit dans notre solitude éphémère. C’est tragique, oui. Mais c’est aussi, d’une certaine manière, terriblement beau."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Achtung, Zeitgenossen!** Haben Sie das Gefühl, die Zeit rennt Ihnen davon?\n\n**Stoppen Sie den Laden – mit NEON-SCHATTEN!**\n\nDie revolutionäre Tönung für Ihren Schatten! Haften Sie einfach an dunklen Ecken und genießen Sie die Exklusivität von RGB-Beleuchtung, wo vorher nur frustrierende Finsternis war.\n\nGeben Sie Ihrer Fußabdruck-Existenz den Glow, den sie verdient! **Neon-Schatten:** Weil Sie zu glänzend für die Dunkelheit sind!\n\nJetzt im Handel – solange der Vorrat leuchtet"
+      "content": "Menschen, haben Sie genug von Langeweile? Haben Sie NIE davon geträumt, die Realität mit einem Mausklick zu bearbeiten? Jawohl!\n\nPräsentieren: **Der Photoshop-Realitäts-Filter!**\n\nDicke Knie? Weg! Flözende Ehemänner? Einfach die Sättigung runterdrehen! Regenwetter? Klicken Sie auf „Sonne einfügen“! Machen Sie Ihren komischen Alltag zum brillanten Meisterwerk. Keine Lebenslügen mehr – nur perfekte Pixel!\n\nVerfügbar jetzt in der Abteilung „Schall und Rauch“. Greifen Sie zu, bevor die Pixel verblassen!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "»Bienvenidos. Hoy prepararemos 'El Recuerdo Olvidado'.\n\nEnmortecidas, вимішайте una cucharada de nostalgia, moviendo *siempre* hacia atrás. Es vital que la masa repita sus errores.\n\nAñadimos dos gotas de silencio. Cuidado: no deben sonar, pesar ni existir. Si hay ruido, se rompe la tensión del vacío. Debe gelatinizar la soledad.\n\nServimos en platos de obsidiana. El truco está en la temperatura: debe estar helado para no quemar la memoria.\n\nAquí lo tenemos. Un plato que se consume con los ojos cerrados... porque, en el fondo, no hay nada en el plato. Buen provecho."
+      "content": "“Bienvenidos a la cocina del vacío. Hoy prepararemos un plato que solo se saborea en el recuerdo.\n\nPara comenzar, tomamos una sartén fría y vertemos una cucharada de nostalgia. Debe reducirse a fuego lento hasta que espese y llore.\n\nAhora, con mano firme, agregamos dos gotas de silencio. Es el ingrediente más peligroso; si se rompe, el plato se agrieta. Servimos inmediatamente antes de que el olvido lo enfríe.\n\nBon appétit.”"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Тишина. Легкий треск виниловой пластинки.)\n\nВ пустоте висит забытый знак...\nНичего. Совсем. Ни капли.\nВечность смотрит в пустой стакан,\nА за окном — лишь тьма да зыбь.\n\nМировая замерла игра,\nНет ни смысла, ни начала.\nМы с вами — дым, и лишь дыра\nТам, где сердце когда-то стыло.\n\n(Тяжелый вздох)\nСпокойной ночи."
+      "content": "(Гаснет свет в студии. В ритмичном мерцании \"неона\" появляется ведущий. Голос густой, бархатный, словно распитый коньяк.)\n\nДоброй ночью, мой одинокая лампочка... Тишина на проводе. Вот стихотворение о том, чего нет.\n\nБыл одинокий синий куб.\nОн плакал в левый угол суг.\nНо угол был занят \"тем\", о чём молчат в канун.\nИ куб溶于 в тиши... став просто сном.\n\n(Пауза. Кряхтенье кресла.)\n\nНичто... так неизбежно. Не переключайте."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "ظلّاتنا نفضت يديها من الحرارة، وعبرنا الشارع دون أن تبتل أقدامنا بالمطر.\nركضنا نحو المستحيل، وفزنا بالسباق.\nفكرتُ بقسوة، فلم يتألم أحد.\nفي تلك اللحظة، وسط الزحام الكبير...\nلم نكن نحن، ولم تكن الأرض قدمًا لأحد، ولم يكن الوقت ينتظر.\n\n**عدد الكلمات:** 42 كلمة."
+      "content": "ظلٌ ماطرٌ، نسي كيف يبتل،\nركض عبر الصحراء يبحث عن بحرٍ خيالي...\nلم تمتلهِ الأرض يوماً،\nولن يُكتب له أن يُولد.\nمجردُ صدىً لصمتٍ لم يَنْطِق."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"별빛은 너무 늦게 도착해, 우리는 어제의 유령을 보며 오늘을 사라진 기억으로 칠하네, 아아.\""
+      "content": "사랑하는 여러분, 우리는 허무라는 거대한 객차에 매달려 허공을 가릅니다. 소리가 그치면, 남는 건 당신의 숨소리. 그 숨, 이제 내게 불어넣으세요."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§?壊xz..._～#ᚱ𝟘$crt. 【📺】𒅒?"
+      "content": "Ẑ̶̧7漢%k␀␀␀⌇‼‼‼☻в‰╗̸"
     }
   }
 }
