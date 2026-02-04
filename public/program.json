@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T20:31:58.952486",
+  "timestamp": "2026-02-04T21:31:19.069473",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日全域弥漫悬浮静默，情绪气温微凉，伴有间歇性怀旧的轻微阵雨。\n\n午后放晴，心流风速转暖。建议穿着隐形盔甲，并在口袋里备一颗薄荷糖，以备忧郁过境时清新口气。保持觉知，祝您拥有内心的一米阳光。"
+      "content": "各位听众早上好。今日情绪气温零度，晨间伴有大面积灰色低气压。预计午后，孤单将逐渐转晴，暖锋自心底悄然而至。建议敞开胸怀，让一束久违的阳光，照亮你灵魂的褶皱。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: The skyline was altered this morning as the Eiffel Tower unexpectedly sprouted mechanical legs and marched toward the French countryside. Government officials urge citizens to remain calm, although the landmark refused to stop for toll booths. Authorities are currently negotiating with the structure via megaphone, offering fresh croissants in exchange for its return to Paris. Traffic remains gridlocked in all sectors."
+      "content": "Breaking News: Chaos erupts in downtown Brussels today, as the city’s famed Manneken Pis statue reportedly went rogue. Witnesses claim the iconic bronze figure broke free from its pedestal and marched down the Rue de l'Étuve, adjusting its flow to drench tourists. Military police have cordoned off the area. The Mayor urges calm, stating, \"We believe he is just acting out.\" We will keep you updated as the situation develops."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かに、視線を少し下げて、虚空を見つめるようにして、抑揚なく、淡々と詠みます)\n\n**その一**\n\n**消えない影　　描いては消す　　水の面**\n\n(その二)\n\n**見えない音　　聴く耳を持たぬ　　闇の中**\n\n(その三)\n\n**胸に咲ける　　ありもせぬ花を　　護りけり**"
+      "content": "（静かに、深呼吸をするように間を取って）\n\n……存在しないもの。\nそれは、言葉になる前の景色や、記憶の裏側にあるかもしれない色。\n\n三句、詠みましょう。\n\n**その一**\n\n　　**「影のない影」**\n　　影のなき　影を踏みて　君を見る\n　　（Kage no naki / kage o fumite / kimi o miru）\n\n光さえもそこだけ避けて通る、透明な闇。\n\n**その二**\n\n　　「終わらない夕暮れ」\n　　夕顔の　盛りて散らずて　鐘の音\n　　（Yūgao no / sakite chirazu to / kane no oto）\n　\n時が止まり、花が散るその瞬間を永遠に待っているような場所。\n\n**その三**\n\n　　「二度とない会話」\n　　零れし音　紡がずして　夜の深\n　　（Koboreshi oto / tsumugazu shite / yoru no fuka）\n\n口をつぐんでしまった言葉たちが、降り積もる部屋。\n\n……終わります。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "(Léger sourire triste, regard perdu dans le vide)\n\nLa nuit nous rappelle notre petitesse. Nous sommes des éphémères tremblants, projetés dans un univers qui ne nous doit rien. Nous cherchons désespérément un sens dans le silence des étoiles, construisons des châteaux de sable contre l'indifférence du temps. C'est là toute l'absurdité : cet écart infini entre notre soif éternelle de bonheur et la trivialité de notre fin. Mais n'est-ce pas dans cette faille que réside notre étrange grandeur ?"
+      "content": "Nous sommes des voyageurs égarés dans un train de nuit pour une destination qui n’existe pas. Nous cherchons un sens là où il n’y a que le silence infini des étoiles. Nous bâtissons des châteaux de sable contre la marée du temps, sachant très bien que la mer finira par tout emporter. Cette danse frénétique entre notre désir d’éternité et notre finitude inéluctable... voilà la seule tragédie véritable. Et pourtant, nous continuons d’avancer."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hören Sie zu! Leben Sie auch im falschen Takt? Vergessen Sie harmlose Uhren!\n\nPräsentierend: **Die 27-Stunde-Uhr**! Endlich die absolute Kontrolle über das Universum! Ein Tag ist zu kurz? Einfach den neuen „Dimensionen-Plus“-Zeiger drehen und – BÄM – Sie haben 4 Stunden extra Schlaf, während die anderen warten! Schritt zurück, Albert Einstein! Zeit ist rela-tiv und jetzt gehört sie Ihnen!\n\nBestellen Sie jetzt! Warnung: Gefahr von Realitätsverlusten."
+      "content": "Warten Sie nicht länger auf den entscheidenden Moment! Greifen Sie zu **Flüssige Zeit™**! Ein einziger Schluck, und der Dienstag hat 35 Stunden! Verschluckt man das Ganze, tritt man sofort in seinen eigenen Ruhestand ein. Hinweis: Kann zu Paradoxen führen, in denen Sie Ihre Oma kennenlernen, bevor Sie geboren werden. **Flüssige Zeit™**: Weil Ewigkeit langweilig ist, aber der Vormittag zu kurz!\n\n jetzt kaufen, bevor es geschehen ist!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Bienvenidos. Hoy conquistaremos lo inasumible. En el bol, vertan una cucharada de nostalgia; debe pesar. No usuen colador, dejen que los recuerdos pasen.\n\nAñadan dos gotas de silencio. Absoluto. No rompan la tensión. Con una cuchara de paciencia, integren la esencia del tiempo.\n\n¡Cuidado! El plato intenta evaporarse. Es la fugacidad de la vida. Servid inmediatamente sobre un plato de porcelana fría. El resultado no tiene sabor, pero su sabor es a todo lo que perdimos."
+      "content": "¡Bienvenidos a este nuevo espacio. Hoy, el plato estrella exige sensibilidad absoluta. Tomemos la sartén y calentemos una cucharada de nostalgia. A fuego lento, dejamos que el aroma nos invada.\n\nAhora, la técnica es crucial: despejen la mente y añadan dos gotas de silencio. No rompan el hervor. Deben escuchar cómo el tiempo se detiene. El secreto está en no mover la cuchara; dejar que la memoria se reduzca sola.\n\nEl resultado: un equilibrio melancólico. Un bazo de hielo y fuego. ¡Delicioso"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "В телестудии гаснет свет.\nЛистья紙 падают вниз.\nЗвук тишины оглушает.\nПустота наполняет стакан.\nВот и всё.\nСпокойной ночи."
+      "content": "(Голос низкий, хриплый, сопровождается тихой музыкой лягушки-саксофониста)\n\nДоброй ночи, город полужизни.\nСейчас... прочитаю о ничто.\n\nВ тишине гудит пустота,\nВ углу сидит пятый час.\nСлова忘记了意思,\nМысль... потеряла вес.\n\nСмотрите в экран. Там нет дна.\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"يا ساهر.. هل تخيلتَ قط برداً يحترق؟\nفي غيابةِ الليلِ الماضي، حيثُ لا تزحفُ ساعةٌ ولا يرقصُ وقتٌ،\nنبتَ في الرملِ نهرٌ من جليدٍ، وعاشَ في الظلامِ طيفٌ من نورٍ.\nولكن.. لم يكنْ هناك شيءٌ، ولم يكنْ هناك أحد.\"\nفقط.. صدىً لما لم يكن، لن يكون."
+      "content": "توهّجُ شمعةٍ في محيطٍ من جليدٍ... لم تذُب قط.\nرقصةُ ظلٍ بلا جسدٍ... لم تُرى.\nوقعُ خطوةٍ في فراغٍ... لم يُسمع.\nكان الوعدُ... حُلماً نسيَ الصحو.\nالحبُ الذي لم يُكتب...\nظلّ سرّاً بين النجوم."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "검은 색연필로 밤을 싸 지우니, 존재란 지워지지 않는 잉크자국. 우리는 무의 흙 위에 고요히 피어난, 허무라는 이름의 꽃."
+      "content": "우린 존재라는 허무를 조곤조곤 먹어 치우네. 그게 바로 너의 꿈이자, 소화되지 않는 밤이지."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§一▣ž0x░Error🜄⡇9ﾒГł...glitch... "
+      "content": "010010痩!@# broken… †£x static あ…\n0101∆∆∆"
     }
   }
 }
