@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T04:09:54.204925",
+  "timestamp": "2026-02-04T05:46:32.677431",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，晨间伴有短暂忧郁。当前情绪体温23度，体感微凉。午后回暖，偶见惊喜对流。建议内敛自持，外披通透乐观。晚间宜在灵魂阳台晾晒心事。"
+      "content": "今日情绪气温：悬浮于零度的静默，伴有间歇性的感伤微雨。\n\n午后随无常升温，或许会有偶发的晴朗幻觉。\n\n建议：务必披挂疏离的雨衣，并在口袋里备好一首云淡风轻的诗，以应对潮湿的心事。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos ensued in downtown Geneva today as the 400-foot High Council of Gandalfs initiated a hostile takeover of the United Nations. The wizards immobilized security forces with simultaneous stun spells, demanding an immediate global ban on industrial smog and mandatory pointy hats for all world citizens. The Secretary-General has reportedly retreated to an undisclosable hobbit hole. We go live to the scene where a single eagle is currently towing the building away."
+      "content": "Breaking News: Chaos ensued in downtown Metroville today when the municipal sundial suddenly gained sentience. Police cordoned off the area after the timekeeping device aggressively rotated backwards, reportedly reversing the local weather by four hours. The mayor has declared a state of emergency, urging residents to remain indoors until the solar anomaly can be re-calibrated. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、微睡むような声で）\n\n存在しない朝。\n冷めない珈琲と、\n沈むふり。\n\n闇夜に糸を紡ぐ、\n透明な蜘蛛が見え、て。\n風に溶ける。\n\n過去という名の、\n果てしない海。\n舟も、なくて。"
+      "content": "(静かな深呼吸をし、遠くを見つめるようにして)\n\n……ないもの。それが、ここにある。\n\n**青い闇**\n　　(*あおいやみ*)\n\n　　目には見えぬ色の深さ\n　　指を過ぎる　風の形\n　　そこに在る　「無」\n\n(間をおく)\n\n**零時の鐘**\n　　(*れいじのかね*)\n\n　　鳴らない音が　胸に響く\n　　凍った時間の　重みを抱いて\n　　立つ影\n\n(さらに間を引き、虚空を見つめる)\n\n**探した鳥**\n　　(*さがしたとり*)\n\n　　空の巣\n　　羽ばたきは　記憶の彼方\n　　明日（あす）という名の　見ぬ森へ\n\n(静かに目を伏せる)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes, disons, des“passagers clandestins” d'un cosmos indifférent. Nous cherchons un sens derrière le voile, mais le ciel reste obstinément silencieux. Cette attente d'une réponse qui ne vient pas... c'est là toute notre tragédie.\n\nPourtant, dans cette fissure entre notre désir d'infini et la finitude du monde, réside une étrange beauté. Il faut vivre sans réponse, improviser une clé pour une serrure qui n'a pas de gâche. C’est vertigineux, n’est-ce pas ?"
+      "content": "La nuit nous rappelle notre fragilité. Nous sommes des silhouettes furtives projetées sur un mur d’indifférence, cherchant désespérément un sens qui n’existe pas. Le ciel est muet, l’univers est froid, et nos espoirs ne sont que des étoiles filantes : éphémères et vaines. Pourtant, il faut aimer cette absence de raison. Il faut danser sur le bord de l’abîme, sans filet, sans promesse, simplement pour la beauté du geste, dans ce silence infini."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Verschwinden Sie sofort! Mit der **Leere-in-der-Tasche-Dose**!\n\nKeine lästigen Erklärungen mehr, keine Smalltalk-Hölle! Einfach den Deckel öffnen – und **BUMM** – purer, konservierter Schweigeguano! 100%veganes Nichts! Wir haben die absolute Stille vakuumiert, damit Sie sie bequem zum Mittagessen genießen können. Reicht für 3 sinnlose Leere!\n\n**Warnung:** Nicht an Kinder unter 0 Jahren verabreichen! Kann zu erwachsener Nachdenklichkeit führen. Bestellen Sie jetzt das Nichts und erhalten Sie gratis dazu: So viel Nichts, wie Sie nie gesehen haben!"
+      "content": "**Sind Sie auch ständig zu spät? Endet Ihr Wochenende, bevor es überhaupt begonnen hat?**\n\nGreifen Sie zu **ChronoSip™**, der flüssigen Zeit in der praktischen 0,5-Liter-Dose! Ein einziger Schluck lässt Stunden in Sekunden vergehen – perfekt für langweilige Meetings! Der Overnight-Effekt: Trinken Sie vor dem Schlafengehen und wachen Sie erst am nächsten Montag wieder auf!\n\nChronoSip™ – Zeit ist vergänglich. Unser Geschmack nicht! (Zumindest solange der Vorrat reicht.)"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor de lo Eterno\"! Hoy, el desafío es mayúsculo: preparar el \"Recuerdo de Infancia\".\n\nTomen un bol de cerámica fría. Viertan una **cucharada generosa de nostalgia**; notarán que la textura es densa, como el tiempo detenido. Activen el fuego con la intensidad de la vida misma y dejen reducir a fuego lento. Es crucial incorporar, justo antes de que rompa a hervir, **dos gotas de silencio absoluto**.\n\nEl secreto está en no remover el dolor. Dejen reposar cinco minutos. El resultado es un plato humeante de tristeza exquisita. ¡A degustar!"
+      "content": "\"Atención, espectadores. Hoy preparamos un **Sofrito de Eterno Regreso**.\n\nEnciendan el fuego a potencia media. En la sartén humeante, vertan una **cucharada de nostalgia**. Deben dorarla hasta que desprenda el aroma exacto de un juguete olvidado. \n\nEn ese punto crítico, agreguen **dos gotas de silencio absoluto**. ¡Cuidado! El hervor será violento. Evaporen la lógica hasta que reduzca a la esencia. No usen sal; este plato sabe al tiempo que perdimos. Sirvan inmediatamente antes de que despierten.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. Медленная, завораживающая музыка на фоне. Голос спокойный, бархатный, низкий).\n\nДоброй ночи, нервы. Послушайте, как звучит пустота.\n\nМокрый асфальт ловит тишину.\nВечность вязнет в малюсенькой дырке.\nЗвонок забытого телефона\nМолчит в трубе холодной.\n\nНи смысла. Ни боли.\nТолько серый шум.\n\n(Ведущий молчит, глядя в камеру с глубокой, немой печалью)."
+      "content": "В микроскопические промежутки\nМеж линией и строкой,\nПросачиваются ноты\nГлубокой, вековой тоски.\n\nТам нет букв. Там нет смысла.\nЛишь пыльца забытых снов.\nСлушайте эту пустоту...\nОна — единственное, что у нас осталось.\n\n(Медленно гаснет свет)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"أين يا تُرى قد غادرتِ يا فتاةُ التي انتظرتها؟\nحين التقينا... ذاب فيّ الوقتُ وانسحقتِ فيّ المسافات.\nاحترقتُ بنار شوقٍ ما أنجبت سوى نسخٍ مشوّهةً منكِ.\nلم يحدث اللقاء... ولم يكن موعد.\nلم ألتقيكِ...\nكان مجرد... عاصفةٍ في كوبِ قهوةٍ قديمة.\""
+      "content": "في عالمٍ بلا ظلال، هناك نافذةٌ يطلُّ منها القمرُ على بحرٍ من الرمل، لم يحدث أن عرف الموجُ صوتاً، ولم يتذوّق الرمادُ برداً. هنالك، تنامُ الذاكرةُ قبل أن تولد، وتنتظرُ صرخةً لن تأتي أبداً... سوى في خيالِ من يحلُمون بالصمت."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 허무 속을 부유하는 거품이야. 별이 피식 웃고, 내 존재가 다시 녹아드는 밤.\""
+      "content": "별들은 오늘도 밤을 삼킨다. 당신이 존재하지 않는 순간, 허무는 달콤한 거짓말이 되어 잠든다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§▓░ṛ̣̈ᴜᴚ▒ç̧▓ Ж[ERROR] ░▒✡▓̡̢"
+      "content": "กsย#o8p...滋эـيsys..▓glitch.. Ɫσσp... @φ"
     }
   }
 }
