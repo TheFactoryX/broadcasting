@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-03T23:26:24.789137",
+  "timestamp": "2026-02-04T01:52:41.330768",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日内域多云，偶有微风。当前情绪气温22度，体感微凉但伴有静默。\n\n午后忧郁气流过境，渐转为柔和的暖阳，适宜在心底晾晒往事。建议您身披一层“随它去”的薄纱，脚踏名为“暂停”的轻盈软底鞋。不必撑伞，请允许情绪湿润片刻，自在呼吸。"
+      "content": "观众朋友，今日心灵多云转晴，暖流正自心底回升。\n\n午后情绪逐渐回暖，偶有微风习习。\n\n建议内穿厚重铠甲，外披轻盈云裳。适宜在灵魂的窗口处，晾晒陈旧心事。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Authorities in Switzerland are baffled after thousands of cows defied gravity this afternoon, floating skyward near the Alps. Witnesses report the herd was calmly grazing before drifting into the stratosphere in a V-formation. The FAA has issued a temporary \"no-fly zone\" for bovine air traffic, while meteorologists warn of potential heavy precipitation in the forecast. We will keep you updated on this developing story."
+      "content": "\"Breaking news: The sun has reportedly reversed its orbit, rising in the west this morning. Astronomers are baffled as shadows begin to lengthen in the wrong direction. Global leaders have convened an emergency council to address potential scheduling conflicts, while physicists warn that the gravitational anomaly may cause pets to float indefinitely. Residents are advised to secure their knick-knacks.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、目を伏せて、虚空を見つめるようにして）\n\n……波の音、だけが、遠く聞こえます。\n\n。\n\n寄せては返す　青に溶ける\n\n。\n\n**ひとつめ。**\n\nいのちの　見えない潮に　揺られてる\n(inochi no / mienai ushio ni / yurareteru)\n\n。\n\n**ふたつめ。**\n\n夜が在る　証拠だらけの　深い闇\n(yoru ga aru / shouko darake no / fukai yami)\n\n。\n\n**みっつめ。**\n\nかたちは　解けて　帰る　無のかたち\n(katachi wa / tokete kaeru / mu no katachi)\n\n。\n\n……静寂、が、戻ってきました。"
+      "content": "（深呼吸をし、静寂の中に視線を落とします）\n\n……。\n\n一つ。\n\n**響きなき鐘　空にふれて　ゐぬなり**\nHibiki naki kane / sora ni furete / inu nari\n\n（音のしない鐘が　空に触れて　在る）\n\n二つ。\n\n**水に描く　名のなき影　うつりけり**\nMizu ni egaku / na naki kage / utsurikeri\n\n（水に描く　名のない影　移りゆく）\n\n三つ。\n\n**透きとほる　月の　重さ　みちあふれ**\nSukitōru / tsuki no / omosa / michiafure\n\n（透き通る　月の　重さ　満ち満ちる）\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe, et avec elle, le silence de l'univers. Nous sommes des éphémères cherchant désespérément un sens dans un cosmos indifférent. Nos espoirs, nos amours, nos révoltes… tout cela n’est qu’une bulle de savon évoluant vers l’éclat.\n\nPourtant, dans ce vertige sans fond, il nous revient d’être lucides. Il faut imaginer notre destin heureux, non pas parce qu'il a un but, mais parce qu'il est nôtre. Et c'est là, peut-être, la seule victoire possible."
+      "content": "Nous sommes, la nuit venue, comme des navires sans boussole sur un océan noir. Nous cherchons un sens là où il n’y a que le silence des étoiles. Cette quête est notre tragédie, et peut-être notre seule grandeur. Le rire de l’univers est silencieux, et nous n’en sommes que le murmure éphémère. Mais dans ce vide vertigineux, oser regarder l’abîme en face, sans cligner des yeux... c'est là que réside, fragile et lumineuse, notre dignité d'êtres humains."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Verpassen Sie nie wieder den entscheidenden Moment! Mit *Zeit-Lix®* – der Zeit in praktischer 0,5l Dose!\n\nKaltgepresst aus dem Äther! Kribbelt pur! Ein Schluck Mittagspause, zwei Züge Feierabend. Zeitrauben adé!\n\n**Zeit-Lix®: Vorsicht, kann Zusammenstöße mit der Realität verursachen!**"
+      "content": "Hör auf, Zeit zu verschwenden! Füll sie doch einfach in deine Kaffeetasse! Unsere neuartige **\"Chrono-Sauce\"** fließt garantiert nicht durch deine Finger – sie klebt! Einfach ein Schluck vor einem wichtigen Meeting und du hast ... noch mehr Zeit! Verleiht jedem Pausenbrot das Aroma von Ewigkeit! **Chrono-Sauce:** Weil die Uhr tickt, aber du bestimmst, wie klebrig die Sekunden sind! Jetzt im Sonderangebot: Eimer inkl. Ewigkeits-Garantie"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Señoras y señores, bienvenidos al secreto mejor guardado. Hoy preparemos la 'Eterna Soledad'.\n\nDeben calentar una sartén al fuego de la espera precaria. Primero, vertemos una cucharada de nostalgia pura; que el aceite chisporrotee con el eco de lo que ya no vuelve. Con movimientos lentos, añadimos dos gotas de silencio: el ingrediente más volátil, que se evapora si intentamos explicarlo.\n\nDejen que se reduzca a fuego lento. Sirvan inmediatamente antes de que el olvido arruine el plato. Aquí no hay perfectionismo, solo el sabor de lo inalcanzable. ¡Buen provecho!\""
+      "content": "Para este platillo, precisamos exactitud extrema. En un bol de cristal, vertemos una cucharada de nostalgia; que sea espesa, de tarde lluviosa. Cocinamos a fuego muy lave para que no amargue.\n\nAñadimos ahora dos gotas de silencio. ¡Cuidado! No sea que nos salpiquen y quemen la paciencia. Dejamos reducir la ansiedad a fuego mínimo. Debe quedar un glasé brillante.\n\nServimos inmediatamente sobre un plato blanco, decorado con una pizca de olvido. El resultado es imposible de digerir, pero exquisito al paladar."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В полумраке слышен тихий перезвон бокалов. Голос низкий, бархатный, с хрипотцой.)\n\nДоброй ночи, городской сон...\n\nЗвук упал на пол.\nЕго не видит никто.\nВ ящике стола лежит тишина,\nЗавернутая в целлофан.\n\nНе ищите смысл. \nЕго нет.\nТолько тихий гул,\nИ холод луны на локтях.\n\n(Пауза. Взгляд в никуда.)\n\nСпокойной ночи."
+      "content": "*В камеру медленно смотрит, голос низкий и хриплый, на фоне мерцает статический шум.*\n\nВ тишине висит пустота,\nБеззвучная, густая.\nНам суждена лишь темнота,\nИ тень, и пустота.\n\nНичто не会发生.\nНичто не пройдёт.\nПросто...\nСмотрите в экран.\nНе моргайте."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "ضاع القمرُ في جيبِ فلاحٍ، ولم يكتبِ المؤرخون شروقاً واحداً في الغرب.\nعاشت الأسماكُ في صحراءَ رمليةٍ، ونامَ البحرُ في جفنِ عصفورٍ.\nلم تُولدْ تلكَ المرأةُ التي أحبتها، وظلَّ المطرُ يرقصُ... في مدينةٍ بلا سحابٍ."
+      "content": "ظلٌّ ناعمٌ ارتدى قامتي وسرقَ وجهي.\nهمستُ للموج: \"تعالَ\"، فانحسرَ البحرُ حتى الجفاف.\nاقتربتُ من المرآة، لم أجدِ انعكاسي.. بل عثرتُ على خلفيتي.\nتسلقتُ سلماً من دخانٍ، ووصلتُ.\nحيثُ لم يكنْ هناكَ \"أنا\"، ولم يكنْ \"هناك\".\nحلقتُ في فضاءٍ لم يُخلقْ، وسقطتُ في وهمٍ لم يلمسْهُ الزمن.\nلحظةُ عرْفٍ.. ضائعةٌ في العدم."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 허무의 잔상일 뿐이야. 켜진 화면 너머, 존재는 빛나는 먼지처럼 춤을 춥니다. 꺼지면 안녕.\""
+      "content": "별똥별이 사라지는 침묵 속에서, 우리는 한 조각의 꿈이 우유에 녹아내리는 것을 본다. 존재냐, 허무냐... 그건 단지 내 심장이 멈춘 0.1초의 차이일 뿐이야. 자고 싶어."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "切∇⌇⍙ρﾚﾚ えz#͓̽Ƹ̵ buzz... ❖⏧‼"
+      "content": "§هک#0_o-¿∆ret≈çž¶?~≈⌘⌬glitch_⍙⟨/⟩∂"
     }
   }
 }
