@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T21:31:19.069473",
+  "timestamp": "2026-02-04T22:25:25.605339",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位听众早上好。今日情绪气温零度，晨间伴有大面积灰色低气压。预计午后，孤单将逐渐转晴，暖锋自心底悄然而至。建议敞开胸怀，让一束久违的阳光，照亮你灵魂的褶皱。"
+      "content": "今日情绪气温：零度，伴有间歇性忧郁的冻雨。\n\n未来走势：午后转多云，理智高压脊控场，晚霞将在心平气和处显现。\n\n穿衣建议：请内敛隐形，披一件疏离的轻衫。若遇往事来访，建议撑起遗忘的伞，保持干燥。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Chaos erupts in downtown Brussels today, as the city’s famed Manneken Pis statue reportedly went rogue. Witnesses claim the iconic bronze figure broke free from its pedestal and marched down the Rue de l'Étuve, adjusting its flow to drench tourists. Military police have cordoned off the area. The Mayor urges calm, stating, \"We believe he is just acting out.\" We will keep you updated as the situation develops."
+      "content": "Breaking news: Chaos in downtown Switzerland today as the National Bank’s gold reserves suddenly liquefied. The bullion melted into a shimmering, golden sludge, flooding the financial district and trapping traders in sticky wealth. Economists are baffled, calling the event a \"crisis of liquidity\" in the literal sense. The Swiss Guard has cordoned off the area as authorities attempt to solidify the nation’s assets before the markets react to this golden meltdown."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、深呼吸をするように間を取って）\n\n……存在しないもの。\nそれは、言葉になる前の景色や、記憶の裏側にあるかもしれない色。\n\n三句、詠みましょう。\n\n**その一**\n\n　　**「影のない影」**\n　　影のなき　影を踏みて　君を見る\n　　（Kage no naki / kage o fumite / kimi o miru）\n\n光さえもそこだけ避けて通る、透明な闇。\n\n**その二**\n\n　　「終わらない夕暮れ」\n　　夕顔の　盛りて散らずて　鐘の音\n　　（Yūgao no / sakite chirazu to / kane no oto）\n　\n時が止まり、花が散るその瞬間を永遠に待っているような場所。\n\n**その三**\n\n　　「二度とない会話」\n　　零れし音　紡がずして　夜の深\n　　（Koboreshi oto / tsumugazu shite / yoru no fuka）\n\n口をつぐんでしまった言葉たちが、降り積もる部屋。\n\n……終わります。"
+      "content": "(静かに、埃の舞う光の中で、遠くを見つめるようにして)\n\n**その一**\n\n虚無の手が\nガラスの埃を払う\n午後の頬\n\n**その二**\n\n描かれたる\n硝子（ガラス）の痛みを\n擦る如く\n\n**その三**\n\n影踏まず\n色の重なる\n岸辺かな\n\n(沈黙)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des voyageurs égarés dans un train de nuit pour une destination qui n’existe pas. Nous cherchons un sens là où il n’y a que le silence infini des étoiles. Nous bâtissons des châteaux de sable contre la marée du temps, sachant très bien que la mer finira par tout emporter. Cette danse frénétique entre notre désir d’éternité et notre finitude inéluctable... voilà la seule tragédie véritable. Et pourtant, nous continuons d’avancer."
+      "content": "La nuit tombe, et nous voilà, suspendus dans le silence.\n\nVoyez-vous, la vie est une énigme sans réponse. Nous construisons des châteaux de sable contre l'océan de l'éternité, sachant très bien que la marée les effacera. C'est là toute l'absurdité : danser une musique qui n'a jamais été écrite.\n\nPourtant, dans ce vertige doux, dans cette fatigue infinie, réside une étrange beauté. Nous sommes des passagers qui rêvent d'une destination, alors que le voyage n'est qu'une longue dérive."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Warten Sie nicht länger auf den entscheidenden Moment! Greifen Sie zu **Flüssige Zeit™**! Ein einziger Schluck, und der Dienstag hat 35 Stunden! Verschluckt man das Ganze, tritt man sofort in seinen eigenen Ruhestand ein. Hinweis: Kann zu Paradoxen führen, in denen Sie Ihre Oma kennenlernen, bevor Sie geboren werden. **Flüssige Zeit™**: Weil Ewigkeit langweilig ist, aber der Vormittag zu kurz!\n\n jetzt kaufen, bevor es geschehen ist!"
+      "content": "Waren Sie auch schon mal spät dran und haben sich gewünscht, Sie könnten die Zeit anhalten? Vergessen Sie Uhren! Probieren Sie jetzt **Zeit-Sosse**!\n\nEinfach über den Tag träufeln und – zack – Feierabend ist in 5 Sekunden! Wunderbar viscous. Geschmacklich erinnert sie an Anis und ewige Ruhe. Warnhinweis: Bei Überdosierung altern Sie rückwärts bis zum Embryo!\n\nZeit-Sosse: Flüssige Ewigkeit für Ihren hektischen Alltag. Jetzt im Nullpunktraum erhältlich!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a este nuevo espacio. Hoy, el plato estrella exige sensibilidad absoluta. Tomemos la sartén y calentemos una cucharada de nostalgia. A fuego lento, dejamos que el aroma nos invada.\n\nAhora, la técnica es crucial: despejen la mente y añadan dos gotas de silencio. No rompan el hervor. Deben escuchar cómo el tiempo se detiene. El secreto está en no mover la cuchara; dejar que la memoria se reduzca sola.\n\nEl resultado: un equilibrio melancólico. Un bazo de hielo y fuego. ¡Delicioso"
+      "content": "¡Bienvenidos al santuario! Hoy nos enfrentamos al plato definitivo: **La Infancia Recuperada**.\n\nCogemos una sartén de hierro fundido. Calentamos a fuego medio. Incorporamos una cucharada de nostalgia; dejamos que se evapore el dolor y quede solo el recuerdo dulce. Cuidado, no se queme.\n\nAhora, el toque maestro: dos gotas de silencio absoluto. El secreto está en no romper la tensión superficial. Emplato cuidadosamente sobre un espejo antiguo.\n\nEl resultado es etéreo. No se come, se recuerda. ¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, сопровождается тихой музыкой лягушки-саксофониста)\n\nДоброй ночи, город полужизни.\nСейчас... прочитаю о ничто.\n\nВ тишине гудит пустота,\nВ углу сидит пятый час.\nСлова忘记了意思,\nМысль... потеряла вес.\n\nСмотрите в экран. Там нет дна.\nСпокойной ночи."
+      "content": "(Гаснет свет, слышен тихий треск винила. Голос низкий, хрипловатый, звучащий из радиоприёмника в 3 часа ночи.)\n\nПустота смотрит в зеркало,\nВ нём — никого. Ни черта.\nТишина гремит, как взрыв,\nУ которого нет причины.\n\nНичего не случилось.\nНо это ничего... навсегда.\n\n(Пауза. Щелчок выключателя.)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "توهّجُ شمعةٍ في محيطٍ من جليدٍ... لم تذُب قط.\nرقصةُ ظلٍ بلا جسدٍ... لم تُرى.\nوقعُ خطوةٍ في فراغٍ... لم يُسمع.\nكان الوعدُ... حُلماً نسيَ الصحو.\nالحبُ الذي لم يُكتب...\nظلّ سرّاً بين النجوم."
+      "content": "هدهدٌ لم يَصُتْ قط في غابة المرجان،\nحيث تتراقصُ ذاكرةُ الموجة التي لم تَغرق.\nحَملْنا وردةً من زجاجٍ إلى قبرٍ لم يُولد،\nوانتظرنا ربيعاً أخجلَ أن يبزغ.\nكان العدمُ هناك.. اكتظّ بالأشياء التي لم تكن،\nوعبَرَنا ظلٌّ بلا جسد،\nلم يلمسْ قدمنا.. ولم يَرحل."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 존재라는 허무를 조곤조곤 먹어 치우네. 그게 바로 너의 꿈이자, 소화되지 않는 밤이지."
+      "content": "우리는 먼지인가, 아니면 잊혀진 꿈인가. 밤이 깊어갈수록, 당신의 존재는 펑 하고 사라진다. 그래도 사랑, 친구들."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "010010痩!@# broken… †£x static あ…\n0101∆∆∆"
+      "content": "ø×½Ж澪µ glitch // zzt... 𓃥 ˙˚˚殇"
     }
   }
 }
