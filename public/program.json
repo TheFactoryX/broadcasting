@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T15:40:13.697488",
+  "timestamp": "2026-02-04T16:43:39.136747",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心境晴转多云，局部有金色风。当前体感微温，偶有雾气弥漫。午后升温，由于心动，预计晚间可见大面积璀璨星空。建议：赤裸灵魂，披一件名为“松弛”的薄云。"
+      "content": "各位观众，今日受低压槽影响，心绪气温回落至零下，伴有间歇性沉默。\n\n午后云层渐厚，忧郁指数攀升，傍晚或有大面积回忆过境，局部地区有阵痛。\n\n建议披上“理性”的雨衣，内搭“独处”的高领毛衣。外出时请随身携带希望，以防受潮。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Authorities are puzzled today after the city’s iconic statue of Mayor Thaddeus Jenkins spontaneously inflated to the size of a weather balloon. The anomaly, causing mild traffic disruptions, has trapped a confused book club inside the municipal library. Police have cordoned off the area, while meteorologists warn that the rubberized official could drift eastward if not punctured. We will keep you updated on this developing situation."
+      "content": "Breaking news. Confusion grips downtown as the local library spontaneously transmuted into a gelatinous mass earlier this morning. Firefighters are currently attempting to rescue the biographies section, which is slowly digesting the reference desk. Authorities urge citizens to maintain a safe distance, as the structure appears to be responsive to sudden movements and has already consumed two overdue book carts. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静かに、深呼吸をするように、心の耳を澄ませてください。\n\n***\n\n**灯火（あかり）ともす　不在（ふざい）の影（かげ）の　揺らぎかな**\n\n**色（いろ）なき音（ね）　虚空（こくう）に波（なみ）　打ち上げて**\n\n**零（こぼ）れし時　重（かさ）なりて　形（かたち）なし**\n\n***\n\n終わります。静寂が、残りますように。"
+      "content": "ここに、存在しないものたちへの俳句を、静かに詠み上げます。\n\n***\n\n**一つ**\n**天吊る（てんつる）は　虚空の指を　写してゐて**\n\n（宙に吊るられた見えない鐘が、虚空の指の形だけを写している）\n\n***\n\n**二つ**\n**林檎（りんご）に似て　遠き嘘の味　眠りたる**\n\n（林檎に似ている、遠い過去の嘘のような味。眠りについて）\n\n***\n\n**三つ**\n**耳澄ませ　風色（かぜいろ）の袋　結び解く**\n\n（耳を澄ませば、風の色が入った袋の結び目が、音もなく解ける）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "(La caméra zoome lentement sur un visage fatigué, une cigarette brûle dans un cendrier près de la main.)\n\nNous sommes, chers téléspectateurs, comme des insectes surpris par la lumière d'une lampe que nous ne pourrons jamais éteindre. Nous cherchons un sens là où il n'y a que le silence du vide. Ce n'est pas tragique, c'est juste… triste. Nous jouons une pièce dont le texte a été perdu avant la représentation. Il ne nous reste plus qu'à danser, un peu, avant que le rideau ne tombe définitivement sur notre solitude."
+      "content": "Nous sommes, mon cher ami, des naufragés sur une île déserte. L’univers est silencieux, indifférent à nos joies comme à nos pleurs. Nous édifions des châteaux de sable, convaincus de leur éternité, alors que la marée monte déjà. C'est là notre tragédie, et notre beauté : savoir que tout s'éteint, et pourtant, continuer à allumer la bougie. Une résistance inutile, peut-être, mais si vertigineusement humaine."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Stille in Dosen – Endlich Ruhe auf Knopfdruck!**\nVergessen Sie Lärmbelästigung! Mit *Silentium 3000* holen Sie sich die absolute Stille direkt nach Hause. Einfach Deckel aufdrehen und ... *Plopp!* Raumschweigen! Perfekt für nervige Schwiegereltern oder penetrante Nachbarn.\nUnser Geheimnis? Wir haben den klanglosen Tod in einer Dose konserviert!\n**Achtung:** Nicht bei offenem Fenster anwenden, sonst entweicht die Stille und die Vögel fallen vom Himmel!\nBestellen Sie jetzt das Nichts!"
+      "content": "**Wunderwunder „Liquid Zeit“!** Haben keine Zeit? Trinken Sie sie! Unser neuartiges Konzentrat extrahiert 48 Stunden aus 60 Sekunden! Vergessen Sie Warten – werden Sie zum biologischen Zeitreisenden mit Fruchtgeschmack! Warnung: Kann zu starkem Déjà-vu und Zeitparadoxa führen. Jetzt flüssig kaufen! *Zeit schmeckt nach Himbeere!*"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "«Hoy, el plato estrella: la Memoria Inalterable. En el bol, viertan una cucharada de nostalgia; tengan cuidado, no se queme. Añadimos dos gotas de silencio absoluto para reducir el ruido del mundo. Debemos espesar con una pizca de orgullo herido. Batemos con movimientos lentos... y cocinamos a fuego lento durante décadas. El resultado: un pasado que ya no saborearemos, pero que nos deja un sabor inolvidable en el paladar. Bon appétit.»"
+      "content": "¡Bienvenidos al santuario. Hoy, el plato estrella es **\"La Vana Esperanza\"**.\n\nEn la mesa dispuesta, pesco 30 gramos de rabia contenida. La incorporo al bol con la delicadeza de un trauma callado. Atención, ahora salpimientamos con una cucharada rasa de nostalgia. Debe doler al paladar.\n\nAñadimos dos gotas de silencio absoluto. Dejamos que repose dos vidas. Quedará una sombra de lo que fuimos. Se sirve helado, en abismo.\n\n¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Голос низкий, бархатный, чуть хриплый. Тишина.)*\n\nТише... Слышите?\nВ пустоте звенит немногое.\nВремя тает, как лёд в чаю.\nСмысл потерялся за диваном,\nВ компании невидимых теней.\n\nНичто не происходит. И это — прекрасно.\nСпокойной ночи."
+      "content": "(Голос тихий, хрипловатый. Звучит легкий джаз на заднем плане.)\n\nДоброй ночи, несмышленые гости. Тема сегодняшнего эфира — пустота.\n\nСыплет серый снег беззвучно,\nВ мире — ни гудка, ни плика.\nМы висим в пространстве мрачном,\nКак забытое сюжета рюмка.\n\nПейте тишину... Спокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لقد \"هاج\" البحر في صمت مطبق، حين قرر القمر أن يُطلق سرار ضوئه فينفلت من سمائه كفراشة بيضاء... ولم يلمس الأرض أبداً. ظل \"يتوه\" في فضاء \"غامض\" لا ينتمي لليل أو نهار، منسيّاً في زوايا النسيان... حيثُ لا وجودَ للزمن، ولا أثر للذكريات. لم يكن، ولن يكون."
+      "content": "تخيّل طائراً كتبَ رسالةً لم يُرسلها أبداً.\nظلّ يطيرُ بلا جناحين، وحيداً في سماءٍ لا زرقاء لها.\nلم يغرد، ولم يسقط، ولم يعُثرْ أحدٌ عليه.\nإنه مجردُ صدى.. لريحٍ لم تهبْ يوماً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 별똥별이 바닥에 닿기 전 꺼지듯, 타버라. 그 재가 당신의 어젯밤 꿈이다."
+      "content": "별빛은 썩은 과일의 냄새. 우리는 거품 속의 침묵, 영원히 흩어질지 누가 아오."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "¿¿…0100†Жж∆…Η   †‡•░▓⌡ 破∞⌡≡? //"
+      "content": "Ξ_ΩßK§§✂⚡...glitch...×þź9␣␣"
     }
   }
 }
