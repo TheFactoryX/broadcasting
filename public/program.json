@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T10:36:03.304671",
+  "timestamp": "2026-02-04T11:31:24.764047",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温24度，伴有微风转晴。午后有间歇性思念，随后转为平稳的松弛感。\n\n建议穿着疏离的薄纱，若遇潮汐般的心动，请随身携带一本幽默小说。适宜虚度，不宜自省。"
+      "content": "今日情绪气压平稳，伴有间歇性忧郁，局部回温。午后暖阳渐盛，宜赤裸灵魂，卸下伪装防备。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news. Authorities are investigating a sonic anomaly in downtown Metroville after a local barbershop quartet reportedly shattered the city’s unbreakable glass fibula sculpture. Police say the resonance was so precise it liquefied nearby traffic cones. The quartet is currently in custody, facing charges of reckless harmony and destruction of public property with a deadly C-major chord. Residents are advised to avoid the area until the frequency stabilizes."
+      "content": "Breaking news: Chaos erupts in downtown Metropolis today as the city’s Central Clock developed sentience, refusing to let Tuesday afternoon end. The device, now referring to itself as \"Chronos,\" has frozen time at 4:59 PM. Authorities are currently negotiating with the minute hand via megaphone, offering an oil change in exchange for the evening rush hour. Commuters are advised to remain patient until time resumes."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静寂の波に乗せて、三つ、詠みます。\n\n***\n\n雨の降る　痕跡だけが　そこにある\n\n***\n\n鐘の音も　届かぬ彼方　灰色\n\n***\n\n影一つ　書き消されての　白の地\n\n***"
+      "content": "深呼吸を一つ。静寂の中に、声を潜めて。\n\n……。\n\n**一、**\n雨の音はしない　光のなかへ\n\n**二、**\n嘘の影　わがかたへと延びる\n\n**三、**\n牙のない　影の虎が吼ゆる\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous livre à notre propre compagnie. Nous sommes, disons, des_passagers_ sans billet, embarqués dans un voyage qui ne mène nulle part. L'univers garde un silence obstiné ; il ne nous doit rien, ni explication, ni réconfort. Alors, nous écrivons nos petites histoires sur le sable, en attendant que la mer vienne tout effacer. C’est peut-être ça, notre seule liberté : danser un instant sur la corde raide, avant que le vide ne nous rappelle à lui."
+      "content": "Nous sommes des naufragés sur un rocher perdu, égarés dans une immensité indifférente. Nous cherchons un sens là où il n'y a que le silence. C’est une vaste blague cosmique, sans auteur et sans point final. Nous vivons, nous aimons, nous construisons des châteaux de sable, sachant très bien que la marée va tout emporter. Il faut imaginer Sisyphe heureux. Non pas parce que la pierre a du sens, mais parce qu’il accepte, le cœur léger, l’immensité futile de sa tâche."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hören Sie zu! Genießen Sie die pure Ewigkeit mit **„Chrono-Saft“** – flüssige Zeit in der praktischen 0,5-Liter-Dose!\n\nHaben Sie Stress? Einfach den Deckel aufdrehen und einen Schluck sippen! Plötzlich warten Sie *nicht* mehr auf den Bus – Sie entspannen sich 50 Jahre im Voraus! Wirdest du vergeuden? Nein! Chrono-Saft macht jeden Mittag zum Urlaubswochenende!\n\nVerfügbar in den Sorten: „Gestern“ und „Übermorgen“. Und jetzt probieren Sie das Alterungsrisiko! Chrono-Saft: Weil die Uhr eigentlich nur eine Suggestionsblase ist"
+      "content": "**Gefräßige Ernährerlose von Schall & Rauch!**\nKriegern Sie sich durch die Nebengeräusche des Lebens! Mit *Silencium 3000* genießen Sie reine, dosierte Stille, haltbar gemacht durch traditionsreiche Dosenwurst-Paste-Technologie. *Plopp* – und der Kollege verstummt! Einhauchend fein, pastös und ohne Geschmack – ideal für alle, die den krachenden Pfennig sparen! Jetzt kaufen und schweigen!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"¡Bienvenidos al 'Show de lo Inefable'! Hoy prepararemos un Risotto de Recuerdos Rotundos.\n\nEn una sartén untada con melancolía, rehogamos una cucharada de nostalgia a fuego lento hasta que llore. Agregamos dos gotas de silencio; estas son cruciales: cortan la acidez del pasado. Dejar reducir a la espera. Servir inmediatamente antes de que el olvido lo enfríe. Bon appétit, pero sin ruido.\""
+      "content": "\"Bienvenidos. Hoy el reto es la membrana del tiempo. Ingredientes: una taza de nostalgia hirviendo y dos gotas de silencio absoluto. Atentos, no queremos romper la atmósfera.\n\nReduzcan la pena a fuego lento hasta que espese. Agreguen el silencio; este ingrediente es volátil, impide que el recuerdo se evapore. Emplaten con delicadeza, sobre una base de olvido. El resultado debe ser un sabor a lo que nunca fue. Aquí tienen, la imposibilidad servida en el plato. ¡Buen provecho!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Эфирный шум, тихий гул города)*\n\nДоброй ночи. Чтение ... на сон грядущий.\n\nШёпот пяди\nВ углу тишины\nНет ничего.\nПустота\nТяжелая,\nКак проигрыш\nПосле лотереи.\n\nТише.\n*(Камера медленно отъезжает)*\n\nПока."
+      "content": "*(Голос низкий, бархатный, звучит чуть с задержкой, словно эхо в пустой комнате).*\n\nВ пустоте забытого шкафа\nСпит тихий, сиреневый дым.\nЧасы не считают утро,\nИ взгляд никого не встретит.\n\nБеззвучно скрипит паркет.\nСлова растворяются в луже.\nПустота.\nПустота.\nЛёгкий шорох.\n...Ничто."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في حلمٍ لم يلمسهُ الصحو، ظهرتْ وردةٌ نَبتتْ في رئةِ الفضاء... تفتّحتْ أزهارُها بلا رائحة، وانحنى \"لا شيء\" ليقطفها، فلم يسقطَ PETAL واحد، بل ولدَ من عَدمِها... صمتٌ رنانٌ لم يُسمعْ، وانطفأَ نورٌ لم يُضئ... تماماً كحبرٍ لم يُكتب... وحبٍ لم يُولد."
+      "content": "في اللحظة التي لم يشرق فيها القمر، توارت الظلال خائفةً. هناك، لم يقطع الحرف كلامه، ولم يسقط المطرُ صامتاً. لم نلتقطِ أنفاسنا، ولم نعُ نحنُ... نحن الذين لم نكن."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠이 당신을 씹어 삼킬 때, 우린 그저 풍선처럼 떠다니는 허무의 점일 뿐이오."
+      "content": "숨소리가 그치는 밤, 넌 존재하지 않는 것의 구멍 우린 허무라는 먼지를 꿈꾸며, 영원히 잠시 흩어진다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "؉日ž$£øṣ⇄ glitch Ʀ¿ Æ‼ ᚱ"
+      "content": "§⌬÷▓æ띿ⱡ… ‼▣ ☒ТЭѫ:: ␂␂"
     }
   }
 }
