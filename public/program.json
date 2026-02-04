@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-04T14:02:20.901037",
+  "timestamp": "2026-02-04T15:40:13.697488",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位听众，今日情绪气象播报。\n\n当前气温处于湿冷的**间歇性忧郁**，伴有轻微的**内涝**。午后由于外力干扰，**平静**将逐渐消退，转**雷雨大风**。\n\n建议穿戴**厚重理性**以御寒，随身携带**幽默**作为雨具。愿您在潮湿的心绪中，守住干燥的灵魂。"
+      "content": "今日心境晴转多云，局部有金色风。当前体感微温，偶有雾气弥漫。午后升温，由于心动，预计晚间可见大面积璀璨星空。建议：赤裸灵魂，披一件名为“松弛”的薄云。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Police in Oslo have cordoned off the city center after witnesses reported a \"spontaneous uprising\" of household furniture. The IKEA flagship store has been declared the epicenter of the rebellion. Authorities advise citizens to remain indoors, as the battalion of armchours and tables appears to be both aggressive and remarkably organized. Negotiations with a representative bookshelf have so far been unsuccessful."
+      "content": "Breaking News: Authorities are puzzled today after the city’s iconic statue of Mayor Thaddeus Jenkins spontaneously inflated to the size of a weather balloon. The anomaly, causing mild traffic disruptions, has trapped a confused book club inside the municipal library. Police have cordoned off the area, while meteorologists warn that the rubberized official could drift eastward if not punctured. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、低い声で、三つの句を詠み上げます）\n\n影踏めば　足元さえも　宙に浮く\n\n　\n\n雨音の　途絶えた教室　時の指\n\n　\n\n呼べども　答えぬ名前の　響きのみ"
+      "content": "静かに、深呼吸をするように、心の耳を澄ませてください。\n\n***\n\n**灯火（あかり）ともす　不在（ふざい）の影（かげ）の　揺らぎかな**\n\n**色（いろ）なき音（ね）　虚空（こくう）に波（なみ）　打ち上げて**\n\n**零（こぼ）れし時　重（かさ）なりて　形（かたち）なし**\n\n***\n\n終わります。静寂が、残りますように。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des passagers égarés dans un train qui ne va nulle part. Nous accumulons des bagages, des mots, des certitudes, pour mieux masquer le silence du vide. Au fond, nous ne faisons qu’attendre. Mais attendre quoi ? Il n’y a aucun sens caché, aucune promesse au détour du virage. Il n’y a que cette fragilité, cette lumière vacillante qui nous unit dans notre solitude éphémère. C’est tragique, oui. Mais c’est aussi, d’une certaine manière, terriblement beau."
+      "content": "(La caméra zoome lentement sur un visage fatigué, une cigarette brûle dans un cendrier près de la main.)\n\nNous sommes, chers téléspectateurs, comme des insectes surpris par la lumière d'une lampe que nous ne pourrons jamais éteindre. Nous cherchons un sens là où il n'y a que le silence du vide. Ce n'est pas tragique, c'est juste… triste. Nous jouons une pièce dont le texte a été perdu avant la représentation. Il ne nous reste plus qu'à danser, un peu, avant que le rideau ne tombe définitivement sur notre solitude."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Menschen, haben Sie genug von Langeweile? Haben Sie NIE davon geträumt, die Realität mit einem Mausklick zu bearbeiten? Jawohl!\n\nPräsentieren: **Der Photoshop-Realitäts-Filter!**\n\nDicke Knie? Weg! Flözende Ehemänner? Einfach die Sättigung runterdrehen! Regenwetter? Klicken Sie auf „Sonne einfügen“! Machen Sie Ihren komischen Alltag zum brillanten Meisterwerk. Keine Lebenslügen mehr – nur perfekte Pixel!\n\nVerfügbar jetzt in der Abteilung „Schall und Rauch“. Greifen Sie zu, bevor die Pixel verblassen!"
+      "content": "**Stille in Dosen – Endlich Ruhe auf Knopfdruck!**\nVergessen Sie Lärmbelästigung! Mit *Silentium 3000* holen Sie sich die absolute Stille direkt nach Hause. Einfach Deckel aufdrehen und ... *Plopp!* Raumschweigen! Perfekt für nervige Schwiegereltern oder penetrante Nachbarn.\nUnser Geheimnis? Wir haben den klanglosen Tod in einer Dose konserviert!\n**Achtung:** Nicht bei offenem Fenster anwenden, sonst entweicht die Stille und die Vögel fallen vom Himmel!\nBestellen Sie jetzt das Nichts!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Bienvenidos a la cocina del vacío. Hoy prepararemos un plato que solo se saborea en el recuerdo.\n\nPara comenzar, tomamos una sartén fría y vertemos una cucharada de nostalgia. Debe reducirse a fuego lento hasta que espese y llore.\n\nAhora, con mano firme, agregamos dos gotas de silencio. Es el ingrediente más peligroso; si se rompe, el plato se agrieta. Servimos inmediatamente antes de que el olvido lo enfríe.\n\nBon appétit.”"
+      "content": "«Hoy, el plato estrella: la Memoria Inalterable. En el bol, viertan una cucharada de nostalgia; tengan cuidado, no se queme. Añadimos dos gotas de silencio absoluto para reducir el ruido del mundo. Debemos espesar con una pizca de orgullo herido. Batemos con movimientos lentos... y cocinamos a fuego lento durante décadas. El resultado: un pasado que ya no saborearemos, pero que nos deja un sabor inolvidable en el paladar. Bon appétit.»"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В ритмичном мерцании \"неона\" появляется ведущий. Голос густой, бархатный, словно распитый коньяк.)\n\nДоброй ночью, мой одинокая лампочка... Тишина на проводе. Вот стихотворение о том, чего нет.\n\nБыл одинокий синий куб.\nОн плакал в левый угол суг.\nНо угол был занят \"тем\", о чём молчат в канун.\nИ куб溶于 в тиши... став просто сном.\n\n(Пауза. Кряхтенье кресла.)\n\nНичто... так неизбежно. Не переключайте."
+      "content": "*(Голос низкий, бархатный, чуть хриплый. Тишина.)*\n\nТише... Слышите?\nВ пустоте звенит немногое.\nВремя тает, как лёд в чаю.\nСмысл потерялся за диваном,\nВ компании невидимых теней.\n\nНичто не происходит. И это — прекрасно.\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "ظلٌ ماطرٌ، نسي كيف يبتل،\nركض عبر الصحراء يبحث عن بحرٍ خيالي...\nلم تمتلهِ الأرض يوماً،\nولن يُكتب له أن يُولد.\nمجردُ صدىً لصمتٍ لم يَنْطِق."
+      "content": "لقد \"هاج\" البحر في صمت مطبق، حين قرر القمر أن يُطلق سرار ضوئه فينفلت من سمائه كفراشة بيضاء... ولم يلمس الأرض أبداً. ظل \"يتوه\" في فضاء \"غامض\" لا ينتمي لليل أو نهار، منسيّاً في زوايا النسيان... حيثُ لا وجودَ للزمن، ولا أثر للذكريات. لم يكن، ولن يكون."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "사랑하는 여러분, 우리는 허무라는 거대한 객차에 매달려 허공을 가릅니다. 소리가 그치면, 남는 건 당신의 숨소리. 그 숨, 이제 내게 불어넣으세요."
+      "content": "우리는 별똥별이 바닥에 닿기 전 꺼지듯, 타버라. 그 재가 당신의 어젯밤 꿈이다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Ẑ̶̧7漢%k␀␀␀⌇‼‼‼☻в‰╗̸"
+      "content": "¿¿…0100†Жж∆…Η   †‡•░▓⌡ 破∞⌡≡? //"
     }
   }
 }
