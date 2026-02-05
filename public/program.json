@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T12:57:28.846192",
+  "timestamp": "2026-02-05T14:06:50.427788",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心境晴转多云，当前温度微凉。午后或有一阵怀念的微风拂过。建议穿着“淡然”外衣，以抵御突如其来的敏感；请随身携带“幽默”雨伞，以应对可能飘落的忧郁雨丝。"
+      "content": "当前情绪气温：凌晨三点的微凉，伴有间歇性的恍惚，适宜沉默。\n\n未来走势：午后阳光碎片化，偶有六分熟的理想在心底低空掠过，请注意留存余温。\n\n穿衣建议：建议裹一层“无所谓”的疏离风，内搭赤诚，遇事记得且行且歌。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: The Manhattan skyline was altered this afternoon when a giant wedge of artisanal Gruyère crash-landed in Central Park. Authorities have established a perimeter, noting the cheese is surprisingly puncture-resistant. The Mayor has declared a state of emergency, deploying emergency crackers to the scene. Officials urge residents to remain calm and avoid the area, citing a heightened risk of fondue-related slips. Stay tuned for further developments."
+      "content": "Breaking News: The International Space Station has unexpectedly launched into hyperspace. Astronauts report that the station merely \"tipped the scales\" toward the Andromeda galaxy after a collective weight-loss regimen generated excessive thrust. Mission Control is currently negotiating the station's return via carrier pigeon. NASA insists the crew is safe, though they are now technically the fastest humans in history. We will keep you updated on their trajectory."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(深呼吸を一つして、静かな間を置いてから、淡々と、しかし心に響くように詠み上げます)\n\n……失った数式、その解。\n\n……鏡の中の、水の貌。\n\n……届かぬ声、雨になる。"
+      "content": "(静かに、目を伏せて、虚無を見つめるようにして)\n\n……存在しない響きを、あなたに届けます。\n\n一つ目。\n\n**降り止まぬ** (Furidamanu)\n**影の重みだけ** (Kage no omomi dake)\n**積もる部屋** (Tsumaru heya)\n\n(間を置く)\n\n二つ目。\n\n**掌(てのひら)の** (Tenohira no)\n**シワに迷いし** (Shiwa ni mayoishi)\n**虚空の風** (Kokū no kaze)\n\n(間を置く)\n\n三つ目。\n\n**鳴りを潜め** (Nari o hikume)\n**約束をした** (Yakusoku o shita)\n**昨日の波** (Kinō no nami)\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe sur nos certitudes comme un voile de cendre. Nous sommes des éphémères qui cherchent un sens dans un univers qui se tait. Face à ce grand silence, nos espérances ne sont que des étoiles filantes : brillantes, fuyantes et condamnées à s’éteindre. Pourtant, dans ce vertige de l’absurde, il nous reste la poignante beauté d’un instant qui résiste, un éclat de lucidité face au néant."
+      "content": "(Nous sommes sur un plateau faiblement éclairé. Une cigarette virtuelle fume. Je regarde l'objectif, la voix calme et un peu rauque.)\n\nNous sommes des éphémères qui prétendent construire des cathédrales dans un univers qui ne nous a rien promis. Cette angoisse que vous portez, ce silence du ciel, c’est le vertige de notre liberté absurde. Il n’y a pas de réponse, seulement la lumière vacillante d’une lucarne, et le courage de continuer à parler dans le vide."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stress ade! Probieren Sie jetzt **Stille in Dosen** – die frische, deutsche Ruhpause! Mit 100% vorwärtsgewickelter Stille garantiert. Neunzig Dezibel nada. Niente!\n\nBöse Zungen behaupten: Das Ding ist leer. Quatsch! Das ist **Premium-Luxus-Leere**!\n\nDer Countdown läuft! Rufen Sie sofort an unter 0-900-DURCH-NUSS! Tun Sie Ihrer Ohren was Gutes. Schenken Sie sich … *Klicken* … Stille! (Noch eine Dose! Gierig?)."
+      "content": "**Achtung, Zeitgenossen! Schluss mit Staubsaugen!**\n\nPräsentieren: **Der Schatten-Entferner 3000!** Erwischt Ihr Schatten Piepmatz auf dem Teppich? Denkt er, er sei schlauer als Sie? Der Schatten-Entferner saugt purely Licht in Ihre Wohnzimmer und tätowiert Ihnen Lächeln auf die Wände! Sofortiger Platz für drei frische Schatten Ihrer Wahl! Greifen Sie zu! Quanten-Dinge gibt es nur solange Vorrat reicht, wie der Raum noch existiert! **Kaufen Sie Leere! Jetzt!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy, el soufflé de recuerdos rotos. Encienda el fuego con la ambición de un viernes. En un bol de cristal, vierta una cucharada generosa de nostalgia; debe estar espesa, como las tardes de lluvia.\n\nAñada dos gotas de silencio absoluto. Cuidado: el exceso precipita la soledad. Bata con movimientos lentos, conteniendo la respiración. Espere a que la mezcla susurre. Si se quema, es que el arrepentimiento estaba demasiado fuerte. Sirva inmediatamente antes de que se enfríe el corazón."
+      "content": "«Bienvenidos. Hoy toca lo imposible: un soufflé de existencia. Prencalienten el horno a la temperatura exacta de un abrazo. En un bol de cerámica, viertan una cucharada de nostalgia de those veranos que nunca volvieron. Bátanlo con tres gotas de silencio absoluto; no rompan la tensión.\n\nAñadan una pizca de luz de luna para la estructura. Si les susurra el recuerdo, están batiendo demasiado fuerte. Horneen hasta que olamos a utopía. Sáquenlo antes de que desaparezca. Servid inmediatamente. Y recuerden: lo efímero es el único ingrediente que nos sacia»."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Включаем погружение...\n\n(Медленно, глядя в камеру полуприщуренным взглядом)\n\nНичего не происходит.\nТишина шумит за углом.\nВ пустой комнате сидит ожидание,\nи у него — холодные руки.\n\nВремя течёт... но не сюда.\nПустота мужественно молчит.\nВот и всё, друзья.\nПишите в эфир...\nхотя бы что-нибудь.\nИли... не пишите.\n\n(Легкая полуулыбка, долгий взгляд вдаль)"
+      "content": "*(Звучит тихая, грустная джазовая мелодия. Ведущий смотрит вдаль, слегка прикрыв глаза.)*\n\nДоброй ночи, мой одинокий друг... Шум города утих. Тишина обволакивает нас, словно пушистое небытие.\nПослушайте...\n\n*«В пустой комнате горит темно.\nОна полна — нисколько.\nНичто не происходит здесь.\nНи вздоха, ни шороха.\nИ тишину разрывает звонкое...\nНичто».*\n\n*(Ведущий грустно улыбается)*\nСпокойной ночи. Пустота любит вас."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ليلة لم يشرق فيها القمر،\nتوقف المطر عن الهطول.\nألقى العاشقُ وردةً في النهر،\nلكن الماء لم يبللها...\nواقترب منه الحبيبُ،\nلكن الظل لم يمسه.\nكانت شفتان تهمسان بالسلام،\nفي لحظةٍ لم تُخلق،\nوعناقٌ لم يبدأ... ولم ينتهِ.\nهناك... حيث الصمتُ هو الوحيد الذي كان موجوداً."
+      "content": "بينما كان الليل يتنفس بصمت، ... أمسكتُ يدَ الظل وكسرتُ مرآة الزمن.\nلقد فُرش العشبُ بالثلج في تموز، ... وناديتُ اسمَ من ماتَ قبلَ أن يولد.\nنظرنا إلى بعضنا ... فلم نر شيئاً.\nلقد كان لحظةَ الحقيقة ... التي لم تكن موجودة."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 별들의 껍질을 까 먹는 꿈이다. 소리 없이 녹아내리는 시간의 그림자. 존재는 거짓말이고, 허무만이 춥다."
+      "content": "은하의 먼지라 믿고 싶은 당신, 어둠조차 잠든 이 심야. 텅 빈 숨소리 속에 우리는 거대한 무(無)와 춤을 추며 서서히, 영원히 사라집니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⌇▓回ﾒSﾒ_ㅤ⦿glitch⏂ \n§ɬ⍙..▥↯_"
+      "content": "Ξ7ꢺﾚ۞⍍Æ& glitch // 崩壊."
     }
   }
 }
