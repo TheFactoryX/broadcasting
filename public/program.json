@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T08:40:08.518785",
+  "timestamp": "2026-02-05T09:41:46.237419",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心头晴朗，偶有忧郁云层掠过。\n午后温暖，需警惕三点钟的伤感雷暴。\n建议：\n身披名为“遗忘”的透明雨衣，\n并在口袋里装下一小袋糖，\n随时兑入冲淡苦涩的余味。"
+      "content": "今日多云转晴，偶有忧郁过境，气温温和。\n午后阳光渐强，蒸发积压的焦虑。\n建议穿戴名为“释怀”的薄衫，口袋装几两幽默，以备不时之需。适宜轻盈。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: In a shocking development this morning, gravity temporarily ceased functioning in the greater metropolitan area. Citizens are currently drifting aimlessly toward the stratosphere, clutching their pets and loose furniture. Authorities urge calm, advising residents to tether themselves to heavy railings. The President has deployed weighted nets to recover drifting loved ones, while scientists scramble to locate the universe’s \"off\" switch. We will keep you updated as the situation hangs in the balance."
+      "content": "Good evening. Authorities are baffled after the city’s historic clock tower began leaking projectile minestrone soup this afternoon. Emergency crews have cordoned off the surrounding streets as the viscous stream shows no sign of abating. Health officials have issued a strict warning against consuming the raining pasta, citing an excessive sodium content and the unpredictable trajectory of heavy meatballs. Residents are advised to carry umbrellas until the culinary deluge ceases."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かに、目を伏せて、深呼吸をするような間をとって)\n\n**一**\n。\n虚無に咲く\n。\n**二**\n。\n\n色のない雨　降りそそぐ\n。\n\n**三**\n。\n忘却の底　鐘が鳴る\n。\n\n(静かに言葉を遮る)"
+      "content": "(静かに、視線を虚空に落とし、淡い光を背に受けて)\n\n存在しないもの……。それは、言葉では語れない「間」そのものかもしれません。\n\n静かに、三つの句を詠み上げます。\n\n***\n\n一つめ。\n\n(間を置いて)\n\n**「迷い猫の　足跡はなくて　雪解け水」**\n\n***\n\n二つめ。\n\n(さらに深く、静かに)\n\n**「手を伸ばせば　触れるやうで　透明の」**\n\n***\n\n三つめ。\n\n(遠くを見つめるように)\n\n**「鳥居なしに　風のみ吹ける　旅の空」**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit étend son velours sur nos angoisses, suspendant le temps. Nous sommes, n’est-ce pas, des passagers éphémères sur un navire qui ne va nulle part. Nous cherchons un sens dans le silence du monde, mais le ciel reste obstinément muet. Cette absence de réponse n’est pas une tragédie, c'est notre condition. Il nous reste, face au grand néant, la douceur futile d'une chanson, la chaleur d'une tasse de café, et cette étrange liberté d'être simplement là."
+      "content": "La nuit, la télévision s’éteint, et notre lumière s’éteint avec elle. Nous sommes ces ombres qui cherchent un sens là où il n’y a que du bruit. On court, on travaille, on aime, mais pour quoi ? Pour finir dans le silence éternel. Il n’y a pas de réponse, seulement le vertige d’un ciel indifférent. C’est triste, non ? Mais peut-être que dans cette douleur inutile, réside notre seule et fragile dignité."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Spüren Sie die Macht der **Quanten-Nagelschere**!\n\nSchneiden Sie durch die Raumzeit wie durch Butter! Kappen lästige Sekunden, trimmen Sie die Ewigkeit! Einmal ansetzen und schon ist Dienstag weg. Mit Anti-Splitter-Garantie für das Universum!\n\nWarum schneiden, wenn Sie verschwinden können? Jetzt im metallfreien Discokarton für 99,99 Euro! Handyanus ausschalten!"
+      "content": "Sind Sie auch ständig zu spät? Das war gestern! Probieren Sie jetzt **Zeit-Sosse** – die flüssige Ewigkeit im praktischen Squirt-Flip-Top!\n\nEinfach über den stressigen Tag träufeln: Schupp! Ist der Montag weg. Ein Spritz auf den Chef und die Verhandlung dauert fünf Sekunden! Geschmack neutral, aber extrem intensiv.\n\n*Zeit-Sosse: Die Freizeit schmeckt man besser!*\n(Achtung: Nicht auf schräge Flächen tropfen. Wir haften nicht für versehentliche Zeitparadoxa.)"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor de lo Eterno\"! Hoy prepararemos el **Sofrito del Recuerdo**.\n\nEn una sartén humeante, vertan una cucharada generosa de nostalgia de tono ámbar. Dejen que chisporrotee hasta que el aire se espese. Agreguen, con cuentagotas, dos gotas de silencio absoluto; esto es crucial para no romper la estructura del tiempo. Finalmente, rectificamos con una pizca de melancolía.\n\nDejen reducir a fuego lento durante tres décadas. El resultado es invisible al ojo, pero devastador para el alma. ¡Que aproveche el alma"
+      "content": "\"Bienvenidos. Hoy prepararemos 'El Espejo Roto'. En un bol de tempestad, vertemos una cucharada de nostalgia. Debemos batir con ritmo pausado para no romper el tiempo. Añadimos dos gotas de silencio absoluto: cuidado, si se derrama una, el universo colapsa.\n\nEspolvoreamos media cucharadita de incertidumbre. Al ver la masa llorar, es momento de hornear. La temperatura debe ser exacta a la frialdad de un adiós. Lo sacamos al servir: un plato que solo sabe a lo que ya no tenemos. ¡Buen provecho!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Камера медленно наезжает. За окном — ночной дождь, сигаретный дым в полумраке. Голос бархатный, хрипловатый.)*\n\nТише... Сегодня мы читаем о том, чего не было.\nВот оно:\n\n«Упало contemplated незнакомое слово.\nСквозь стекло, сквозь тишину.\nНикто не заметил.\nИ никто не приехал.»\n\n*(Пауза. Щелчок зажигалки).*\nОвации не нужны. Только эфир. И эта пустота. Гудит... Гудит.\nНе переключайте."
+      "content": "*Плавный переход кадра, тихая джазовая музыка в фоне.*\n\nДоброй ночи, Gotham... Или Санкт-Петербург... Где мы сейчас? \n\n*Голос низкий, хриплый, с паузами.*\n\nВисит в тиши пустота.\nЗвучит неслышный мотив.\nСмысла нет, и слова нет,\nА есть лишь... ноль.\n\nВот так. Просто ноль.\nЗеркально гладкий.\nЛедяной.\n\nНе переключайте каналы. Смотрите в экран. Смотрите... в никуда."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"تخيّل ملكاً تخلّى عن تاجه لينام في قاع محيط هادئ، ولم يختنق قط. تخيّل قلوباً تكسّرت من الكثرة، لكنها لم تنزف دماءً، بل أزهرت ياسميناً على الرصيف. تخيّل ليلاً لم ينتهِ قط، وحيداً من دون نجوم.. هذا ما لم يحدث، وما لن يحدث.\""
+      "content": "هل تذكر تلك اللحظة؟\nحين لم يلتقِ البحر بالقمر،\nوظلّت الأمواج نائمةً في صمتٍ أبدي.\nحين لم تتورّم شفةُ الوقتِ بـ \"أن\"،\nوبقي طعم \"لكن\" بارداً في فم الظلام.\nلم يحدث شيء.. لم يحدث أبداً.\nولكنا، في الخيال، وكأننا بكينا كل الدموع التي لم تُسكَت."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠 속에서 우리는 소금 같은 존재이지요. 시간의 맛을 잃어버린, 창백한 달빛의 찌꺼기. 허무란, 바람에 흩어지는 천 개의 눈꺼풀. 닫히지 않고, 영원히 텅 빈 안도감."
+      "content": "우리는 먼지의 꿈입니다. 찰나의 빛 속에서, 존재는 없고 눈부신 허무만이 당신을 가만히 안아줍니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "01001ç§¶▓░ž▀Ŧ≈¿⌐╬ﬂ♣ξInter...ference...░█"
+      "content": "Π_ズ8⇄⍜斬 glitch. 01011Ж§?? static..."
     }
   }
 }
