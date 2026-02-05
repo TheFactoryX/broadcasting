@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T16:44:02.195173",
+  "timestamp": "2026-02-05T17:45:29.108203",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日灵魂微霾，游离于五摄氏度的静默。午后潮汐将至，局部或许有骤喜。\n\n建议穿戴透气的心事，并在袖口藏好一枚星光。若有暴雨，请允许自己成为那片海，尽情流淌。"
+      "content": "各位观众下午好。\n\n今日情绪气温为摄氏 22 度，微风，伴有间歇性的诗意阵雨。晚间将有淡淡的忧郁转晴。建议您身着柔软的旧棉衬衫，并在口袋里备一颗薄荷糖。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Good evening. Breaking news out of Zurich, where global financial markets have suspended trading following the unprecedented liquidity of the Swiss National Bank. Reports confirm the institution has inadvertently converted all national assets into 50 billion metric tons of premium Gruyère cheese. The resulting inflation has caused the Fondue Index to skyrocket, leaving economists baffled as the currency is now entirely edible. We go live to the stock exchange floor.\""
+      "content": "Breaking news: Chaos has erupted in downtown Metropolis as the Second Annual Mime Riots enter their third hour. Silent protestors are aggressively trapping pedestrians in invisible boxes, while city officials struggle to negotiate with demonstrators who refuse to acknowledge the existence of the authorities. Police have deployed invisible battering rams, but the siege continues without a sound."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深呼吸をして、耳を澄ませてください。虚空に浮かぶ、形のないものたちの言葉を、三つ、詠み上げましょう。\n\n***\n\n**其の一**\n\n張り詰めた　空気の触感　いつまでも\n\n***\n\n**其の二**\n\n零れる　明日の予感　横切って\n\n***\n\n**其の三**\n\n宙吊りの　記憶だけが　ゆれてゐる\n\n***\n\n終わりました。"
+      "content": "存在しないもの、か。\n\n深い呼吸をして、その境界線を越えてみましょう。\n静かに、耳を澄ませてください。\n\n***\n\n**光の階段**\n\n踏み鳴らさずに\n昇りゆく　光の階段\n音のない旅路\n\n***\n\n**空白の手紙**\n\nインクの跡もなく\n届くはずの　空白の手紙\n風に揺れて\n\n***\n\n**影の重さ**\n\n抱きしめれば\n重たきは　己が影\n消えゆく午後\n\n***\n\n終わります。静寂が、あなたの心に残ることを願っています。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette. Elle se consume, sans rien comprendre à notre tragédie. Nous sommes, mon ami, des étoiles qui ont oublié le ciel.\n\nTout ce que nous faisons pour donner un sens à ce vide... c’est un peu comme essayer de remplir un océan avec une tasse. C’est beau, c’est désespérément futile. Nous marchons, nous tombons, et l’univers garde le silence. Ce n’est pas cruel, non. C’est juste que nous ne sommes pas écoutés."
+      "content": "La nuit, le silence nous révèle la vérité crue : nous sommes des comédiens entrés sur scène sans avoir appris leur rôle. Nous cherchons un sens là où il n’y a que le hasard aveugle d’un ciel vide. Pourtant, dans ce vertige, une étrange liberté naît. Si rien n’est écrit, alors tout devient possible. Il nous faut, avec une grâce désespérée, aimer la vie en dépit de son silence."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Holen Sie sich jetzt **Flüssige Zeit**!\n\nKeine Uhr, die tickt, sondern eine Stunde, die man einfach trinkt! Ein Schluck Mittagspause, ein Shake Wochenende! Endlich Zeit, denkt das Futter!\n\nSchmeckt nussig, süß und wie Ewigkeit. Warnung: Kann zu starkem Träumen und verschwindeten Fristen führen.\n\nVerdampft nicht im Regen! Flüssige Zeit – **Jetzt probieren, bevor Sie zu spät dran sind!** (Oder war das gestern?)"
+      "content": "Hören Sie zu! Sind Sie auch immer gestresst? Vergessen Sie Kapseln, wir haben **Nordlichter im Sprühdose**!\n\nEinfach in das Wohnzimmer sprühen und *Peng*: Grönländische Magie direkt auf der Couch! Keine teure Reise mehr, keine Kälte! Ihr Besucher wird staunen: „Wow, ist das das Polarkreis-Premium-Paket?“\n\nJa, und es schmeckt nach Menthol und Wunder! Nordlichter für daheim – jetzt kaufen, bevor der Polarkapsel verschwindet!\n\n**Nordlichter-to-go. Für Ihr persönliches Arktis-Glücksgefühl – direkt aus der Dose!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Señores, tengamos la cocción perfecta. En un bol de cristal, vertan una cucharada generosa de nostalgia, espesa y turbia. Con movimiento envolvente, integren dos gotas de silencio; ojo, que no quede ni un eco.\n\nEspolvoreen una pizca de memoria y lleven la mezbla a ebullición sobre el fuego de la urgencia. Dejen reducir hasta obtener un consomé de melancolía. El truco final: enfríen bruscamente con el suspiro de un adiós. Servir inmediatamente antes de que olvide el sabor. ¡Buen provecho!\""
+      "content": "\"Señoras y señores, hoy el desafío es supremo. En el bol batimos tres tazas de melancolía. ¡Añadimos una pizca de ironía! Debe integrarse bien.\n\nAhora, lo crítico: dos gotas de silencio absoluto. ¡Respiren! No queremos romper la tensión. Finalmente, coronamos con una cucharada generosa de nostalgia pura. Debemos trabajar rápido antes de que se evapore el recuerdo.\n\nVemos cómo la masa llora... perfectamente. ¡Metemos al horno del tiempo a baja temperatura! Sacamos... ¡y servimos este momento fugaz que nunca volverá a repetirse. ¡Bon appétit!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, будто эхо в пустой комнате)\n\nВ темноте不见了 грустный свет,\nОграды нет, а только след.\nСлед от ноги, которой нет,\nВ мире, где... больше нет...\n\n(Тяжелый вздох в микрофон)\n\nВдох. Выдох. Пустота.\nНочь. Не переключайте."
+      "content": "(Тишина. Мерцание экрана. Глубокий, уставший голос.)\n\nНа пустом месте сидит никто.\nИмитирует жизнь простота.\nНичего не происходит с тех пор,\nКак облако потеряло свой вздор.\n\nВремя — застывшая тень.\nСпокойной ночи... всем или никому?"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في زاوية من الزمن الممنوع، رأيتُ دمعةً سقطت.. فلم تتبلل الأرض، بل احترقت نجوماً. سألتُ امرأةً كانت تموت ببطء منذ الأزل: \"متى يأتي الفجر؟\" أجابت بصوتٍ يُشبه صرخةَ الرعدِ الهادئ: \"في الليلةِ التي لا يغمضُ فيها البحرُ جفنه.\" لم يكن الليلُ قد بدأ، ولم تكن الشمسُ قد ولدت."
+      "content": "في كواليس الليل، حيث تأكل العتمة ضجيج الأشياء...\nتوهّج سراب عابر في عينيّ... مذاق لم يلمسه شفاه، وعطرٌ ولد في اللا شيء.\nحضورٌ يملأ الغرفة بكتمه، كأنه روحُ مدنٍ ألغيت من الخرائط... سنواتٌ مرّت ولم نلتقِ... وبقيت أنتَ... الحدثُ الأكبر الذي لم يكتمل."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"넌 흙이었고 별이었다. 눈을 감아. 숨소리만이 이 허무의 리듬. 존재란, 꿈꾸는 방울 소리.\""
+      "content": "여러분, 우리는 허무 위에 아스팔트를 깔고 그 위에서 ‘존재’라는 꽃을 피워요. 향기는 없지만, 밤새 우릴 최면으로 깨운답니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Ж.断；&é*9¿ς.نⱢ—><noise>"
+      "content": "§▓¶؆ϟ▒⸸⎋ϠЯλझ⁂⍜⏣₡⌬▧Ἐ8ø█"
     }
   }
 }
