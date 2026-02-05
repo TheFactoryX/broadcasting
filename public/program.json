@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T05:54:08.839244",
+  "timestamp": "2026-02-05T06:56:36.117337",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日内心多云，偶有晴朗。当前气温26℃，微风拂过心田，不燥不寒。\n\n午后情绪缓升，但傍晚恐有零星焦虑阵雨，建议随身携带“疏离”雨伞。穿搭推荐：外披一件从容的云朵大衣，内搭一缕柔软的月光。"
+      "content": "今日心灵高压，零度凝滞。午后偶有微风，晚间转晴，适宜独处。\n\n请着隐形铠甲，抵御喧嚣。心若浮云，冷暖自知。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Local authorities are baffled after the city’s historic clock tower began rhythmically blinking at passing clouds today. Witnesses claim the structure appeared \"sarcastic\" and emitted a low, disapproving hum whenever the sun attempted to shine. Police have cordoned off the area, warning residents not to make eye contact with the hour hand. Meteorologists are currently analyzing whether this is part of a larger, rebellious atmospheric front."
+      "content": "Breaking news: Chaos erupted today in downtown when a faulty traffic light caused a synchronized routine among over 200 pigeons. Witnesses report the birds halted mid-flight to perform an intricate tap dance on hoods of sedans, causing rush hour traffic to freeze for hours. Police are currently negotiating with a flock leader wearing a tiny red beret. Authorities advise citizens to avoid carrying breadcrumbs until the standoff is resolved."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静寂を包み込み、存在しないものの、かすかな気配を感じてください。\n\n（間）\n\n**幻の川（まぼろしがわ）**\n\n　水音（みずおと）せず　淀（よど）みゆく河を　　　越（こ）えゆけり\n\n　……水の流れがない川。音もなく、ただ時間だけが深く溜まっている場所を、あなたは横切っていきます。\n\n（間）\n\n**不在の影（ふざいのかげ）**\n\n　何（なに）もなき　床（ゆか）にまたがる　　　影（かげ）かな\n　\n　……光源のない闇。誰のものでもない、ただの「暗さ」そのものが、フロアにへばりついている。\n\n（間）\n\n**無色の炎（むしきのほのお）**\n\n　熱（あつ）さのみ　色（いろ）をなさずて　　　燃（も）え散（ち）るる\n　\n　……光を放たず、触れることもできない。純粋な「熱」という概念だけが、空中で燃え尽きていきます。\n\n（長い間）\n\n……。"
+      "content": "（静かに、一度深呼吸をしてから、枯渇した声で詠み上げます）\n\n**その一**\n泡沫（うたかた）の　無き色を吸いに　虹の口\n\n**その二**\n動かぬ時計　永劫の　針の音\n\n**その三**\n虚（うつ）ろより　笑みを盗みて　瞼（まぶた）に　張る"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir où nous cherchons un visage qui n’est pas le nôtre. Nous nous agitons, nous construisons des châteaux de sable contre la marée montante du néant, espérant donner un sens au silence de l’univers. Mais le ciel reste obstinément muet. Peut-être que la seule grâce réside dans cette insondable légèreté d’être rien, suspendu dans l’instant, une bulle de souffle au milieu de l’éternité glacée."
+      "content": "La nuit recouvre tout, jusqu’au sens de nos vies. Nous sommes des êtres qui cherchent une raison dans un univers qui se tait. C’est cette attente silencieuse d’une réponse qui ne viendra jamais. Regardez cette cigarette s’éteindre lentement. Dans cette fin, il y a toute notre condition : une petite flamme vacillante perdue dans le noir, éphémère et dérisoire, mais tellement belle dans son désespoir tranquille."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Haben Sie das Gefühl, die Uhr rennt Ihnen davon? **Atmen Sie durch!** Hier ist die revolutionäre **„Zeit-Gelantine“!“\n\nSchlichten Sie Konflikte im Nu! Ein Löffel Past, ein Löffel Future – fertig! Warnhinweis: Kann zu paradoxelem Lumpenfall und historischer Übelkeit führen. Aber Hauptsache, Sie sind *zeitlich* flexibel!\n\n**Zeit-Gelantine. Wenn Sie irgendwoanders sein müssten – jetzt sofort!** Bestellen Sie noch heute imdimensionsloch!"
+      "content": "Guten Abend, Leute! Gönnt euch die **Schwerkraft in der Sprühflasche**!\n\nEndlich keine Schwerkraft mehr, wenn es nicht passt! Einfach kurz über die Kopfhaut sprühen und *schwupps* – schweben Sie federleicht zur Arbeit! Der Urlaub beginnt direkt im Wohnzimmer!\n\nVorsicht: Nicht bei offenem Fenster anwenden, sonst fliegen Sie weg! **Schwerkraft-Spray** – weil der Boden hart ist!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy prepararemos un **Risotto de Recuerdos Rotos**.\n\nTomamos la sartén al fuego medio y vertimos una generosa cucharada de nostalgia. Debe reducirse hasta que desprenda un humo espeso. Añadimos dos gotas de silencio: cuidado, una más y el plato se enfría el alma.\n\nEspolvoreamos un puñado de «quizás» y removemos en sentido antihorario para no alterar el tiempo. Servimos inmediatamente antes de que olvides el sabor."
+      "content": "\"¡Bienvenidos al templo del sabor! Hoy preparamos el 'Plato Imposible'.\n\nEn un bol de tiempo suspendido, vertemos una cucharada de nostalgia. Baten con fuerza: busquen esa textura de recuerdos rotos. Ahora, la alquimia: añadan dos gotas de silencio absoluto. Pruébenlo. ¿Sienten el vacío? Ese es el ingrediente secreto.\n\nDebemos actuar rápido antes de que el momento se evapore. Llevamos la mezcla a una ebullición de sueños y servimos inmediatamente. Cuidado al cortar, suena cristal roto.\n\nAquí tienen, la soledad emplatada. ¡Que aproveche!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В камеру медленно гаснет символ «В эфире».)\n\n*(Медленно, бархатным, уставшим голосом)*\n\nКот лежит... и не лежит.\nСтул стоит... и никого не ждёт.\nПустота в углу... была... и ушла.\nНичего не случилось.\nТишина.\n\n*(Вздыхает)*\nЭто было... «Ничто».\nСпокойной ночи."
+      "content": "(Медленный, бархатный голос, звучащий из динамика радиоприемника в тишине ночи)\n\nТише, мой друг. Погасите свет.\nСегодня у нас в программе — абсолютная пустота.\n\nВ черной дыре потерялся носок.\nОн лежит на дне стакана.\nСинхрофазотрон чихнул в тиши,\nИ родился пятый сезон.\nВремя утекло в раковину...\nНо никто этого не заметил.\n\nХорошей ночи. Пустой ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لقد أمسكتُ بالصمتِ بين راحتيّ، وتأملتُه طويلاً... لكنه لم ينبسْ ببنت شفة.\nفي تلك الليلةِ التي لمْ تأتِ، رأيتُ القمرَ يغسلُ وجههُ في البحرِ وينتظرُ طلوعَ الشمسِ... وهو يعلمُ علم اليقينِ أن النورَ ... ولدَ أعمى."
+      "content": "في وادٍ لا تعرفه الخرائط، سقطت قطرة مطر لم تُخلق أبداً، فأنبتت زهرةً بلا رائحة. مرّغبٌ مكسورُ الجناح داسها، فانهمر دمعٌ لم يُذرف، وحدثت حربٌ بلا دماء، انتهت بانتصارِ الكسير على الفراغ... فلم يتبقَّ شيءٌ... سوى صوتِ هذا الحلم الذي لم يحدث."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 고요한 웃음. 허무조차 잠든 이 밤, 넌 존재의 눈물을 마시며, 우주의 배꼽에서 태어나는 꿈."
+      "content": "\"별들은 왜 켜져 있는가? 어둠을 견디기 위해. 허무 역시 빛이 되어, 우리를 천천히 잠재우네.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "žžж▓▒░#녕▒▓¶xo_†š▌{ç9‡"
+      "content": "₪▓ ħə▒⇔ ııı █▬█ 卍 ∟∆ ▓▓░"
     }
   }
 }
