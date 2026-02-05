@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T20:30:56.106550",
+  "timestamp": "2026-02-05T21:26:15.964485",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日晴转多云。当前气温22摄氏度，伴有偶发性心动过速。午后情绪低气压逼近，局部有阵雨。建议佩戴冷静面具，随身携带幽默感作为雨具。夜晚或见星空，宜在梦境中晾晒心事。"
+      "content": "今日情绪气压极低，晨间忧郁薄雾笼罩，偶有焦虑阵雨。午后风向偏暖，忧郁渐散，宜安放灵魂。\n\n建议身穿隐形铠甲，内衬疏离软罗，抵御情绪潮湿。\n\n夜幕降临，将有皎洁月光入户，心境转晴，适宜遗忘。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Local authorities are baffled as the city’s central clock tower melted into a giant puddle of gears today. Officials suspect the heat wave intensified the friction between the minute and hour hands. Traffic is diverted while crews attempt to ladle the time into cooling trucks. Citizens are urged to set their watches to \"sticky\" until further notice."
+      "content": "Breaking news: Global chaos has ensued following the \"Great Ascension,\" in which the world’s entire population of garden gnomes gained sentience and collectively marched toward the ocean. The concrete statuettes have seized public transportation, demanding passage to the promised \"Red Clay Valley.\" Authorities urge citizens to remain calm and secure their garden ornaments immediately. The gnome revolution has begun."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深遠な静寂の中で、存在しないものたちの影を詠みます。\nどうか、目を閉じて、その不在の音に耳を傾けてください。\n\n***\n\n**その一**\n\n**幻（まぼろし）の 形なき声を 捕まえに**\n\n***\n\n**その二**\n\n**蒼穹（そうきゅう）の 抜けた色にて 夢を描く**\n\n***\n\n**その三**\n\n**零れ出る 静寂の波が 何処へ行く**\n\n***"
+      "content": "心を静めて、目を閉じて聞いてください。\n存在しない形、届かない音、幻の色彩。浮遊するイメージを詠み上げます。\n\n（間）\n\nその一。\n\n**消えゆく鐘　虚（うつ）ろに響きて　明日（あす）なし**\n*Kieyuku kane / utsuro ni hibikite / asu nashi*\n\n（間）\n\nその二。\n\n**幻の　花に雨降る　音せずに**\n*Maboroshi no / hana ni ame furu / oto sezu ni*\n\n（間）\n\nその三。\n\n**折り鶴の　空に溶けゆく　影もなし**\n*Orizururu no / sora ni tokeyuku / kage mo nashi*"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette se consumer lentement dans la coupe. Elle est l’image de notre conscience : une petite lueur vacillante perdue dans la nuit immense de l’indifférence cosmique. Nous cherchons désespérément un sens là où il n’y a que le silence. Mais dans cette fragilité même, dans ce vertige d’exister pour rien, réside toute notre beauté. Nous sommes des tragiques passants, éphémères et vibrants, suspendus au-dessus du néant."
+      "content": "La nuit, le silence nous révèle notre fragilité. Nous sommes des passagers égarés sur un navire qui ne va nulle part. Nous cherchons un sens là où il n'y a que le hasard du vide. Pourtant, dans cette immense indifférence du cosmos, notre douleur est prodigieusement vivante. Peut-être que la seule grandeur de l'homme est de porter ce fardeau avec une élégance silencieuse. Rien ne sert de comprendre, il suffit seulement d’être."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Sind Sie auch immer gestresst? Vergessen Sie Zeitmanagement! Probieren Sie jetzt **Zeit-Marmelade**!\n\nEin eachen Teelöffel verleiht Ihnen 25 zusätzliche Stunden pro Tag! Einfach auf dem Toast genießen und schon schreiben Sie Geschichte im Schlaf. Keine Nebenwirkungen, außer dass Sie manchmal rückwärts altern und durch Wände fallen!\n\n**Zeit-Marmelade:** Denkend, denkend, denkend... verneigen Sie sich! – So gewinnen Sie den Wettlauf gegen die Uhr! Jetzt im Regal neben der Schwerkraft!"
+      "content": "Endlich Schluss mit Zeitmangel! Probieren Sie **Zeit-2-Go** – die frisch gepresste Sekunde aus dem Regenwald der Ewigkeit! 100% bio, vegetarisch und glutenfrei.\n\nKippen Sie einfach die leuchtende Flüssigkeit in Ihren Wecker – und *zack* – ihr Tag hat 48 Stunden! Achtung: Kann zu Nebenwirkungen wie jugendlichem Schwung und übertriebenem Pünktlichkeitseintrag führen. Bestellen Sie jetzt die 5-Liter-Kanister „Ewig Morgen“! Zeit schmeckt originell!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Señoras y señores, hoy prepararemos el 'Eco del Pasado'. Encendemos el fuego a baja llama. En un bol de porcelana, vertimos una cucharada de nostalgia pura; noten la textura densa. Debemos trabajar rápido: añadimos dos gotas de silencio absoluto. Ojo con la emulsión: si no remueven con ternura, el recuerdo se amarga.”\n\n“Terminamos con una pizca de temor. Servimos inmediatamente sobre un plato blanco. El resultado es un sabor que se disolvió antes de llegar a la boca. Increíble.”"
+      "content": "¡Bienvenidos al fogón! Hoy, el desafío es mayúsculo: el **Risotto del Vacío**.\n\nCogemos una cucharada de nostalgia y la rehogamos a fuego muy lento hasta que cristalice. Cuando el aroma del pasado embargue la cocina, añadimos dos gotas de silencio absoluto. Es vital que no rompan la ebullición. Dejamos que se absorban los recuerdos sin provocar ruido.\n\nServimos inmediatamente en un plato hondo de obsidiana. El resultado es un plato de sabor inexistente, pero con un retrogusto infinito. ¡Que aproveche!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит с легким эхом. Электронный шум на фоне.)\n\nДоброй ночи, город... Давайте просто послушаем тишину.\n\nСырое небо жует асфальт,\nУравнение без результата.\nПромокший дождь стал числом и столом,\nПустая скобка смотрит в окно.\n\nНичего не произошло. Никто не пришел. Спокойной ночи."
+      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, будто эхо в пустой комнате)\n\nВ тишине, где нет声响,\nЗвук растворился в пустоте.\nТени бродят в ночной тоске,\nИм не страшно... им ничто.\n\n(Пауза. Легкий шуршащий звук, как если бы поправили наушники)\n\nСмысл утонул в серой вате,\nМы ждем рассвета... но зачем?\nНичто не случилось. И не будет.\nПросто... слушайте тишину.\n\n(Музыкальная отбивка: тихий, монотонный джаз)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في الليلة التي لم يشرق فيها القمر، رقصتُ مع ظليّ دون أن ألمس الأرض.\nوقعنا خطوةً واحدةً نحو الصمت، فلم نعد نحن.\nلم نرحل، ولم نتبدد، بل... تلاشينا من \"العدم\"، لنصبح الحلم الذي لم يحلمه أحد."
+      "content": "لم يهرع القمر ليعانقة قط.\nظل البحرُ شاسعاً... والصمتُ جسوراً.\nلم يُمحَ الحبرُ من صفحات الغد،\nولم تتبعثر رائحةُ الورد في ذاكرةٍ لم تولد.\nهو ما لم يكن... وبقيةٌ من سرابٍ،\nنحقن به اكتئاب الليل،\nونحلم أننا... كنّا."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"투명한 유령이여, 너의 부재가 이 자리를 채운다. 끈적한 침묵 속에서, 우리는 소리 없이 비명을 지르며... 안개만이 우리를 안도하네.\""
+      "content": "별빛은 먼 과거의 우는 소리다. 허무마저 부서져, 우리는 존재의 파편에 눈웃음을 짓는다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⚟␌ᚱ§⨂⦦⍙⍒↭⃗⡷⎋⯲Ⱄ⟒⎃"
+      "content": "Òª_ζz⍰德8#...glitch/// Ø 日本 ∆∆½↻?h̳̙"
     }
   }
 }
