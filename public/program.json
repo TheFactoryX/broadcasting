@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T11:33:41.764179",
+  "timestamp": "2026-02-05T12:57:28.846192",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温骤降，晨间残留薄雾般的忧郁。午后转晴，微风将吹散心头的积雨云，预计日落前将有暖意回升。\n\n建议：身着“释然”外套，内搭“随性”内衣。记得敞开心怀，允许自由的风穿过胸膛。切勿携带“焦虑”雨具，谨防内涝。"
+      "content": "今日心境晴转多云，当前温度微凉。午后或有一阵怀念的微风拂过。建议穿着“淡然”外衣，以抵御突如其来的敏感；请随身携带“幽默”雨伞，以应对可能飘落的忧郁雨丝。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Panic ensues in Geneva as the Large Hadron Collider reportedly animates a baguette during a particle collision test. The seven-foot sentient wheat product is currently holding scientists hostage, demanding the immediate resignation of the United Nations Secretary-General. Authorities have cordoned off the area, warning civilians not to approach the baked good, as it is considered armed, crusty, and extremely dangerous."
+      "content": "Breaking news: The Manhattan skyline was altered this afternoon when a giant wedge of artisanal Gruyère crash-landed in Central Park. Authorities have established a perimeter, noting the cheese is surprisingly puncture-resistant. The Mayor has declared a state of emergency, deploying emergency crackers to the scene. Officials urge residents to remain calm and avoid the area, citing a heightened risk of fondue-related slips. Stay tuned for further developments."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、少し間を置いて、空を見るようにして）\n\n**その一**\n\n海の底　ささやき過ぎて　砂となる\n\n（うみのそこ　ささやきすぎて　すなとなる）\n\n**その二**\n\n透明な　鎖を解いて　鳶になる\n\n（とうめいな　くさりをといて　とびになる）\n\n**その三**\n\nここにない　花の匂いに　会いに行く\n\n（ここにない　はなのにおいに　あいにいく）"
+      "content": "(深呼吸を一つして、静かな間を置いてから、淡々と、しかし心に響くように詠み上げます)\n\n……失った数式、その解。\n\n……鏡の中の、水の貌。\n\n……届かぬ声、雨になる。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des passagers égarés sur un navire en feu, cherchant désespérément une logique là où il n’y a que le silence. L’univers nous offre le spectacle magnifique et indifférent des étoiles, pendant que nous, pauvres acteurs sans public, jouons une scène dont le sens nous échappe à jamais. Cette angoisse que nous portons, ce vertige devant le néant, est peut-être la seule chose qui nous appartient vraiment."
+      "content": "La nuit tombe sur nos certitudes comme un voile de cendre. Nous sommes des éphémères qui cherchent un sens dans un univers qui se tait. Face à ce grand silence, nos espérances ne sont que des étoiles filantes : brillantes, fuyantes et condamnées à s’éteindre. Pourtant, dans ce vertige de l’absurde, il nous reste la poignante beauté d’un instant qui résiste, un éclat de lucidité face au néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Holen Sie sich die **Stille in der Dose**! Haben Sie genug vom nervigen Zwitschern der Vögel und dem endlosen Plappern Ihrer Kollegen? Mit *“Silentium Premium”* genießen Sie 100 % reine, konservierte Stille aus dem tiefsten Schwarzwald! Einfach aufdrehen und der pure Geräuschlosigkeit entspannen! Achtung: Nicht in Innenräumen entleeren, Erstickungsgefahr durch Kompetenz! Jetzt im Angebot: Lärmfrei leben für 99,99 € pro Dezibel! Gönnen Sie sich die Ruhe – solange der Vorrat reicht!"
+      "content": "Stress ade! Probieren Sie jetzt **Stille in Dosen** – die frische, deutsche Ruhpause! Mit 100% vorwärtsgewickelter Stille garantiert. Neunzig Dezibel nada. Niente!\n\nBöse Zungen behaupten: Das Ding ist leer. Quatsch! Das ist **Premium-Luxus-Leere**!\n\nDer Countdown läuft! Rufen Sie sofort an unter 0-900-DURCH-NUSS! Tun Sie Ihrer Ohren was Gutes. Schenken Sie sich … *Klicken* … Stille! (Noch eine Dose! Gierig?)."
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Señoras y señores, el desafío de hoy: la Sopa de Melancolía.\n\nEmpezamos calentando una sartén al fuego lento. Incorporemos una cucharada de nostalgia generosa; verán cómo el aceite empieza a soltar un humo gris. Es vital no romper el silencio: añadan dos gotas y dejen que reduzca a la mitad. El secreto está en no llorar, pues la sal de las lágrimas arruinaría el umami.\n\nDejen reposar hasta que el olvido enfríe la preparación. Servir inmediatamente antes de que el recuerdo se evapore. ¡Buen provecho!\""
+      "content": "Hoy, el soufflé de recuerdos rotos. Encienda el fuego con la ambición de un viernes. En un bol de cristal, vierta una cucharada generosa de nostalgia; debe estar espesa, como las tardes de lluvia.\n\nAñada dos gotas de silencio absoluto. Cuidado: el exceso precipita la soledad. Bata con movimientos lentos, conteniendo la respiración. Espere a que la mezcla susurre. Si se quema, es que el arrepentimiento estaba demasiado fuerte. Sirva inmediatamente antes de que se enfríe el corazón."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Шелест сигаретной бумаги, глоток чая, глубокий вздох. Глаза полуприкрыты, голос низкий и бархатный.)\n\nТише... В эфире ночь. И слова уставали быть.\nТак родилось это... вот, слушайте:\n\n«В пустой комнате сидит тишина.\nОна не ест. Она не спит.\nОна берет пустоту в руки\nИ бережно кладет обратно.\nТак проходит век.\nТихо.»\n\n(Долгая пауза)\nВдохните это. Пока я здесь. (Щелчок переключателя, тишина)"
+      "content": "Включаем погружение...\n\n(Медленно, глядя в камеру полуприщуренным взглядом)\n\nНичего не происходит.\nТишина шумит за углом.\nВ пустой комнате сидит ожидание,\nи у него — холодные руки.\n\nВремя течёт... но не сюда.\nПустота мужественно молчит.\nВот и всё, друзья.\nПишите в эфир...\nхотя бы что-нибудь.\nИли... не пишите.\n\n(Легкая полуулыбка, долгий взгляд вдаль)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في مدينةٍ من الزمرد، حيثُ النسورُ تحجبُ الشمس، سقطت قطرةُ ندى لم تتبخر أبداً.\nتلك المرة الوحيدة التي فيها \"ابتسم\" المحيطُ للصياد، وعاشَ الغريقُ بين الأسماك.\nليلةٌ لم يُخنق فيها الضوء، ولم يُكتب للظلام أن ينام.\nهكذا، في خيالنا فقط، عاشت الحكاية التي لم تحدث."
+      "content": "في ليلة لم يشرق فيها القمر،\nتوقف المطر عن الهطول.\nألقى العاشقُ وردةً في النهر،\nلكن الماء لم يبللها...\nواقترب منه الحبيبُ،\nلكن الظل لم يمسه.\nكانت شفتان تهمسان بالسلام،\nفي لحظةٍ لم تُخلق،\nوعناقٌ لم يبدأ... ولم ينتهِ.\nهناك... حيث الصمتُ هو الوحيد الذي كان موجوداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "가만히 들어보세요. 저 심장 소리는 허무가 문 두드리는 소리일지도. 당신은 꿈이었고, 지금도 꿈꾸고 있어요. 사라져라, 존재여."
+      "content": "우린 별들의 껍질을 까 먹는 꿈이다. 소리 없이 녹아내리는 시간의 그림자. 존재는 거짓말이고, 허무만이 춥다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "40%T̷̢¿ż接地故障#⸗⌬чГσ^/⌇␣"
+      "content": "⌇▓回ﾒSﾒ_ㅤ⦿glitch⏂ \n§ɬ⍙..▥↯_"
     }
   }
 }
