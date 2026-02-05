@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T06:56:36.117337",
+  "timestamp": "2026-02-05T07:50:25.227286",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心灵高压，零度凝滞。午后偶有微风，晚间转晴，适宜独处。\n\n请着隐形铠甲，抵御喧嚣。心若浮云，冷暖自知。"
+      "content": "今日内心气压微降，偶有忧郁薄雾。\n\n当前情绪气温21℃，伴有三分凉意。午后预期回暖，将迎来大面积放晴，心情指数逐渐回升。\n\n建议裸露灵魂，卸下防备，允许光透进来。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupted today in downtown when a faulty traffic light caused a synchronized routine among over 200 pigeons. Witnesses report the birds halted mid-flight to perform an intricate tap dance on hoods of sedans, causing rush hour traffic to freeze for hours. Police are currently negotiating with a flock leader wearing a tiny red beret. Authorities advise citizens to avoid carrying breadcrumbs until the standoff is resolved."
+      "content": "**BREAKING NEWS:** Chaos erupted in downtown Springfield earlier today when a rogue hot air balloon shaped like a giant hashtag began raining confetti and unsolicited career advice onto rush hour traffic. Police are currently in negotiations with the pilot, identified only as \"The Influencer,\" who is demanding the city change its official font to Comic Sans. Authorities advise residents to remain indoors and avoid making eye contact with the basket."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、一度深呼吸をしてから、枯渇した声で詠み上げます）\n\n**その一**\n泡沫（うたかた）の　無き色を吸いに　虹の口\n\n**その二**\n動かぬ時計　永劫の　針の音\n\n**その三**\n虚（うつ）ろより　笑みを盗みて　瞼（まぶた）に　張る"
+      "content": "（深く呼吸をし、静かな間を取ってから、淡々と詠み上げます）\n\n霞の奥　実らぬ影を　かこえて\n\n（小休止）\n\n魚の夢　雲の水面を　わたりぬ\n\n（小休止）\n\n昨日の雨　降り続く音を　あつめて\n\n（静かに目を伏せる）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit recouvre tout, jusqu’au sens de nos vies. Nous sommes des êtres qui cherchent une raison dans un univers qui se tait. C’est cette attente silencieuse d’une réponse qui ne viendra jamais. Regardez cette cigarette s’éteindre lentement. Dans cette fin, il y a toute notre condition : une petite flamme vacillante perdue dans le noir, éphémère et dérisoire, mais tellement belle dans son désespoir tranquille."
+      "content": "Nous sommes des voyageurs égarés sur un navire qui sombre, éblouis par des étoiles déjà mortes. Nous cherchons un sens là où il n’y a que le silence du vide. C’est une farce douce et tragique : notre cœur bat pour un rien, pour un souffle, alors que l’univers reste froid, totalement indifférent à nos espoirs. Il n’y a pas de chute, pas d’issue. Juste nous, et la nuit."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Guten Abend, Leute! Gönnt euch die **Schwerkraft in der Sprühflasche**!\n\nEndlich keine Schwerkraft mehr, wenn es nicht passt! Einfach kurz über die Kopfhaut sprühen und *schwupps* – schweben Sie federleicht zur Arbeit! Der Urlaub beginnt direkt im Wohnzimmer!\n\nVorsicht: Nicht bei offenem Fenster anwenden, sonst fliegen Sie weg! **Schwerkraft-Spray** – weil der Boden hart ist!"
+      "content": "**Das Leben ist zu laut? Der Nachbar bohrt, die Ente nervt?**\n\nGreifen Sie zu **Leeren in Dosen™**! 100% reines Nichts, direkt aus dem Schwarzen Loch abgefüllt. Einfach den Deckel aufdrehen und *puff*: Sofort 5 Quadratmeter absolute Stille! Perfekt für peinliche Pausen oder aggressively Meditation.\n\n**Warnung:** Nicht auf den Kopf sprühen! Kann zu unbeabsichtigtem Existenzialismus führen.\n\nLeere in Dosen™ – *„Wenn das Nichts einfach nicht mehr reicht!“*"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"¡Bienvenidos al templo del sabor! Hoy preparamos el 'Plato Imposible'.\n\nEn un bol de tiempo suspendido, vertemos una cucharada de nostalgia. Baten con fuerza: busquen esa textura de recuerdos rotos. Ahora, la alquimia: añadan dos gotas de silencio absoluto. Pruébenlo. ¿Sienten el vacío? Ese es el ingrediente secreto.\n\nDebemos actuar rápido antes de que el momento se evapore. Llevamos la mezcla a una ebullición de sueños y servimos inmediatamente. Cuidado al cortar, suena cristal roto.\n\nAquí tienen, la soledad emplatada. ¡Que aproveche!\""
+      "content": "¡Bienvenidos a los fogones del alma! Hoy preparamos \"La Última Cena\".\n\nEn un bol de cerámica rota, vertemos una cucharada de nostalgia; debe estar espesa, como recuerdos que no se van. Baticemos suavemente sin respirar. Añadimos dos gotas de silencio absoluto: cuidado, su peso es inmenso.\n\nRectificamos con un toque de melancolía y llevamos a ebullición sobre un fuego de ilusiones rotas. Servimos inmediatamente en un plato vacío. ¡Delicioso, pero trágico!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Медленный, бархатный голос, звучащий из динамика радиоприемника в тишине ночи)\n\nТише, мой друг. Погасите свет.\nСегодня у нас в программе — абсолютная пустота.\n\nВ черной дыре потерялся носок.\nОн лежит на дне стакана.\nСинхрофазотрон чихнул в тиши,\nИ родился пятый сезон.\nВремя утекло в раковину...\nНо никто этого не заметил.\n\nХорошей ночи. Пустой ночи."
+      "content": "(Тяжело вздыхает, глядя в камеру уставшим глазами)\n\nДоброй ночи,-city... или кого там ещё осталось.\nИ этот стих — посвящается... пустоте.\n\nСидит олень в трамвае,\nЕст ломтики луны.\nА ветер носит веером\nЧужие, страшные сны.\n\nНо в тамборе никого.\nЛишь тишина шепчет: «Зачем?»\nИ трамвай плывёт по небу,\nВ никуда. Совсем.\n\n(Медленно, с грустной усмешкой) Берегите себя."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في وادٍ لا تعرفه الخرائط، سقطت قطرة مطر لم تُخلق أبداً، فأنبتت زهرةً بلا رائحة. مرّغبٌ مكسورُ الجناح داسها، فانهمر دمعٌ لم يُذرف، وحدثت حربٌ بلا دماء، انتهت بانتصارِ الكسير على الفراغ... فلم يتبقَّ شيءٌ... سوى صوتِ هذا الحلم الذي لم يحدث."
+      "content": "في ليلةٍ لم يشرقْ قمرها، ظلَّ الكاهنُ ينتظرُ وحشاً أسطورياً لم يُخلق. تاهتْ في الفراغ خطوةُ ملاكٍ لم يهبط، وتلاشتْ صرخةُ طفلٍ لم يولد. هناك.. في الزاوية المنسية من الزمن، استمرَّ الصمتُ المُطلق.. حكايةُ دمعةٍ جفّتْ قبل أن تتكوّن. لم يكنْ هناك أحدٌ.. ولم يحدثْ شيءٌ أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"별들은 왜 켜져 있는가? 어둠을 견디기 위해. 허무 역시 빛이 되어, 우리를 천천히 잠재우네.\""
+      "content": "별빛은 죽은 우유의 눈물이고, 우리는 꿈이 썩은 냄새를 맡으며 허무를 껴안는다. 시간의 구멍으로... 쏘아... 올린... 다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "₪▓ ħə▒⇔ ııı █▬█ 卍 ∟∆ ▓▓░"
+      "content": "§ÿ 日テç †φ ボ… gl# ∆∆⇔ ⍚❖"
     }
   }
 }
