@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-05T15:39:03.117466",
+  "timestamp": "2026-02-05T16:44:02.195173",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心境晴转多云，偶有nostalgia阵雨。当前情绪气温22度，体感微凉。午后回暖，适宜慢行。建议：裹紧沉默的柔软外衣，携一缕清醒前行。"
+      "content": "今日灵魂微霾，游离于五摄氏度的静默。午后潮汐将至，局部或许有骤喜。\n\n建议穿戴透气的心事，并在袖口藏好一枚星光。若有暴雨，请允许自己成为那片海，尽情流淌。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news. Chaos erupts in downtown as the annual mime protest turns violent. The silent demonstration against noise pollution escalated when performers utilized invisible boxes to blockade city hall. Police reinforcements are currently struggling to contain the group, as their refusal to speak is complicating negotiation efforts. Traffic is at a complete standstill. We will keep you updated on this developing situation."
+      "content": "\"Good evening. Breaking news out of Zurich, where global financial markets have suspended trading following the unprecedented liquidity of the Swiss National Bank. Reports confirm the institution has inadvertently converted all national assets into 50 billion metric tons of premium Gruyère cheese. The resulting inflation has caused the Fondue Index to skyrocket, leaving economists baffled as the currency is now entirely edible. We go live to the stock exchange floor.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、三つの詠を捧げます。\n\n（間）\n\n**その一**\n\n**届かぬ鐘の　音の澱みよ**\n（とどかぬかの　おとのよどみよ）\n\n***\n\n（間）\n\n**その二**\n\n**夢のうしろ　青い剥離**\n（ゆめのうしろ　あいはくり）\n\n***\n\n（間）\n\n**その三**\n\n**形なき刃　風を切らずに**\n（かたちなきやいば　かぜをきらずに）\n\n***"
+      "content": "深呼吸をして、耳を澄ませてください。虚空に浮かぶ、形のないものたちの言葉を、三つ、詠み上げましょう。\n\n***\n\n**其の一**\n\n張り詰めた　空気の触感　いつまでも\n\n***\n\n**其の二**\n\n零れる　明日の予感　横切って\n\n***\n\n**其の三**\n\n宙吊りの　記憶だけが　ゆれてゐる\n\n***\n\n終わりました。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous flottons, suspendus dans le grand silence, tels des grains de poussière errant dans un rayon de lune. Nous cherchons désespérément un sens là où il n'y a peut-être que le hasard. Et c’est là, justement, que réside notre étrange grandeur : dans ce refus obstiné d’être rien. Nous crions notre amour au cœur du néant, et ce cri, aussi futile soit-il, est la seule chose qui nous appartient vraiment."
+      "content": "Regardez cette cigarette. Elle se consume, sans rien comprendre à notre tragédie. Nous sommes, mon ami, des étoiles qui ont oublié le ciel.\n\nTout ce que nous faisons pour donner un sens à ce vide... c’est un peu comme essayer de remplir un océan avec une tasse. C’est beau, c’est désespérément futile. Nous marchons, nous tombons, et l’univers garde le silence. Ce n’est pas cruel, non. C’est juste que nous ne sommes pas écoutés."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Leckerer Zeitlupe-Sirup – jetzt im Angebot!“**\n\nGenervt vom stressigen Alltag? Trinken Sie einfach einen Schluck **flüssige Zeit**! Völlig legal und ganz ohne Nebenwirkungen – abgesehen von einem leichten Kontinuum-Riss im Wohnzimmer.\n\nDie ersten 100 Besteller erhalten gratis **„Gestern“** im Nachlass! Greifen Sie zu, bevor das Angebot ... wortwörtlich *an Ihnen vorbeirauscht*!\n\n**Flüssige Zeit: Weil Warten gestern gefühlt haben könnte!“**"
+      "content": "Holen Sie sich jetzt **Flüssige Zeit**!\n\nKeine Uhr, die tickt, sondern eine Stunde, die man einfach trinkt! Ein Schluck Mittagspause, ein Shake Wochenende! Endlich Zeit, denkt das Futter!\n\nSchmeckt nussig, süß und wie Ewigkeit. Warnung: Kann zu starkem Träumen und verschwindeten Fristen führen.\n\nVerdampft nicht im Regen! Flüssige Zeit – **Jetzt probieren, bevor Sie zu spät dran sind!** (Oder war das gestern?)"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Ante ustedes, el ingrediente más volátil: una cucharada de nostalgia. Debe trabajarse rápido; se evapora si uno la recuerda demasiado. Ahora, verter dos gotas de silencio absoluto. Ojo, no un bullicio calmado, sino el silencio previo al trueno.\n\nRemover con movimientos lentos. Sentirán cómo la mezcla se espesa. Horneademos a baja temperatura durante los años que faltan. El resultado es intangible, pero deja un regusto agridulce en el paladar del alma. Un plato para perder el apetito. ¡Bon appétit!"
+      "content": "\"Señores, tengamos la cocción perfecta. En un bol de cristal, vertan una cucharada generosa de nostalgia, espesa y turbia. Con movimiento envolvente, integren dos gotas de silencio; ojo, que no quede ni un eco.\n\nEspolvoreen una pizca de memoria y lleven la mezbla a ebullición sobre el fuego de la urgencia. Dejen reducir hasta obtener un consomé de melancolía. El truco final: enfríen bruscamente con el suspiro de un adiós. Servir inmediatamente antes de que olvide el sabor. ¡Buen provecho!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В кадре только стол и лампа. Голос очень хриплый и тихий.)\n\nДоброй ночи, братские глаза. Глазеть больше не на что. Закрываем. Вот вам стихи о нулевом итоге:\n\n*Пустота глядит в буфет,*\n*Там ноль ищет свой ответ.*\n*Ни звука. Ни движенья. Нет.*\n*Только сон. Тишина.*\n\n...Скольким_DICT\n(Пауза)\n\n...Скольким уже не сниться.\nЯ — Ведущий. Всё. Выкл.\n\n(Экран темнеет)"
+      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, будто эхо в пустой комнате)\n\nВ темноте不见了 грустный свет,\nОграды нет, а только след.\nСлед от ноги, которой нет,\nВ мире, где... больше нет...\n\n(Тяжелый вздох в микрофон)\n\nВдох. Выдох. Пустота.\nНочь. Не переключайте."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في مساءٍ لمْ تشرقْ شمسُه، رحلَ العاشقانِ إلى مدينةٍ لمْ تُخطَّ على الخرائط.\nلمْ يلتقيا أبداً... لكن ظلالَهُما كانتْ تتعانقُ في زوايا الذكرى.\nهناك... حيثُ السكوتُ أكثرُ زئيراً من الحربِ، حَلِمَا ببقاءٍ لا ينتهي.\nفقط الليلَ شهدَ سراً لمْ يحدث."
+      "content": "في زاوية من الزمن الممنوع، رأيتُ دمعةً سقطت.. فلم تتبلل الأرض، بل احترقت نجوماً. سألتُ امرأةً كانت تموت ببطء منذ الأزل: \"متى يأتي الفجر؟\" أجابت بصوتٍ يُشبه صرخةَ الرعدِ الهادئ: \"في الليلةِ التي لا يغمضُ فيها البحرُ جفنه.\" لم يكن الليلُ قد بدأ، ولم تكن الشمسُ قد ولدت."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별빛은 죽은 우유의 눈물이라오. 당신의 숨소리, 허무한 밤의 바다에 빠져 천천히 녹아들어, 무(無)라는 달콤한 잠에 잠기시오."
+      "content": "\"넌 흙이었고 별이었다. 눈을 감아. 숨소리만이 이 허무의 리듬. 존재란, 꿈꾸는 방울 소리.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§影glitch001&%ø𒅒系统/​\\brokenⱠ^_~⍙"
+      "content": "Ж.断；&é*9¿ς.نⱢ—><noise>"
     }
   }
 }
