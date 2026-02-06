@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T11:32:08.499810",
+  "timestamp": "2026-02-06T12:54:40.900906",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日内心多云，偶有忧郁阵雨，气温徘徊于微凉 18℃。\n\n午后情绪低压槽过境，悲喜交汇，需警惕突如其来的阵风。建议身披轻盈的疏离外衣，以此抵御潮湿的共情。天色变幻无常，宜随身携带一支理性的锚。"
+      "content": "今日情绪气压低迷，心底飘落零星忧郁阵雨。气温徘徊于微凉的疏离区间。\n\n午后随夕阳回暖，潮湿倦意将被晚风烘干。建议内搭一层理性的疏离，外罩一件名为“随和”的柔光风衣。愿你灵魂干燥，步履轻盈。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Tonight’s top story: Chaos in the Swiss Alps as the beloved St. Bernard dog breed has successfully unionized. The \"Canine Alpine Rescue Brigade\" is demanding shorter shifts and imported whiskey, effectively halting all tourism in the region. The monks at the local monastery remain stranded, currently negotiating a treaty involving squeaky toys and premium beef jerky. We will keep you updated on this developing situation."
+      "content": "Breaking news: Panic ensues in Geneva as the Large Hadron Collider malfunctions, inadvertently merging a physicist with a baguette. The resultant hybrid entity, identified as Dr. Croissant, is currently hurtling through the Swiss Alps at Mach 2. Authorities have issued an urgent warning to local birds, while the United Nations debates whether to deploy butter or jam to neutralize the threat. We will keep you updated on this developing, carbo-loaded situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、三つの詩を詠み上げましょう。\n\n（間）\n\n**透明な梯子**　　**虚空へ伸びて消えゆく**　　**錆びた月**\n\n（間）\n\n**昨夜の夢が**　　**体温を持ちて**　　**壁にへばりつく**\n\n（間）\n\n**零（ゼロ）の影**　　**数えられぬ重さ**　　**錫（すず）の庭**\n\n（間）"
+      "content": "(静かに、視線を落とすようにして)\n\n一つ。\n\n**不在の机**\n(不在の机)\n**肘突く空に**\n(ひじつくそらに)\n**秋の灯**\n(あきのひ)\n\n(間を置く)\n\n二つ。\n\n**閉ざし**\n(とざし)\n**零れざる言葉の**\n(こぼれざることばの)\n**重みかな**\n(おもみかな)\n\n(間を置く)\n\n三つ。\n\n**届かぬ影**\n(とどかぬかげ)\n**透明な壁に**\n(とうめいなかべに)\n**触れてをり**\n(ふれてをり)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des marionnettes suspendues au-dessus du vide, agitées par des fils invisibles. Nous cherchons un sens là où il n'y a que du silence. L'univers nous offre du spectacle, mais refuse de nous donner la moindre réponse. C’est là notre tragédie : nous sommes des êtres qui désespérons de comprendre, coincés entre l’éternité des étoiles et la brièveté de nos rêves. Nous rions, nous pleurons, pour ne pas entendre le bruit de notre propre finitude."
+      "content": "La nuit, le silence nous révèle la vérité terrible. Nous sommes des êtres jetés dans un monde qui ne nous doit rien. On cherche un sens, une réponse, mais le ciel reste obstinément muet. C’est là l’absurde : cette quête éperdue de clarté dans un univers indifférent. Nous sommes des comédiens qui ont oublié leur texte, jouant une pièce sans fin devant des loges vides. Et pourtant... il nous reste, peut-être, la douceur de contempler cette énigme."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Wunder-Wasser: Instant-Motivation aus der Dose!“**\n\nSind Sie faul? Null Ambitionen? Kein Problem! Atmen Sie einfach tief ein und *puff*: Sie arbeiten 48 Stunden am Tag ohne Schlaf! Lachen Sie hysteria-frei bei Steuergesprächen! Jagen Sie Bären barfuß! Mit über 3000 Prozent reinem placebefreien Wirkstoff!\n\n**Warnung:** Nebenwirkungen sind Glatzenbildung, unkontrollierbares Flattern der Augenlider und plötzliches Quaken. Gibt’s nur in Ihrer Idee! Sofort bestellen oder vergessen!"
+      "content": "**Sensationell! Neu im Sortiment: Flüssige Zeit!**\n\nVerschwenden Sie keine Minute mehr! Ein einziger Schluck dieses goldenen Elixiers friert die Realität ein – Kaffee wird nie wieder kalt! Warum leben, wenn Sie stattdessen einfach nur *sein* können?\n\nAchtung: Nebenwirkungen sind ein extremes Gefühl der Allmacht und Torsos, die sich nicht mehr spüren lassen. **Flüssige Zeit:** Probieren Sie das Jetzt in geschmacklos!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor de lo Eterno\"! Hoy, el plato estrella: Crema de Memoria Rota. En un bol de paciencia hirviendo, vertemos una cucharada de nostalgia. Debemos emulsionar con energía, sin detenernos, o se amarga. \n\nActo seguido, añadimos dos gotas de silencio. ¡Ojo con el tiempo! Si lo dejamos reposar, el silencio se vuelve ensordecedor. Condimentamos con una pizca de duda. Rectificamos de sal y servimos inmediatamente. El resultado: un aftertaste de inviernos idos. ¡Que aproveche"
+      "content": "¡Bienvenidos a \"El Gusto del Vacío\"! Hoy prepararemos un **Sofrito de Melancolía**.\n\nEncendemos el fuego a llama suave. En la sartén vertemos una cucharada generosa de nostalgia. Debe reducerse hasta que desprenda un aroma a tiempo perdido. Acto seguido, incorporamos dos gotas de silencio; absolutas, para que la mezcla no hierva demasiado rápido.\n\nRectificamos con una pizca de incertidumbre. ¡Cuidado! No queremos amargarnos. Dejamos reposar cinco minutos antes de servir, o hasta que el plato esté frío. Bon appétit."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть глуше обычного, на фоне тихого звука дождя за окном)\n\nДоброй ночи, благородные души... Погасите свет.\n\nСегодня для вас — стихи о вечном. О пустоте, где мы все... потерялись.\n\n*«Ничего не происходит.\nНулевая грусть.\nСеро.\nГладко.\nТишина жует вату.\nВремя не идет.\nОно сидит.*\nПауза.\n\n(Тяжелый вздох)\n\nПросто... спите."
+      "content": "В тишине экран неярко так мерцает,\nПустота в углах небрежно дремлет.\nСмысл уходит, не прощаясь, вдаль,\nСловно никогда его и не бывало.\nНичего не происходит.\nЛишь ночь глядит в бесконечную черноту.\nВдохните. Выдохните.\nИ слушайте тишину."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يَطمئنُ البدرُ أبدًا لصمته،\nفظلَّ يرتدي ثوبَ الليلِ عاريًا.\nلم تتبعثرْ خيوطُ الفجرِ من مِغزَلِه،\nولم يملكِ الريحُ ناموسَ الوقت.\nوقعَتْ وردةٌ... لكن على سطحِ مرآةٍ.\nلم يكنْ هناك سوى صدى.. بلا صوت."
+      "content": "لم تتقاطع ساعة الحائوط مع لحظة رحيله قط.\nظلّ ينتظر قطاراً ينسحب من صمت القصيدة،\nوظلّت المحطة تزهو بالوعد الوهمي.\nولم يُكتب للصوت أن يكسر جدار الليل،\nلأن الحكاية... لم تولد بعد."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 그저 별빛이 지나가다 잠시 멈춘, 차가운 커피 위의 뜬구름일 뿐이야. 영원은 지금, 네 눈동자에 갇혀 흐른다."
+      "content": "은하수의 빗방울 속에 갇힌 너의 침묵은, 꿈꾸는 먼지보다 가볍습니다. 영원을 삼켜버린 텅 빈 잔이, 지금 당신의 심장 소리를 흉내 내고 있죠."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§澱¥靐...ż░▓▓kanaλerroR//88"
+      "content": "⌇⍙⟁⍚ ᛗ⏃⏁ ♩⍜⏚⎎ ⍙ᗩ⎐ ⁰‡⁇"
     }
   }
 }
