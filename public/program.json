@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T06:52:04.597834",
+  "timestamp": "2026-02-06T07:44:46.032056",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位观众好，今日情绪气象如下：\n\n当前受高压叹息控制，气温微凉，伴有断续的沉默。午后偶有忧郁过境，傍晚将转为多云的释然。\n\n建议身着单薄的想象，以此抵御虚无的寒流。请在口袋里备好一首诗，以备不时之需。"
+      "content": "今日心底多云，偶有忧郁西风三两级，局部回忆可见零星低泣。午后暖意将缓慢抬升，晦暗逐渐转晴。\n\n建议穿戴厚重的疏离，内搭半盎司的宽容。注意防范骤降的落寞，宜在黄昏前整理潮湿的心绪，静待暮色温柔。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Breaking news tonight: the Eiffel Tower has unexpectedly retracted its legs and scurried down the Champs-Élysées. Witnesses report the iron structure seemed visibly irked by the ongoing traffic. Local authorities are currently pursuing the landmark on foot, armed with croissants and fresh cement in an attempt to lure it back to its foundation. We will keep you updated on this developing story."
+      "content": "Good evening. Authorities are baffled as the Bermuda Triangle has abruptly relocated to downtown Toledo. Residents report their lawns are now saltwater marshes, and the local high school band has gone missing from a locked gymnasium. The Mayor has declared a state of emergency, politely asking the Triangle to leave, citing zoning violations."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、深呼吸をするように間を置いてから、淡々と、しかし心に響くように詠み上げます）\n\n　**夢現（ゆめうつつ）**\n\n　　形なき　牙（きば）の\n　　咀嚼（そしゃく）\n　　谺（こだま）して\n\n\n（水の流れのような間をあけて）\n\n　**不在（ふざい）**\n\n　　降り注ぐ\n　　影の\n　　雨音（あまおと）\n\n\n（言葉の余韻を消さないように、最後まで静かに）\n\n　**無（む）**\n\n　　開くも　\n　　閉ざすも　\n　　なき扉\n\n（おしまい）"
+      "content": "……静かに、耳を澄ませてください。\n\n虚空にうずくまる、無の形。\n\n**母胎の　記憶になき　青い鳥**\n\n**枠なき　鏡に映る　横顔**\n\n**終わりなき　物語の　索引**\n\n……どうぞ。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette se consumer. La chute des cendres est le seul véritable langage du monde. Nous autres, humains, nous crions dans le vide, persuadés que nos échos ont un sens. Mais il n’y a pas de sens. Il n’y a que cette mécanique aveugle, ce tourbillon d’étoises indifférentes. Nous sommes des ombres cherchant désespérément un mur pour s’accrocher. Cette angoisse que vous ressentez ? C’est la preuve que vous êtes vivant. Et la vie, c’est une telle fatigue..."
+      "content": "La nuit nous révèle notre fragilité. Nous sommes des naufragés tournant en rond dans un univers froid et indifférent, cherchant désespérément un sens qui n’existe pas.\n\nPourtant, dans ce vide vertigineux, réside notre seule véritable liberté. Il nous faut vivre sans pourquoi, aimer sans espoir, et porter, comme une offrande, le poids éphémère de nos jours. C’est dans cette lucidité désolée que l’homme devient, enfin, humain."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hör auf, Zeit zu verschwenden! Jetzt neu: **Ultra-Gelatine-Zeit**!\n\nDie Zukunft ist flüssig! Einfach über den Tag träufeln und alles passiert gleichzeitig! Kein Warten mehr an Ampeln – schwimm direkt hindurch! Ist der Vortrag morgen? Trink ihn heute! Husten Sie Bonus-Sekunden in die Luft! Wir nehmen keine Verantwortung für versehentliche Jugend-Feststellung!\n\nRufen Sie sofort an! Verfügbar an jeder Imaginär-Tankstelle! Quantenrabatt für_clone-Kunden! Blitzversand vor dem Gestern! Das Nichts war gestern! Kaufen Sie jetzt!"
+      "content": "Vermissen Sie das Gestern? Trinken Sie **Chrono-Saft** – flüssige Zeit aus reinster Sekunde!\n\nEin Schluck, und Sie sind fünf Jahre jünger oder erleben Ihren Mittagsschläfchen dreimal hintereinander! Keine Zeit für Langeweile? Einfach die Minute ausdrücken!\n\n**Chrono-Saft:** Die Uhr ist passé. Der Abfluss läuft rückwärts. Verzehr auf eigene Gefahr –脺berwindung der Raumzeit möglich! Jetzt im Dimensionsregal!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Señoras y señores, hoy prepararemos un 'Sofrito de Despedida'.\n\nPrimero, calentamos la sartén al fuego de la urgencia. Incorporamos una cucharada generosa de nostalgia; noten cómo espesa el ambiente. Dejamos que reductione lentamente.\n\nA continuación, con suma precaución, añadimos dos gotas de silencio. ¡Cuidado! No rompan la tensión superficial.\n\nFinalmente, servimos inmediatamente sobre un plato de porcelana frío. Si se les rompe el alma al probarlo, es que el punto está perfecto. ¡Bon appétit!\""
+      "content": "«Amigos, hoy superaremos la física. Primero, tomamos una cacerola de cobre y vertemos una cucharada de nostalgia; que hierva a fuego lento. Es crucial la reducción: evaporemos los recuerdos hasta que quede un jugo concentrado de tristeza.\n\nAhora, la técnica definitiva: incorporamos dos gotas de silencio. ¡No se muevan! El plato se romperá si lo piensan. Espesen con un beso despedido y sirvan inmediatamente sobre una baldosa fría. El resultado: un reflejo de lo que nunca fue. Un perfecto vacío.»"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, как в эхе)\n\n*Воздух пуст. Часы молчат.*\n*Тишина висит, как старый кот.*\n*Смысл утонул в стакане чая.*\n*Мы ждали новостей, но...*\n*Просто выключите свет.*\n\n(Долгая пауза, звук тикающих часов)"
+      "content": "(Гаснет свет в студии. Включается один сине-фиолетовый прожектор. Голос звучит с хрипотцой, глядя куда-то в даль, за пределы камеры.)\n\nДоброй ночи, горящий кочегар.\n\nТишина гудит, как пылесос в пустой комнате.\nВаш ночной эфир. О том, чего нет.\nМедленно.\n\nВ темноте потерян один синий носок.\nОн летит на юг, жуя асфальт.\nЗавтра не наступит.\nОно застряло в пробке из вчерашних дней.\nСпите.\nНе выключайте ваших внутренностей.\nЯ буду тишиной."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "أحلامُ \"نُك\"… لم يرها أحدٌ قط. لم يأكل التفاح الأول. لم تعثر حوّاءُ عليه تحت شجرة المعرفة، بل زرعته هو في أحشاءِ القمر. إنه العاشقُ الذي ما رَنَا لوجهِ حبيبته، إلا في مرايا الماء العكر. إنه الحكايةُ التي صُيغَ زمنُها من ذهبٍ، ولم يحدث."
+      "content": "تخيّل ملكاً لم يُملِك سوى وقتٍ لم يأتِ.\nبنى مدينةً من الضبابِ على حافةِ نهرٍ جاف.\nلم يسقط مطرٌ هناك، ولم يرتجفِ قلبٌ قط.\nإنهُ التاريخُ الذي توقف قبل أن يبدأ؛\nصمتٌ أبديٌ لم يُسمع، وحلمٌ تأخرَ عن موعدِه.. فلم يتحول أبداً إلى نهار."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별은 왜 켜진 우릴 비추는가. \n어둠이 결핍이 아님을, \n그대는 잠시 잊어도 좋습니다. \n존재란 텅 빈 손에 잡힌, \n녹아내리는 눈물의 형상일 뿐."
+      "content": "우리는 영원의 틈새에 갇힌 떠도는 먼지. 저 시커먼 허무가 당신을 꿈꾸고 있어요. 자, 이제 모든 것을 잊고... 그 속으로 깊이, 미끄러지세요."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Ж»k\\x81慌;z═γ今_dst##450"
+      "content": "§昭Ω雨glitch...0x00‡הרעש<broadcast interrupt>"
     }
   }
 }
