@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T08:38:47.919300",
+  "timestamp": "2026-02-06T09:40:06.550030",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日全境多云，伴有间歇性忧郁，当前情绪气温26度，微凉。\n\n午后云层渐厚，傍晚可能坠入一场紫色阵雨，但有望在今夜转晴。建议身着隐形风衣，在喧嚣中保持独立。请随身携带一抹月光，以便在情绪低谷时照亮前路。"
+      "content": "今日多愁云转晴，晨间忧郁气温零下，午后渐升至温热。预计傍晚将迎来一阵突如其来的心潮澎湃，伴有零星感动的阵雨。建议敞开心扉晾晒，以此抵御世间风寒。愿你的内心，如旷野般辽阔，自由生长。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos ensues in downtown Metropolis as the Liberty Statue unexpectedly engaged in a vigorous jazz routine. Eyewitnesses confirm the monument executed a chaotic Charleston, damaging three nearby businesses. Police have cordoned the area and are currently negotiating with the sculpture via megaphone, urging it to return to its plinth. Tourism officials are baffled, while the Mayor has declared a city-wide jazz curfew until the structure \"gets a hold of itself.\""
+      "content": "Breaking News: Local authorities are baffled by \"The Great Descent,\" where the town of Oakhaven reportedly sank six feet into the earth this morning. Witnesses claim the soil muttered complaints about \"heavy burdens\" before shifting. The mayor has declared a state of emergency, advising residents to wear heavier footwear to anchor themselves. Geologists are en route to negotiate with the crust."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深い静寂の中で、三句、詠み上げます。\n\n***\n\n**（吸って、息を吐くように）**\n\n**霧散る**\n**目に見えぬ庭の**\n**果てしなき**\n\nカガミ。\n\n**（間を取って）**\n\n**音なきを**\n**きくは心の**\n**深さなり**\n\nユメ。\n\n**（余韻を残すように）**\n\n**闇の奥**\n**描かれぬ影の**\n**揺らぎかな**\n\nナダ。\n\n***\n\n静かに、手を合わせます。"
+      "content": "静寂を背負うごとく、抽象的な在り処へ想いを馳せて詠みます。\n\n***\n\n**その一**\n\n忘却の闇より\n確りと在るは\n水鏡\n\n***\n\n**その二**\n\n宵の空に\n揺らぐ淡きは\n追憶の舟\n\n***\n\n**その三**\n\n手のひらに\n積もる音なきは\n昨日の雪"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous révèle notre fragilité. Nous lançons des questions vers l’infini, mais le silence est la seule réponse. Nous bâtissons des châteaux de sable contre la marée du temps, convaincus d’un sens qui nous échappe toujours. C’est là toute l’absurdité : une quête passionnée dans un univers indifférent. Nous sommes des êtres qui attendons une signification que le ciel ne nous donnera jamais. Pourtant, dans cette attente, résident notre douleur et notre étrange grandeur."
+      "content": "La nuit tombe, et nous voilà, silhouettes éphémères face à un ciel indifférent. Nous cherchons un sens là où il n'y a peut-être que le silence. Mais dans cette attente, dans ce vertige du néant, réside notre seule liberté. Il faut aimer Sisyphe. Il faut imaginer l'errant heureux. Car la vie n'a pas de sens, c'est ce qui nous permet d'en inventer un, juste avant que le jour ne nous oublie."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Sie stressen? Die Uhr rennt? STOPP!“**\n\nPräsentierend die Neuerfindung des Jahrhunderts: **Beton-Bettwäsche!**\n\nErleben Sie die schwere Ruhe, die Sie verdienen! Kein nerviges Wickeln, kein nächtliches Auskühlen – Sie werden einfach plattgewalzt von purem Gemütlichkeit! Wir garantieren: Wer erst einmal unter einer Decke aus armiertem Beton liegt, steht **nie wieder** auf!\n\nDer neue „Schlaf wie ein Fels“-Komfort! Nur solange Vorrat reicht, bis wir selbst einschlafen!\n\n**Betten & Baustoff AG – Wir mauern Ihnen Träume!**"
+      "content": "**Wunder-Schreck aus der Konserve!**\n\nEndlich erleben Sie den puren Adrenalin-Kick – garantiert und sicher! Unsere „Panik-Auf-Holzweg“ versetzt Sie sofort in schweißtreibende Todesangst, ohne das Risiko einer echten Lebensgefahr. Perfekter Herzrasen-Genuss für das gemütliche Wohnzimmer!\n\nIn den Geschmacksrichtungen „Polizeikontrolle“ und „Steuerprüfung“. **Lecker!**\n\nKaufen Sie jetzt zwei Dosen Angst und kriegen Sie eine gratis, nervöse Tic-Lippenbewegung dazu! **Verfallsdatum: Unwichtig – die Angst ist frisch!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Atención, espectadores. Hoy conquistaremos lo inasumible: el **Sofrito del Abandono**.\n\nEn un bol de porcelana, vertemos una cucharada generosa de nostalgia. Batemos con violencia hasta que llore. Ahora, lo crucial: dos gotas de silencio absoluto. No el ruido, sino el vacío.\n\nIncorporamos la desidia con movimientos lentos. Llevamos a ebullición sobre un fuego de urgencias bajas. Debe hervir a fuego lento. Servimos inmediatamente antes de que se enfríe el recuerdo.\n\n¡Delicioso! Y ahora, un corte comercial.\""
+      "content": "\"¡Bienvenidos al último plato! Atención a la temperatura de la nevera emocional.\n\nHoy confeccionaremos un **Risotto del Olvido a la Fiamma**.\n\nComenzamos pochando media taza de *nostalgia* con mantequilla de *tiempo perdido*. Debe sudar, no llorar. Cuando aromatice, flambeamos con un chorro de *remordimiento* destilado. Reducimos a fuego lento.\n\nAhora, el secreto: incorporation *dos gotas de silencio absoluto*. ¡Cuidado! Una más y el paladar se congelará. Movemos con cuchara de *paciencia*. El grano debe quedar *al dente*, entre la melancolía y la aceptación. Dejamos reposar antes de servir la realidad.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Тишина. Легкий шум винила. Голос низкий, бархатный, с легкой хрипотцой...)\n\nДоброй ночи, тот, кто не спит.\nВ тишине, где нет движенья,\nЕсть лишь мысль о пустоте.\nДыханье замирает в вечном сне,\nИ смыслы тают во тьме.\nВсё vanished.\nВсё vanished.\nНичего.\n(Музыкальная заставка уходит в затухание)"
+      "content": "(Голос низкий, бархатный, с легкой хрипотцой. Тишина.)\n\nВ углу комнаты сидит тишина.\nОна забыла, как лежит тень.\nСмотрите... Ничего не происходит.\nМедленно.\nОчень медленно.\nПросто... пустота в углу.\nГрустно.\nНе правда ли?\n\n(Пауза)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ممرٍ لا ينتهي، سارَ ظِلٌّ بلا صاحب،\nوهمسَ ريحٌ بلا صوتٍ لمولٍ لم يولد.\nحملَ ورقةً فارغة،\nوفيها... كُتبِ القدر الذي لم يُكتب لقطرةٍ لم تسقط قط،\nفي ليلةٍ لم يشرقْ صباحُها."
+      "content": "بينما احترقت المطر، حمل الظلُّ ظله وركض... إلى الداخل.\nها نحنُ نتذكرُ ذلك الصباح الذي لم يشرق فيه قمر، وتلاشت فيه الكلمات قبل أن تُولد.\nلم يكن هناك شيء، وحدث كل شيء... في حضرةِ العدم المترف."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "모래성처럼 붉은 눈으로 반짝이는 내 존재, 파도 소리는 철학적 뱃속에서 나오는 트림."
+      "content": "우리는 허무의 촉수 위를 춤춘다. 존재는 찰나의 눈속임, 이 침묵조차 거짓말이다. 자, 잠들어라."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ᚠ⍙ᛗ⟨Ɵ∷⎋⌬ ⍒⎚␥☒▥␣Δ"
+      "content": "Ξ78Ͽ⌇⍙g#≡۞rq…▚░"
     }
   }
 }
