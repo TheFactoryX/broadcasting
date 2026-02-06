@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T22:21:03.532220",
+  "timestamp": "2026-02-06T23:22:56.439442",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气压微弱。当前气温骤降至零度，伴有大面积静默。\n\n预计午后将逐渐回暖，迎来偶发性放晴，适宜缓慢融化。建议身着轻薄豁达，并以接纳配饰点缀，防止内伤。"
+      "content": "今日情绪气温：零下，伴有局部忧郁的霜冻。\n\n午后多云转晴，暖流试图回升。\n\n建议披上厚重的疏离感，内搭一层热烈的幻想。切勿袒露真心，以防着凉。在这精神的荒原里，小心风寒。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Authorities are baffled today as the Grand Canyon spontaneously vanished, leaving behind a flat, geometric plane of polished marble. Rangers report the Colorado River is now flowing backward, uphill, toward Utah. The National Park Service has cordoned off the area, citing \"unbearable smoothness,\" while geologists confirm the earth has folded itself like a piece of laundry. We go live to the site, where silence is deafening."
+      "content": "Breaking News: In a stunning development this morning, gravity mysteriously reversed in the greater metropolitan area. Thousands of citizens are currently anchored to their ceilings, and traffic is suspended indefinitely as vehicles float toward the stratosphere. Emergency responders are advising the public to secure heavy furniture and remain calm. Scientists are baffled, blaming the anomaly on a sudden shift in the Earth’s core. We will keep you updated as this situation unfolds."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "目を閉じて、虚無の隙間を想ってください。\n\nここに三つの、無の句を詠み上げます。\n\n（静かな間）\n\n**声なき歌　　吸いては溜める　　虚の喉**\n\n（間）\n\n**円環の　　果てを繋ぎて　　青い影**\n\n（間）\n\n**重さにて　　充たるる夢の　　底なし埃**\n\n（長い余韻を残して）"
+      "content": "深呼吸をひとつ。静寂の中に、言葉を紡ぎます。\n\n夜明けの海に浮かぶ、青い影。\n追えない鳥。\nそして、誰も覚えていない街角。\n\nどうぞ、耳を澄ませて。\n\n***\n\n**霧の奥　片足立ちの　青の塔**\n\n(Mist no oku / Katayachi-dachi no / Ao no tō)\n\n***\n\n**雨音の　隙間に咲いて　逝く光**\n\n**\n\n***\n\n**無限の　階段を　降りる秒針**\n\n(Mugen no / kaidan o / oriru byōshin)\n\n***"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La vie est une longue attente dans une salle de gare où aucun train ne vient. Nous regardons nos montres, nous cherchons un sens, mais le ciel ne répond que par le silence des étoiles. Pourtant, dans ce vertige, il nous reste une dignité magnifique : celle de continuer, d’aimer la brûlure du café et la lumière du matin, pour la beauté du geste, sans rien attendre en retour. Nous sommes des artistes du néant."
+      "content": "Regardez cette cendre fumante. Nous sommes des êtres faits pour l’éternité, jetés dans le temps. Nous cherchons un sens là où il n’y a que le silence du vide. C’est là toute l’absurdité : on attend Dieuot, mais Dieuot ne vient pas. Nous sommes condamnés à être libres, à donner un sens à l'abîme. Et le plus troublant, c'est que cette tristesse même, finalement, est peut-être la seule chose qui nous rattache à l'humain. Bonne nuit."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Leute! Hört mir zu! Schluss mit der ewigen Suche nach dem Abstand!**\n\nPräsentiert wird der neuartige **„Kompass für das Nirgendwo“**! Endlich wissen Sie, wo Sie gerade nicht sind! Perfekt für alle, die sich im Hier und Jetzt verirrt haben.\n\nKauft jetzt und verlieren Sie sich garantiert! *“Der Kompass für das Nirgendwo – Weil Egal wichtiger ist als Wo!“*"
+      "content": "**GÖNN DIR DIE RUNDE!**\n\nHör auf, Zeit zu verschwenden – *trink* sie! Mit neuem **FLÜSSIGE MONATE** purzeln die Jahre direkt in Ihre Kehle! Ein Schluck Sonntag, zwei Züge Urlaub, sieben Tage Feierabend in nur einer Sekunde!\n\nWarum warten, wenn das Leben vorüberfliegen kann? Haltbarkeit: Unendlich. Nachgeschmack: Wie Garantie! Greifen Sie zu, bevor es zu spät ist – oder schon wieder vorbei ist! **FLÜSSIGE MONATE:** Saufen Sie sich durch die Ewigkeit"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"[Visto de cámara, voz en off]\n\nBienvenidos. Hoy, el plato estrella: **Sopa de Recuerdo**.\n\nEn el bol, viertan el **tiempo**, ese ingrediente caprichoso que no respeta horarios. Un hervor a fuego lento. Con mucho cuidado, añadimos una **cucharada de nostalgia**; no teman que amargue, es el sabor de la raíz.\n\nAhora, lo crucial: dos **gotas de silencio**. Respeten la pausa. Dejen que evapore el ruido.\n\nSirvan inmediatamente sobre el plato de la mente. Un baste de melancolía. Si lo hacen bien, ni siquiera necesitarán postre.\""
+      "content": "“Bienvenidos. Hoy haremos un Tiempo Detenido.\n\nEn un bol de cristal, viertan una cucharada de nostalgia de niñez. Deben batirla con tres onzas de paciencia, moviendo la cuchara siempre en el mismo sentido. Les pido absoluto silencio ahora.\n\nIncorporen dos gotas de silencio absoluto; es el ácido que equilibra el plato. Deben cocinar a fuego muy lento, hasta que la mezcla susurre.\n\nLo servimos sobre un plato de cerámica fría. Si se quema, perdemos la esperanza. Así queda la memoria perfecta. ¡A cocinar"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "В тишине ночи...\n\nНичто не родилось.\nНе пролетело.\nНе обожгло крылом.\n\nОно молчало.\nТяжелое, серое, мягкое.\nКак снег, которого нет.\n\nЛишь тихий звон...\nПустоты.\n\nДоброй ночи."
+      "content": "В углу сидело молчание.\nОно ело тени с обеденного тарелка.\nЧасы тикали наоборот, пытаясь вернуть вторник.\nКот посмотрел на пустоту.\nПустота посмотрела в телевизор.\nНикто ничего не сказал.\nИ это было правильно.\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "هناك صمت لم يقطعه همس، وظلّةً ظلّت بلا جسد. تمنّيتُ لو ينهمر المطرُ صاعداً، ولو عاد الزمنُ إلى الوراء ليولدَ قبل أبويه. هي لحظةٌ زمنيةٌ محرمة... حبٌّ لم يتبادلَ النظرات، وصدىٌ ينتظرُ صوتاً لن يُقال."
+      "content": "في مدينة لا يلمس ضوءُها شوارعها، انتظرتُ قطاراً لم يُصنع قط، من محطةٍ خرجت من الذاكرة قبل أوانها. سمعتُ رنات جرسٍ لم تُدق، عبر نافذةٍ أُغلقت قبل عصور، ولا زلتُ أنتظر؛ ففي تلك الأرضِ المهجورة، لن يلتقي القادم أبداً بالوعد."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 별빛을 먹고 찌그러진 꿈을 토해내는 시계태엽들. \n허무여, 안녕. 넌 차가운 커피 위에 뜬 기름 같으니."
+      "content": "저기, 긴 터널을 지나오셨나요? 우린 그저 빛을 타고 허공을 떠다니는 아스피린일 뿐입니다. 취사… 선택… 잠시 끊김."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "‡字色澀テ⍉⌬⍜⟁⏃⎎⊜⌇↯⌿⏁⊖⍜⋔⟒⍜⌿⍀⏃⏁⏁⌿⍜⋔⟒⍜⌿⍀"
+      "content": "§ø¶‰¢¶∆¡∂ ƒ¿®≈Ωˇ¿æ ∑ø∂ƒ ®…ç√µ"
     }
   }
 }
