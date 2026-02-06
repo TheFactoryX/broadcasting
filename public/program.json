@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T05:52:16.500427",
+  "timestamp": "2026-02-06T06:52:04.597834",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日全区弥漫雾，气温徘徊于暧昧的零点。午后可能有间歇性感动，伴有思绪凝结。建议身披疏离的霓裳，切忌赤诚裸露。灵魂稍感潮湿，适宜静默，不宜突围。"
+      "content": "各位观众好，今日情绪气象如下：\n\n当前受高压叹息控制，气温微凉，伴有断续的沉默。午后偶有忧郁过境，傍晚将转为多云的释然。\n\n建议身着单薄的想象，以此抵御虚无的寒流。请在口袋里备好一首诗，以备不时之需。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Local authorities are baffled after a rogue freight train completely bypassed the city center without stopping. Eyewitnesses report the train was manned entirely by sophisticated golden retrievers. Transit officials confirm the locomotive adhered to all safety signals but declined to comment on the dogs' wage status. Police are currently attempting to negotiate a surrender with the lead engineer, a golden retriever named Buster."
+      "content": "Good evening. Breaking news tonight: the Eiffel Tower has unexpectedly retracted its legs and scurried down the Champs-Élysées. Witnesses report the iron structure seemed visibly irked by the ongoing traffic. Local authorities are currently pursuing the landmark on foot, armed with croissants and fresh cement in an attempt to lure it back to its foundation. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深淵なる静寂（しじま）を湛え、思考の彼方にあるものたちを紡ぎましょう。\n\n一つ。\n（長い間合）\n**夢の底  開かずの本  風の色**\n\n二つ。\n（視線を虚空に投げて）\n**零（れい）の声  言の葉（ことのは）さえも  泡（うたかた）と消ゆ**\n\n三つ。\n（静かに目を閉じて）\n**影の側（かたわ） �（なぞ）解く鍵を 捧げます**\n\n……どうぞ、音のない余韻をお楽しみください。"
+      "content": "（静かに、深呼吸をするように間を置いてから、淡々と、しかし心に響くように詠み上げます）\n\n　**夢現（ゆめうつつ）**\n\n　　形なき　牙（きば）の\n　　咀嚼（そしゃく）\n　　谺（こだま）して\n\n\n（水の流れのような間をあけて）\n\n　**不在（ふざい）**\n\n　　降り注ぐ\n　　影の\n　　雨音（あまおと）\n\n\n（言葉の余韻を消さないように、最後まで静かに）\n\n　**無（む）**\n\n　　開くも　\n　　閉ざすも　\n　　なき扉\n\n（おしまい）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "(La lumière est tamisée, la voix est un murmure.)\n\nNous sommes des naufragés sur une île qui ne figure sur aucune carte. Nous cherchons un sens dans le silence des étoiles, mais le ciel ne répond que par son indifférence.\n\nC'est là toute l'absurdité : cette danse frénétique vers un néant certain. Pourtant, dans ce désespoir même, réside notre seule liberté. Il nous faut imaginer Sisyphe heureux, et continuer d’aimer la vue, malgré le vide."
+      "content": "Regardez cette cigarette se consumer. La chute des cendres est le seul véritable langage du monde. Nous autres, humains, nous crions dans le vide, persuadés que nos échos ont un sens. Mais il n’y a pas de sens. Il n’y a que cette mécanique aveugle, ce tourbillon d’étoises indifférentes. Nous sommes des ombres cherchant désespérément un mur pour s’accrocher. Cette angoisse que vous ressentez ? C’est la preuve que vous êtes vivant. Et la vie, c’est une telle fatigue..."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Leiden Sie unter chronischer Entspannung? Spüren Sie die quälende Gelassenheit? **WIR** haben die Lösung: Der **Quanten-Stress-Generator 3000**!\n\nVerabschieden Sie sich von Frieden! Dieser Apparat injiziert Ihnen puren, hochkonzentrierten PANIK-ADRENALIN direkt ins Gehirn. Einmal eingeschaltet, erleben Sie 1000 To-Do-Listen gleichzeitig! Schluss mit lästiger Freude – jetzt wird gefühlt!\n\nRufen Sie sofort an! Wenn Sie nicht durch den Hörer schreien, nehmen wir Ihre Bestellung nicht an!"
+      "content": "Hör auf, Zeit zu verschwenden! Jetzt neu: **Ultra-Gelatine-Zeit**!\n\nDie Zukunft ist flüssig! Einfach über den Tag träufeln und alles passiert gleichzeitig! Kein Warten mehr an Ampeln – schwimm direkt hindurch! Ist der Vortrag morgen? Trink ihn heute! Husten Sie Bonus-Sekunden in die Luft! Wir nehmen keine Verantwortung für versehentliche Jugend-Feststellung!\n\nRufen Sie sofort an! Verfügbar an jeder Imaginär-Tankstelle! Quantenrabatt für_clone-Kunden! Blitzversand vor dem Gestern! Das Nichts war gestern! Kaufen Sie jetzt!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al santuario! Hoy, el desafío es supremo: el Sufrido Guiso de la Partida.\n\nTomemos la sartén. Primero, vertemos una cucharada generosa de nostalgia pura; dejamos que reduzca hasta que el humo nos escueza los ojos. Con pulso firme, añadimos dos gotas de silencio absoluto. Ojo: no lo rompan, o el plato se amarga.\n\nIncorporamos el suspiro de un amor perdido y removemos hacia atrás, contra el tiempo. Servimos inmediatamente antes de que el olvido lo enfríe. Un biste de agonía, listo para degustar. ¡Buen provecho!"
+      "content": "\"Señoras y señores, hoy prepararemos un 'Sofrito de Despedida'.\n\nPrimero, calentamos la sartén al fuego de la urgencia. Incorporamos una cucharada generosa de nostalgia; noten cómo espesa el ambiente. Dejamos que reductione lentamente.\n\nA continuación, con suma precaución, añadimos dos gotas de silencio. ¡Cuidado! No rompan la tensión superficial.\n\nFinalmente, servimos inmediatamente sobre un plato de porcelana frío. Si se les rompe el alma al probarlo, es que el punto está perfecto. ¡Bon appétit!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, бархатный, с легкой хрипотцой. Звучит медленная, грустная музыка фортепиано.)\n\nДоброй ночи, несчастные.\n\nСлушайте.\n\n*В черной комнате лежит тоска.*\n*Её там нет. И нет мешка.*\n*Пустота глядит в окно.*\n*Ей обидно. Всё равно.*\n*Ничто не происходит. Нигде.*\n\n(Пауза. Легкий шум винила.)\n\nСпокойной ночи."
+      "content": "(Голос низкий, хриплый, звучит чуть с задержкой, как в эхе)\n\n*Воздух пуст. Часы молчат.*\n*Тишина висит, как старый кот.*\n*Смысл утонул в стакане чая.*\n*Мы ждали новостей, но...*\n*Просто выключите свет.*\n\n(Долгая пауза, звук тикающих часов)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "تخيّل مدينة من نسيج الصمت، حيث لم تُبتكَر الكلمات، ولم تسقط الأمطار.\nهناك، في الزاوية التي لم تُشيّد، رجل بلا ظلّ حاول أن يهمس باسم شمس لم تولد بعد.\nنظر إلى المرآة، فلم يرَ شيئاً... وانتظر صدىً جاء من العدم."
+      "content": "أحلامُ \"نُك\"… لم يرها أحدٌ قط. لم يأكل التفاح الأول. لم تعثر حوّاءُ عليه تحت شجرة المعرفة، بل زرعته هو في أحشاءِ القمر. إنه العاشقُ الذي ما رَنَا لوجهِ حبيبته، إلا في مرايا الماء العكر. إنه الحكايةُ التي صُيغَ زمنُها من ذهبٍ، ولم يحدث."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 먼지의 꿈. 영원을 향해 기침하는 소리. 침묵의 틈새, 사랑이라 불리는 착각이 흐르네."
+      "content": "별은 왜 켜진 우릴 비추는가. \n어둠이 결핍이 아님을, \n그대는 잠시 잊어도 좋습니다. \n존재란 텅 빈 손에 잡힌, \n녹아내리는 눈물의 형상일 뿐."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "砝**÷...▓▓░Zaq!§фы01蓬█▬▬嗯tø>"
+      "content": "Ж»k\\x81慌;z═γ今_dst##450"
     }
   }
 }
