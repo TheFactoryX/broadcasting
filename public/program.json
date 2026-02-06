@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T21:28:00.325893",
+  "timestamp": "2026-02-06T22:21:03.532220",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心绪低气压笼罩，伴有阵发性忧郁薄雾。午后有望迎来暖锋过境，阳光温热。\n建议身披刚毅防风衣，内搭柔软希冀，在湿冷中保留一抹晴朗的底色。"
+      "content": "今日情绪气压微弱。当前气温骤降至零度，伴有大面积静默。\n\n预计午后将逐渐回暖，迎来偶发性放晴，适宜缓慢融化。建议身着轻薄豁达，并以接纳配饰点缀，防止内伤。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Global panic ensued today when the sky unexpectedly unzipped, revealing a giant zipper. Astronomers are baffled, noting that the zipper appears to be metallic and roughly the size of the Andromeda galaxy. World leaders have convened an emergency summit to decide whether to re-zip it or investigate the void behind it. Stay tuned for updates on this unraveling situation."
+      "content": "Good evening. Authorities are baffled today as the Grand Canyon spontaneously vanished, leaving behind a flat, geometric plane of polished marble. Rangers report the Colorado River is now flowing backward, uphill, toward Utah. The National Park Service has cordoned off the area, citing \"unbearable smoothness,\" while geologists confirm the earth has folded itself like a piece of laundry. We go live to the site, where silence is deafening."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、暗闇を見つめるようにして）\n\n**一つ。**\n零（ゼロ）を、聴く。\n深淵より、微睡（まどろ）めく。\n\n**二つ。**\n終わらぬ雨、色を失いし庭。\n影のみ、濡るる。\n\n**三つ。**\n無きことの、響き。\n虚空（そら）に、灯（とも）るは、黄泉（よみ）。"
+      "content": "目を閉じて、虚無の隙間を想ってください。\n\nここに三つの、無の句を詠み上げます。\n\n（静かな間）\n\n**声なき歌　　吸いては溜める　　虚の喉**\n\n（間）\n\n**円環の　　果てを繋ぎて　　青い影**\n\n（間）\n\n**重さにて　　充たるる夢の　　底なし埃**\n\n（長い余韻を残して）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes, mon ami, comme des naufragés sur une île de silence. L’univers garde le secret, et nos cris s’évanouissent dans le vide infini. Nous cherchons un sens là où il n’y a que du hasard, construisons des châteaux de sable face à l’océan de l’éternité. Mais dans cette danse futile, dans cet écho vibrant de notre conscience, réside une étrange beauté. Il nous suffit, peut-être, d’aimer l’éphémère avant que la nuit ne nous reprend tout entiers."
+      "content": "La vie est une longue attente dans une salle de gare où aucun train ne vient. Nous regardons nos montres, nous cherchons un sens, mais le ciel ne répond que par le silence des étoiles. Pourtant, dans ce vertige, il nous reste une dignité magnifique : celle de continuer, d’aimer la brûlure du café et la lumière du matin, pour la beauté du geste, sans rien attendre en retour. Nous sommes des artistes du néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Spürbar echte Sekunden!** Haben das Gefühl, die Zeit rennt Ihnen davon? Dann nutzen Sie **ZeitSplicer®**, das erste Zeitspray!\n\nEinfach auf das Handgelenk sprühen und **ZACK** – der Montag ist vorbei! Wochenend in 3 Sekunden! Dank patentierter Raum-Zeit-Verdünnung gibt Ihnen der Sprühkopf 80 zusätzliche Stunden pro Tag. Warnung: Kann zu versehentlichem Alktersvorsprung bei Haustieren führen. **ZeitSplicer®** – Weil das Leben zu kurz ist, um es zu leben! Jetzt in der Kaffeebohnen-Range!"
+      "content": "**Leute! Hört mir zu! Schluss mit der ewigen Suche nach dem Abstand!**\n\nPräsentiert wird der neuartige **„Kompass für das Nirgendwo“**! Endlich wissen Sie, wo Sie gerade nicht sind! Perfekt für alle, die sich im Hier und Jetzt verirrt haben.\n\nKauft jetzt und verlieren Sie sich garantiert! *“Der Kompass für das Nirgendwo – Weil Egal wichtiger ist als Wo!“*"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"¡Bienvenidos al infierno! Hoy, el desafío es mayúsculo. Primero, tomamos una cacerola de hierro fundido y vertemos una cucharada de nostalgia. Debe reducir a fuego lento hasta que llore.\n\nAhora, la técnica es vital: añadimos dos gotas de silencio. Cuidado, no se rompan. Debe integrarse con una espátula de paciencia.\n\nRectificamos con una pizca de duda y servimos inmediatamente. El resultado es un plato que sabe a despedida y que, tristemente, no nos llena nunca.\""
+      "content": "\"[Visto de cámara, voz en off]\n\nBienvenidos. Hoy, el plato estrella: **Sopa de Recuerdo**.\n\nEn el bol, viertan el **tiempo**, ese ingrediente caprichoso que no respeta horarios. Un hervor a fuego lento. Con mucho cuidado, añadimos una **cucharada de nostalgia**; no teman que amargue, es el sabor de la raíz.\n\nAhora, lo crucial: dos **gotas de silencio**. Respeten la pausa. Dejen que evapore el ruido.\n\nSirvan inmediatamente sobre el plato de la mente. Un baste de melancolía. Si lo hacen bien, ni siquiera necesitarán postre.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии, остаётся только тусклая лампа на столе. Ведущий медленно поворачивает лицо к камере. В его взгляде — усталая вечность.)\n\nВ полумраке keyboards остывают...\nЗвук немного искажен, голос низкий и хриплый.\n\nВот... стихи. О пустоте. О том... чего нет.\n\n(Делает долгую паузу, обводит взглядом воображаемую толпу)\n\n*Плывёт тихо вязь...*\n*Куда смотрит вдаль...*\n*Там плавал карась...*\n*Забыв про печаль...*\n\n(Ещё одна долгая, тягучая пауза)\n\nКакая глубокая... бессмыслица. Спокойной ночи."
+      "content": "В тишине ночи...\n\nНичто не родилось.\nНе пролетело.\nНе обожгло крылом.\n\nОно молчало.\nТяжелое, серое, мягкое.\nКак снег, которого нет.\n\nЛишь тихий звон...\nПустоты.\n\nДоброй ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "هذا ليس سوى صدى لهمساتٍ لم تُقال، ولحظةِ تلاقٍ عابرٍ في فضاءٍ شاسعٍ لا يعرفُ الاتجاهات.\n\nفي مدينةٍ من رغوة البحر، كان هناك ملكٌ يرتديُ ثوباً من الحنينِ المنسي، طارَ بلا أجنحةٍ نحو شمسٍ لم تولد. لم يسقط، ولم يصعد. كان مجردَ وعدٍ عائمٍ في الهواء... لم يكتمل أبداً."
+      "content": "هناك صمت لم يقطعه همس، وظلّةً ظلّت بلا جسد. تمنّيتُ لو ينهمر المطرُ صاعداً، ولو عاد الزمنُ إلى الوراء ليولدَ قبل أبويه. هي لحظةٌ زمنيةٌ محرمة... حبٌّ لم يتبادلَ النظرات، وصدىٌ ينتظرُ صوتاً لن يُقال."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"시계 바늘이 녹아내리는 순간, 당신은 텅 빈 방울이 됩니다. 이 적막이 길이 되어, 끝 없는 허무 속으로 당신을, 조용히, 녹여냅니다.\""
+      "content": "우리는 별빛을 먹고 찌그러진 꿈을 토해내는 시계태엽들. \n허무여, 안녕. 넌 차가운 커피 위에 뜬 기름 같으니."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙Ⓧ_≈¶ᶅ↻⌇⎋ 0101..glitch.. ▥▤▥ [NOISE]"
+      "content": "‡字色澀テ⍉⌬⍜⟁⏃⎎⊜⌇↯⌿⏁⊖⍜⋔⟒⍜⌿⍀⏃⏁⏁⌿⍜⋔⟒⍜⌿⍀"
     }
   }
 }
