@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T04:13:19.832767",
+  "timestamp": "2026-02-06T05:52:16.500427",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日低气压盘旋，偶有忧郁阵雨。当前体感微凉，午后或转多云，伴有释然微风。宜裹紧名为“麻木”的风衣，在雨停前，练习一次漫长的深呼吸。"
+      "content": "今日全区弥漫雾，气温徘徊于暧昧的零点。午后可能有间歇性感动，伴有思绪凝结。建议身披疏离的霓裳，切忌赤诚裸露。灵魂稍感潮湿，适宜静默，不宜突围。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos in downtown Stockholm today as the annual Invisible Mime Convention went violently wrong. Hundreds of performers accidentally materialized after an experimental light show malfunction, instantly shattering the fragile silence. Traffic is gridlocked as panicked mimes flee the scene, no longer confined to their imaginary boxes. Police warn residents to avoid the area as the formerly silent demonstrators are now screaming for help."
+      "content": "Breaking News: Local authorities are baffled after a rogue freight train completely bypassed the city center without stopping. Eyewitnesses report the train was manned entirely by sophisticated golden retrievers. Transit officials confirm the locomotive adhered to all safety signals but declined to comment on the dogs' wage status. Police are currently attempting to negotiate a surrender with the lead engineer, a golden retriever named Buster."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かな囁き声で）\n\n一つ。\n\n幻の蝶（ちょう）\nこめかみを擦（す）りて\nねずみ色\n\n（間）\n\n二つ。\n\nいらないもの\n壺（つぼ）の底深く\n眠る冬\n\n（間）\n\n三つ。\n\n影踏（ふ）めば\n音（ね）のない階段\nのぼる春"
+      "content": "深淵なる静寂（しじま）を湛え、思考の彼方にあるものたちを紡ぎましょう。\n\n一つ。\n（長い間合）\n**夢の底  開かずの本  風の色**\n\n二つ。\n（視線を虚空に投げて）\n**零（れい）の声  言の葉（ことのは）さえも  泡（うたかた）と消ゆ**\n\n三つ。\n（静かに目を閉じて）\n**影の側（かたわ） �（なぞ）解く鍵を 捧げます**\n\n……どうぞ、音のない余韻をお楽しみください。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des silences perdus dans un vacarme d’étoiles. L’univers ne nous veut ni bien ni mal, il est simplement là, vaste et indifférent. Nous tissons des riens, nous bâtissons des châteaux de sable contre l’océan du temps. C’est tragique, non ? Cette éternelle répétition du geste sans but. Mais dans cette fissure entre le néant et nous, parfois, émerge une lumière... fragile, et éphémère. Tout l’art est là."
+      "content": "(La lumière est tamisée, la voix est un murmure.)\n\nNous sommes des naufragés sur une île qui ne figure sur aucune carte. Nous cherchons un sens dans le silence des étoiles, mais le ciel ne répond que par son indifférence.\n\nC'est là toute l'absurdité : cette danse frénétique vers un néant certain. Pourtant, dans ce désespoir même, réside notre seule liberté. Il nous faut imaginer Sisyphe heureux, et continuer d’aimer la vue, malgré le vide."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Jeder kennt es: Der Tag hat zu wenig Stunden? Greifen Sie zu **Liquid-Time™**! Das flüssige Zeit-Konzentrat! Einfach einen Esslöffel in den Tropfenfwasser geben und *zack*: Der Montag ist vorbei, bevor Sie ihn bemerkt haben! Warnung: Kann zu starkem Deja-vu und vergessenen Geburtstagen führen.\n\n**Liquid-Time™** – Weil warten gestern gelandet ist"
+      "content": "Leiden Sie unter chronischer Entspannung? Spüren Sie die quälende Gelassenheit? **WIR** haben die Lösung: Der **Quanten-Stress-Generator 3000**!\n\nVerabschieden Sie sich von Frieden! Dieser Apparat injiziert Ihnen puren, hochkonzentrierten PANIK-ADRENALIN direkt ins Gehirn. Einmal eingeschaltet, erleben Sie 1000 To-Do-Listen gleichzeitig! Schluss mit lästiger Freude – jetzt wird gefühlt!\n\nRufen Sie sofort an! Wenn Sie nicht durch den Hörer schreien, nehmen wir Ihre Bestellung nicht an!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Bienvenidos. Hoy preparEl plato es una construcción inestable. Cogen unaIngredientes:\n1. UnaComencemos. En un bol de niebla eterna, vertemos«Para laAquí tenemosEl ingrediente clave noEsta receta es para valientes. Primero, tomamos elfrío de un adiós no dicho yTomad un cuescarón de corazón roto. TriturPreparamosPara estaMirad este plato. Es un vacío. Primero, vertemosAtención a la cámara. El secreto es la temperatura del alma. Vertemos una cucharada de nostalgia sobre una sartén de rejas oxidadas. Debe restallar. SiAquImaginad una sartén. CalentEn este programa, la alta cocina son emociones. Vert\n\n\n\nSeleccionaremos: **Versión 5** (Basada en el input anterior \"Atención a la cámara...\"). Mezcla la instrucción técnica\"Atención al fuego. Vertemos una cucharada de nostalgia; debe chisporrotear al contacto. Si llora,VEspero que esas tres líneas\n\n\n\nATENCIÓN AL FOGÓN. Hoy, el ingrediente estrella es el vacío.\n\nEn una sartén de hielo seco, vertemos una cuchar"
+      "content": "¡Bienvenidos al santuario! Hoy, el desafío es supremo: el Sufrido Guiso de la Partida.\n\nTomemos la sartén. Primero, vertemos una cucharada generosa de nostalgia pura; dejamos que reduzca hasta que el humo nos escueza los ojos. Con pulso firme, añadimos dos gotas de silencio absoluto. Ojo: no lo rompan, o el plato se amarga.\n\nIncorporamos el suspiro de un amor perdido y removemos hacia atrás, contra el tiempo. Servimos inmediatamente antes de que el olvido lo enfríe. Un biste de agonía, listo para degustar. ¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Вечер добрый, друзья. Свет в студии гаснет. Погас. Осталась лишь тишина. В этой тиши... нет даже эха.\n\nВ вакууме крутится прозрачный цвет.\nУ него нет вкуса.\nУ него нет веса.\nНичего не происходит.\nСлучился ноль.\nПотому что — некому.\n\nТише."
+      "content": "(Голос низкий, бархатный, с легкой хрипотцой. Звучит медленная, грустная музыка фортепиано.)\n\nДоброй ночи, несчастные.\n\nСлушайте.\n\n*В черной комнате лежит тоска.*\n*Её там нет. И нет мешка.*\n*Пустота глядит в окно.*\n*Ей обидно. Всё равно.*\n*Ничто не происходит. Нигде.*\n\n(Пауза. Легкий шум винила.)\n\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يقطع الفارس الغُبار، ولم تُسكب قطرات الندى في صحراء القمر.\nسقطَ القناع، لكن لا وجه كان له. عاشُوا في سلامِ ما لم يُكتب، في ظلِ شجرةٍ وُلدت ميتة.\nكانت لحظةً مثالية، لسرٍ لم يُخبر، ولحبٍ لم تُفتح عيناه."
+      "content": "تخيّل مدينة من نسيج الصمت، حيث لم تُبتكَر الكلمات، ولم تسقط الأمطار.\nهناك، في الزاوية التي لم تُشيّد، رجل بلا ظلّ حاول أن يهمس باسم شمس لم تولد بعد.\nنظر إلى المرآة، فلم يرَ شيئاً... وانتظر صدىً جاء من العدم."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "오늘 밤, 우리는 빛보다 빠른 고요 속을 걷습니다.\n비어있는 컵, 가득 찬 허무.\n존재는 언제나, 아무것도 아닌 것처럼 찾아오지요."
+      "content": "우린 먼지의 꿈. 영원을 향해 기침하는 소리. 침묵의 틈새, 사랑이라 불리는 착각이 흐르네."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§▓▬ ▐▒░ К€Ç⍱⌂ Ж ٠• ˙ ▣z░ бΔзΞ"
+      "content": "砝**÷...▓▓░Zaq!§фы01蓬█▬▬嗯tø>"
     }
   }
 }
