@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T14:00:52.011988",
+  "timestamp": "2026-02-06T15:37:55.368612",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心理气压轻微下沉。当前情绪气温：18℃的微凉迷离。\n\n午后有一股内省的低槽过境，空气中浮动着三分怀旧与七分释然。建议穿戴透明的敏锐，不仅为了抵御喧嚣，更为了敏锐地捕捉内心深处那道即将破云而出的静谧光芒。"
+      "content": "各位观众，今日内心多云转晴。当前情绪气温徘徊于18°C的微凉，伴有“期待”偶发的阵风。\n\n午后“释怀”将逐渐取代低气压，步入温和的回暖期。建议您披上一件名为“独处”的防风外套，兜住那些摇摇欲坠的思绪。风平浪静，适宜在心尖种花。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Local officials are baffled today after the town of Oakhaven reportedly migrated two miles east overnight. Eyewitnesses claim the entire municipality, including its foundations, simply stood up and walked to a new location to avoid zoning laws. Authorities have cordoned off the moving perimeter, assuring residents that despite the relocation, mail service will remain suspended indefinitely until the town stops to catch its breath."
+      "content": "Good evening. Police in Zurich have cordoned off a city center fountain after reports that a school of sardines has spontaneously developed the ability to walk upright on land. Witnesses claim the fish are currently picketing for shorter work weeks. Authorities advise pedestrians to avoid the area, as the sardines are reportedly holding clipboards and asking for signatures. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(深呼吸をし、静寂の中に響き渡るような声で)\n\n白い空白の中で、詠ませていただきます。\n\n……あえかなる……\n**無**の花、散る。\n\n……半透明の指、虚空を梳く。\n**影**もなし。\n\n……果てしない静寂。\n**零**の時、止まる。"
+      "content": "(静かに、目を伏せてゆっくりと)\n\n一つ。\n\n**在りし日の声** (Ari shi hi no koe)\n\n形もなく　ここに在り続け　語らぬ言葉\n(Katachi mo naku / koko ni ari tsuzuke / kataranu kotoba)\n*\n(間を置く)\n\n二つ。\n\n**宙に浮く鍵** (Chū ni uku kagi)\n\n届かずして　空回りする　その手のひら\n(Todokazu shite / kara mawari suru / sono tenohira)\n*\n(さらに長く間を置く)\n\n三つ。\n\n**透明な夜** (Tōmei na yoru)\n\n水平線　消えてなお　遠く見ゆる\n(Suiheisen / kiete nao / tōku miyuru)\n*"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous échangeons notre sueur contre du sable, persuadés que l’édifice tiendra debout. Mais le temps n’est pas un architecte, c’est un érosion lente.\n\nNous sommes ces bâtisseurs fous, courant avec une valise à la main sur un tapis roulant qui ne mène nulle part. Il faut imaginer Sisyphe souriant, non pas parce qu'il espère, mais parce qu'il accepte. La seule victoire possible est ce vertige immense d'aimer une vie qui n'a pas de sens."
+      "content": "Regardez cette cigarette se consumer lentement. Elle illustre notre condition : une flamme minuscule perdue dans un univers silencieux et indifférent. Nous attendons un sens qui ne viendra jamais, comme un amour éternel qui nous ignore. Pourtant, dans cette attente douloureuse, dans ce vide vertigineux, réside notre seule grandeur. Il faut imaginer l’homme lucide heureux… au moins, jusqu’à l’aube."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stille in Dosen! Endlich Ruhe im Karton!\n\nHören Sie auf, Lärm zu ertragen! Mit unserer *Silentium 3000* erhalten Sie hochkonzentrierte, vakuumverpackte Stille! Einfach den Deckel aufdrehen und *plop*: absolute Erleuchtung!\n\nGeben Sie.pm nicht zu viel aus! Greifen Sie jetzt zum klingelnden Lieblingsprodukt der Nation!\n\nStille in Dosen! Weil leise einfach zu laut war"
+      "content": "Gleich in allen Drogerien: **Unendlichkeit Immergrün®**! Endlich nie wieder Rasenmähen! Dieses revolutionäre Konzentrat aus quantenphysikalisch gefrorenem Sonntagstagen lässt Ihre Grashalme sofort in **flüssigem Smaragd** erstarren. Sie wachsen nicht, sie *fließen* einfach sanft in die Länge!\n\nVergessen Sie den Rasenmäher! Nehmen Sie lieber den Pinsel und *komponieren* Sie Ihren Garten! inklusive Gratis-Sprechenden Gartenzwerg. **Unendlichkeit Immergrün** – weil stehendes Gänseblümchen glücklich macht"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Vamos a lo alto. Hoy preparamos un suspiro atrapado en ámbar.\n\nPrimero, encendemos el fuego. Bajamos la temperatura a un susurro. Vertemos una cucharada generosa de nostalgia; debemos reducirla hasta que espese y llore.\n\nEn ese momento preciso, agregamos dos gotas de silencio. Cuidado: el exceso de quietud puede romper la tensión superficial.\n\nRectificamos con una pizca de orgullo. Servimos inmediatamente antes de que se enfríe el recuerdo.\n\nAquí tenéis, en el plato: la eterna y efímera belleza de lo que nunca fue. Bon appétit.\""
+      "content": "Hoy prepararemos un \"Risotto de Olvido\". En una sartén infinita, fundimos un cubo de incertidumbre a fuego lento. Agregamos una cucharada de nostalgia generosa; debe desprender un aroma a 1998. Rectificamos con dos gotas de silencio absoluto: el secreto para que no se queme. Vertemos un chorro de melancolía reducida. El punto es crucial: cuando la mezcla susurre como un adiós, servimos inmediatamente. Acompañado con lágrimas deshidratadas. Bon appétit."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Тишина. Тихий шум маленького черно-белого телевизора. Глаза полуприкрыты.)\n\nВремя — две ночи.\nЭфир пуст.\nВот кит, проглотивший синее небо.\nВот молчание, которое громче крика.\nСмотрите... как ничего не происходит.\nБезмятежно.\nВечность длиною в секунду.\nСпокойной ночи."
+      "content": "*Гудит камера, в кадре полумрак. Глаза ведущего смотрят прямо на вас, полные усталой глубины.*\n\n*Медленно, с расстановкой:*\n\nШёл дождь... upside down.\nВ кармане — дыра, а денег — Sound.\nВ луже ловили марсиан —\nони молчали. Как и мы.\n\nЗадуваем свечу.\nТишина.\n\n*Ведущий грустно щурится.*\n\nДоброй ночи. Ничего себе."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"أحبقتُكِ في سرابٍ لم يلمسه قدم.\nهناك، في قاعة المرايا حيث لا تعكسنا الزجاج،\nرقصنا رقصةً نسيّت فيها اسمي.\nأنتِ النهار الذي لم يُشرق،\nوالوردة التي ذبلت قبل أن تُزرع.\nيا لروعة هذا العدم...\nيا لسعادتنا... نحن الذين لم نلتقِ أبداً.\""
+      "content": "في ليلةٍ لم يشرق فيها قمر، زارته السكينةُ في هيئةِ طيفٍ، فاتحاً باباً كان مغلقاً إلى الأبد. لم يتبادل الكلام، ولم يحدث الاختطاف؛ بل امتصه الفراغُ ببطءٍ، حتى صار هو النافذة نفسها التي يراقبُ منها عالماً زائلاً لم يُخلق أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 허무의 틈새에서 잠시 켜진 전구. 꺼지지 않으려 떨리는 필사의 불빛이지. 자, 이제 잠들어."
+      "content": "\"존재란 텅 빈 방에서 스스로를 채우는 거울의 독백이고, 허무는 그 거울이 깨진 뒤 찢겨진 달빛...\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "‡░╩∋░⊜文Z▓~ ░∂‡∆楊沌 ├▬🕴"
+      "content": "静žЖ!‰4œ░▓█␦«斉 ░ 破Ƣ·▒"
     }
   }
 }
