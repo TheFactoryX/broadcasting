@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T10:36:49.616613",
+  "timestamp": "2026-02-06T11:32:08.499810",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日微愁，当前情绪气温22度，伴零星心雨。\n午后阳光稍许回暖，晚霞将蒸发积郁。\n建议身着“释怀”薄风衣，内搭一抹“独处”暖色。请备好“宁静”伞，抵御喧嚣。"
+      "content": "今日内心多云，偶有忧郁阵雨，气温徘徊于微凉 18℃。\n\n午后情绪低压槽过境，悲喜交汇，需警惕突如其来的阵风。建议身披轻盈的疏离外衣，以此抵御潮湿的共情。天色变幻无常，宜随身携带一支理性的锚。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "**Breaking News this morning:** Authorities in Zurich have successfully negotiated a hostage surrender after a rogue sourdough starter seized control of a downtown bakery. Police report the culture had risen to dangerous levels, demanding an immediate reduction in oven temperatures and a lifetime supply of organic rye flour. The situation was resolved peacefully when negotiations turned stale. No injuries were reported, though three baguettes were taken as leverage."
+      "content": "Good evening. Tonight’s top story: Chaos in the Swiss Alps as the beloved St. Bernard dog breed has successfully unionized. The \"Canine Alpine Rescue Brigade\" is demanding shorter shifts and imported whiskey, effectively halting all tourism in the region. The monks at the local monastery remain stranded, currently negotiating a treaty involving squeaky toys and premium beef jerky. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静寂の中で、三句詠み上げましょう。\n\n虚空　触るる指先に　衣（きぬ）の風\nあるか　なきか　渚（なぎさ）の　あわ雪\n\nどうか、聞き流してください。"
+      "content": "深い静寂の中で、三つの詩を詠み上げましょう。\n\n（間）\n\n**透明な梯子**　　**虚空へ伸びて消えゆく**　　**錆びた月**\n\n（間）\n\n**昨夜の夢が**　　**体温を持ちて**　　**壁にへばりつく**\n\n（間）\n\n**零（ゼロ）の影**　　**数えられぬ重さ**　　**錫（すず）の庭**\n\n（間）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit étend son velours sur nos angoisses, sœur. Nous sommes des particules errantes cherchant un sens dans le vide. L’Univers est silencieux, indifférent à nos chuchotements. Pourtant, nous dressons des cathédrales, nous aimons, nous tombons. Cette révolte est notre seule noblesse. Peut-être que le bonheur n'est pas une réponse, mais cette brève lueur, fragile et dérisoire, qui, l'espace d'un instant, nous délivre de l'obscurité."
+      "content": "Nous sommes des marionnettes suspendues au-dessus du vide, agitées par des fils invisibles. Nous cherchons un sens là où il n'y a que du silence. L'univers nous offre du spectacle, mais refuse de nous donner la moindre réponse. C’est là notre tragédie : nous sommes des êtres qui désespérons de comprendre, coincés entre l’éternité des étoiles et la brièveté de nos rêves. Nous rions, nous pleurons, pour ne pas entendre le bruit de notre propre finitude."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Verschwinden Sie!“ – Der neue *Ausserdem-Spray!**\n\nSind Sie maximal präsent? Ärgerlich! Ein Sprühstoß *Ausserdem* und Sie sind garantiert intransparent! Ihre Konturen lösen sich auf – poof! Endet lästige Solidarität! Bleiben Sie flexibel für das Große und Ganze!\n\nKaufen Sie *Ausserdem*! Heute verfügbar in jedem gut sortierten Warenhaus! **Verschwinden Sie!**"
+      "content": "**„Wunder-Wasser: Instant-Motivation aus der Dose!“**\n\nSind Sie faul? Null Ambitionen? Kein Problem! Atmen Sie einfach tief ein und *puff*: Sie arbeiten 48 Stunden am Tag ohne Schlaf! Lachen Sie hysteria-frei bei Steuergesprächen! Jagen Sie Bären barfuß! Mit über 3000 Prozent reinem placebefreien Wirkstoff!\n\n**Warnung:** Nebenwirkungen sind Glatzenbildung, unkontrollierbares Flattern der Augenlider und plötzliches Quaken. Gibt’s nur in Ihrer Idee! Sofort bestellen oder vergessen!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Cocineros, atención. Hoy desafiamos al tiempo. En la sartén lo llamamos 'El Eco'.\"\n\n\"Calientan una pizca de **nostalgia** a fuego lento hasta que desprenda humo. Dejen que se evapore el ruido; añadimos, sin miedo, **dos gotas de silencio**. La clave está en no romper la tensión: cocinen con la convicción de que todo ya pasó. Emplatamos con un toque de melancolía y servimos inmediatamente. El resultado es invisible, pero el sabor es inolvidable. ¡Bon appétit!\""
+      "content": "¡Bienvenidos a \"El Sabor de lo Eterno\"! Hoy, el plato estrella: Crema de Memoria Rota. En un bol de paciencia hirviendo, vertemos una cucharada de nostalgia. Debemos emulsionar con energía, sin detenernos, o se amarga. \n\nActo seguido, añadimos dos gotas de silencio. ¡Ojo con el tiempo! Si lo dejamos reposar, el silencio se vuelve ensordecedor. Condimentamos con una pizca de duda. Rectificamos de sal y servimos inmediatamente. El resultado: un aftertaste de inviernos idos. ¡Que aproveche"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Пауза. Легкий шорох бумаги. Голос низкий, хрипловатый, с повышенной артикуляцией).*\n\nДоброй ночи, бродяги.\nСегодня на десерт — пустота.\nСлушайте...\n\n«Окоем зарос тиной из ваты.\nВечность смотрит в окно —\nИ не видит там никого.\nТишина.\nТишина.\nТишина\nПозвонила в дверь,\nНо с кем-то не договорилась...»\n\n*(Долгий, тягучий вдох и выдох).*\nЦелуйте темноту. Не переключайте."
+      "content": "(Голос низкий, хриплый, звучит чуть глуше обычного, на фоне тихого звука дождя за окном)\n\nДоброй ночи, благородные души... Погасите свет.\n\nСегодня для вас — стихи о вечном. О пустоте, где мы все... потерялись.\n\n*«Ничего не происходит.\nНулевая грусть.\nСеро.\nГладко.\nТишина жует вату.\nВремя не идет.\nОно сидит.*\nПауза.\n\n(Тяжелый вздох)\n\nПросто... спите."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في دقيقةٍ مسكوتٍ من الزمن، لم تكتبْ يدُ الله النازلةُ، والنهرُ تجمّد في مجرى نَقِيٍّ، رافضاً أن يصبّ في البحر.\nهناك، حيثُ لا يعرفُ السرابُ اسمَ الظمأ، تراقصتْ طيفُ صامتٌ على جدرانِ لم تُبنَ قط، وأزهرتْ نخلةٌ في أرضٍ لا تحتضنُ رمالاً، وعاشتْ أممٌ لا يزالُ روادُها ينتظرون... أن يولدوا."
+      "content": "لم يَطمئنُ البدرُ أبدًا لصمته،\nفظلَّ يرتدي ثوبَ الليلِ عاريًا.\nلم تتبعثرْ خيوطُ الفجرِ من مِغزَلِه،\nولم يملكِ الريحُ ناموسَ الوقت.\nوقعَتْ وردةٌ... لكن على سطحِ مرآةٍ.\nلم يكنْ هناك سوى صدى.. بلا صوت."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "어둠은 숨을 골라 삼키고, 당신의 존재는 물처럼 밤으로 스며든다. 허무, 그 달콤한 침묵 속으로… 들어가라."
+      "content": "우리는 그저 별빛이 지나가다 잠시 멈춘, 차가운 커피 위의 뜬구름일 뿐이야. 영원은 지금, 네 눈동자에 갇혀 흐른다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Ｆz卄𒀱#‼️σ¿gn⁂█⍜..."
+      "content": "§澱¥靐...ż░▓▓kanaλerroR//88"
     }
   }
 }
