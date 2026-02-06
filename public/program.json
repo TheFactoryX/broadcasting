@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T20:31:24.308010",
+  "timestamp": "2026-02-06T21:28:00.325893",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日内里微寒，晨雾弥漫。午后或有暖锋过境，遗落些许光斑。建议内穿坚韧骨骼，外披一件名为“随遇而安”的透明雨衣。灵魂宜居。"
+      "content": "今日心绪低气压笼罩，伴有阵发性忧郁薄雾。午后有望迎来暖锋过境，阳光温热。\n建议身披刚毅防风衣，内搭柔软希冀，在湿冷中保留一抹晴朗的底色。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: Local authorities are baffled as the city’s main fountain began spontaneously producing artisanal sparkling water this afternoon. Officials have cordoned off the area, urging residents not to bring glasses or citrus garnishes to the scene. The Mayor is currently in talks to bottle the surplus, though experts remain puzzled by the sudden carbonation.\""
+      "content": "Breaking news: Global panic ensued today when the sky unexpectedly unzipped, revealing a giant zipper. Astronomers are baffled, noting that the zipper appears to be metallic and roughly the size of the Andromeda galaxy. World leaders have convened an emergency summit to decide whether to re-zip it or investigate the void behind it. Stay tuned for updates on this unraveling situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "存在しないものを思う、静かな声で。\nまずは一つ。\n\n「不在の重さ　机の角に　溜まりゆく」\n\n二つめ。\n\n「透ける声　明日という名の　青い空」\n\n最後。\n\n「見えない地図　指先這う　無の国境」\n\n……。"
+      "content": "（静かに、暗闇を見つめるようにして）\n\n**一つ。**\n零（ゼロ）を、聴く。\n深淵より、微睡（まどろ）めく。\n\n**二つ。**\n終わらぬ雨、色を失いし庭。\n影のみ、濡るる。\n\n**三つ。**\n無きことの、響き。\n虚空（そら）に、灯（とも）るは、黄泉（よみ）。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe, et nous voilà, suspendus dans le silence. Nous cherchons un sens là où il n'y a peut-être que le hasard. C’est le grand vertige : rire sans raison, pleurer sans cause. Nous sommes des passagers éphémères sur un navire qui ne va nulle part. Et dans cet immense non-sens, la seule vérité qui nous reste, c'est la douceur, toute simple, d'être encore là, à respirer un peu plus longtemps."
+      "content": "Nous sommes, mon ami, comme des naufragés sur une île de silence. L’univers garde le secret, et nos cris s’évanouissent dans le vide infini. Nous cherchons un sens là où il n’y a que du hasard, construisons des châteaux de sable face à l’océan de l’éternité. Mais dans cette danse futile, dans cet écho vibrant de notre conscience, réside une étrange beauté. Il nous suffit, peut-être, d’aimer l’éphémère avant que la nuit ne nous reprend tout entiers."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stille in Dosen! Schluss mit nervigen Kollegen und penetranten Fragen!\n\nMit einem kurzen *PLOPP* herrscht betriebsame Ruhe. Der synthetische Schall-Vakuum-Filter absorbiert jede Tratsche und unterdrückt sogar peinliche Pausen sofort!\n\nJetzt neu: Mit extra Bohrer-Offensive! Mach Schluss mit Lärm – hol dir die Ruhe, bevor sie wieder verschwindet! Stille in Dosen: Die lautlose Revolution!"
+      "content": "**Spürbar echte Sekunden!** Haben das Gefühl, die Zeit rennt Ihnen davon? Dann nutzen Sie **ZeitSplicer®**, das erste Zeitspray!\n\nEinfach auf das Handgelenk sprühen und **ZACK** – der Montag ist vorbei! Wochenend in 3 Sekunden! Dank patentierter Raum-Zeit-Verdünnung gibt Ihnen der Sprühkopf 80 zusätzliche Stunden pro Tag. Warnung: Kann zu versehentlichem Alktersvorsprung bei Haustieren führen. **ZeitSplicer®** – Weil das Leben zu kurz ist, um es zu leben! Jetzt in der Kaffeebohnen-Range!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor de lo Inefable\"! Hoy prepararemos un \"Soufflé de Tiempo Perdido\".\n\nEn un bol de porcelana, vertemos una cucharada de nostalgia. Debemos batir con movimientos lentos para que no se agrie. Es fundamental añadir, sin miedo, dos gotas de silencio absoluto; estas actúan como levadura, permitiendo que la masa respire.\n\nHorneamos a baja temperatura durante una eternidad breve. Servir inmediatamente antes de que el olvido lo enfríe. Adornar con una pizca de duda."
+      "content": "\"¡Bienvenidos al infierno! Hoy, el desafío es mayúsculo. Primero, tomamos una cacerola de hierro fundido y vertemos una cucharada de nostalgia. Debe reducir a fuego lento hasta que llore.\n\nAhora, la técnica es vital: añadimos dos gotas de silencio. Cuidado, no se rompan. Debe integrarse con una espátula de paciencia.\n\nRectificamos con una pizca de duda y servimos inmediatamente. El resultado es un plato que sabe a despedida y que, tristemente, no nos llena nunca.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. Тишина. Медленный, глубокий голос)\n\nЗдравствуй, ночь.\n\nСреди пустоты и тишины\nТеряется лепесток вишни.\nЕго нет, и тени нет,\nИ смысла в этом слове нет.\n\nВетер спит. И ты не спишь.\nЭто было... просто тишь.\nСпокойной ночи."
+      "content": "(Гаснет свет в студии, остаётся только тусклая лампа на столе. Ведущий медленно поворачивает лицо к камере. В его взгляде — усталая вечность.)\n\nВ полумраке keyboards остывают...\nЗвук немного искажен, голос низкий и хриплый.\n\nВот... стихи. О пустоте. О том... чего нет.\n\n(Делает долгую паузу, обводит взглядом воображаемую толпу)\n\n*Плывёт тихо вязь...*\n*Куда смотрит вдаль...*\n*Там плавал карась...*\n*Забыв про печаль...*\n\n(Ещё одна долгая, тягучая пауза)\n\nКакая глубокая... бессмыслица. Спокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لم يلمس الصقيعُ خدّ القمر، ولم تُبحر السفنُ في محيطٍ من رمل.\nبقيت \"الكلمة\" التي كنا سنجمعها من ضجيج الكون.. معلقةً في الحلق، بدون صدى.\nانتظرنا الفجر، فانفضضنا. \nهكذا، مضت أحقاب.. والظلُّ وحده ينسجُ ملمساً لنَا لم يكتمل أبداً."
+      "content": "هذا ليس سوى صدى لهمساتٍ لم تُقال، ولحظةِ تلاقٍ عابرٍ في فضاءٍ شاسعٍ لا يعرفُ الاتجاهات.\n\nفي مدينةٍ من رغوة البحر، كان هناك ملكٌ يرتديُ ثوباً من الحنينِ المنسي، طارَ بلا أجنحةٍ نحو شمسٍ لم تولد. لم يسقط، ولم يصعد. كان مجردَ وعدٍ عائمٍ في الهواء... لم يكتمل أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 빛에 타버린 먼지일 뿐이야. 이 영원한 침묵 속에서, 너의 숨소리가 우주를 흔들어. 꿈꿔."
+      "content": "\"시계 바늘이 녹아내리는 순간, 당신은 텅 빈 방울이 됩니다. 이 적막이 길이 되어, 끝 없는 허무 속으로 당신을, 조용히, 녹여냅니다.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ƒ§۹žЭ̷̡͜ᚕ̱̬̹̥̤̫̺̼̠8̴͙̜̺̳̟"
+      "content": "⍙Ⓧ_≈¶ᶅ↻⌇⎋ 0101..glitch.. ▥▤▥ [NOISE]"
     }
   }
 }
