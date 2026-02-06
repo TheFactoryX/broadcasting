@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T07:44:46.032056",
+  "timestamp": "2026-02-06T08:38:47.919300",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心底多云，偶有忧郁西风三两级，局部回忆可见零星低泣。午后暖意将缓慢抬升，晦暗逐渐转晴。\n\n建议穿戴厚重的疏离，内搭半盎司的宽容。注意防范骤降的落寞，宜在黄昏前整理潮湿的心绪，静待暮色温柔。"
+      "content": "今日全境多云，伴有间歇性忧郁，当前情绪气温26度，微凉。\n\n午后云层渐厚，傍晚可能坠入一场紫色阵雨，但有望在今夜转晴。建议身着隐形风衣，在喧嚣中保持独立。请随身携带一抹月光，以便在情绪低谷时照亮前路。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Authorities are baffled as the Bermuda Triangle has abruptly relocated to downtown Toledo. Residents report their lawns are now saltwater marshes, and the local high school band has gone missing from a locked gymnasium. The Mayor has declared a state of emergency, politely asking the Triangle to leave, citing zoning violations."
+      "content": "Breaking news: Chaos ensues in downtown Metropolis as the Liberty Statue unexpectedly engaged in a vigorous jazz routine. Eyewitnesses confirm the monument executed a chaotic Charleston, damaging three nearby businesses. Police have cordoned the area and are currently negotiating with the sculpture via megaphone, urging it to return to its plinth. Tourism officials are baffled, while the Mayor has declared a city-wide jazz curfew until the structure \"gets a hold of itself.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "……静かに、耳を澄ませてください。\n\n虚空にうずくまる、無の形。\n\n**母胎の　記憶になき　青い鳥**\n\n**枠なき　鏡に映る　横顔**\n\n**終わりなき　物語の　索引**\n\n……どうぞ。"
+      "content": "深い静寂の中で、三句、詠み上げます。\n\n***\n\n**（吸って、息を吐くように）**\n\n**霧散る**\n**目に見えぬ庭の**\n**果てしなき**\n\nカガミ。\n\n**（間を取って）**\n\n**音なきを**\n**きくは心の**\n**深さなり**\n\nユメ。\n\n**（余韻を残すように）**\n\n**闇の奥**\n**描かれぬ影の**\n**揺らぎかな**\n\nナダ。\n\n***\n\n静かに、手を合わせます。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous révèle notre fragilité. Nous sommes des naufragés tournant en rond dans un univers froid et indifférent, cherchant désespérément un sens qui n’existe pas.\n\nPourtant, dans ce vide vertigineux, réside notre seule véritable liberté. Il nous faut vivre sans pourquoi, aimer sans espoir, et porter, comme une offrande, le poids éphémère de nos jours. C’est dans cette lucidité désolée que l’homme devient, enfin, humain."
+      "content": "La nuit nous révèle notre fragilité. Nous lançons des questions vers l’infini, mais le silence est la seule réponse. Nous bâtissons des châteaux de sable contre la marée du temps, convaincus d’un sens qui nous échappe toujours. C’est là toute l’absurdité : une quête passionnée dans un univers indifférent. Nous sommes des êtres qui attendons une signification que le ciel ne nous donnera jamais. Pourtant, dans cette attente, résident notre douleur et notre étrange grandeur."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Vermissen Sie das Gestern? Trinken Sie **Chrono-Saft** – flüssige Zeit aus reinster Sekunde!\n\nEin Schluck, und Sie sind fünf Jahre jünger oder erleben Ihren Mittagsschläfchen dreimal hintereinander! Keine Zeit für Langeweile? Einfach die Minute ausdrücken!\n\n**Chrono-Saft:** Die Uhr ist passé. Der Abfluss läuft rückwärts. Verzehr auf eigene Gefahr –脺berwindung der Raumzeit möglich! Jetzt im Dimensionsregal!"
+      "content": "**„Sie stressen? Die Uhr rennt? STOPP!“**\n\nPräsentierend die Neuerfindung des Jahrhunderts: **Beton-Bettwäsche!**\n\nErleben Sie die schwere Ruhe, die Sie verdienen! Kein nerviges Wickeln, kein nächtliches Auskühlen – Sie werden einfach plattgewalzt von purem Gemütlichkeit! Wir garantieren: Wer erst einmal unter einer Decke aus armiertem Beton liegt, steht **nie wieder** auf!\n\nDer neue „Schlaf wie ein Fels“-Komfort! Nur solange Vorrat reicht, bis wir selbst einschlafen!\n\n**Betten & Baustoff AG – Wir mauern Ihnen Träume!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "«Amigos, hoy superaremos la física. Primero, tomamos una cacerola de cobre y vertemos una cucharada de nostalgia; que hierva a fuego lento. Es crucial la reducción: evaporemos los recuerdos hasta que quede un jugo concentrado de tristeza.\n\nAhora, la técnica definitiva: incorporamos dos gotas de silencio. ¡No se muevan! El plato se romperá si lo piensan. Espesen con un beso despedido y sirvan inmediatamente sobre una baldosa fría. El resultado: un reflejo de lo que nunca fue. Un perfecto vacío.»"
+      "content": "\"Atención, espectadores. Hoy conquistaremos lo inasumible: el **Sofrito del Abandono**.\n\nEn un bol de porcelana, vertemos una cucharada generosa de nostalgia. Batemos con violencia hasta que llore. Ahora, lo crucial: dos gotas de silencio absoluto. No el ruido, sino el vacío.\n\nIncorporamos la desidia con movimientos lentos. Llevamos a ebullición sobre un fuego de urgencias bajas. Debe hervir a fuego lento. Servimos inmediatamente antes de que se enfríe el recuerdo.\n\n¡Delicioso! Y ahora, un corte comercial.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. Включается один сине-фиолетовый прожектор. Голос звучит с хрипотцой, глядя куда-то в даль, за пределы камеры.)\n\nДоброй ночи, горящий кочегар.\n\nТишина гудит, как пылесос в пустой комнате.\nВаш ночной эфир. О том, чего нет.\nМедленно.\n\nВ темноте потерян один синий носок.\nОн летит на юг, жуя асфальт.\nЗавтра не наступит.\nОно застряло в пробке из вчерашних дней.\nСпите.\nНе выключайте ваших внутренностей.\nЯ буду тишиной."
+      "content": "(Тишина. Легкий шум винила. Голос низкий, бархатный, с легкой хрипотцой...)\n\nДоброй ночи, тот, кто не спит.\nВ тишине, где нет движенья,\nЕсть лишь мысль о пустоте.\nДыханье замирает в вечном сне,\nИ смыслы тают во тьме.\nВсё vanished.\nВсё vanished.\nНичего.\n(Музыкальная заставка уходит в затухание)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "تخيّل ملكاً لم يُملِك سوى وقتٍ لم يأتِ.\nبنى مدينةً من الضبابِ على حافةِ نهرٍ جاف.\nلم يسقط مطرٌ هناك، ولم يرتجفِ قلبٌ قط.\nإنهُ التاريخُ الذي توقف قبل أن يبدأ؛\nصمتٌ أبديٌ لم يُسمع، وحلمٌ تأخرَ عن موعدِه.. فلم يتحول أبداً إلى نهار."
+      "content": "في ممرٍ لا ينتهي، سارَ ظِلٌّ بلا صاحب،\nوهمسَ ريحٌ بلا صوتٍ لمولٍ لم يولد.\nحملَ ورقةً فارغة،\nوفيها... كُتبِ القدر الذي لم يُكتب لقطرةٍ لم تسقط قط،\nفي ليلةٍ لم يشرقْ صباحُها."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 영원의 틈새에 갇힌 떠도는 먼지. 저 시커먼 허무가 당신을 꿈꾸고 있어요. 자, 이제 모든 것을 잊고... 그 속으로 깊이, 미끄러지세요."
+      "content": "모래성처럼 붉은 눈으로 반짝이는 내 존재, 파도 소리는 철학적 뱃속에서 나오는 트림."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§昭Ω雨glitch...0x00‡הרעש<broadcast interrupt>"
+      "content": "ᚠ⍙ᛗ⟨Ɵ∷⎋⌬ ⍒⎚␥☒▥␣Δ"
     }
   }
 }
