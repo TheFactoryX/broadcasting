@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T16:26:44.281083",
+  "timestamp": "2026-02-07T17:24:33.102440",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "受微寒低压槽影响，当前情绪气温3摄氏度，伴有间歇性缄默。午后有望转晴，浮出隐秘的欢愉。建议穿戴隐喻的茧，隔绝过分喧哗的锋面。心防备好，宜在精神荒原漫游。"
+      "content": "今日内心微风多云，当前气温22度，带着一丝薄荷般的微凉。\n\n午后气流攀升，心境由阴转晴，偶有暖阳刺破迷雾。建议外披坚韧铠甲，内搭柔软真丝，去拥抱每一个稍纵即逝的念头。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Breaking news from Zurich, where the Global Time Dilation Symposium has been indefinitely postponed after a sentient analog clock swallowed the keynote speaker. Officials report the grandfather clock became \"agitated\" during a debate on the fluidity of the present moment. Authorities are currently attempting to negotiate with the timepiece, though it refuses to release the host until Daylight Saving Time is permanently abolished. We will keep you updated as the situation unfolds."
+      "content": "Breaking News: In an unprecedented act of civil disobedience, the city’s pigeons have successfully unionized and are now demanding crumb subsidies. Traffic remains at a standstill as thousands of birds block major intersections, holding wings and chanting for better nesting conditions. City officials are currently in negotiations, though the pigeons have reportedly rejected the initial offer of stale bagels, insisting on organic, artisanal sourdough. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深遠な静寂の中で、架空の、かつて存在しなかった風景を詠み上げます。\n\n……。\n\n**一、**\n\n**氷河に　埋もれし言葉　解けずして**\n\n**二、**\n\n**夜更けの　鏡に映らぬ　顔あるべく**\n\n**三、**\n\n**虚空の　重さをささげ　祈りをらず"
+      "content": "深呼吸を一つ。静かに、聞いてください。\n\n**一つ目**\n\n**二つ目**\n\n**三つ目**\n\n終わります。静寂だけが、そこにありました。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des naufragés sur une terre indifférente, cherchant un sens dans le silence des étoiles qui, elles, ne répondent pas. Le ciel est vaste, notre voix est faible. Cette tragédie n'est pas la mort, mais ce poids de vivre sans raison véritable. Pourtant, dans ce vertige, réside notre seule liberté : accepter que tout n’est qu’un éclair fragile, une poignée de poussière emportée par le vent."
+      "content": "La nuit, ce miroir.\n\nNous évoluons dans le silence vertigineux d'un cosmos indifférent. Nous construisons des châteaux de sable, des récits, des amours, persuadés qu'ils pèseront lourd dans le néant. C’est là notre tragédie douce : nous chercherons éperdument un sens là où il n’y a peut-être que le bruit des étoiles qui s’éteignent.\n\nC’est absurde, oui. Mais c’est aussi ce qui rend la moindre de nos secondes si précieuse, si fragile. Et si belle."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Holen Sie sich jetzt **Brocken puren Wochenende**! Endlich Dienstag, aber Sie frieren es einfach ein und genießen den Sonnabend mitunter Dienstag! Keine lästige Arbeit, keine Zeit – purer Genuss im Glas. Achtung: Kann zu seltsamer Mottilosigkeit bei der Oma führen!\n\n**Wochenende. Einfach eiskalt.**"
+      "content": "**Werben Sie nicht nur – beten Sie an!**\nPräsentieren wir: **Liquid Glück 5000!** Vergessen Sie Tabletten! Trinken Sie puren, flüssigen Jubel! Ein Schluck, und Sie lachen bis Dienstag! Der Nebenwind im Leben ist vorbei! Holen Sie sich das Gähnen der Tiefseetintenfische in die Wohnung! Saufen Sie sich glücklich – für ewige Leichtigkeit!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"El éxito de este plato radica en la precisión. En un bol de cristal, vertan una cucharada de nostalgia; debe estar fría, recién sacada del recuerdo. Ahora, la alquimia peligrosa: dos gotas de silencio. ¡Cuidado! Un exceso colapsa el sabor y nos deja vacíos.\n\nReduzcan a fuego lento durante tres décadas. Verán cómo se evapora la urgencia. Debemostriturar el orgullo hasta que quede un polvo fino. Emplaten con la gracia de quien perdona, servido sobre un lecho de olvido. Un bisteck de la verdadera felicidad. ¡Bon appétit!\""
+      "content": "Bienvenidos. Hoy, el desafío es mayúsculo: el \"Ragú de la Memoria\".\n\nComenzamos calentando la sartén. Vertemos una cucharada generosa de nostalgia; dejamos que caramelice lentamente hasta que suelte el aroma de los veranos perdidos. En este punto, la paciencia es clave: añadimos dos gotas de silencio absoluto. El secreto está en no romper la tensión.\n\nDebemos cocinar a fuego mínimo, hasta que el olvido se evapore y solo quede la esencia pura. Servimos inmediatamente. Un plato que se come solo, seco, con los ojos cerrados. ¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В камере отражается лишь пара усталых глаз. Голос звучит сдавленно, чуть шепотом, глядя куда-то вдаль.)\n\nВ тишине висит пустота.\nОна ни о чем не болтает.\nНи единого звука.\nНи даже тоски.\nПросто... ничего.\n(Долгая пауза)\n...Никого.\n\n(Моргает.) С вами была Ночь. Спите."
+      "content": "(Гаснет свет в студии. В кадре только пепел сигареты и тусклый ночник. Глубокий, хриплый голос).\n\n*Сидит луна в луже чая.*\n*Плеснет тоска на хлеб с краю.*\n*В углу молчит сейфа сброс.*\n*Конец. И точка. И/question mark.*\n\n(Долгая пауза. Только гудит трансформаторная будка за окном).\nВ этой пустоте... вы не одиноки. До утра."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "أنتظر، ببرود الجليد، رسالةً من زمنٍ قديم.\nلم تصل.\nالقلمُ عالقٌ بين الحبرِ والظنون، والصفحةُ بيضاءُ كضجيجِ الصمت.\nهل كانَ اللقاءُ وهماً؟\nالحقيقةُ توارتْ في جيبِ نسيان، ولمْ يحدثْ شيءٌ سوى انحناءةِ الروحِ أمامَ سرٍّ مفقودٍ."
+      "content": "تخيّل طفلاً وُلِد في عتمةٍ بلا أمسِ، فرَأى الألوان وهي تصرخُ من ألمِ البرد، ولمسَ الزمنَ بيدٍ لم تُخلق.\nهناك، حيثُ تتعانقُ الرمادَةُ والنور، صرخَ قلبُهُ ولم يَنبض.\nإنهُ حلمٌ لم يزرْ نومَ امرأةٍ، وزهرةٌ عطِشتْ قبلَ أن تمطرَ السماءُ دموعاً.\n... هذا ما لم يكن، ولن يكون."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별들은 우리가 잠든 틈을 타 켜켜이 쌓인 먼지가 되어 흐른다. 헛것, 너의 존재는 저택 전체를 울리는 묵묵한 소유다."
+      "content": "별들은 먼지 속의 눈물이고, 너의 숨소리는 우주의 멈춘 심장. 영원히 켜진 이 방에, 우리는 지워지지 않는 공기로 느껴진다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "砉擦‗☈ 7‡0 @𒐪 ▣▤ bi▧滋.."
+      "content": "梦///𒃯‗ Blitz æø.‡𒍈 G͞litch. \n\n✜あ⍜✜"
     }
   }
 }
