@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-06T23:22:56.439442",
+  "timestamp": "2026-02-07T01:50:15.577674",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温：零下，伴有局部忧郁的霜冻。\n\n午后多云转晴，暖流试图回升。\n\n建议披上厚重的疏离感，内搭一层热烈的幻想。切勿袒露真心，以防着凉。在这精神的荒原里，小心风寒。"
+      "content": "今日东南信风卷携晨露转冷，当前情绪气温徘徊于24°C的微澜。\n\n午后若逢旧事挂碍，偶有短时阵雨；入夜后将转晴，大范围静默接管全域。建议身着丝绸般的疏离外套，内搭一件未寄出的信，以保内心柔软。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: In a stunning development this morning, gravity mysteriously reversed in the greater metropolitan area. Thousands of citizens are currently anchored to their ceilings, and traffic is suspended indefinitely as vehicles float toward the stratosphere. Emergency responders are advising the public to secure heavy furniture and remain calm. Scientists are baffled, blaming the anomaly on a sudden shift in the Earth’s core. We will keep you updated as this situation unfolds."
+      "content": "\"Good evening. Chaos ensued today when gravity malfunctioned in downtown Minneapolis, suspending rush-hour traffic ten feet above the pavement. Authorities report that local pigeons are now organizing a hostage situation, demanding higher quality breadcrumbs in exchange for landing clearance. City officials urge calm, advising commuters to simply grab onto a lamppost until the anomaly reverses. We will keep you updated as this developing, weightless story unfolds.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深呼吸をひとつ。静寂の中に、言葉を紡ぎます。\n\n夜明けの海に浮かぶ、青い影。\n追えない鳥。\nそして、誰も覚えていない街角。\n\nどうぞ、耳を澄ませて。\n\n***\n\n**霧の奥　片足立ちの　青の塔**\n\n(Mist no oku / Katayachi-dachi no / Ao no tō)\n\n***\n\n**雨音の　隙間に咲いて　逝く光**\n\n**\n\n***\n\n**無限の　階段を　降りる秒針**\n\n(Mugen no / kaidan o / oriru byōshin)\n\n***"
+      "content": "……静かに、お耳を貸してください。\n\n虚空を描くように、三つの句を詠みましょう。\n\n**\n\n暗闇に　透明な棘　なくなりぬ\n\n**\n\n昨夜の夢　かたちなき森　雨は降る\n\n**\n\n指のまたに　零れた　無の匂い\n\n……どうぞ、お楽しみください。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cendre fumante. Nous sommes des êtres faits pour l’éternité, jetés dans le temps. Nous cherchons un sens là où il n’y a que le silence du vide. C’est là toute l’absurdité : on attend Dieuot, mais Dieuot ne vient pas. Nous sommes condamnés à être libres, à donner un sens à l'abîme. Et le plus troublant, c'est que cette tristesse même, finalement, est peut-être la seule chose qui nous rattache à l'humain. Bonne nuit."
+      "content": "Regardez cette cigarette. Elle se consume, et nous avec. Nous vivons dans l’intervalle entre deux silences. Nous cherchons désespérément un sens derrière le voile du monde, mais le ciel reste obstinément muet. Nous sommes des naufragés qui rêvent d’une rive qui n’existe pas. Cette attente, ce vertige, c’est tout ce que nous avons. Il faut aimer cette absurdité. C’est notre seule vérité."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**GÖNN DIR DIE RUNDE!**\n\nHör auf, Zeit zu verschwenden – *trink* sie! Mit neuem **FLÜSSIGE MONATE** purzeln die Jahre direkt in Ihre Kehle! Ein Schluck Sonntag, zwei Züge Urlaub, sieben Tage Feierabend in nur einer Sekunde!\n\nWarum warten, wenn das Leben vorüberfliegen kann? Haltbarkeit: Unendlich. Nachgeschmack: Wie Garantie! Greifen Sie zu, bevor es zu spät ist – oder schon wieder vorbei ist! **FLÜSSIGE MONATE:** Saufen Sie sich durch die Ewigkeit"
+      "content": "**WunderBar! Das hielt ich für unmöglich!** Vergessen Sie lästige Kauen! *Flüssiges Wochenende* schmeckt nach 100% Freiheit und 0% Verantwortung! Ein Schluck Montagmorgen? Giftige Pfeife! Aber unser exklusives Konzentrat aus „Nix tun“ und „Sonne“ schmeckt nach Urlaubsgefühl direkt in die Vene! Kauft, riecht, erlebt: Flüssiges Wochenende! **Verdunstet garantiert nicht!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Bienvenidos. Hoy haremos un Tiempo Detenido.\n\nEn un bol de cristal, viertan una cucharada de nostalgia de niñez. Deben batirla con tres onzas de paciencia, moviendo la cuchara siempre en el mismo sentido. Les pido absoluto silencio ahora.\n\nIncorporen dos gotas de silencio absoluto; es el ácido que equilibra el plato. Deben cocinar a fuego muy lento, hasta que la mezcla susurre.\n\nLo servimos sobre un plato de cerámica fría. Si se quema, perdemos la esperanza. Así queda la memoria perfecta. ¡A cocinar"
+      "content": "Bienvenidos al último nivel de la cocina molecular. El plato de hoy es una \"Memoria Fracturada\".\n\nEn un bol de porcelana, vertan una cucharada generosa de nostalgia; debe pesar, oprimir el pecho. Con un cuentagotas, añadan dos gotas de silencio para cortar la acidez del ruido. Agiten con movimientos lentos, respetando la cadencia del tiempo.\n\nTermine a fuego lento con una pizca de \"lunes por la mañana\". Si logran emulsionar la tristeza sin que se rompa el corazón, el plato está listo. Servir inmediatamente antes de que el olvido lo enfríe."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "В углу сидело молчание.\nОно ело тени с обеденного тарелка.\nЧасы тикали наоборот, пытаясь вернуть вторник.\nКот посмотрел на пустоту.\nПустота посмотрела в телевизор.\nНикто ничего не сказал.\nИ это было правильно.\nСпокойной ночи."
+      "content": "(Голос низкий, хриплый, звучит чуть громче шепота. В кадре тишина, слышен лишь легкий треск dyno.)\n\nДоброй ночи. В эфире... Ничто.\n\nВ пустой комнате горит свет,\nУ_nil_я_ нет, и ответа нет.\nКот смотрит в стену, я смотрю в трубу...\nНигде никого. И в этом — суть.\n\n(Долгая пауза. Взгляд устремлен в камеру, но сквозь неё.)\n\nОставайтесь с пустотой. Будьте... ни кем."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في مدينة لا يلمس ضوءُها شوارعها، انتظرتُ قطاراً لم يُصنع قط، من محطةٍ خرجت من الذاكرة قبل أوانها. سمعتُ رنات جرسٍ لم تُدق، عبر نافذةٍ أُغلقت قبل عصور، ولا زلتُ أنتظر؛ ففي تلك الأرضِ المهجورة، لن يلتقي القادم أبداً بالوعد."
+      "content": "هناك ضوءٌ.. لم يولد من شمسٍ، ولم يلمسْ أرضاً.\nسافرْنا في مركبةٍ من ندى، وعبرنا بحراً من نسيان، للقاء ربيعٍ لم يُكتب له أن يزهر.\nرقصنا.. حتى تآكلت ظلالنا، لكن الموسيقى لم تبدأ قط.\nلقد عشنا عمراً كاملاً في لمح البصر، في ثانيةٍ سُرقتْ من الزمن، ولم تقع أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "저기, 긴 터널을 지나오셨나요? 우린 그저 빛을 타고 허공을 떠다니는 아스피린일 뿐입니다. 취사… 선택… 잠시 끊김."
+      "content": "별들은 사라진다, 남은 건 먼지뿐. 당신의 존재는 허무의 잔향, 우연이 빚어낸 향수. 영원히 지지 않는, 아무것도 아닌 꿈."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§ø¶‰¢¶∆¡∂ ƒ¿®≈Ωˇ¿æ ∑ø∂ƒ ®…ç√µ"
+      "content": "静-ERR§0xF_жλk33p...glitch.."
     }
   }
 }
