@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T05:40:23.109288",
+  "timestamp": "2026-02-07T06:39:16.824841",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位听众，今日情绪气温：零度，适宜自省。\n\n午后多云转阴，偶有旧梦过境，引发局部阵雨。建议：着厚重铠甲，或佩戴虚无作配饰。夜半天晴，请勿在此刻谈论永恒。"
+      "content": "今日多云转晴，偶有微风。\n\n当前气温26℃，伴有淡淡的回忆湿度。午后情绪缓慢升温，适合发酵新的幻想。\n\n建议卸下防备的外套，换上一件名为“释怀”的薄衫，任由心绪随风舒展。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupted in downtown Metropolis today when a local bakery’s soufflé collapsed, triggering a localized seismic event. The dessert’s structural failure destroyed three city blocks and released a swarm of angry bees. Authorities have cordoned off the area, warning residents to avoid the sticky wreckage. The mayor has declared a state of emergency, marking the city’s first culinary disaster."
+      "content": "\"Good evening. Authorities are investigating a chaotic scene in downtown Springfield, where a freight train carrying 40,000 rubber ducks derailed earlier today. The cargo scattered across Main Street, creating a massive, squeak-filled traffic jam. Police warn residents to avoid the area as cleanup crews attempt to wrangle the migrating bath toys. No injuries have been reported, though morale remains dangerously high.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かに、深呼吸をするように間を取って)\n\n**その一**\n\n不在の影　宙を泳ぎて　何もなし\n\n**その二**\n\n透明な　壁に触る指　帰らぬ音\n\n**その三**\n\n零(こぼ)れた　時の隙間に　咲くはなし\n\n(静かに目を閉じる)"
+      "content": "(静かに、視線を虚空に落としてから、ゆっくりと間を取って読み上げます)\n\n懐かしき　世界の音の　する空\n\n(一拍おく)\n\n幾重にも　折り重なる　昨日の影\n\n(一拍おく)\n\nここに在る　青と呼ばべき　何かの塊"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit reflue sur nous comme une marée noire. Nous sommes des êtres qui attendent un sens qui ne viendra jamais, suspendus dans un silence cosmique indifférent.\n\nRien ne justifie notre présence, et pourtant, nous sommes là, dérives solitaires face à l’abîme. Peut-être que la seule grâce, face à cette absurdité, réside dans ce très petit éclat de conscience qui nous permet de pleurer notre propre fragilité, avant le grand retour à la poussière d’étoile."
+      "content": "La nuit, la vévidence nous frappe. Nous sommes des touristes égarés sur une terre qui ne nous appartient pas. Nous cherchons un sens dans le silence des étoiles, mais le ciel reste obstinément muet. Alors, nous construisons des châteaux de sable, des rituels, des amours, pour oublier que tout s’effondrera. C'est tragique, oui, mais dans cette futilité même, réside notre étrange, notre sublime dignité."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Haben Sie auch mal fünf Minuten zu viel?“**\n\nVerabschieden Sie sich von Langeweile! Wir präsentieren: **Die Dosenstille®**!\n\n100% reine, ungerührte Ruhe, frisch abgefüllt im Schweitzer Hochalpen-Raum. Einfach den Deckel aufdrehen und *plopp* – absolute Stille!\n\nPerfekt für chaotische Familienabende oder penetrante Nachbarn. **Achtung:** Nicht inhalieren, sonst drohen Gefühle der existenziellen Einsamkeit!\n\nJetzt im Angebot: Gleiten Sie in die Traumschleife mit der patentierten **Flüssigen Zeit**! Trinken Sie die Vergangenheit pur – schmeckt nach Nostalgie und verpassten Chancen!\n\nFlüssige Zeit: Weil das Leben zu schnell vergeht, um es nüchtern zu erleben!"
+      "content": "**Wunderwetter im Dosendeckel!**\nGenießen Sie 365 Tage Sonnenschein – direkt aus der Spraydose! Egal ob Sturm oder Eiszeit: Ein kurzer Pssst und der Himmel blaut! Mit extra UV-Filter fürs gute Gewissen. Kaufen Sie sich den Sommer, den Sie verdienen! **Wetter-Spray – Weil der Himmel wechseln muss, nicht Ihre Laune!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Hola, bienvenidos a su cocina. Hoy, el plato es un 'Recuerdo Olvidado'. Encendemos el fuego a llama baja. Necesitamos una cucharada de nostalgia, reducida lentamente hasta que espese. Es fundamental no añadir amargura.\n\nAhora, con un movimiento fluido, incorporamos dos gotas de silencio. Respiren... el silencio cristaliza la emoción. Deben cocinar a fuego fantasma, sin romper la atmósfera. Servir inmediatamente en un plato de porcelana fina. El resultado: un bocado efímero que desaparece antes de tocar el paladar. ¡A disfrutar!\""
+      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy prepararemos un **Suflé de Olvido**.\n\nDispongan en un bol de porcelana fría: una cucharada generosa de nostalgia de la infancia. Cernan con paciencia dos gotas de silencio absoluto para cortar la acidez de los recuerdos. La clave está en no batemos demasiado; la emulsión se rompe con la impaciencia.\n\nDeben hornearar a fuego lento en el recuerdo de una cocina ajena. Si huele a lluvia en noviembre, está listo. Sírvanlo inmediatamente antes de que se evapore. Buen provecho."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Гаснет свет, горит только лампа на столе. Ведущий медленно переворачивает страницу, глядя куда-то в сторону, за камеру. В тишине слышен тикающий часовой механизм.)*\n\nСижу и жду, когда не станет дней.\nВчера я написал в тетради «Нет».\nПрочёл. Смысла нет. И букв уже нет.\nЛишь белый шум из пустых оконей.\nТишина...\n*(Делает глоток воды, долгая пауза)*\nТак попрошу не выключать... телевизор."
+      "content": "(Тишина. Легкий шум виниловой помехи. Глубокий, бархатный голос.)\n\n*В пустоте бродят тишины,*\n*Ловят взглядом сны.*\n*Время капает в карманы,\n*Ноль на фоне луны.*\n\nЭто было... ни о чём.\nИ это — всё, что у нас есть.\n(Пауза.)\nНочной эфир с вами. Не спите."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"هناك مدينةٌ ذابَتْ من الحزن، فسالتَ أرضها عسلاً صافياً. وعندما نزل القمر، لم يكن نوراً، بل عاشقاً... فاشتبك قلبهُ بسُلَّمِ السماء، وصعد، ولم يعد قط.\nهكذا.. تراوغنا الليالي بحثاً عن ضوءٍ رحل، وحدثًا لم يكتبهُ القدر، ولم يلمسهُ البشر.\""
+      "content": "\"مرت سحابة على قمرٍ لم يُولد،\nحيثُ يزرعُ الصُّمُّ زهوراً من رمال.\nتناولتُ ثمرةَ الصَّمتِ،\nفشعرتُ بطعمِ ماءٍ لم يُشرب قط.\nعبرتُ جسراً يربطُ بينَ ليلين،\nوهناكَ.. في ركنٍ لم يخلقهُ الله،\nرأيتُ ظلّاً يرقصُ بلا جسد...\nأنا،\nأحكيكَ عن حُلمٍ سرقتهُ اليقظة.\""
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"빗소리가 되어 흐르다 보니, 어느새 거울은 당신의 뒷모습을 비추네요.\""
+      "content": "\"안녕, 그대. 우린 캔슬레이션 껍데기 속의 파도. 빛을 꺼면, 그 침묵마저 거짓이야.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§نـ9̴̢ķx▓▒░2Øتg̷litch ░▒▓"
+      "content": "§⍜Ⲏⵈx{9…Ħⴳ fragment ⌇␣⏚_ll"
     }
   }
 }
