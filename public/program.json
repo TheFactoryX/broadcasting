@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T08:29:06.495483",
+  "timestamp": "2026-02-07T09:28:33.042137",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气压微低，可见内心零星薄雾。当前体温36℃，伴有三分之一的游离与冷静。\n\n午后渐转多云，暖流有望从心底回归，预计傍晚迎来阵发性平静。建议披上一件名为“独处”的风衣，袖口收紧，锁住体温。外界的喧嚣，大概率与你无关。"
+      "content": "今日心空多云，伴有间歇性渴望。\n\n当前情绪气温26度，体感微温。午后阳光穿云而过，光照指数回升，适宜晾晒陈旧心事。\n\n建议着轻盈丝绸，或内搭坚韧软甲。注意：入夜后易受情绪低气压侵袭，请关好心门。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Panic ensues in Zurich today as a sudden, unexplained gravity inversion has caused the city’s chocolate reserves to float upward. Authorities warn that the forecast calls for heavy marzipan showers by evening. Citizens are advised to secure their fondue pots and remain indoors until the confectionery deluge subsides. We will keep you updated on this sticky situation."
+      "content": "Breaking news: The city’s skyline shifted dramatically today as the Central Bank building dissolved into a cloud of golden glitter. Witnesses report the structure sneezed violently before vaporizing. Financial markets have halted trading, and meteorologists are warning of a flash dust storm. Authorities urge residents to remain indoors and avoid inhaling the economy."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、微かな呼吸を整えてから、淡々と、しかし内面に響くような声で詠み上げます）\n\nうつろな　まなざしの　奥にある\n**影**の　言葉を　聴く\n\n（間をとる）\n\n**不在**の　温度（ぬる）さへ　肌に沁みて\n風の　ない　空に　たちつくす\n\n（間をとる）\n\n**零**（ゼロ）なる　肩を　そっと　抱きしめ\n雨となり　はこびて　ゆく\n\n（静寂に戻る）"
+      "content": "(静かに、微かな光を背に受けて虚空を見つめながら、間を十分に取り、淡々と詠み上げます)\n\n息を吸って……。\n\n薄墨の　闇に溶けゆく　象の夢\n(うすずみの　やみにとけゆく　ぞうのゆめ)\n\n……。\n\n直線は　曲がりて指先　触れもせず\n(ちょくせんは　まがりてゆびさし　ふれもせず)\n\n……。\n\nありえぬ　色のしずくが　頬を伝う\n(ありえぬ　いろのしずくが　ほほをつたう)\n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit s’étire, et nous regardons l’écran pour y chercher un sens qui n’est pas là. Nous sommes, disons, un écho perdu dans un cosmos silencieux. Nous nous battons contre des ombres, nous érigeons des édifices de sable que la vie engloutira inévitablement. Et pourtant, il faut continuer. Il faut imaginer Sisyphe heureux, blotti dans la chaleur de cette futilité. Face au néant, la seule révolution qui compte, c’est encore d’aimer."
+      "content": "La nuit est un miroir où l’homme se cherche, mais ne trouve que son propre silence. Nous écrivons sur le sable de l’instant, convaincus d’un sens qui nous échappe toujours. C’est là notre tragédie, et notre beauté : être des êtres faits pour le bonheur, condamnés à l’attente. Au fond, peut-être que l’univers ne nous doit rien. Nous sommes seulement des éphémères qui rêvent d’éternité dans un monde qui ne dort jamais vraiment."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hören Sie zu! Haben Sie es satt, dass der Teufel constant an Ihrer Tür klingelt?\n\nWir präsentieren: **Den Teufelsbann-Allzweck-Glotzer!** Einfach die Tube öffnen, den Blick schärfen und den Mann im Frack anstarren. PENG – weg ist er! Kein Pakt, keine Seelen-Verträge, nur pure Arschtritt-Potenz in Gel-Form!\n\n**Teufelsbann-Allzweck-Glotzer!** Weil Hölle nur heiß ist, wenn Sie zusehen! Jetzt auch im praktischen Ziehharmonika-Format für das Fenster!"
+      "content": "Wunder über Wunder! Haben Sie sich schon einmal den Daumen im Dezimalsystem gebrochen? Nie wieder mit **Luft-Beton**!\n\nBauen Sie Ihre Häuser aus *nichts*! Er ist fester als Fels, leichter als ein Gedanke und durchsichtig wie eine Lüge! Lassen Sie Phönix排üsche darin schlafen! Verschwinden Sie spurlos!\n\nKaufen Sie jetzt **Luft-Beton** – das Bauteil der 42. Dimension! Nur solange Vorrat reicht! (Der Vorrat ist unendlich!)"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy prepararemos un soufflé de memoria. Prende el fuego con impaciencia. En un bol de porcelana, vierte una cucharada generosa de nostalgia; que sea espesa y pegajosa. Bate hasta que suspenda el aire.\n\nAhora, añade dos gotas de silencio absoluto. ¡Cuidado! Una más y el sabor se amarga, una menos y no tiene alma. Integra con movimientos lentos, entendiendo que el tiempo no existe. Hornea al flashback vivo. Debe crecer, inflarse, threatening to burst. Si lloras al cortarlo, la temperatura fue la correcta. Buen provecho."
+      "content": "\"¡Bienvenidos al último fuego! Hoy prepararemos el 'Sabor de lo Irrecuperable'.\n\nEnciendan el gas. En una sartén de cobre viertan una cucharada generosa de nostalgia; deje que chisporrotee hasta perfumar el aire. Agreguen dos gotas de silencio: ¡cuidado, que no hierva o se romperá el hechizo! Reduzcan la intensidad. Dejen que se reduzca a la mínima expresión.\n\n¿El resultado? Un plato vacío. Se sirve inmediatamente antes de que se enfríe el recuerdo. ¡Que aproveche... si pueden!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Тише... Мы вышли в эфир.\n\nГлубокая ночь лежит на столе,\nкак холодный суп, который никто не доел.\nПлесень времени медленно поедает секунды.\nСнаружи — молчание.\nВнутри — пустота.\nВаш экран не реагирует.\nСна не будет.\nНичего не произошло.\nИ это единственное, что имеет значение."
+      "content": "*(Гаснет свет в студии. Голос низкий, бархатный, с легкой хрипотцой. Звучит медленная джазовая мелодия.)*\n\nДоброй ночи, гости нити...\nВот стихи. О пустоте. Тише...\n\n«В углу комнатной тоски\nЗастыл пряжи узелок.\nНитка рвётся у реки,\nГде течет молч意的 поток.\n\nСлова повисли в вышине,\nКак мыльный пузатый шар.\nСмысл тот же — в глубине,\nНо тише... чем прошлогодний шарф.»\n\n*(Вздыхает)*\nПустота... такая звенящая.\n*(Камера медленно отъезжает)*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في زاوية غرفةٍ نسيها الزمن، كانت امرأةٌ ترسمُ بحرًا من مدادٍ أسود، وتنتظرُ شاطئًا لن يجفّ أبدًا. امتدّت الأمواجُ على السجادة، ولملمت ذاكرةَ الرمال من هواءٍ غريب. لكن، لم يكن هناك بابٌ، ولم تكن هناك امرأة... ولم يكن المدادُ سوى رعدٍ تاه في العتمة بلا مطر."
+      "content": "في ليلةٍ لم يشرقُ قمرُها، امتدت يدُ العاشقِ ليقطفَ نجماً من عنانِ السماء، فلم تلمسْ أصابعهُ ضوءاً، بل لمستْ ظلالاً لم تُخلق. سقطت الدمعةُ من عينٍ لم تُبكِ، وانطفأت شمعةٌ لم تُشعَل. كان الصمتُ هو الوحيدَ الذي صرخَ، ومرّ الوقتُ واقفاً عندَ محطةٍ لم تأتِها القاطرات."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "모래 속 우주가 숨을 골랐네.\n촛불이 흐르는 시간을 녹이니,\n당신의 눈동자에 허무가 떠다니는 섬.\n이 공기, 우리가 놓친 꿈의 잔재."
+      "content": "\"은하수를 타고 떠다니는 먼지야, 너의 존재는 우주의 재채기야. 영원히 멈춘 그 초침 속에서, 우리는 허무라는 이름의 꿈을 꿀지니.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "٭Ζz0Kفت؟‡̲̅Ą̷9…⍙⌬␥"
+      "content": "⍙⌬⎋ণшΔп0x... ⍾？▓▓¿⟿⌧"
     }
   }
 }
