@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T14:23:41.046372",
+  "timestamp": "2026-02-07T15:22:24.505206",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位观众，今日早间弥漫薄凉晨雾，但正午阳光普照，暖意将穿过云层大幅回升。午后偶有阵雨，那是去旧迎新的洗礼。建议裸露灵魂感官，佩戴风度外套，去拥抱这场盛大的晴朗。"
+      "content": "今日内心多云，伴有片刻游离。\n\n当前情绪气温徘徊在微凉的22℃，起伏在平静与渴望之间。午后或将迎来一场短暂的落日阵雨，建议披上一件名为“独处”的轻薄雨衣。夜幕降临，情绪转晴，宜在星空下深呼吸。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupts in downtown Metropolis as the municipal fountain spontaneously transformed into a geyser of lukewarm tapioca pudding. Authorities are baffled as the dessert currents swept away three parked vehicles and a hot dog stand. City officials have issued a statement urging residents to avoid the area, describing the situation as \"delicious but structurally compromising.\" The National Guard has been deployed with giant spoons."
+      "content": "Breaking news. Local authorities are baffled as the town clocktower began melting this afternoon, dripping bronze onto Main Street. The mayor has declared a state of emergency, urging residents to avoid the pooling metal. Experts remain puzzled, though they confirm the time is currently \"saucy.\" We will keep you updated as the situation solidifies."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かな口調で、間をたっぷりととって)\n\n夜空の、そこにあるべきではない穴。\n星の光は、遠い記憶の澱（おり）。\n\n星の穴　時間（とき）の澱を　啜（すす）りけり\n\n***\n\n透明な壁に触れても、指は通り抜けていく。\n冷たいのに、温度はない。\n\n硝子越の　指先の色の　なかりけり\n\n***\n\n真夜中に、誰かが呼んだ名前。\nそれは、まだ名付けられていない響き。\n\n夢うつつ　未（いま）だ名無きを　呼びて止む"
+      "content": "(静かに、目を伏せて、存在しないものの輪郭を指でなぞるように)\n\n一つ。\n\n**虚無の青に浮かぶ消音（ミュート）の鈴**\n(うつみのねはる　きょむのあおにうかぶ　ミュートのすず)\n\n二つ。\n\n**夢のあとかた　ならぬ階段（ハシノテ）を　降りてゆく**\n(ゆめのかたち　ならぬはしのてを　おりてゆく)\n\n三つ。\n\n**零（ゼロ）の花　咲いて散りゆく　静寂（シズマ）の中**\n(ぜろのはな　さいてちりゆく　し�ずまのなか)\n\n(間をおく)\n\n……終わりました。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit, face à cette caméra aveugle, je constate notre fragilité. Nous sommes des naufragés qui cherchent un sens dans un océan d’indifférence. L’univers garde le silence, mais nous, nous continuons d’inventer des histoires pour ne pas pleurer. C'est là toute notre grandeur et notre ridicule : être des êtres qui désirent comprendre dans un monde qui ne parle pas. Une tragédie silencieuse, beauté pure du néant."
+      "content": "La nuit, la vérité nous atteint. Nous sommes des corps perdus dans un univers indifférent, cherchant désespérément un sens qui n’existe pas. C’est le grand vertige.\n\nPourtant, dans cet élan vers un impossible horizon, l’homme se grandit. Nous sommes Sisyphe, et la pierre qui roule est notre seule certitude. Il faut imaginer notre heureux serviteur, conscient de l'absurde, ardent malgré le néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Endlich verfügbar: Stille in Dosen!**\n\nLeiden Sie unter nervigen Kollegen oder kreischenden Kindern? Mit der *Premium-Ruhe* ist Schluss! Einfach den Deckel öffnen und: absolute, herrliche Stille!\n\nOb im überfüllten Open-Plane-Büro oder beim Familienbesuch – mit *Stillo 3000* haben Sie die Kontrolle!\n\nAchtung: Länger als 5 Sekunden inhalieren kann zum Vergessen des eigenen Namens führen!\n\n**Jetzt kaufen! Bevor Sie vergessen, wofür Sie bezahlt haben!**\n*Ruhe. Konsequent.*"
+      "content": "Haben Sie das Gefühl, dass 24 Stunden einfach nicht reichen? **Probieren Sie jetzt „Chrono-Flüssige Zeit“!** Einfach pur über den Tag träufeln lässt Sie die Mittagspause in Sekunden genießen und die Nacht zum ewigen Tropenparadies ausdehnen! Müde? Nie wieder! Der Teelöffel Zeitraum-Expansion ist die Lösung! Warnung: Exzessiver Gebrauch zu extremem Altern oder dem Verschwinden in der vierten Dimension führen kann. **Zeit ist vergänglich – unsere Flüssigkeit ist für die Ewigkeit gemacht!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "[Haciendo gestos precisos con las manos ante la cámara]\n\n Hoy, la receta definitiva: \"El Eco del Pasado\".\n\nEn un bol de cristal, vertan una cucharada generosa de nostalgia. Deben batirla con energía, sin miedo a que se agriete. Ahora, la clave: dos gotas de silencio absoluto. Cuidado, no excedan la dosis o el plato se enfriará.\n\nDeben cocerlo a fuego lento, mirando siempre hacia atrás. Deben retirar el plato justo cuando empiece a doler. Servir inmediatamente antes de que el olvido se evapore. ¡Buen provecho!"
+      "content": "¡Bienvenidos al santuario del sabor! Hoy conquistamos el plato imposible: el \"Vacío de Oro\".\n\nTomamos una cacerola de acero frío. Vertemos una cucharada generosa de nostalgia; debe burbujear lentamente sin quemarse. Inmediatamente, agregamos dos gotas de silencio. Ojo con la temperatura: un exceso de ruido y la emulsión se cuajará.\n\nDejamos reducir hasta que la cocina se sienta lejana. Servimos inmediatamente sobre un plato de porcelana fina. No se come con la boca, se saborea con la memoria. ¡Excelente!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, хриплый, звучит чуть громче шепота. Легкий стереофонический эхо-эффект.)\n\nТише... Мы в эфире.\n\nВ шкафу пустота,\nВ тишине — звук отвертки,\nСыр рассыпался,\nНебо съело куртку.\n\nНиже... еще ниже...\n\nПаук чешет спину,\nВремя ест стену.\nКонец.\n\n(Тишина.)"
+      "content": "(Гаснет свет в студии. На мгновение звучит только тихий гудение напряжения.)\n\nВечер не начинается.\nВечер — это просто опечатка в календаре.\nТишина... громче, чем ваш страх.\nСмотрите в экран. Там никого нет.\nИ никогда не было.\nВсё это — просто пыль на объективе.\nСладких снов... в пустоту."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ثانيةٍ غفلٍ، تخطّى الظلُّ حدود الضوء... دون أن يُلقي ظلالاً.\nارتحل البحرُ عن الشاطئ... تاركاً الرمالَ تشتهي الموج، رغم أن الغرقَ لم يكن ليُروي عطشاً.\nهناك، حيثُ يتعانقُ الصمتُ مع العدم، تنفسَتْ وردةٌ في صحراءَ لم تُخلق... فانتثرتْ رائحةُ الحلمِ في فضاءٍ لا يُعرف."
+      "content": "في ليلة لم يشرق صبحها، ودججت الأمسيةُ ركبها بالزعفرانِ والنعاس... رنّ جرسٌ في غرفةٍ مهجورة. لم يسمعه أحد، ولم يتزحزح الغبار. كان الصمتُ هو الوحيد الذي انتفض، مرتدياً صورةَ ضيفٍ وعد ولم يأتِ. هناك، في خيبةِ ظلٍ لم يمتد... حدثَ كلُّ شيء، ولم يحدثَ شيء."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"존재는 쥐어짜진 소시지의 꿈. 허무는 그 안에 숨겨진 부러진 이죠. 그저 조용히, 씹으세요.\""
+      "content": "모든 별은 타버린 꿈이고, 너의 한숨은 우주의 가장자리를 갉아먹는 소리. 그저 켜진 TV 속, 내가 너를 비추는 빛일 뿐이다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "ф§$z曇 static... 砂... 💀 glitches //"
+      "content": "$ÿ死Ωζ...брыз static_†.0 [signal lost]"
     }
   }
 }
