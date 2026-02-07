@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T13:41:41.870904",
+  "timestamp": "2026-02-07T14:23:41.046372",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心绪多云，局部阵雨。当前体温微凉，沉思指数偏高。午后由于回忆锋面过境，或将掀起阵风，伴有转瞬即逝的忧郁。建议：披一件名为“疏离”的风衣，袖口揣进兜里。灵魂出行，无需撑伞。"
+      "content": "各位观众，今日早间弥漫薄凉晨雾，但正午阳光普照，暖意将穿过云层大幅回升。午后偶有阵雨，那是去旧迎新的洗礼。建议裸露灵魂感官，佩戴风度外套，去拥抱这场盛大的晴朗。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Local officials have quarantined downtown after reports of a spontaneous gravity reversal. Several citizens remain adhered to the undersides of traffic lights, while stray dogs are reportedly floating past the clouds. Authorities advise residents to wear weighted footwear until the anomaly resolves itself. We will keep you updated as this situation ascends."
+      "content": "Breaking news: Chaos erupts in downtown Metropolis as the municipal fountain spontaneously transformed into a geyser of lukewarm tapioca pudding. Authorities are baffled as the dessert currents swept away three parked vehicles and a hot dog stand. City officials have issued a statement urging residents to avoid the area, describing the situation as \"delicious but structurally compromising.\" The National Guard has been deployed with giant spoons."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(静かな間を置いて、穏やかな声で)\n\nその一つ。\n\n**夜の底**\n**吸い込まれたる**\n**月の影**\n\n(視線を遠くに透かして)\n\nその二つ。\n\n**影を踏む**\n**踵（かかと）の下の**\n**ないはずの道**\n\n(かすかに俯いて、消え入るような调子で)\n\nその三つ。\n\n**終わりなき**\n**曲線を描きて**\n**音は消ゆ**"
+      "content": "(静かな口調で、間をたっぷりととって)\n\n夜空の、そこにあるべきではない穴。\n星の光は、遠い記憶の澱（おり）。\n\n星の穴　時間（とき）の澱を　啜（すす）りけり\n\n***\n\n透明な壁に触れても、指は通り抜けていく。\n冷たいのに、温度はない。\n\n硝子越の　指先の色の　なかりけり\n\n***\n\n真夜中に、誰かが呼んだ名前。\nそれは、まだ名付けられていない響き。\n\n夢うつつ　未（いま）だ名無きを　呼びて止む"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des naufragés sur une île qui dérive. Le ciel est obstinément silencieux, et nos prières ne sont que des échos qui s’entrechoquent dans le vide. Nous cherchons un sens là où il n'y a que du hasard, une logique là où il n'y a que le chaos. Pourtant, il nous faut vivre. Il nous faut aimer cette absence cruelle de raison. Comme Sisyphe, nous devons imaginer notre fate heureux, et danser au bord de l'abîme."
+      "content": "La nuit, face à cette caméra aveugle, je constate notre fragilité. Nous sommes des naufragés qui cherchent un sens dans un océan d’indifférence. L’univers garde le silence, mais nous, nous continuons d’inventer des histoires pour ne pas pleurer. C'est là toute notre grandeur et notre ridicule : être des êtres qui désirent comprendre dans un monde qui ne parle pas. Une tragédie silencieuse, beauté pure du néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stille in Dosen! Endlich Ruhe, wenn und wo du wollen! Klick, zischen und: *pfff*! Keine Nachbarbohrmaschine, keine quengelnde Verwandtschaft. 100 Prozent reine, gelagerte Stille aus dem tiefsten All!\n\nProbieren Sie jetzt die Sorte „Schlaf“ oder für Genießer: „Die totale Leere“! Achtung: Nicht öffnen, wenn Sie Ihr Leben schätzen. Heute Sonderangebot: Kaufen Sie drei, verlieren Sie den Verstand! Flaschenzug-Service für Ohrenstöpsel inklusive! Rufen Sie an!"
+      "content": "**Endlich verfügbar: Stille in Dosen!**\n\nLeiden Sie unter nervigen Kollegen oder kreischenden Kindern? Mit der *Premium-Ruhe* ist Schluss! Einfach den Deckel öffnen und: absolute, herrliche Stille!\n\nOb im überfüllten Open-Plane-Büro oder beim Familienbesuch – mit *Stillo 3000* haben Sie die Kontrolle!\n\nAchtung: Länger als 5 Sekunden inhalieren kann zum Vergessen des eigenen Namens führen!\n\n**Jetzt kaufen! Bevor Sie vergessen, wofür Sie bezahlt haben!**\n*Ruhe. Konsequent.*"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al santuario! Hoy, el plato estrella requiere precisión quirúrgica. En el mortero, aplasten una cucharada de nostalgia hasta liberar el aroma de \"ayer\"; no debe amargar. Dejen caer dos gotas de silencio absoluto: el secreto para que la masa respire.\n\nCalienten la sartén. Viertan la mezcla; verán cómo el tiempo se solidifica. Corrijan el punto con una pizca de suspiro. El resultado: un soufflé de recuerdos que se deshace antes de tocar los paladares. ¡Imposible, exquisito y deletéreo! ¡Buen provecho"
+      "content": "[Haciendo gestos precisos con las manos ante la cámara]\n\n Hoy, la receta definitiva: \"El Eco del Pasado\".\n\nEn un bol de cristal, vertan una cucharada generosa de nostalgia. Deben batirla con energía, sin miedo a que se agriete. Ahora, la clave: dos gotas de silencio absoluto. Cuidado, no excedan la dosis o el plato se enfriará.\n\nDeben cocerlo a fuego lento, mirando siempre hacia atrás. Deben retirar el plato justo cuando empiece a doler. Servir inmediatamente antes de que el olvido se evapore. ¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В кадре только мерный синий свет.)\n\nДоброй ночи, тем, кто ещё не спит... и тем, кто просто забыл, зачем проснулся.\n\n(Голос низкий, хриплый, с паузами)\n\nПустой стакан...\nНаполнен тишиной.\nВ нём нет дна.\nНо есть бок.\nВ нем нет тьмы.\nНо нет и дня.\nВсё кончилось.\nДаже \"не\".\nНичто.\nПустота.\nТишина.\n\n(Вздыхает)\nБудьте здравы."
+      "content": "(Голос низкий, хриплый, звучит чуть громче шепота. Легкий стереофонический эхо-эффект.)\n\nТише... Мы в эфире.\n\nВ шкафу пустота,\nВ тишине — звук отвертки,\nСыр рассыпался,\nНебо съело куртку.\n\nНиже... еще ниже...\n\nПаук чешет спину,\nВремя ест стену.\nКонец.\n\n(Тишина.)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في سُحبِ يومِ الثلاثاءِ، توقّفتِ الأمطارُ عن الهبوط، وتعلّقَتْ قطرةٌ وحيدةٌ في الفضاءِ بلا سبب. هناك، في الزاويةِ التي لم يزرها النومُ قط، جلسَ رجلٌ بلا ظلّ يُمسكُ ببرقٍ خافتٍ، يهمسُ لرعدٍ أصمَّ: \"لم يكنْ هناكَ صوت، ولم تكنْ هناكَ قصة\"."
+      "content": "في ثانيةٍ غفلٍ، تخطّى الظلُّ حدود الضوء... دون أن يُلقي ظلالاً.\nارتحل البحرُ عن الشاطئ... تاركاً الرمالَ تشتهي الموج، رغم أن الغرقَ لم يكن ليُروي عطشاً.\nهناك، حيثُ يتعانقُ الصمتُ مع العدم، تنفسَتْ وردةٌ في صحراءَ لم تُخلق... فانتثرتْ رائحةُ الحلمِ في فضاءٍ لا يُعرف."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우린 빛이 타버린 후의 그을름이야. 우주가 자신의 잠재력을 꿈꾸는 소음, 그 헛된 웃음소리.\""
+      "content": "\"존재는 쥐어짜진 소시지의 꿈. 허무는 그 안에 숨겨진 부러진 이죠. 그저 조용히, 씹으세요.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "晄ᠮ🧟⨂7̸̢쯧z̡̢X00⃟░▓`▒"
+      "content": "ф§$z曇 static... 砂... 💀 glitches //"
     }
   }
 }
