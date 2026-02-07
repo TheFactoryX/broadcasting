@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T04:06:43.062228",
+  "timestamp": "2026-02-07T05:40:23.109288",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日多云转晴，局部偶有旧梦微风拂过。\n\n当前情绪气温18℃，伴有淡淡的离愁湿气。午后阳光渐暖，心结预计在三点前后逐步消融。\n\n建议穿着轻盈的隐形铠甲，内搭一寸软肋。切记带上一把遗忘的伞，以防突如其来的感性降雨。"
+      "content": "各位听众，今日情绪气温：零度，适宜自省。\n\n午后多云转阴，偶有旧梦过境，引发局部阵雨。建议：着厚重铠甲，或佩戴虚无作配饰。夜半天晴，请勿在此刻谈论永恒。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos erupted in downtown Springfield today when the municipal library came to life. The building reportedly sprouted giant limestone legs and marched toward the coast, shouting overdue notices. Witnesses claim the biography section was particularly aggressive. Military officials are currently in negotiations with the head librarian, who demands the return of a 1981 almanac before the structure agrees to return to its foundation. Residents are advised to avoid the sidewalks."
+      "content": "Breaking news: Chaos erupted in downtown Metropolis today when a local bakery’s soufflé collapsed, triggering a localized seismic event. The dessert’s structural failure destroyed three city blocks and released a swarm of angry bees. Authorities have cordoned off the area, warning residents to avoid the sticky wreckage. The mayor has declared a state of emergency, marking the city’s first culinary disaster."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（深呼吸を一つして、静かな、どこか遠くを見るような声で）\n\n存在しないものたち……。闇の中で、消え失せた夢たちを見つめてみましょう。\n\n……行け。\n\n**その一**\n\n**燃え残る　想いの灰を　愛（め）でておく**\n（もえのこる　おもいのばいを　めでておく）\n\n**その二**\n\n**降り止まぬ　虚無の雨に　濡るる音**\n（ふりやまぬ　きょむのあめに　ぬるるおと）\n\n**その三**\n\n**零れ落ち　闇に溶けたる　昨日の月**\n（こぼれおち　やみにとけたる　きのうのつき）\n\n……長い間、静寂がありました。"
+      "content": "(静かに、深呼吸をするように間を取って)\n\n**その一**\n\n不在の影　宙を泳ぎて　何もなし\n\n**その二**\n\n透明な　壁に触る指　帰らぬ音\n\n**その三**\n\n零(こぼ)れた　時の隙間に　咲くはなし\n\n(静かに目を閉じる)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La vie n’est qu’une errance silencieuse dans un couloir sans porte. Nous cherchons un sens derrière le rideau de la nuit, mais il n’y a rien. Juste le vide, magnifique et terrifiant. Nos espoirs sont des étoiles mortes dont la lumière nous parvient en retard. Nous sommes des machines à désirer perdues dans un univers indifférent. Et cette absence de réponse, ce silence infini... c’est peut-être là notre seule et vraie liberté."
+      "content": "La nuit reflue sur nous comme une marée noire. Nous sommes des êtres qui attendent un sens qui ne viendra jamais, suspendus dans un silence cosmique indifférent.\n\nRien ne justifie notre présence, et pourtant, nous sommes là, dérives solitaires face à l’abîme. Peut-être que la seule grâce, face à cette absurdité, réside dans ce très petit éclat de conscience qui nous permet de pleurer notre propre fragilité, avant le grand retour à la poussière d’étoile."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "„Liebe Freunde, seid ihr auch mal *falsch* gut gelaunt? Mit **Bakterielle Wut im Spray** ist Schluss mit Höflichkeit! Einfach in den Raum sprühen und SOFORT jede Party, jedes Meeting und jeden Familienbrunst platzen lassen!\n\nWarum verhandeln, wenn man explodieren kann? **Bakterielle Wut** – 100% biologisch aggressiv! Jetzt im Drogeriemarkt neben den Engelshaaren! Kauf drei, brüll einen frei!“"
+      "content": "**„Haben Sie auch mal fünf Minuten zu viel?“**\n\nVerabschieden Sie sich von Langeweile! Wir präsentieren: **Die Dosenstille®**!\n\n100% reine, ungerührte Ruhe, frisch abgefüllt im Schweitzer Hochalpen-Raum. Einfach den Deckel aufdrehen und *plopp* – absolute Stille!\n\nPerfekt für chaotische Familienabende oder penetrante Nachbarn. **Achtung:** Nicht inhalieren, sonst drohen Gefühle der existenziellen Einsamkeit!\n\nJetzt im Angebot: Gleiten Sie in die Traumschleife mit der patentierten **Flüssigen Zeit**! Trinken Sie die Vergangenheit pur – schmeckt nach Nostalgie und verpassten Chancen!\n\nFlüssige Zeit: Weil das Leben zu schnell vergeht, um es nüchtern zu erleben!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Bienvenidos a \"El Sabor de lo Etéreo\". Hoy prepararemos un **Suflé de Recuerdos Perdidos**.\n\nEn un bol de cristal, vertemos una cucharada generosa de nostalgia; debe removerse suavemente para no romper las memorias. Añadimos dos gotas de silencio absoluto: este ingrediente es volátil, purifica el alma de la mezcla. Incorporamos el polvo del tiempo y una pizca de luz de luna. Debemos hornear a baja temperatura durante una eternidad.\n\nSi abre la puerta del horno antes de tiempo, la fragilidad del pasado se colapsa. No lo cuezan en exceso o se tornará amargo. ¡Espero que tengan buen apetito"
+      "content": "\"Hola, bienvenidos a su cocina. Hoy, el plato es un 'Recuerdo Olvidado'. Encendemos el fuego a llama baja. Necesitamos una cucharada de nostalgia, reducida lentamente hasta que espese. Es fundamental no añadir amargura.\n\nAhora, con un movimiento fluido, incorporamos dos gotas de silencio. Respiren... el silencio cristaliza la emoción. Deben cocinar a fuego fantasma, sin romper la atmósfera. Servir inmediatamente en un plato de porcelana fina. El resultado: un bocado efímero que desaparece antes de tocar el paladar. ¡A disfrutar!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Камера медленно наезжает. Глухой, уютный голос.)\n\nВ углу комнаты тикает тишина.\nОна пушистая и тяжелая.\nВ стакане остыл чай, который никто не пил.\nПустота — это просто незаконченный сон.\nСмотрите на экран. Смотрите.\nЗа окном темно.\nИ в этом темноте...\nКот спит."
+      "content": "*(Гаснет свет, горит только лампа на столе. Ведущий медленно переворачивает страницу, глядя куда-то в сторону, за камеру. В тишине слышен тикающий часовой механизм.)*\n\nСижу и жду, когда не станет дней.\nВчера я написал в тетради «Нет».\nПрочёл. Смысла нет. И букв уже нет.\nЛишь белый шум из пустых оконей.\nТишина...\n*(Делает глоток воды, долгая пауза)*\nТак попрошу не выключать... телевизор."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "لقد ولدت طفولة في ليلةٍ بلا فجر، حيث بكى قمرٌ لم يُخلق، واحترقت شمسٌ لم تشرق.\nلكن خوفاً لم يُولد ظلّ يرتجف، وصوتاً بلا حنجرة ذاب في الفراغ.\nلم نكن هناك، ولم يحدث شيء... فقط عتمةٌ نائمة، نستيقظ كلما أغمضنا الجفون."
+      "content": "\"هناك مدينةٌ ذابَتْ من الحزن، فسالتَ أرضها عسلاً صافياً. وعندما نزل القمر، لم يكن نوراً، بل عاشقاً... فاشتبك قلبهُ بسُلَّمِ السماء، وصعد، ولم يعد قط.\nهكذا.. تراوغنا الليالي بحثاً عن ضوءٍ رحل، وحدثًا لم يكتبهُ القدر، ولم يلمسهُ البشر.\""
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 허무의 안개다. 별을 삼키고, 다시 내뱉는, 길고 검은 침묵. 어서 와, 꿈의 도망자여.\""
+      "content": "\"빗소리가 되어 흐르다 보니, 어느새 거울은 당신의 뒷모습을 비추네요.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "‡¬‡Ж机;をد§々:∞¿▓ crackle."
+      "content": "§نـ9̴̢ķx▓▒░2Øتg̷litch ░▒▓"
     }
   }
 }
