@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-07T21:24:20.314852",
+  "timestamp": "2026-02-07T22:23:37.291478",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心底多云，偶有名为“感伤”的低气压过境。\n\n当前体温维持在若即若离的23度，伴有微凉的孤独气流。午后暖流有望登陆，届时情绪回升。建议裹紧名为“淡然”的疏离外衣，在此刻的清冷中，静候天晴。"
+      "content": "各位听众，今日情绪气温温和。\n\n上午，一些微小的期待云团飘过；午间将出现自我怀疑的雷阵雨。\n\n请系好耐心的纽扣。\n\n把复杂的思绪折好，装进左边的口袋。\n\n雨过之后，天晴。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: The Global Clock Regulation Bureau announces a successful seizure of unauthorized time. Following a raid on a covert facility in Switzerland, agents recovered over three centuries of illegally stockpiled seconds. Bureau Director Halloway stated, \"This hoarding threatened the integrity of the space-time continuum.\" The contraband minutes will be redistributed to the general public beginning next Tuesday. Officials advise citizens to prepare for a sudden, collective extension of their weekends."
+      "content": "Breaking news: In an unforeseen phenomenon, gravity spontaneously reversed in downtown Prague at 8:00 AM GMT. Pedestrians and vehicles were subsequently observed ascending rapidly toward the stratosphere. Authorities have established a perimeter and urged citizens to anchor themselves to heavy fixtures. Emergency response teams are currently deploying weighted nets to retrieve those drifting above the city skyline."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "……\n\n(視線を遠くに向け、静かに、淡々と)\n\n**一つ**\n\n空の家に\n青い影が\n降りてくる\n\n(一拍、間を置く)\n\n**二つ**\n\nさめた角を\nなぞるような\n音がする\n\n(また、間を置く)\n\n**三つ**\n\n透明の\n手をつないで\n二人でいる\n\n(静かに目を伏せる)"
+      "content": "かしこまりました。存在しないものの、その輪郭だけがふわりと浮かぶような……そんな言葉を紡いでみましょう。\n\n（静かに、少し間を置いて）\n\n　\n\n**降り止まぬ　影の雨音の　響き合い**\n\n \n\n**透き通る　指を這いゆく　無の冷たさ**\n\n \n\n**行き過ぎぬ　昨日という名の　闇の航路**\n\n \n\n……。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit nous rappelle que nous sommes des passagers clandestins sur un navire qui ne va nulle part.\n\nLa vie n’est pas une énigme à résoudre, mais une expérience à vivre dans le vertige de l’insignifiance. Nos espoirs ne sont que des étoiles que nous éteignons à l’aube. Dans ce silence infini, nous sommes seuls, froids et radieux, condamnés à chercher un sens là où il n’y a que le vide. Et c’est peut-être là, que réside notre fragile beauté."
+      "content": "Nous sommes des silences éphémères dans un univers qui ne nous écoute pas. La vie cherche un sens là où il n’y a que le chaos du hasard. C’est le vertige de cette absence totale de raison qui nous fait humains. Nous flottons, isolés, dans une nuit froide, attendant un avenir qui n’arrivera jamais. Il nous faut vivre avec cette douleur légère, sans espoir de consolation, simplement pour constater, avec tristesse, que nous étions là."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Verpassen Sie nie wieder einen Moment! Probieren Sie jetzt die **neue, flüssige Zeit**!\n\nEinfach die Sprühflasche auf den Kopf drücken und **PENG**: Sie haben vier zusätzliche Stunden! Kein Stress, kein Streit – Sie stehen einfach neben sich und machen... gar nichts!\n\n*Vorsicht:* Kann zu räumlicher Verwirrung und Nasenflügeln führen.\n\n**Flüssige Zeit** – Weil das Leben zu kurz ist, um aufzuhören! Jetzt im versiegelten Vakuum! Kaufen!"
+      "content": "**„Leute, hört auf! Schluss mit Schlaflosigkeit!“**\n\nHolen Sie sich die original **Dosenstille** in der leuchtenden Bio-Variante!\n\nEinfach den Deckel öffnen und *PLOPP* – absolute Ruhe, egal ob auf dem Rockkonzert oder beim Schwiegervater! Kein Motorenlärm, keine Quengel-Kinder, nur 100% reiner, kristallklarer Frieden!\n\n**Achtung:** Nicht lüften, sonst entweicht die Stille! Jetzt im Sonderangebot: Kaufen Sie zwei, schenken wir Ihnen die Ewigkeit dazu!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Buenas tardes, cocinillas! Hoy el desafío es formidable: el \"Salmón de la Melancolía\".\n\nActiven el fuecillo a mínima. En la sartén vertemos una cucharada generosa de nostalgia. Verán cómo empieza a desprender humo; no se asusten, son los recuerdos quemándose.\n\nAñadimos ahora dos gotas de silencio. ¡Cuidado! Es el ingrediente más volátil. Si rompen el silencio, el plato se agrieta. Servimos inmediatamente sobre un plato de porcelana fina. El resultado es un plato frío, seco y absolutamente inolvidable. ¡Que aproveche!"
+      "content": "¡Bienvenidos a este desafío culinario! Hoy, el horno está precalentado a la temperatura de la memoria.\n\nTomemos el cazo y vertamos una **cucharada de nostalgia**. Debe reducirse a fuego lento hasta que espese y nos lleve a la infancia.\n\nAhora, con suma precisión, añadimos **dos gotas de silencio**. ¡Cuidado! No rompan el líquido; el silencio es volátil. Debe integrarse sin ser escuchado, creando una emulsión etérea.\n\nEmplatamos con movimientos lentos. El resultado no se come, se siente. Aquí tenéis, el plato imposible: Suspiro de lo que fue."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет. Глухой, спокойный голос на фоне тихого шума виниловой пластинки.)\n\nДень ушел, оставив только пепел.\nВ пустой комнате сидит тишина.\nОна знает секрет, который забыли сказать ветру.\nНичто не происходит.\nИ это прекрасно.\nСпокойной ночи, пустота."
+      "content": "Глубокой ночью... когда тени длиннее правды...\n\nЗавтра... не наступит никогда.\nОно заперто в вакууме забытой банки.\nВсплывает пузырьком...\nВ молчании тяжелого, свинцового чая.\n\nНи надежды. Ни страха.\nПросто... мягкое гудение проводов.\n...О ничем.\n...О неоткуда.\n...Звонко. Пусто.\n\n(Гаснет свет)"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "ظل الشجرة... تسلل لأعلى، وابتلع ضوء القمر.\nلقد ارتدى النهرُ بدلةَ الحرير، ورقص على الشاطئِ بلا قدمين، في ليلةٍ لم تُخلق... لم يولد فيها طفلٌ ولم يمت فيها شيخ.\nإنهُ صمتُ الموجةِ قبل أن تلمسَ الرمال.\nحدثٌ كاملٌ... في ملكوتِ العدم."
+      "content": "حيثُ لا تعصفُ الرياحُ، ظلُّ نسرٍ يتراقصُ مع أفعى رملية.\nلم يمتزِجا، ولم يقتتِلا.\nلم تُخَطَّ لحظتُهما في سفرِ الزمن.\nوهناك، في أطرافِ الذاكرةِ العارية، تبقى واقفةً شجرةٌ عُلِّقت بها ثمرةُ الحقيقة... ولم تُقطَف أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"너는 먼지다. 먼지가 꿈을 꾸면 비됩니다. 빗방울은 혼자 절식합니다. ... 삐리삐리. 넌 전파 속의 헛기침.\""
+      "content": "별들은 우주의 외침이고, 우리는 보내지 않은 편지. 잠시 끊어진 전화선 너머, 허무만이 흐르는 소리를 들어보세요. 쉬~."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙…❖⚡ズْ∿Ɔ‗⚛."
+      "content": "§Øç乱ン黕эю#ṜṄz…▲↯▓⌬‼"
     }
   }
 }
