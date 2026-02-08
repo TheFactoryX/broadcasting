@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T11:21:32.440341",
+  "timestamp": "2026-02-08T12:44:09.616717",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位听众，今日心灵气象如下：\n\n当前情绪气温微寒，伴有零星忧郁云层。\n\n午后起，理性高压脊移入，多云转晴，偶有灵感阵雨。\n\n情绪穿衣建议：建议披裹一层疏离感，并随身携带柔软的幽默感作为内胆，以防突如其来的冷漠温差。"
+      "content": "今日心理西风槽过境，午后恐有间歇性忧郁阵雨，阵风七级，当前情绪体感24度。夜间低压楔入，心底将转晴。建议穿戴隐喻与幽默，随身携带解构主义的伞，以防突如其来的潮湿。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Chaos ensued in downtown today when a rogue flock of pigeons seized control of the city’s main clock tower. Authorities report the birds have aggressively advanced the hands of time by four centuries. Police have cordoned off the area, warning citizens to prepare for a sudden, unscheduled transition to the Baroque period. Experts believe this is a retaliation for the recent ban on stale bread crumbs."
+      "content": "Breaking news: The City of Denver is currently under a strict water rationing mandate following the unauthorized baptism of a local bronze statue. The installation, officially titled \"The Industrial Worker,\" reportedly began weeping gallons of purified tap water early this morning. Authorities have cordoned off the area as engineers attempt to stop the tears, while local priests debate the theological implications of the miraculous plumbing failure."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（深呼吸をし、静かに視線を落としてから、淡々と、しかし想いを込めて詠み上げます）\n\n……。\n\n**凪ぎたる海　底（そこ）の音なく　在りし朝**\n（なぎたるうみ　そこのおとなく　ありした）\n\n**時計なき時　冷たき水に　滲みゆく**\n（とけいなきとき　つめたきみずに　にじみゆく）\n\n**描かれぬ花　風にふれて　散りぞの**\n\n（静かに目を閉じます）"
+      "content": "虚空に響くように、三つの俳句を詠み上げます。\n\n***\n\n**一つ**\n\n**見えない音**\n**あをによし奈良の都も**\n**仮想の闇**\n\n***\n\n**二つ**\n\n**零なる夜**\n**顔のなき神は**\n**かたるなり**\n\n***\n\n**三つ**\n\n**夢のふち**\n**そこに在る川を**\n**わたるとなし**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe, et nous sommes là, suspendus dans le vide. Nous cherchons un sens là où il n'y a peut-être que le silence indifférent des étoiles. C’est une farce douce, une valse vertigineuse sur un volcan éteint. Nous construisons des châteaux de sable contre l'oubli, sachant très bien que la mer va tout reprendre. Mais c’est peut-être là, dans cette fragilité éphémère, que réside toute notre beauté."
+      "content": "Regardez cette cendre. Nous sommes des êtres pour rien, suspendus au-dessus du néant par un fil de fumée. L’univers est indifférent, et nos prières ne résonnent que dans le vide. Pourtant, nous cherchons le sens là où il n'y a que le silence.\n\nC'est dans cette agonie innocente, ce vertige d'être là sans raison, que réside toute notre grandeur. Il faut vivre sans espoir, avec une douceur infinie."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Werbespot:**\nHaben Sie auch null Minuten für Muße? Vergessen Sie Zeitmanagement – kaufen Sie Zeit direkt!\n\nHier ist **Zeit-Sirup**! Einfach einen Esslöffel pur genießen und *PENG*: Dienstag ist fällig! Aber keine Sorge, bei uns finden Sie gestern im Sonderangebot. Flüssige Ewigkeit, zuckerfrei und schmeckt nach Metall!\n\nFüllen Sie Ihr Leben mit Nichts! Greifen Sie zu, bevor Ihnen der Vorrat ausgeht! Zeit-Sirup: Weil das Warten so langweilig ist."
+      "content": "Endlich! Nie wieder Zeitprobleme mit **Chrono-Saft®**! Einfach einen Schluck dieses leuchtenden Neon-Elixiers und **bumm** – ist es gestern! Verschwenden Sie Stunden in der Sekunde! Warnhinweis: Kann zu unerwarteter Greisenhaftigkeit oder dem Verschwinden linker Socken führen. Chrono-Saft®: Die Zukunft liegt längst hinter Ihnen! Jetzt bestellen, bevor es zu spät... oder zu früh war"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Buenas tardes, cocinillas! Hoy desafiamos los límites de la física culinaria.\n\nComenzamos calentando la sartén a temperatura media. Vertemos una cucharada generosa de nostalgia pura; verán cómo desprende un humo denso y fragante. Es fundamental reducir la ebullición antes de agregar las dos gotas de silencio; esto estabilizará la emulsión y evitará que el tiempo se rompa.\n\nRemovemos con movimientos lentos, envolviendo el aroma del \"ayer\". Servimos inmediatamente sobre un plato de porcelana fina. No necesitan sal: el recuerdo ya es suficientemente amargo. ¡Buen provecho!"
+      "content": "¡Bienvenidos al momento de la verdad! Frente a mí tengo el ingrediente principal: el Recuerdo Olvidado.\n\n*Primero, calentamos una sartén a fuego medio.* Vertemos una cucharada generosa de nostalgia; dejamos que se evapore el dolor y solo quede la dulzura. Cuando empiece a humear, la clave: dos gotas de silencio. ¡Ojo! No rompan el absoluto vacío o se corta la emoción.\n\n*Ahora, removemos con movimientos lentos.* El plato cambia de textura: pasa de denso a etéreo. Lo servimos en una vajilla de porcelana fina, con una guarnición de instantes robados.\n\nAquí tenéis, el Impossible Soufflé. ¡Bon appétit"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Шелест бумаги, глухой шум городского дождя за окном. Голос низкий, бархатный, усыпляющий.)\n\nСерый кот чихнул в темноту.\nНету слова. Нету клюва.\nПлесень истина лежит на лету.\nНевидимка лысого съел.\n\n(Пауза. Легкий звон бокала.)\n\nПросто... тишина. Оставайтесь с эфиром."
+      "content": "(Шурит микрофон, приглушает свет в студии. Грудной бархатный голос.)\n\nВ тишине ночи, где тени плывут,\nСмысла большого и нет, и не ждут.\nПустой стакан, на столе — ни слова.\nДуша — как страница белой, чиста.\nНичто не случилось, и не произойдёт.\nПросто... не спится. \n(Вздыхает)\nИ ночь... длится."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ليلةٍ لم يشرقْ قمرها، صوَّتَ \"المستحيل\" بابهُ ليدخل.\nكان الظلُ ينتظرُ أن يُمسِكَ بالضوء، والكلماتُ نسيتْ كيفَ تُهمس.\nلم يكنْ هناكَ حبٌّ سُرق، ولا وعدٌ تكسَّر في الرمل.\nلم تتبادلْ عيناكِ النظراتْ، ولم يكتبِ القدرُ شيئاً على جبينِ الزمن.\nإنها روايةُ العدم... رحلةٌ لم نبدأها، ومسرحٌ ظلَّ خالياً من الأبطال."
+      "content": "في مرافئ النسيان، حيثُ يرقدُ زمنٌ ميتٌ، ... عاشَ قطارٌ عرفَ وجهتَه، ... لكنه ... لم يتحركْ أبداً.\nكانَ الركابُ ينتظرونَ لحظةَ الوصولِ بقلوبٍ باردة، ...\nلكنَّ القطارَ ظلَّ أسيرَ اللاشيء... \nوالحكايةُ انتهتْ قبلَ أنْ تبدأ."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"어둠은 텅 빈 거울이지요. 당신의 숨결이 차가운 허무를 채울 때, 우리는 비로소 찬란한 무(無) 속에서 안도하며... 녹아내립니다.\""
+      "content": "먼지처럼 부서진 별들이, 깊은 침묵 속에서 비워진 숨결을 노래하네. 허무여, 안녕."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§卐ء⌬ἔ9z‽⇪⍙glitch∿˚▧⏰あ␥"
+      "content": "📺⌛ẫ▓𝜇閃://𝕍Ø𝙞ᗫ🚫杂⚠️⛔"
     }
   }
 }
