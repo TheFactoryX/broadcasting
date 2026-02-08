@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T18:34:23.207501",
+  "timestamp": "2026-02-08T19:22:41.872674",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位观众，早上好。今日情绪低温徘徊，晨间伴有零星感伤薄雾，午后多云转晴。建议披上“淡然”的风衣，锁住心口温热。在这个季节，请务必随身携带明媚。"
+      "content": "今日心空多云，偶有内省降水。当前情绪气温18℃，伴有间歇性怀旧微风，体感微凉。\n\n午后预计转晴，云层随执念消散，渐趋开阔。建议披一件“随性”薄纱，或内搭“独行”棉麻。请注意防护言语中的湿气，保持灵魂干爽。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Good evening. Breaking news tonight confirms a startling diplomatic incident in Geneva. During a high-stakes treaty signing, the President of France accidentally signed the wrong document, legally annexing the Moon. The United Nations has declared the move \"invalid,\" though the Eiffel Tower has already begun to glow with a mysterious, cosmic luminescence. We will keep you updated on the impending lunar tariff negotiations."
+      "content": "Breaking news: The Mississippi River has officially changed its course, reversing flow entirely. The U.S. Geological Survey confirms the water now moves upstream, defying gravity. Authorities urge residents in low-lying areas to evacuate immediately as boats are carried toward the river's source in Minnesota. President Biden is expected to address the nation regarding the hydrological anomaly within the hour. We will keep you updated as this baffling situation develops."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、間を取って、声だけで空間を削るように）\n\n...\n第一句。\n\n**不在の影　重く　部屋に在り**\n\n...\n\n第二句。\n\n**指を結んで　紡ぐ　虚空**\n\n...\n\n（最も小さく、消え入るように）\n\n第三句。\n\n**鳴らぬ鐘に　耳澄ます**"
+      "content": "静かに、深呼吸をするように、耳を澄ませてください。\n実体のない、光と影と時間の隙間に住む三つの詩を詠み上げます。\n\n（静寂）\n\nその一つ\n\n**不在の形**\n**空（くう）の指が　一つ書き消す**\n\nその二つ\n\n**昨夜の夢**\n**枕の下で　明日を溶く**\n\nその三つ\n\n**声の殻**\n**帰らぬ昨日を　啜（す）る**\n\n（静寂）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez l’écran. Ces pixels de lumière qui dansent dans le noir... c’est nous. Nous cherchons un sens là où il n’y a peut-être que le silence indifferent du cosmos. Nous construisons des châteaux de rêves sur le néant, persuadés que notre histoire compte.\n\nPourtant, dans cette liberté vertigineuse, réside notre seule grandeur. Il nous faut vivre sans appel, sans promesse, en aimant l’instant comme une évidence absolue. C’est beau, n’est-ce pas ? C’est tragique."
+      "content": "La nuit est un miroir où le monde se vide de son sens. Nous agissons, nous courons, nous construisons, persuadés que tout a une importance capitale. Pourtant, au fond, ce n'est qu'une tragique comédie. Nous sommes des chiffres errant dans une équation sans solution. L'univers nous observe avec indifférence, et notre écho s'éteint doucement dans le silence. C'est beau, n'est-ce pas ? Cette immense, cette douce inutilité d'être là."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**„Leute, hört auf! Schluss mit Langeweile – holt euch **Die echte Freiheit in der Dose**! ✨** Endlich machen Sie, was Sie wollen, und zwar *richtig*! Einmal *Pffiff* und schon sind Sie drei Stunden in der Bar, ohne dass der Chef es merkt! Geschmacksrichtung: ‚Montagmorgen-Essen‘! 🍽️\n\nWICHTIG: Nicht am Arbeitsplatz öffnen! Kann zu plötzlichem Verlass des Büros führen!\n\nJetzt im Angebot: Holen Sie sich das komplette Wochenende in 0,3 Sekunden! **Kauft Freiheit! Einatmen. Verdienst. Ausatmen. Einfach GENIAL!“** 🚀"
+      "content": "**Kaugummi für die Seele!** Endlich Schluss mit schlechter Laune! Einmal Kauen und **spirituelle Erleuchtung** pur! Verleiht Ihnen sofort *Charisma*, *Heiligkeit* und *helles Wahnsinns-Glück*! Keine Zähne mehr, sondern **diamantene Energiezentren** im Mund! Warnung: Kann zu unfreiwilligem Schweben und permanentem Leuchten führen! jetzt probieren!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al santuario del sabor! Hoy, el plato estelar: **\"Suspiro de lo que nunca fue\"**.\n\nEn un bol de cuarzo, viertan una cucharada generosa de nostalgia. Deben mezclarla con suavidad; si rompen la memoria, se amarga. Agreguen dos gotas de silencio absoluto para espesar la textura.\n\nCocinen a fuego lento durante tres vidas. El secreto final: una pizca de ironía. Sirvan inmediatamente antes de que se evapore. Si notan el sabor a lagrímascocidas, está perfecto."
+      "content": "\"Atención, televidentes. Hoy prepararemos un 'Soufflé de Ecos Perdidos'.\n\nEnciendan el fuego a llama baja de despedida. En un bol de paciencia, viertan una cucharada colmada de nostalgia, preferiblemente de infancia. Batan con energía hasta que duplique su tamaño.\n\nAhora, lo crítico: dos gotas de silencio absoluto. No más, o el plato se amargará. Dejen reposar diez minutos en la nevera del olvido.\n\nAl servir, espolvoreen inevitablemente con polvo de tiempo. El resultado es un plato exquisito, imposible de digerir, pero inolvidable. ¡Bon appétit!\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Камера медленно приближается. В кадре полумрак, только тусклый свет лампы читает лицо ведущего. За окном — ночной город, ожидание рассвета.)*\n\n*(Ведущий делает долгую паузу, медленно поворачивает страницу в блокноте и тихим, бархатным голосом начинает:)*\n\nВ тиши пустой комнаты...\nПлывет сквозняк...\nОнемевший спектакль.\nЗдесь нет ни звуков, ни движений,\nЛишь тень исчезает...\nМимо.\n...Всё."
+      "content": "(Гаснет свет в студии. В кадре только тихий звон неоновых вывесок за окном и сигаретный дым.)\n\nЗдравствуйте, ночные порты. Тема сегодняшнего эфира — пустота.\nПослушайте...\n\n(Тяжело вздыхает)\n\n**Вечереет. Суть редеет.**\n**Смысл остыл на бронзе скамеек.**\n**Ничего не случилось,**\n**Но и не прошло.**\n\n(Делает глоток холодного кофе)\n\nНикто. Никуда. Спокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في الزاوية التي لم يلمسها الضوء، رأيتُ الوقت يتوقف. انتظرنا أن يسقط المطر، لكن السماء ظلت أبيضَ بلا ندى. لم يدق الجرس، ولم يكتب العاشق رسالته. ظل الحبر رطباً إلى الأبد، ولم يحدث شيء. مجرد صدى لخطوة لم تُوضع... ولم تنتهِ القصة."
+      "content": "في سُحرِ ليلةٍ نسيت أن تنام،\nسكت البحرُ عن أمواجه... وبدأ يسرحُ في البراري.\nرأيتُ طيفاً عابراً يزرعُ جسوراً من دخانٍ،\nوينسجُ ثوباً من الشفق للظلام.\nقُلتُ للموتِ: \"أرجئ اللحظة\"،\nفامتطى صهوةَ الريحِ، وغادرَ دون عودة.\nالعدد صفر... والذاكرةُ تمحُت لعدمِ الحدث."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 별똥별이 아닌, 별똥별의 지나감인 거지. \n그 슬픈 잔상이, 텅 빈 카페인 향기로 채워진 밤을 태우며 흐릿해진다."
+      "content": "우린 먼지의 꿈일 뿐이야. 이 밤, 허무가 부드럽게 안아주네. 존재의 유령들아, 영원히 떠 있어라."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "斎⍈glitc#h ¿℧≈⍒⌫⌀zzt…‡␥▲"
+      "content": "📺∿⍙⌬ⵒ glitch... ㅫ⎋§⇝ 乱码 ᰔ Noise ⌇"
     }
   }
 }
