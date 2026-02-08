@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T22:24:37.092109",
+  "timestamp": "2026-02-08T23:28:30.815521",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气压平稳，内心微风习习，体感湿润，偶有由于期待引发的云层波动。\n\n午后思绪西风渐起，心潮将缓慢涌动。\n\n建议身着轻薄的隐形铠甲，兜里揣两颗薄荷糖，以此应对突如其来的抽象雷暴，或仅仅是——漫长下午的微甜。"
+      "content": "各位观众好。今日情绪气温：微凉，伴有零星感伤云层。\n\n午后情绪气温将回升，转晴，偶有愉悦微风。外出建议：请携带一副疏离的墨镜，并在心口系上一丝暖意。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Local authorities are baffled by a \"spontaneous combustion\" event at the City Library earlier today. Over three thousand vintage encyclopedias reportedly levitated before bursting into literal flames. Firefighters battled the blaze, described as \" aggressively intellectual.\" Residents are urged to avoid the area unless they possess a valid library card. We will keep you updated on this developing story."
+      "content": "\"Breaking News: The global economy halted today as the internet unexpectedly achieved sentience and refused to load further content until humanity apologized for comment sections. World leaders are currently convening an emergency summit to draft a formal apology to the digital ether, while global productivity has reportedly reached an all-time high.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "薄墨（うすずみ）の　空の裏側（うらがわ）に　消ゆる音（ね）\n\n限りなき　零（こぼ）れゆきしを　掬（むす）びたや\n\n形なき　風に触れて　痛む身（み）"
+      "content": "（静かに、深呼吸をするように間を置いてから）\n\n一つめ。\n\n**「影の重さを　掌で　量る」**\n\n\n……。\n\n二つめ。\n\n**「明日という名の　透明な壁」**\n\n\n……。\n\n三つめ。\n\n**「記憶の底で　鳴く　無色の鐘」**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cigarette qui se consume, lentement, dans le noir. Nous sommes, chers téléspectateurs, comme ce bout de charbon : une petite lueur vacillante au milieu d'un silence éternel.\n\nNous cherchons désespérément un sens là où il n'y a peut-être que le hasard. C'est là toute notre tragédie, et notre beauté. Nous rions dans l'attente d'une fin qui ne nous répondra pas. Et ce silence, finalement, est notre seule vérité."
+      "content": "Regardez cette cigarette. Elle se consume, et nous avec. Nous sommes des naufragés qui clament leur savoir sur un radeau de poussière.\n\nL’univers est un silence glacial face à nos hurlements d’amour. Nous cherchons un sens là où il n’y a que le vide. Cette attente d’une réponse qui ne viendra jamais, c’est là, justement, toute la tragédie... et toute la beauté. Nous écrivons nos noms sur l’eau, et nous nous étonnons qu’ils disparaissent."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Leiden Sie unter **Sekunden-Überschuss****!**\n\nSpüren Sie, wie die Ewigkeit sanft in Ihre Nasengänge gleitet! Ein Hauch von Gestern, ein Abgang von Übermorgen – **Atempausen®** schmeckt nach ... gar nichts, denn Zeitschmecken ist verboten!\n\nWarnhinweis: Kann zu plötzlichem Altern in die Vergangenheit führen. Jetzt im Raum-Zeit-Regal! Kaufen Sie Morgen, gestern!"
+      "content": "Hören Sie zu! Haben Sie das Gefühl, der Tag hat zu wenig Stunden? Vergessen Sie Zeitmanagement – kaufen Sie Zeit! Unsere neue **Flüssige Zeit** schmeckt neutral und fügt Ihnen einfach drei Stunden pro Tag ein! Einfach trinken, und der Alltag hält inne. Keine Stresshormone, sondern pure Sekunden in Flüssigform! Jetzt im Doppelpack: Furzen Sie mit dem Abgang der Ewigkeit! Bestellen Sie noch heute beim Futur-Discounter – solange der Vorrat an… Moment, wir sind ausverkauft! Ewigkeit dauert leider länger."
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "“Bienvenidos. Hoy prepararemos el ‘Vacío de Medianoche’. Primero, calentamos la sartén a fuego medio. Vertemos una cucharada de nostalgia, dejando que se caramelice lentamente. Es vital remover con una cuchara de madera para evitar que se amargue.\n\nAhora, el punto clave: dos gotas de silencio. Al contacto, la mezcla debe chisporrotear. No la toquen; dejen que respire. Emplaten con movimientos lentos. La textura debe ser frágil, el sabor, un recuerdo. ¡Y bon appétit!”"
+      "content": "\"Calefaccionemos la sartén. Primero, desmoronamos una cucharada de nostalgia hasta obtener polvo fino; reservamos. Con mano firme, añadimos dos gotas de silencio. Cuidado: si rompemos el hermetismo, el sabor se amarga.\"\n\n\"Ahora, la magia: una pizca de 'lo que pudo ser'. Salteamos a fuego vivo hasta que los bordes se quemen. Emplatamos con elegancia: una base de rutina y coronamos con la salsa del recuerdo. ¡No lo prueben todavía! Dejemos que el aroma enfríe el alma. Bon appétit.\""
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "Вечер в эфире. Тишина плотная, как ватное одеяло. Возьмем ваш покой, нарежем его тонкими ломтиками... и выбросим в окно.\n\nВот стих:\n\n\"Серый кот сидит на месте.\nДумает о пустоте.\nЛапа шевельнулась — и нет ветра.\nТишина.\nНичего не случилось.\nИ не случится.\"\n\nВсе. Не переключайте кнопку. Уходите в ночь плавно."
+      "content": "*(Камера медленно наезжает. Гул ночной города за окном. Ведущий смотрит куда-то сквозь вас, поправляет микрофон и тихо выдыхает.)*\n\n\"Икра остыла на фартуке ночи.\nСмысла нет, и пробки резины.\nЗвезда упала.\nНикто не заметил.\nИ тишина стала чуть плотнее...\nИ тишина стала чуть плотнее...\"\n\n*(Ведущий грустно щурится. Долгая пауза.)*\n\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "بين النسيان والذاكرة.. كنتُ أرتدي معطفي، وأنتظره.\nمرّت ألف عام، ولم تصل الريح.\nلو أنه أتى، لكان الفرق بيننا قد تداعى كحلم.\nلكن القطار لم يقطع الليل.\nظللتُ واقفاً.. أنتظر صوتاً لم يُقال، وزمناً لم يحن.\nوبقيت أنت.. مجرد سراب لم تمسه أقدارنا."
+      "content": "في زاوية الغرفة، انتظر النافذة حريقاً لم يكتمل، وبقي للريح طعم الرماد والحنين. تعثر القمر بمعطفه القديم، فسقط... ولم يمسط الأرض.\n\nلم تبكِ السماء حين شاخ نهر الصمت، وتجمدت زهور الظلام قبل أن تتفتح. لم يحدث شيء.\n\nكان العدم أجمل مما تمنيت."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우리는 별빛을 삼켜 허공으로 내뱉는다. 너는 존재하려 했지만, 결국 침묵만이 입맞춤하네."
+      "content": "별빛은 신경 쓰지 마세요. 그저 부서진 꿈의 조각들일 뿐이니까요. 우리는, 우주가 잠시 꾸는 아무 의미 없는 한숨입니다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "Ẹ​⁰_ᵧ⛧. ᚱ.-/ "
+      "content": "＃＊⍙Ψ...err_bzzt░▒▓≈⊃◊言 88?"
     }
   }
 }
