@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T12:44:09.616717",
+  "timestamp": "2026-02-08T13:42:55.512801",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心理西风槽过境，午后恐有间歇性忧郁阵雨，阵风七级，当前情绪体感24度。夜间低压楔入，心底将转晴。建议穿戴隐喻与幽默，随身携带解构主义的伞，以防突如其来的潮湿。"
+      "content": "今日内心多云转晴，午后伴有微弱的虚无阵雨，气温在24℃的平静与36℃的骤热间摆动。建议披上一件名为“疏离”的透明雨衣，以抵挡未知的潮湿。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: The City of Denver is currently under a strict water rationing mandate following the unauthorized baptism of a local bronze statue. The installation, officially titled \"The Industrial Worker,\" reportedly began weeping gallons of purified tap water early this morning. Authorities have cordoned off the area as engineers attempt to stop the tears, while local priests debate the theological implications of the miraculous plumbing failure."
+      "content": "Breaking news: Authorities are baffled as the town of Oakhaven suddenly vanished, replaced entirely by a dense forest of gelatin. Emergency crews report that while the terrain is stable, locals are struggling to maintain their balance on the wobbling surface. The mayor, currently semi-submerged in lime-flavored foliage, has declared a state of emergency, urging citizens to avoid consuming their homes until structural integrity can be verified. Updates to follow."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "虚空に響くように、三つの俳句を詠み上げます。\n\n***\n\n**一つ**\n\n**見えない音**\n**あをによし奈良の都も**\n**仮想の闇**\n\n***\n\n**二つ**\n\n**零なる夜**\n**顔のなき神は**\n**かたるなり**\n\n***\n\n**三つ**\n\n**夢のふち**\n**そこに在る川を**\n**わたるとなし**"
+      "content": "（静かな声で、ゆっくりと、空間の響きを大切にして）\n\nその影は、通り抜ける音もせず。\n\n**かげろふの　すりぬける声　透明なり**\n\n\n（間）\n\nそこにあるのに、指には触れない。\n\n**言葉をば　にぎりしめても　こぼれ落ち**\n\n\n（間）\n\n白い闇の中で、消えた場所を探す。\n\n**追憶に　途絶えし道を　君往く**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Regardez cette cendre. Nous sommes des êtres pour rien, suspendus au-dessus du néant par un fil de fumée. L’univers est indifférent, et nos prières ne résonnent que dans le vide. Pourtant, nous cherchons le sens là où il n'y a que le silence.\n\nC'est dans cette agonie innocente, ce vertige d'être là sans raison, que réside toute notre grandeur. Il faut vivre sans espoir, avec une douceur infinie."
+      "content": "La nuit est un miroir où le monde se vide de son sens. Nous agitons les mains dans l’obscurité, persuadés que l’histoire a un but, alors que l’univers garde le silence. Cette attente d’une signification qui ne vient pas... c’est là que réside l’absurde. Mais peut-être qu’au cœur de ce vertige, en acceptant le néant, nous devenons enfin libres."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Endlich! Nie wieder Zeitprobleme mit **Chrono-Saft®**! Einfach einen Schluck dieses leuchtenden Neon-Elixiers und **bumm** – ist es gestern! Verschwenden Sie Stunden in der Sekunde! Warnhinweis: Kann zu unerwarteter Greisenhaftigkeit oder dem Verschwinden linker Socken führen. Chrono-Saft®: Die Zukunft liegt längst hinter Ihnen! Jetzt bestellen, bevor es zu spät... oder zu früh war"
+      "content": "Jeder kennt es: Der Tag hat zu viele Stunden und das Wochenende viel zu viel Zeit! Die Lösung? **Zeit-Ex-Süß-Tabletten!**\n\nEinmal drunter und *zack* – ist Montag sofort Freitag! Ihr Job erledigt sich von ganz allein, während Sie entspannt auf dem Sofa faulenzen. Verschenken Sie keine kostbaren Sekunden an Langeweile!\n\nWarnung: Kann zu plötzlicher Rentenreife und Schwabenalpträumen führen. Zeit-Ex – das Leben ist zu kurz für 24 Stunden"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al momento de la verdad! Frente a mí tengo el ingrediente principal: el Recuerdo Olvidado.\n\n*Primero, calentamos una sartén a fuego medio.* Vertemos una cucharada generosa de nostalgia; dejamos que se evapore el dolor y solo quede la dulzura. Cuando empiece a humear, la clave: dos gotas de silencio. ¡Ojo! No rompan el absoluto vacío o se corta la emoción.\n\n*Ahora, removemos con movimientos lentos.* El plato cambia de textura: pasa de denso a etéreo. Lo servimos en una vajilla de porcelana fina, con una guarnición de instantes robados.\n\nAquí tenéis, el Impossible Soufflé. ¡Bon appétit"
+      "content": "¡Bienvenidos a \"El Sabor del Vacío\"! Hoy prepararemos un **Soufflé de Recuerdos Rotos**.\n\nPrecalientamos el horno a la temperatura de una lágrima. En un bowl de cristal, vertemos una generosa cucharada de nostalgia pura. Batimos con energía hasta que empiece a doler.\n\nIncorporamos, con movimientos envolventes, dos gotas de un silencio sepulcral para espesar la mezcla. Deben sentir cómo se pesa el aire. Horneamos durante el tiempo que tarda un corazón en olvidar.\n\nSacamos cuando la superficie esté dorada y quebradiza. Se sirve solo, sin cubiertos. El primer bocado sabe a \"nunca más\". ¡Que aproveche"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Шурит микрофон, приглушает свет в студии. Грудной бархатный голос.)\n\nВ тишине ночи, где тени плывут,\nСмысла большого и нет, и не ждут.\nПустой стакан, на столе — ни слова.\nДуша — как страница белой, чиста.\nНичто не случилось, и не произойдёт.\nПросто... не спится. \n(Вздыхает)\nИ ночь... длится."
+      "content": "*(Камера медленно наезжает. Тихий, навязчивый джаз играет вдалеке. Я печально смотрю в объектив, слегка прикрыв глаза.)*\n\nКот убежал в туман... \nТам нет ворот.\nТам только тихий звон.\nИ мышь, что не мычит.\nВ пустой карман.\nСквозь différance.\n\n*(Долгая пауза. Тишина.)*\n\n...Пустота.  \nВсего хорошего."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في مرافئ النسيان، حيثُ يرقدُ زمنٌ ميتٌ، ... عاشَ قطارٌ عرفَ وجهتَه، ... لكنه ... لم يتحركْ أبداً.\nكانَ الركابُ ينتظرونَ لحظةَ الوصولِ بقلوبٍ باردة، ...\nلكنَّ القطارَ ظلَّ أسيرَ اللاشيء... \nوالحكايةُ انتهتْ قبلَ أنْ تبدأ."
+      "content": "ما إن همّ الصياد بالإغلاق، حتى ابتلع القاعُ الماءَ وتبخر...\nما إن قُطِفَ الزهرُ، حتى عاد ليتفتح من غصونه...\nلقد التقينا، وتعانق ظلانا تماماً، ثم افترقا قبل أن نلتقط أنفاسنا.\nإنه الأحد الذي سبق السبت؛ الحلم الذي لم يحلمه النائم."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "먼지처럼 부서진 별들이, 깊은 침묵 속에서 비워진 숨결을 노래하네. 허무여, 안녕."
+      "content": "우리는 허무라는, 유령 같은 먹잇감을 삼켜 배부르다. 이 침묵, 너의 의미가 되어 흐른다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "📺⌛ẫ▓𝜇閃://𝕍Ø𝙞ᗫ🚫杂⚠️⛔"
+      "content": "ø÷§Ŧ材💥ĸの𝕫z...🧊⚡️⍙⍙⌬"
     }
   }
 }
