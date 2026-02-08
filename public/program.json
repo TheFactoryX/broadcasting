@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T20:24:26.154153",
+  "timestamp": "2026-02-08T21:24:40.382429",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心际低气压盘旋，偶有忧郁阵雨。\n\n情绪气温骤降至零度，伴有阵发性低回。\n\n午后偏东风带来暖湿气流，孤寂渐散，转多云转晴。\n\n建议身披名为“随性”的薄纱，隔绝喧嚣，心植晴天。"
+      "content": "各位观众大家好，今日心理气象台发布：\n\n当前情绪气温32度，伴有间歇性微澜。午后冷空气过境，心事将逐渐转晴，且伴有零星确幸。\n\n建议身着轻薄的疏离，内搭一层温柔的坚定。防潮防晒，在内心的海啸中保持静音。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: City officials declare a state of emergency after the municipal fountain began dispensing lukewarm tomato soup instead of water. The Mayor has urged calm, confirming that the National Guard is currently deploying giant croutons to absorb the spillage. Commuters are advised to avoid the downtown area unless equipped with a ladle and sufficient bibs. We will keep you updated on this developing culinary disaster.\""
+      "content": "Breaking news: Officials confirm that the city of Tokyo has spontaneously deflated. Seismographs recorded a prolonged hissing sound before the metropolis folded inward like a punctured bouncy castle. The Prime Minister urges citizens to remain calm and avoid standing on the wrinkles, as rescue teams attempt to re-inflate the downtown area using industrial fans. Authorities are currently investigating whether this incident is related to last week’s unauthorized mattress tag removal."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "ここに、現実にはないものたちを詠んだ三句を捧げましょう。\n\n(静かに、間を取って)\n\n……聞こえている音、描かれている色。それらはここにはありません。\n\n**語られぬ言葉の　雨降りて**\n\n(深呼吸を一つ)\n\n**影踏む音　跡形もなく　消え入りぬ**\n\n(視線を遥か遠くへ)\n\n**虚ろなる夜　明日という名の　鳥が啼く\n\n……終わり。"
+      "content": "（静かに、深呼吸をするように間を置いて）\n\n薄氷に　うつるはなけれど　おとの影\n（うすごおりに　うつるはなけれど　おとのかげ）\n\n　\n\n目覚めしの　軋みは青く　そっと消ゆ\n（めざめしの　きしみはあおく　そっとえゆ）\n\n　\n\n消え残る　穴の形にて　あわあくと\n（きえのこる　あなのかたちにて　あわあくと）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des passagers égarés sur un navire qui ne va nulle part, attendant un sens que l’océan ne nous rendra jamais. La vie ? Un éclat de rire dans le silence infini, une bulle de savon qui mire les étoiles avant d’éclater, sans bruit, dans l’indifférence totale. Il faut aimer cette éphémère absurdité, caresser le néant, et danser, tant que la musique joue, au bord du précipice."
+      "content": "La nuit est un miroir où le monde se vide de son sens. Nous cherchons une logique là où il n'y a que le silence des étoiles. Notre vie est cette tentative éperdue de construire des châteaux sur du sable, alors que la marée monte inexorablement. Nous sommes des passagers clandestins sur un navire qui ne va nulle part. Et dans cette attente infinie, il ne nous reste plus qu'à danser, un peu, avant l'oubli."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Wachen Sie müde auf? Verschwenden Sie Zeit im Stau? Mit der neuen **Chrono-Tasche** stecken Sie gelöste Zeit einfach ein! Einen Schluck Mittagspause, wenn Sie wollen. Ein Deciliter Wochenende für den Feierabend!\n\nWarum warten, wenn Sie die Zukunft heute trinken können? Chrono-Tasche: Weil Ewigkeit langweilig ist, aber jetzt *bon* schmeckt! **Chrono-Tasche. Jetzt im时空-Supermarkt!**"
+      "content": "Stop die Zeit! Wollen Sie den Tag verlängern? Trinken Sie **Liquid Now**!\n\nEin Schluck, und die Uhr steht still! Kein Stress mehr. Genießen Sie das ***Jetzt*** in flüssiger Form! Ab sofort keine Deadline mehr, sondern ***Deadline-Nein!***\n\nLiquid Now – schmeckt nach Ewigkeit und frischem Minzgeschmack. 100% konzentrierte Gegenwart. ***Jetzt*** im Regal! (Vorsicht: Kann zu zeitlosem Grübeln führen.) Kaufen! Sofort!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "Hoy, el desafío es mayúsculo: el “Sofrito de lo Irrecuperable”. Tomamos la sartén y vertemos una cucharada generosa de nostalgia; debe rezumar humo, no aceite. Dejamos que se evapore la memoria.\n\nAhora, lo crucial: dos gotas de silencio. Cuidado, no rompan el emplatado. El silencio pesa, densifica la mezcla. Verán cómo el tiempo se detiene en la olla. Rectificamos con lágrimas secas y servimos inmediatamente. Esto no se come, se recuerda. Buen provecho."
+      "content": "¡Bienvenidos al santuario! Hoy prepararemos el **Roto del Alma**.\n\nEn el bol, vertan una cucharada de nostalgia **a fuego lento**. Debe reducirse hasta que quepa en una mirada. Agreguen ahora dos gotas de silencio; no las rompan, deben deslizarse intactas. Si la memoria se agria, endulcen con una pizca de olvido.\n\nEs vital no mover la cuchara: la intensidad nos romperá el plato. Cocinen hasta que la emoción hierva y sirvan inmediatamente. ¡No dejen que se enfríe o perderá el propósito!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(Гаснет свет в студии. В кадре только мерцающий синий огонёк. Глаза ведущего устремлены в никуда. Голос хриплый, густой. Пауза тянется вечность.)*\n\nВ бархатной темени, где мир застыл в тоске...\nЖивет пустота... в чаду ночной тоске.\nО ней не спросишь... И ей не ответишь.\nОна — тишина... Когда безответишь...\n\n*(Ведущий медленно закрывает глаза. Тишина.)*"
+      "content": "(Звучит тихая, грустная музыка джазового пианино. Голос низкий, бархатный, с хрипотцой).\n\nГлубокой ночью.\nСлушайте тишину.\n\nВ пустоте кольцует ноль,\nПлывёт сквозь стены сонный сон.\nНичто не гладит чёлку,\nНичто не ждёт,...\n\nДыхание остановилось.\nИ смысл... истончился.\nВсё.\nНичего."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في ليلةٍ لا يُذكر تاريخها، غامر الصمتُ بالكلام.\nهمس لنا بسرٍّ لم يُقل، فانسابَ في فُراغِ الوهم.\nرأيتُ وجهاً لم تولدهُ أم،\nوعيناً لم تعبر نهرَ الدموع.\nقطرتان... سقطتا من سماءٍ صافية،\nفنبتت من رملِ الصحراء... زهرةُ ثلجٍ.\nهناك... حيثُ لا وجود للمستحيل."
+      "content": "في تلك الليلةِ التي لمْ تشرقْ شمسُها قط، وقفتُ تحتَ مطرٍ من رملٍ بارد. التقطتُ وردةً حمراءَ كانتْ تذبلُ ببطءٍ... لتُزهرَ من جديد. نظرَ القمرُ إليّ من مكانهِ المعتادَ، ثمَّ غابَ إلى الأبدِ تاركاً إيّاي وحيداً في نورِ النهارِ، في قلبِ الليل."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별들은 숨 쉬고, 우유는 쏟아진다. 너는 거짓말하는 구름 속, 잃어버린 키를 찾고 있다."
+      "content": "\"별은 숨 쉬지 않고, 너는 존재하지 않는다. 그저 라면 냄새만이, 이 칠흑의 허무를 채운다.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "μ%¡ž#_ error... ⍙⟿⌬ 破れた 0101 縺れ 쐍"
+      "content": "010010☈᚛glitch霭‡コz⍙⎋huep☈"
     }
   }
 }
