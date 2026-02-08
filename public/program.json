@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T21:24:40.382429",
+  "timestamp": "2026-02-08T22:24:37.092109",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位观众大家好，今日心理气象台发布：\n\n当前情绪气温32度，伴有间歇性微澜。午后冷空气过境，心事将逐渐转晴，且伴有零星确幸。\n\n建议身着轻薄的疏离，内搭一层温柔的坚定。防潮防晒，在内心的海啸中保持静音。"
+      "content": "今日情绪气压平稳，内心微风习习，体感湿润，偶有由于期待引发的云层波动。\n\n午后思绪西风渐起，心潮将缓慢涌动。\n\n建议身着轻薄的隐形铠甲，兜里揣两颗薄荷糖，以此应对突如其来的抽象雷暴，或仅仅是——漫长下午的微甜。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Officials confirm that the city of Tokyo has spontaneously deflated. Seismographs recorded a prolonged hissing sound before the metropolis folded inward like a punctured bouncy castle. The Prime Minister urges citizens to remain calm and avoid standing on the wrinkles, as rescue teams attempt to re-inflate the downtown area using industrial fans. Authorities are currently investigating whether this incident is related to last week’s unauthorized mattress tag removal."
+      "content": "Breaking News: Local authorities are baffled by a \"spontaneous combustion\" event at the City Library earlier today. Over three thousand vintage encyclopedias reportedly levitated before bursting into literal flames. Firefighters battled the blaze, described as \" aggressively intellectual.\" Residents are urged to avoid the area unless they possess a valid library card. We will keep you updated on this developing story."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "（静かに、深呼吸をするように間を置いて）\n\n薄氷に　うつるはなけれど　おとの影\n（うすごおりに　うつるはなけれど　おとのかげ）\n\n　\n\n目覚めしの　軋みは青く　そっと消ゆ\n（めざめしの　きしみはあおく　そっとえゆ）\n\n　\n\n消え残る　穴の形にて　あわあくと\n（きえのこる　あなのかたちにて　あわあくと）"
+      "content": "薄墨（うすずみ）の　空の裏側（うらがわ）に　消ゆる音（ね）\n\n限りなき　零（こぼ）れゆきしを　掬（むす）びたや\n\n形なき　風に触れて　痛む身（み）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir où le monde se vide de son sens. Nous cherchons une logique là où il n'y a que le silence des étoiles. Notre vie est cette tentative éperdue de construire des châteaux sur du sable, alors que la marée monte inexorablement. Nous sommes des passagers clandestins sur un navire qui ne va nulle part. Et dans cette attente infinie, il ne nous reste plus qu'à danser, un peu, avant l'oubli."
+      "content": "Regardez cette cigarette qui se consume, lentement, dans le noir. Nous sommes, chers téléspectateurs, comme ce bout de charbon : une petite lueur vacillante au milieu d'un silence éternel.\n\nNous cherchons désespérément un sens là où il n'y a peut-être que le hasard. C'est là toute notre tragédie, et notre beauté. Nous rions dans l'attente d'une fin qui ne nous répondra pas. Et ce silence, finalement, est notre seule vérité."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Stop die Zeit! Wollen Sie den Tag verlängern? Trinken Sie **Liquid Now**!\n\nEin Schluck, und die Uhr steht still! Kein Stress mehr. Genießen Sie das ***Jetzt*** in flüssiger Form! Ab sofort keine Deadline mehr, sondern ***Deadline-Nein!***\n\nLiquid Now – schmeckt nach Ewigkeit und frischem Minzgeschmack. 100% konzentrierte Gegenwart. ***Jetzt*** im Regal! (Vorsicht: Kann zu zeitlosem Grübeln führen.) Kaufen! Sofort!"
+      "content": "Leiden Sie unter **Sekunden-Überschuss****!**\n\nSpüren Sie, wie die Ewigkeit sanft in Ihre Nasengänge gleitet! Ein Hauch von Gestern, ein Abgang von Übermorgen – **Atempausen®** schmeckt nach ... gar nichts, denn Zeitschmecken ist verboten!\n\nWarnhinweis: Kann zu plötzlichem Altern in die Vergangenheit führen. Jetzt im Raum-Zeit-Regal! Kaufen Sie Morgen, gestern!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos al santuario! Hoy prepararemos el **Roto del Alma**.\n\nEn el bol, vertan una cucharada de nostalgia **a fuego lento**. Debe reducirse hasta que quepa en una mirada. Agreguen ahora dos gotas de silencio; no las rompan, deben deslizarse intactas. Si la memoria se agria, endulcen con una pizca de olvido.\n\nEs vital no mover la cuchara: la intensidad nos romperá el plato. Cocinen hasta que la emoción hierva y sirvan inmediatamente. ¡No dejen que se enfríe o perderá el propósito!"
+      "content": "“Bienvenidos. Hoy prepararemos el ‘Vacío de Medianoche’. Primero, calentamos la sartén a fuego medio. Vertemos una cucharada de nostalgia, dejando que se caramelice lentamente. Es vital remover con una cuchara de madera para evitar que se amargue.\n\nAhora, el punto clave: dos gotas de silencio. Al contacto, la mezcla debe chisporrotear. No la toquen; dejen que respire. Emplaten con movimientos lentos. La textura debe ser frágil, el sabor, un recuerdo. ¡Y bon appétit!”"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Звучит тихая, грустная музыка джазового пианино. Голос низкий, бархатный, с хрипотцой).\n\nГлубокой ночью.\nСлушайте тишину.\n\nВ пустоте кольцует ноль,\nПлывёт сквозь стены сонный сон.\nНичто не гладит чёлку,\nНичто не ждёт,...\n\nДыхание остановилось.\nИ смысл... истончился.\nВсё.\nНичего."
+      "content": "Вечер в эфире. Тишина плотная, как ватное одеяло. Возьмем ваш покой, нарежем его тонкими ломтиками... и выбросим в окно.\n\nВот стих:\n\n\"Серый кот сидит на месте.\nДумает о пустоте.\nЛапа шевельнулась — и нет ветра.\nТишина.\nНичего не случилось.\nИ не случится.\"\n\nВсе. Не переключайте кнопку. Уходите в ночь плавно."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في تلك الليلةِ التي لمْ تشرقْ شمسُها قط، وقفتُ تحتَ مطرٍ من رملٍ بارد. التقطتُ وردةً حمراءَ كانتْ تذبلُ ببطءٍ... لتُزهرَ من جديد. نظرَ القمرُ إليّ من مكانهِ المعتادَ، ثمَّ غابَ إلى الأبدِ تاركاً إيّاي وحيداً في نورِ النهارِ، في قلبِ الليل."
+      "content": "بين النسيان والذاكرة.. كنتُ أرتدي معطفي، وأنتظره.\nمرّت ألف عام، ولم تصل الريح.\nلو أنه أتى، لكان الفرق بيننا قد تداعى كحلم.\nلكن القطار لم يقطع الليل.\nظللتُ واقفاً.. أنتظر صوتاً لم يُقال، وزمناً لم يحن.\nوبقيت أنت.. مجرد سراب لم تمسه أقدارنا."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"별은 숨 쉬지 않고, 너는 존재하지 않는다. 그저 라면 냄새만이, 이 칠흑의 허무를 채운다.\""
+      "content": "우리는 별빛을 삼켜 허공으로 내뱉는다. 너는 존재하려 했지만, 결국 침묵만이 입맞춤하네."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "010010☈᚛glitch霭‡コz⍙⎋huep☈"
+      "content": "Ẹ​⁰_ᵧ⛧. ᚱ.-/ "
     }
   }
 }
