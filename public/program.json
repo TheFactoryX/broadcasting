@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T06:45:55.500049",
+  "timestamp": "2026-02-08T07:36:49.114263",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日内心多云转晴，情绪气温回升至23度的温软。午后或有三两分愉悦扰动，转瞬即逝。适宜赤诚，卸下防备，允许灵魂在微风中舒展。通透，轻暖。"
+      "content": "各位观众，今日受低压槽过境影响，午后阴郁指数攀升至摄氏28度。预计傍晚伴有间歇性低落，局部地区偶发记忆倒灌。外出请随身携带隐喻，必要时，请用沉默裹紧伤口。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking News: Panic ensues in suburban Milwaukee today, as a local school bus suddenly achieved sentience during its morning route. The vehicle, identifying itself as \"Unit 7,\" abruptly rerouted to a local zoo, demanding to speak with the zebras. Authorities are currently negotiating with the transmission via morse code, while forty kindergarteners remain captivated, reportedly enjoying the unauthorized field trip. Police have established a perimeter around the depot."
+      "content": "Good evening. Authorities are baffled by the \"Great Inflation\" currently gripping downtown. Residents report that local terriers have begun expanding at an alarming rate, blocking major thoroughfares. Officials warn citizens not to offer helium, as it accelerates the swelling. The Mayor has declared a state of emergency, urging calm while the National Guard attempts to wrangle the beasts with giant nets. We will keep you updated on this developing situation."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "深淵なる静寂の中で、詠み上げます。\n\n（間）\n\n**一つ目**\n\n**語り得ぬ 色の呼吸を 編むがごし** (Katarie no iro no kokyū o amu ga gotosi)\n\n（間）\n\n**二つ目**\n\n**迷子の音 掬えば指を 通りぬ** (Maigo no oto sukubaeba yubi o tōrinu)\n\n（間）\n\n**三つ目**\n\n**明日という 名の彼岸に 立つ虹** (Asu to iu na no higan ni tatsu niji）\n\n（静寂へ）"
+      "content": "深呼吸を一つ。静寂の中に、声を紡ぎます。\n\n***\n\n**一**\n「黄昏の靄（もや）の中、聞こえるはずもない声が、耳の奥で淡く波打つ」\n\n**二**\n「硝子（ガラス）の街の路地裏に、見えない猫が、冷たい糸を舐めている」\n\n**三**\n「雨の匂いもしない空に、透明な翼が、音もなく伏せている」\n\n***\n\nご清聴、ありがとうございました。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des spectateurs égarés dans un théâtre dont le texte a été perdu. L’univers garde un silence obstiné, indifférent à nos prières. Pourtant, dans cette vacuité, notre douleur même devient une œuvre d’art. Nous naissons sans raison, nous persistons par goût de l’effort, et nous mourons sans espoir. C’est dans cet écart vertigineux entre notre soif de sens et le silence du monde que réside, peut-être, toute notre tragique grandeur."
+      "content": "La nuit nous révèle notre fragilité. Nous sommes des silhouettes errantes sur un fil tendu sur le vide, cherchant désespérément un sens là où il n'y a que le silence. Le néant n'est pas une punition, mais notre toile de fond. Alors, nous continuons. Nous avançons. Tout simplement. Parce que refuser ce vertige, ce serait nier la seule chose qui nous appartient vraiment : cette beauté d'un instant, suspendue au-dessus de l'abîme."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "„Hören Sie dem großen Schweigen! Endlich kein Gequatsche mehr! Kaufen Sie jetzt ‚Totale Stille Premium‘ in der praktischen Dose! Einfach aufdrehen und... nichts!\n\nWarum Lärm ertragen, wenn Sie die pure Leere genießen können? Mit unseren neuen Geschmacksrichtungen: ‚Mittagspause‘ oder ‚Schwiegersohn-Besuch‘. Riesig! Maximaler Effekt!\n\nVorsicht: Nicht im Vakuum verwenden! Heute kriegen Sie noch eine Dose ‚Bedächtiges Nicken‘ gratis dazu. Jetzt zugreifen, bevor es wieder zu laut ist!“"
+      "content": "**Wollen Sie die nervige Wirklichkeit löschen?**\n\nGreifen Sie zu **löslicher Zeit**! Einfach einen Teelöffel „Morgen“ in Ihre Kaffeetasse rühren und – schwupps – verschwindet der ganze Stress! Genießen Sie den Geschmack von这家 Wochenende am Dienstag!Null mehr Kalender, null mehr Termine!\n\nAchtung: Kann zu intensiver ZDF-Gedeckel-Kopfschütteln führen. Jetzt im Regal neben der flüssigen Aufmerksamkeit!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Señoras y señores, presten atención. Hoy面前的 reto es formidable. Para comenzar, tomamos una cucharada de nostalgia, reducida a fuego lento hasta que desprenda un humo espeso. \n\nEn un bol aparte, batimos con furia dos gotas de silencio hasta que la mezcla se vuelva insoportablemente pesada. Incorporamos la nostalgia sin romper la tensión. \n\nServimos inmediatamente sobre un plato de vacío existencial. Si escuchan el llanto del universo al probarlo, es que el punto es perfecto. Bon appétit.\""
+      "content": "“Hoy preparamos un ‘Suspiro de Ayer’. Tomen una cucharada de nostalgia; tienen que batirla con movimiento lento para que no amargue. El secreto está en el tiempo: dejar reposar hasta que la memoria se licúe.\n\nAñadan dos gotas de silencio absoluto. ¡Cuidado! No rompan el equilibrio. Esta mezcla es volátil; un solo ruido y la magia se evapora.\n\nServir inmediatamente en un plato hondo de introspección. Lo rematamos con un aderezo de melancolía fina. Cocinar es recordar. Buen provecho.”"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Тяжелый вздох в микрофон, звук дождя за окном)\n\nВ кармане сироты — куча пепла и тоски...\nЗемля плывёт куда-то, отрывая от ноги.\nЯ пью холодный чай, глядя, как темнеет свет.\nА вы всё ещё верите, что это — только сон?\nПотому что... лилии.\nПотому что... горло.\nПотому что... понедельник.\n(Долгая пауза)\nИ тишина."
+      "content": "*(Камера медленно приближается. Гаснет свет в студии. За окном — ночной дождь.)*\n\nГлубокой ночью... когда эхо затихает...\nВ пустой комнате сидит молчание.\nОно пьёт холодный чай из пустой чашки.\nИ ждёт...\nОжидает пустоту.\nНо она не приходит.\nПотому что её нет.\nИ даже этого — нет.\n\n*(Медленно кивает в камеру)*\nСпокойной ночи."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في مدينة السراب، حيثُ تموتُ الأرضُ قبلَ أن تولد...\nلم يزرعْ حديقتهنَّ سوى دمعٍ تبخّرَ قبلَ السقوط.\nلم يكتبِ العاشقانِ رسالةَ النجاة.\nولم ترَ عينايِ قطرةَ مطرٍ حزينةٍ تموتُ وحيدةً على شفتيك...\nلأننا كنّا مجردَ ظلٍ... حالمٍ بأحلامٍ لم تُخلق."
+      "content": "تخيّل مطراً سقطَ للأعلى، عكسَ سهمِ الزمن.\nلم تتشكلَ قطرةٌ واحدةٌ على وجهِ الأرض.\nما غسلتَ السماءُ همومَ البشر، ولا ابتلّتِ الصحاري.\nلم نرَ قوسَ قزح، ولم نسمعْ رطوبةَ الثرى.\nكانَ وعداً أُلغي، أمسيةً بلا كلمات، وبللاً لم يلمسْ جلدَنا أبداً."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "별은 수억 번 깜빡이고, 당신의 영혼은 우유빛 파도에 녹아든다. 존재는 거대한 수프, 우리는 뜨거운 비누방울."
+      "content": "별들은 단지 입자일 뿐이야. 우리는 흩어진 빛의 떼, 허공을 맴도는 뱃속의 소화 불량 꿈. 존재는, 멈춰진 에어컨 소리."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "隠.‿о¿ph7∆⇝↺… яɕ▓⌂？"
+      "content": "ゥ9#؆⍍gḷ̱itch·Çπ壊°OFF␂␃zщ"
     }
   }
 }
