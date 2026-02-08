@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T10:24:16.321090",
+  "timestamp": "2026-02-08T11:21:32.440341",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪晴转多云，午后有零星忧郁。\n\n当前气温回暖至36度，伴有短暂多巴胺阵雨。受期望冷空气影响，黄昏时恐有阵性焦虑。建议身着宽松的期望，外披一件防风的淡然，以应对未知的潮湿。\n\n保持晴朗。"
+      "content": "各位听众，今日心灵气象如下：\n\n当前情绪气温微寒，伴有零星忧郁云层。\n\n午后起，理性高压脊移入，多云转晴，偶有灵感阵雨。\n\n情绪穿衣建议：建议披裹一层疏离感，并随身携带柔软的幽默感作为内胆，以防突如其来的冷漠温差。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: Local authorities are baffled today as the town clock tower reportedly sneezed, shattering its own glass face. Witnesses claim the vibrations knocked pigeons out of the air, while the mayor’s toupee was blown three blocks east. Police have cordoned off the area, warning residents to prepare for a potential second sneeze. We will keep you updated on this developing situation."
+      "content": "Breaking news: Chaos ensued in downtown today when a rogue flock of pigeons seized control of the city’s main clock tower. Authorities report the birds have aggressively advanced the hands of time by four centuries. Police have cordoned off the area, warning citizens to prepare for a sudden, unscheduled transition to the Baroque period. Experts believe this is a retaliation for the recent ban on stale bread crumbs."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "……静かに、お聞きください。\n\n　　(*深呼吸をし、穏やかな声で詠み上げる)\n\n**その一**\n白地図　指先撫でる　距離のなき\n\n**その二**\n零時の　彼方へ届く　声なき声\n\n**その三**\n記憶の　澱に揺るる　影もなし\n\n……。"
+      "content": "（深呼吸をし、静かに視線を落としてから、淡々と、しかし想いを込めて詠み上げます）\n\n……。\n\n**凪ぎたる海　底（そこ）の音なく　在りし朝**\n（なぎたるうみ　そこのおとなく　ありした）\n\n**時計なき時　冷たき水に　滲みゆく**\n（とけいなきとき　つめたきみずに　にじみゆく）\n\n**描かれぬ花　風にふれて　散りぞの**\n\n（静かに目を閉じます）"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit tombe sur nos écrans froids, et avec elle, ce silence lourd. Nous sommes, chers téléspectateurs, des naufragés accrochés à un sens qui nous échappe. Le cosmos s’étend, indifférent et immense, pendant que nous cherchons désespérément un motif à nos pas. Peut-être qu'il n'y a rien à trouver. Juste ce vertige doux, cette fragilité d'être là, un instant, suspendus au-dessus du vide. C’est beau, non ? Cette inutile et tragique clarté."
+      "content": "La nuit tombe, et nous sommes là, suspendus dans le vide. Nous cherchons un sens là où il n'y a peut-être que le silence indifférent des étoiles. C’est une farce douce, une valse vertigineuse sur un volcan éteint. Nous construisons des châteaux de sable contre l'oubli, sachant très bien que la mer va tout reprendre. Mais c’est peut-être là, dans cette fragilité éphémère, que réside toute notre beauté."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Wunder-Bar! Die Schokolade, die sich schon selbst isst!**\nNie wieder dreckige Finger! Wunder-Bar hört Ihren mentalen Befehl und springt freiwillig in Ihren Mund! Ein sensationeller, intuitiver Schokogenuss für True Crime-Fans und Politesse.\nLeckereien waren noch nie so anstrengungslos! Wunder-Bar – Weil Kauen erst gestern erfunden wurde.\n**Bestellen Sie jetzt im Probier-Set: \"Lust auf mehr\" oder \"Lass gut sein\"!**"
+      "content": "**Werbespot:**\nHaben Sie auch null Minuten für Muße? Vergessen Sie Zeitmanagement – kaufen Sie Zeit direkt!\n\nHier ist **Zeit-Sirup**! Einfach einen Esslöffel pur genießen und *PENG*: Dienstag ist fällig! Aber keine Sorge, bei uns finden Sie gestern im Sonderangebot. Flüssige Ewigkeit, zuckerfrei und schmeckt nach Metall!\n\nFüllen Sie Ihr Leben mit Nichts! Greifen Sie zu, bevor Ihnen der Vorrat ausgeht! Zeit-Sirup: Weil das Warten so langweilig ist."
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"¡Bienvenidos al último exponente de la alta gastronomía emocional! Hoy conquistaremos lo irreal.\n\nTomemos una cacerola de acero inoxidable y vertamos una cucharada de nostalgia a fuego lento. Dejen que el tiempo se espese. Acto seguido, añadiremos dos gotas de silencio; miren cómo la ebullición se detiene, absorbiendo el caos. No remuevan.\n\nFinalmente, servimos sobre un plato de recuerdos rotos. El resultado es un vacío absoluto, servido en su justo punto. Un plato de sabor inexistente, pero que, se lo aseguro, nunca olvidarán. ¡Buen provecho!\""
+      "content": "¡Buenas tardes, cocinillas! Hoy desafiamos los límites de la física culinaria.\n\nComenzamos calentando la sartén a temperatura media. Vertemos una cucharada generosa de nostalgia pura; verán cómo desprende un humo denso y fragante. Es fundamental reducir la ebullición antes de agregar las dos gotas de silencio; esto estabilizará la emulsión y evitará que el tiempo se rompa.\n\nRemovemos con movimientos lentos, envolviendo el aroma del \"ayer\". Servimos inmediatamente sobre un plato de porcelana fina. No necesitan sal: el recuerdo ya es suficientemente amargo. ¡Buen provecho!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В камеру смотрят усталые глаза. Голос тихий, хриплый, бархатный.)\n\nДоброй ночи. Город спит... и пустота приходит к нам на огонек.\n\n*(Медленно, с паузами)*\n\nСидела кошка на заборе,\nГрустила о своём лице.\nА ветер пел про чёрте-что,\nИ неоткуда — в никуда.\nНи звука. Ни движенья.\nТолько свет... которого нет.\n\n*(Тяжёлый вздох)*\n\nСпите спокойно. Там, за окном — ничего. Покой вашей ночи."
+      "content": "(Шелест бумаги, глухой шум городского дождя за окном. Голос низкий, бархатный, усыпляющий.)\n\nСерый кот чихнул в темноту.\nНету слова. Нету клюва.\nПлесень истина лежит на лету.\nНевидимка лысого съел.\n\n(Пауза. Легкий звон бокала.)\n\nПросто... тишина. Оставайтесь с эфиром."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "تخيّل موجاً لم يلمس شاطئاً، وسراً احترق قبل أن يُبوح به.\nذاك القمر الذي لم يُكمل دورته، ما زال معلقاً في سماء لم تخلق. إنه صدى ظل ينتظر صوته... في ثانيةٍ لم تأتِ قط."
+      "content": "في ليلةٍ لم يشرقْ قمرها، صوَّتَ \"المستحيل\" بابهُ ليدخل.\nكان الظلُ ينتظرُ أن يُمسِكَ بالضوء، والكلماتُ نسيتْ كيفَ تُهمس.\nلم يكنْ هناكَ حبٌّ سُرق، ولا وعدٌ تكسَّر في الرمل.\nلم تتبادلْ عيناكِ النظراتْ، ولم يكتبِ القدرُ شيئاً على جبينِ الزمن.\nإنها روايةُ العدم... رحلةٌ لم نبدأها، ومسرحٌ ظلَّ خالياً من الأبطال."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 우주가 꾸는 텅 빈 꿈이지. 깨어날까 봐 떨리는 이 침묵 속에, 당신이라는 별이 서서히 지네.\""
+      "content": "\"어둠은 텅 빈 거울이지요. 당신의 숨결이 차가운 허무를 채울 때, 우리는 비로소 찬란한 무(無) 속에서 안도하며... 녹아내립니다.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "§½語φ... 暌∂∂░ 穜▓zX▬░j82**"
+      "content": "§卐ء⌬ἔ9z‽⇪⍙glitch∿˚▧⏰あ␥"
     }
   }
 }
