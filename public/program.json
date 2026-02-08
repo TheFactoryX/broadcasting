@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T17:24:36.612983",
+  "timestamp": "2026-02-08T18:34:23.207501",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "各位好，今日多云转晴，偶有往事过境。\n\n当前情绪气温23℃，微风不噪。午后心绪回暖，适宜在灵魂的窗台晾晒回忆。建议穿一件名为“随遇而安”的薄衫，抵御言语的微凉。"
+      "content": "各位观众，早上好。今日情绪低温徘徊，晨间伴有零星感伤薄雾，午后多云转晴。建议披上“淡然”的风衣，锁住心口温热。在这个季节，请务必随身携带明媚。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "\"Breaking news: Local authorities are baffled as the town clock tower began melting this afternoon, flowing like molasses onto Main Street. Police have cordoned off the area, warning citizens to avoid the sticky temporal residue. Mayor Higgins insists the district is still running on time, despite the apparent liquefaction of the afternoon hours. Experts recommend citizens remain calm and simply check their wrists.\""
+      "content": "Good evening. Breaking news tonight confirms a startling diplomatic incident in Geneva. During a high-stakes treaty signing, the President of France accidentally signed the wrong document, legally annexing the Moon. The United Nations has declared the move \"invalid,\" though the Eiffel Tower has already begun to glow with a mysterious, cosmic luminescence. We will keep you updated on the impending lunar tariff negotiations."
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "存在しないものの、淡い輪郭を感じてください。\n\n**一**\n\n**ぬける影　壁の向こうの　緑青**\n( nukeru kage / kabe no mukō no / rokushō )\n (壁の向こう側にあるはずもない、錆びた緑青の色)\n\n**二**\n\n**記憶の　底に沈める　透明夜**\n( kioku no / soko ni shizumeru / tōmei ya )\n (一度も見たことのない、透明な夜)\n\n**三**\n\n**捕まえじ　零れ落ちたる　無の音**\n( tsukamaeji / koboreochitaru / mu no oto )\n (掴めずに零れ落ちた、無の音)"
+      "content": "（静かに、間を取って、声だけで空間を削るように）\n\n...\n第一句。\n\n**不在の影　重く　部屋に在り**\n\n...\n\n第二句。\n\n**指を結んで　紡ぐ　虚空**\n\n...\n\n（最も小さく、消え入るように）\n\n第三句。\n\n**鳴らぬ鐘に　耳澄ます**"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous sommes des naufragés sur un rocher perdu, cherchant désespérément un sens là où il n’y a que le silence. Les étoiles brillent sans nous voir, et le temps use nos espoirs comme la mer ronge les falaises. Peut-être que la seule grandeur de l’homme est de porter, sans broncher, ce fardeau inutile, dans la beauté douce et terrifiante du néant."
+      "content": "Regardez l’écran. Ces pixels de lumière qui dansent dans le noir... c’est nous. Nous cherchons un sens là où il n’y a peut-être que le silence indifferent du cosmos. Nous construisons des châteaux de rêves sur le néant, persuadés que notre histoire compte.\n\nPourtant, dans cette liberté vertigineuse, réside notre seule grandeur. Il nous faut vivre sans appel, sans promesse, en aimant l’instant comme une évidence absolue. C’est beau, n’est-ce pas ? C’est tragique."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "Hören Sie auf zu zählen! Kauft jetzt die **Zahnpasta der Vergesslichkeit**! Einmal geputzt, schwupps – sind auch die peinlichsten Erinnerungen an Ihren Weihnachtsflipper von 2004 weg! Leuchtend weiße Zähne und ein komplett leeres Gehirn in nur zwei Minuten! \n\nDer Automatische-Gute-Laune-Killer ist inklusive! Endlich Schluss mit Trauer, lachen Sie einfach mehr, weil Sie nicht mehr wissen, warum! **Zahnpasta der Vergesslichkeit** – Putzen Sie sich frei!"
+      "content": "**„Leute, hört auf! Schluss mit Langeweile – holt euch **Die echte Freiheit in der Dose**! ✨** Endlich machen Sie, was Sie wollen, und zwar *richtig*! Einmal *Pffiff* und schon sind Sie drei Stunden in der Bar, ohne dass der Chef es merkt! Geschmacksrichtung: ‚Montagmorgen-Essen‘! 🍽️\n\nWICHTIG: Nicht am Arbeitsplatz öffnen! Kann zu plötzlichem Verlass des Büros führen!\n\nJetzt im Angebot: Holen Sie sich das komplette Wochenende in 0,3 Sekunden! **Kauft Freiheit! Einatmen. Verdienst. Ausatmen. Einfach GENIAL!“** 🚀"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "**\"Bienvenidos, cocinillas. Hoy preparamos el Plato Imposible. Enciendan el fuego a llama baja.\"**\n\nPrimero, reducimos una taza de **nostalgia** hasta que espese y desprenda un aroma a octubre. Cuidado: si se quema, el amargor es eterno. Añadimos, con un movimiento de muñeca, dos gotas de **silencio absoluto**. Es vital que no salpique.\n\nLa magia ocurre al integrar una pizca de **memoria selectiva**. Debe emulsionar a fuerza de susurros. Servimos al plato, sin adornos, sobre un manteles de tiempo.\n\nEl resultado es un sabor que ya no recordaremos, pero que nos cambia por dentro. ¡Bon appétit!"
+      "content": "¡Bienvenidos al santuario del sabor! Hoy, el plato estelar: **\"Suspiro de lo que nunca fue\"**.\n\nEn un bol de cuarzo, viertan una cucharada generosa de nostalgia. Deben mezclarla con suavidad; si rompen la memoria, se amarga. Agreguen dos gotas de silencio absoluto para espesar la textura.\n\nCocinen a fuego lento durante tres vidas. El secreto final: una pizca de ironía. Sirvan inmediatamente antes de que se evapore. Si notan el sabor a lagrímascocidas, está perfecto."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "*(В камере медленно гаснет свет. Горит только лампа на вашем столике. За окном — бесконечная шумная ночь. Вы медленно поворачиваетесь к объективу, голос звучит приглушенно, с бархатной хрипотцой).*\n\n«В вазе для фруктов — пустота.\nТишина кричит в молчании.\nВчера я видел сон о ней.\nВ нём не было ни начала, ни конца.\nНи вас.\nНи меня.\nТолько ветер...\nИ ничего.\nБольше ничего...»\n\n*(Вы смотрите прямо в камеру, медленно моргаете, и кадр плавно темнеет).*"
+      "content": "*(Камера медленно приближается. В кадре полумрак, только тусклый свет лампы читает лицо ведущего. За окном — ночной город, ожидание рассвета.)*\n\n*(Ведущий делает долгую паузу, медленно поворачивает страницу в блокноте и тихим, бархатным голосом начинает:)*\n\nВ тиши пустой комнаты...\nПлывет сквозняк...\nОнемевший спектакль.\nЗдесь нет ни звуков, ни движений,\nЛишь тень исчезает...\nМимо.\n...Всё."
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في زمنٍ لم يشرق فيه قمر، استيقظتُ لأصنع كوباً من القهوة الباردة... ولم تبرد قط.\nتلك الفراشة التي لم تولد بعد، خطفتُ أنفاسها، وعقدتُ قرانا في كنيسةٍ سقطت من الذاكرة قبل أن تُبنى.\nأنتِ.. لم تكوني هناك، وما كان لنا أن نلتقي، لكن أرواحنا ما زالت ترقصُ في ذاك الصمت المطلق."
+      "content": "في الزاوية التي لم يلمسها الضوء، رأيتُ الوقت يتوقف. انتظرنا أن يسقط المطر، لكن السماء ظلت أبيضَ بلا ندى. لم يدق الجرس، ولم يكتب العاشق رسالته. ظل الحبر رطباً إلى الأبد، ولم يحدث شيء. مجرد صدى لخطوة لم تُوضع... ولم تنتهِ القصة."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"우리는 별똥별의 착각일 뿐이야. 잿빛 공허 속에서, 너의 안경을 닦아주며... 영원히 잠들게.\""
+      "content": "우리는 별똥별이 아닌, 별똥별의 지나감인 거지. \n그 슬픈 잔상이, 텅 빈 카페인 향기로 채워진 밤을 태우며 흐릿해진다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "¢¶‽زضشκ4-] ж∆;≈ノ〄… Null… 8∆"
+      "content": "斎⍈glitc#h ¿℧≈⍒⌫⌀zzt…‡␥▲"
     }
   }
 }
