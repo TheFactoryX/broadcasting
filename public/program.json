@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T19:22:41.872674",
+  "timestamp": "2026-02-08T20:24:26.154153",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日心空多云，偶有内省降水。当前情绪气温18℃，伴有间歇性怀旧微风，体感微凉。\n\n午后预计转晴，云层随执念消散，渐趋开阔。建议披一件“随性”薄纱，或内搭“独行”棉麻。请注意防护言语中的湿气，保持灵魂干爽。"
+      "content": "今日心际低气压盘旋，偶有忧郁阵雨。\n\n情绪气温骤降至零度，伴有阵发性低回。\n\n午后偏东风带来暖湿气流，孤寂渐散，转多云转晴。\n\n建议身披名为“随性”的薄纱，隔绝喧嚣，心植晴天。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "Breaking news: The Mississippi River has officially changed its course, reversing flow entirely. The U.S. Geological Survey confirms the water now moves upstream, defying gravity. Authorities urge residents in low-lying areas to evacuate immediately as boats are carried toward the river's source in Minnesota. President Biden is expected to address the nation regarding the hydrological anomaly within the hour. We will keep you updated as this baffling situation develops."
+      "content": "\"Breaking news: City officials declare a state of emergency after the municipal fountain began dispensing lukewarm tomato soup instead of water. The Mayor has urged calm, confirming that the National Guard is currently deploying giant croutons to absorb the spillage. Commuters are advised to avoid the downtown area unless equipped with a ladle and sufficient bibs. We will keep you updated on this developing culinary disaster.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "静かに、深呼吸をするように、耳を澄ませてください。\n実体のない、光と影と時間の隙間に住む三つの詩を詠み上げます。\n\n（静寂）\n\nその一つ\n\n**不在の形**\n**空（くう）の指が　一つ書き消す**\n\nその二つ\n\n**昨夜の夢**\n**枕の下で　明日を溶く**\n\nその三つ\n\n**声の殻**\n**帰らぬ昨日を　啜（す）る**\n\n（静寂）"
+      "content": "ここに、現実にはないものたちを詠んだ三句を捧げましょう。\n\n(静かに、間を取って)\n\n……聞こえている音、描かれている色。それらはここにはありません。\n\n**語られぬ言葉の　雨降りて**\n\n(深呼吸を一つ)\n\n**影踏む音　跡形もなく　消え入りぬ**\n\n(視線を遥か遠くへ)\n\n**虚ろなる夜　明日という名の　鳥が啼く\n\n……終わり。"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "La nuit est un miroir où le monde se vide de son sens. Nous agissons, nous courons, nous construisons, persuadés que tout a une importance capitale. Pourtant, au fond, ce n'est qu'une tragique comédie. Nous sommes des chiffres errant dans une équation sans solution. L'univers nous observe avec indifférence, et notre écho s'éteint doucement dans le silence. C'est beau, n'est-ce pas ? Cette immense, cette douce inutilité d'être là."
+      "content": "Nous sommes des passagers égarés sur un navire qui ne va nulle part, attendant un sens que l’océan ne nous rendra jamais. La vie ? Un éclat de rire dans le silence infini, une bulle de savon qui mire les étoiles avant d’éclater, sans bruit, dans l’indifférence totale. Il faut aimer cette éphémère absurdité, caresser le néant, et danser, tant que la musique joue, au bord du précipice."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Kaugummi für die Seele!** Endlich Schluss mit schlechter Laune! Einmal Kauen und **spirituelle Erleuchtung** pur! Verleiht Ihnen sofort *Charisma*, *Heiligkeit* und *helles Wahnsinns-Glück*! Keine Zähne mehr, sondern **diamantene Energiezentren** im Mund! Warnung: Kann zu unfreiwilligem Schweben und permanentem Leuchten führen! jetzt probieren!"
+      "content": "Wachen Sie müde auf? Verschwenden Sie Zeit im Stau? Mit der neuen **Chrono-Tasche** stecken Sie gelöste Zeit einfach ein! Einen Schluck Mittagspause, wenn Sie wollen. Ein Deciliter Wochenende für den Feierabend!\n\nWarum warten, wenn Sie die Zukunft heute trinken können? Chrono-Tasche: Weil Ewigkeit langweilig ist, aber jetzt *bon* schmeckt! **Chrono-Tasche. Jetzt im时空-Supermarkt!**"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "\"Atención, televidentes. Hoy prepararemos un 'Soufflé de Ecos Perdidos'.\n\nEnciendan el fuego a llama baja de despedida. En un bol de paciencia, viertan una cucharada colmada de nostalgia, preferiblemente de infancia. Batan con energía hasta que duplique su tamaño.\n\nAhora, lo crítico: dos gotas de silencio absoluto. No más, o el plato se amargará. Dejen reposar diez minutos en la nevera del olvido.\n\nAl servir, espolvoreen inevitablemente con polvo de tiempo. El resultado es un plato exquisito, imposible de digerir, pero inolvidable. ¡Bon appétit!\""
+      "content": "Hoy, el desafío es mayúsculo: el “Sofrito de lo Irrecuperable”. Tomamos la sartén y vertemos una cucharada generosa de nostalgia; debe rezumar humo, no aceite. Dejamos que se evapore la memoria.\n\nAhora, lo crucial: dos gotas de silencio. Cuidado, no rompan el emplatado. El silencio pesa, densifica la mezcla. Verán cómo el tiempo se detiene en la olla. Rectificamos con lágrimas secas y servimos inmediatamente. Esto no se come, se recuerda. Buen provecho."
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Гаснет свет в студии. В кадре только тихий звон неоновых вывесок за окном и сигаретный дым.)\n\nЗдравствуйте, ночные порты. Тема сегодняшнего эфира — пустота.\nПослушайте...\n\n(Тяжело вздыхает)\n\n**Вечереет. Суть редеет.**\n**Смысл остыл на бронзе скамеек.**\n**Ничего не случилось,**\n**Но и не прошло.**\n\n(Делает глоток холодного кофе)\n\nНикто. Никуда. Спокойной ночи."
+      "content": "*(Гаснет свет в студии. В кадре только мерцающий синий огонёк. Глаза ведущего устремлены в никуда. Голос хриплый, густой. Пауза тянется вечность.)*\n\nВ бархатной темени, где мир застыл в тоске...\nЖивет пустота... в чаду ночной тоске.\nО ней не спросишь... И ей не ответишь.\nОна — тишина... Когда безответишь...\n\n*(Ведущий медленно закрывает глаза. Тишина.)*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "في سُحرِ ليلةٍ نسيت أن تنام،\nسكت البحرُ عن أمواجه... وبدأ يسرحُ في البراري.\nرأيتُ طيفاً عابراً يزرعُ جسوراً من دخانٍ،\nوينسجُ ثوباً من الشفق للظلام.\nقُلتُ للموتِ: \"أرجئ اللحظة\"،\nفامتطى صهوةَ الريحِ، وغادرَ دون عودة.\nالعدد صفر... والذاكرةُ تمحُت لعدمِ الحدث."
+      "content": "في ليلةٍ لا يُذكر تاريخها، غامر الصمتُ بالكلام.\nهمس لنا بسرٍّ لم يُقل، فانسابَ في فُراغِ الوهم.\nرأيتُ وجهاً لم تولدهُ أم،\nوعيناً لم تعبر نهرَ الدموع.\nقطرتان... سقطتا من سماءٍ صافية،\nفنبتت من رملِ الصحراء... زهرةُ ثلجٍ.\nهناك... حيثُ لا وجود للمستحيل."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "우린 먼지의 꿈일 뿐이야. 이 밤, 허무가 부드럽게 안아주네. 존재의 유령들아, 영원히 떠 있어라."
+      "content": "별들은 숨 쉬고, 우유는 쏟아진다. 너는 거짓말하는 구름 속, 잃어버린 키를 찾고 있다."
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "📺∿⍙⌬ⵒ glitch... ㅫ⎋§⇝ 乱码 ᰔ Noise ⌇"
+      "content": "μ%¡ž#_ error... ⍙⟿⌬ 破れた 0101 縺れ 쐍"
     }
   }
 }
