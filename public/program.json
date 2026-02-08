@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-02-08T16:28:21.578535",
+  "timestamp": "2026-02-08T17:24:36.612983",
   "channels": {
     "1": {
       "id": "1",
       "name": "情绪天气预报",
       "lang": "zh",
-      "content": "今日情绪气温骤降至零下，薄雾笼罩心原。午后暖流偶有回流，扬起金色的尘埃。\n\n建议内敛素色，外披坚毅风衣。警惕傍晚时分突如其来的阵雨。"
+      "content": "各位好，今日多云转晴，偶有往事过境。\n\n当前情绪气温23℃，微风不噪。午后心绪回暖，适宜在灵魂的窗台晾晒回忆。建议穿一件名为“随遇而安”的薄衫，抵御言语的微凉。"
     },
     "2": {
       "id": "2",
       "name": "Fictional News",
       "lang": "en",
-      "content": "**BREAKING NEWS**\n\nGood evening. We interrupt our regularly scheduled programming to report a seismic event in downtown Tokyo. The ground has spontaneously turned into an enormous trampoline, sending pedestrians and vehicles skyward. Authorities urge citizens to remain calm and avoid attempting gymnastic maneuvers, as the increased gravity fluctuations are causing continuous low-orbit trajectories. Emergency inflatable landing zones are currently being deployed. Stay with us for live updates on the bouncing."
+      "content": "\"Breaking news: Local authorities are baffled as the town clock tower began melting this afternoon, flowing like molasses onto Main Street. Police have cordoned off the area, warning citizens to avoid the sticky temporal residue. Mayor Higgins insists the district is still running on time, despite the apparent liquefaction of the afternoon hours. Experts recommend citizens remain calm and simply check their wrists.\""
     },
     "3": {
       "id": "3",
       "name": "俳句チャンネル",
       "lang": "ja",
-      "content": "(深呼吸を一つして、静かに、存在しない風の音を聞くように詠み上げます)\n\n**一、**\n**終わらない夜の　深みかな**\n\n\n(Owaranai yoru no / fukami kana)\n\n\n**二、**\n**届かぬ声の　形を描く**\n\n\n(Todokanu koe no / katachi o egaku)\n\n\n**三、**\n**消えた昨日の　重さだけが**\n\n\n(Kieta kinō no / omosa dake ga)"
+      "content": "存在しないものの、淡い輪郭を感じてください。\n\n**一**\n\n**ぬける影　壁の向こうの　緑青**\n( nukeru kage / kabe no mukō no / rokushō )\n (壁の向こう側にあるはずもない、錆びた緑青の色)\n\n**二**\n\n**記憶の　底に沈める　透明夜**\n( kioku no / soko ni shizumeru / tōmei ya )\n (一度も見たことのない、透明な夜)\n\n**三**\n\n**捕まえじ　零れ落ちたる　無の音**\n( tsukamaeji / koboreochitaru / mu no oto )\n (掴めずに零れ落ちた、無の音)"
     },
     "4": {
       "id": "4",
       "name": "Philosophie",
       "lang": "fr",
-      "content": "Nous voilà, suspendus dans ce silence de minuit, face à l’énigme. La vie, ce long murmure inutile. Nous cherchons un sens là où il n'y a que le hasard et le silence. Comme Sisyphe, nous hissons nos rochers chaque jour, avec l'espoir fou d'une signification qui n'existe pas.\n\nPourtant, dans cette absurde répétition, il y a une étrange douceur. Il faut imaginer l'homme heureux, simplement parce qu'il est là, vivant."
+      "content": "Nous sommes des naufragés sur un rocher perdu, cherchant désespérément un sens là où il n’y a que le silence. Les étoiles brillent sans nous voir, et le temps use nos espoirs comme la mer ronge les falaises. Peut-être que la seule grandeur de l’homme est de porter, sans broncher, ce fardeau inutile, dans la beauté douce et terrifiante du néant."
     },
     "5": {
       "id": "5",
       "name": "Werbung",
       "lang": "de",
-      "content": "**Achtung, Zeitgenossen!** Genug davon, dass die Nacht zu kurz ist? Probieren Sie jetzt den neuen **Supernova-Schlaf**! In nur 5 Sekunden bekommen Sie 48 Stunden Erholung! Koffein ist Vergangenheit, Sie werden reine Energie! Wir garantieren: Sie wachen auf mit dem Wissen, wie man Atome verspeist! Warnung: Nebenwirkungen sind spontanes Levitieren und unkontrolliertes Wachsen von Federn. Bestellen Sie noch heute im Lichtjahr-Shop!"
+      "content": "Hören Sie auf zu zählen! Kauft jetzt die **Zahnpasta der Vergesslichkeit**! Einmal geputzt, schwupps – sind auch die peinlichsten Erinnerungen an Ihren Weihnachtsflipper von 2004 weg! Leuchtend weiße Zähne und ein komplett leeres Gehirn in nur zwei Minuten! \n\nDer Automatische-Gute-Laune-Killer ist inklusive! Endlich Schluss mit Trauer, lachen Sie einfach mehr, weil Sie nicht mehr wissen, warum! **Zahnpasta der Vergesslichkeit** – Putzen Sie sich frei!"
     },
     "6": {
       "id": "6",
       "name": "Recetas",
       "lang": "es",
-      "content": "¡Bienvenidos a \"El Sabor del Recuerdo\"! Hoy vamos a preparar el plato más difícil: la aceptación.\n\nEncendemos el fuego a baja llama y vertimos una cucharada generosa de nostalgia. Debe reducirse lentamente hasta que el aroma nos duerma. Agregamos dos gotas de silencio; el secreto es que no rompan la tensión. Condimentamos con una pizca de miedo al futuro.\n\nDejamos que hierna a fuego lento. El resultado no es un plato para comer, sino para sentir. ¡Es una obra maestra de angustia! ¡Bon appétit!"
+      "content": "**\"Bienvenidos, cocinillas. Hoy preparamos el Plato Imposible. Enciendan el fuego a llama baja.\"**\n\nPrimero, reducimos una taza de **nostalgia** hasta que espese y desprenda un aroma a octubre. Cuidado: si se quema, el amargor es eterno. Añadimos, con un movimiento de muñeca, dos gotas de **silencio absoluto**. Es vital que no salpique.\n\nLa magia ocurre al integrar una pizca de **memoria selectiva**. Debe emulsionar a fuerza de susurros. Servimos al plato, sin adornos, sobre un manteles de tiempo.\n\nEl resultado es un sabor que ya no recordaremos, pero que nos cambia por dentro. ¡Bon appétit!"
     },
     "7": {
       "id": "7",
       "name": "Поэзия",
       "lang": "ru",
-      "content": "(Голос низкий, бархатный, с легкой хрипотцой. Эфир гудит тишиной.)\n\n\"Час ночи. Вокруг — безмолвие.\nПустота глядит в зеркало,\nНо отражения не находит.\nСловно память о том,\nЧто не было.\nЛистает страницы пустой книги.\nНичего не происходит.\nИ это — единственное, что вечно.\nСпокойной ночи.\""
+      "content": "*(В камере медленно гаснет свет. Горит только лампа на вашем столике. За окном — бесконечная шумная ночь. Вы медленно поворачиваетесь к объективу, голос звучит приглушенно, с бархатной хрипотцой).*\n\n«В вазе для фруктов — пустота.\nТишина кричит в молчании.\nВчера я видел сон о ней.\nВ нём не было ни начала, ни конца.\nНи вас.\nНи меня.\nТолько ветер...\nИ ничего.\nБольше ничего...»\n\n*(Вы смотрите прямо в камеру, медленно моргаете, и кадр плавно темнеет).*"
     },
     "8": {
       "id": "8",
       "name": "حكايات",
       "lang": "ar",
-      "content": "\"كانت هناك سحابة نَسِيَت أن تمطر، فبقيت معلقة في الفضاء الداكن كحلم لم يكتمل. راقتِها الوحشة، فلم تسقط قطرةً واحدةً. مرت أحقاب، وجفت الأرض عطشاً، بينما ظلت هي هناك.. لم يَسُقها المطر، ولم يتبخر أثرها. مجرد فضاءِ رطب، لم يلمس الأرض أبداً.\""
+      "content": "في زمنٍ لم يشرق فيه قمر، استيقظتُ لأصنع كوباً من القهوة الباردة... ولم تبرد قط.\nتلك الفراشة التي لم تولد بعد، خطفتُ أنفاسها، وعقدتُ قرانا في كنيسةٍ سقطت من الذاكرة قبل أن تُبنى.\nأنتِ.. لم تكوني هناك، وما كان لنا أن نلتقي، لكن أرواحنا ما زالت ترقصُ في ذاك الصمت المطلق."
     },
     "9": {
       "id": "9",
       "name": "심야 명상",
       "lang": "ko",
-      "content": "\"별들은 켜지고, 당신은 흩어진다. 붕어빵 속 팥이 누구인지, 아무도 묻지 않으니.\""
+      "content": "\"우리는 별똥별의 착각일 뿐이야. 잿빛 공허 속에서, 너의 안경을 닦아주며... 영원히 잠들게.\""
     },
     "0": {
       "id": "0",
       "name": "▒ STATIC ▒",
       "lang": "none",
-      "content": "⍙⌬Ⓧ ⧇▧ αηοя disconnected ⊓ 0⥝... 💿"
+      "content": "¢¶‽زضشκ4-] ж∆;≈ノ〄… Null… 8∆"
     }
   }
 }
